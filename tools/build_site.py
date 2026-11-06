@@ -21,9 +21,9 @@ IG = 'https://instagram.com/accha.daily'
 e = html.escape
 
 try:
-    from PIL import Image, ImageFilter
+    from PIL import Image, ImageFilter, ImageDraw, ImageFont
 except ImportError:  # still builds, just without resized images
-    Image = None
+    Image = ImageFont = None
 
 days = sorted((json.load(open(p, encoding='utf-8')) for p in glob.glob('data/*.json')), key=lambda d: d['date'], reverse=True)
 
@@ -85,6 +85,136 @@ def pic(d, s, sizes, eager=False):
         return (f'<div class="im contain"><div class="bg" style="background-image:url({o["w320"]})"></div>'
                 f'<img src="{o["w720"]}" srcset="{srcset}" sizes="{sizes}" alt="{alt}" {load} decoding="async"></div>')
     return f'<div class="im"><img src="{o["w720"]}" srcset="{srcset}" sizes="{sizes}" alt="{alt}" {load} decoding="async"></div>'
+
+
+# ---------- branded share cards (link previews on WhatsApp / Instagram / X) ----------
+_FONTS = {}
+
+
+def _font(w, size, ext=False):
+    k = (w, size, ext)
+    if k not in _FONTS:
+        _FONTS[k] = ImageFont.truetype(f'tools/fonts/inter-{"latin-ext" if ext else "latin"}-{w}-normal.woff2', size)
+    return _FONTS[k]
+
+
+def _runs(text, w, size):
+    """Split text into (segment, font) runs, falling back to latin-ext for chars like ₹."""
+    base, ext = _font(w, size), _font(w, size, True)
+    out = []
+    for ch in text:
+        f = base if (ch == ' ' or base.getmask(ch).getbbox() or ord(ch) < 0x2000) and ord(ch) not in (0x20B9,) else ext
+        if out and out[-1][1] is f:
+            out[-1][0] += ch
+        else:
+            out.append([ch, f])
+    return out
+
+
+def _len(text, w, size):
+    return sum(f.getlength(t) for t, f in _runs(text, w, size))
+
+
+def _draw(dr, x, y, text, w, size, fill):
+    for t, f in _runs(text, w, size):
+        dr.text((x, y), t, font=f, fill=fill)
+        x += f.getlength(t)
+
+
+def _wrap(text, w, size, maxw):
+    lines, cur = [], ''
+    for word in text.split():
+        t = (cur + ' ' + word).strip()
+        if _len(t, w, size) <= maxw:
+            cur = t
+        else:
+            lines.append(cur)
+            cur = word
+    lines.append(cur)
+    return lines
+
+
+def _hex(c):
+    c = c.lstrip('#')
+    return tuple(int(c[i:i + 2], 16) for i in (0, 2, 4))
+
+
+def card(d, s=None):
+    """1200x630 JPEG: photo + dark gradient + accha? logo + tag + headline. s=None -> edition card."""
+    if Image is None or ImageFont is None:
+        return None
+    S = d['stories']
+    src_story = s or S[0]
+    name = f'{s["slug"]}-card.jpg' if s else 'edition-card.jpg'
+    out = f'assets/{d["date"]}/w/{name}'
+    dj = f'data/{d["date"]}.json'
+    if os.path.exists(out) and os.path.getmtime(out) >= max(os.path.getmtime(dj), os.path.getmtime(__file__)):
+        return f'/{out}'
+    os.makedirs(os.path.dirname(out), exist_ok=True)
+    W, H = 1200, 630
+    img_path = f'assets/{d["date"]}/{src_story.get("img")}' if src_story.get('img') else None
+    if img_path and os.path.exists(img_path):
+        im = Image.open(img_path).convert('RGB')
+        sc = max(W / im.width, H / im.height)
+        im = im.resize((math.ceil(im.width * sc), math.ceil(im.height * sc)), Image.LANCZOS)
+        im = im.crop(((im.width - W) // 2, (im.height - H) // 2, (im.width - W) // 2 + W, (im.height - H) // 2 + H))
+    else:
+        im = Image.new('RGB', (W, H), (15, 17, 21))
+    # gradient: strong at left/bottom so text is readable
+    g = Image.new('L', (W, H))
+    gp = g.load()
+    for yy in range(H):
+        for xx in range(0, W, 4):
+            a = max(0.55 * (1 - xx / W) + 0.35, 0.25 + 0.7 * (yy / H) ** 1.6)
+            v = int(min(1, a) * 235)
+            for k in range(4):
+                if xx + k < W:
+                    gp[xx + k, yy] = v
+    im = Image.composite(Image.new('RGB', (W, H), (8, 9, 12)), im, g)
+    dr = ImageDraw.Draw(im)
+    X = 64
+    # logo
+    _draw(dr, X, 50, 'accha', 900, 46, (255, 255, 255))
+    lx = X + _len('accha', 900, 46)
+    _draw(dr, lx, 50, '?', 900, 46, (242, 183, 5))
+    _draw(dr, lx + _len('? ', 900, 46), 56, 'daily', 600, 38, (170, 175, 185))
+    # headline
+    if s:
+        kick = s['tag'].upper()
+        head = s['head']
+        foot = f'{d["date_label"]} · Read the full story'
+    else:
+        kick = f'{d["day"].upper()} · {len(S)} STORIES'
+        head = f"Today's {len(S)} biggest stories."
+        foot = 'Top: ' + S[0]['head']
+    size = 76
+    while size > 44:
+        lines = _wrap(head, 900, size, W - 2 * X - 40)
+        if len(lines) <= 3:
+            break
+        size -= 4
+    lines = lines[:3]
+    lh = int(size * 1.08)
+    y = H - 70 - 34 - 26 - lh * len(lines) - 60
+    # tag pill
+    col = _hex((s or S[0])['color']) if s else (242, 183, 5)
+    if sum(col) < 120:
+        col = (90, 95, 105)
+    pw = _len(kick, 800, 22) + 40
+    dr.rounded_rectangle((X, y, X + pw, y + 42), radius=21, fill=col)
+    _draw(dr, X + 20, y + 8, kick, 800, 22, (15, 17, 21) if not s or sum(col) > 500 else (255, 255, 255))
+    y += 62
+    for i, ln in enumerate(lines):
+        _draw(dr, X, y + i * lh, ln, 900, size, (255, 255, 255))
+    y += lh * len(lines) + 22
+    f = foot if _len(foot, 600, 26) < W - 2 * X else foot[:int(len(foot) * (W - 2 * X) / _len(foot, 600, 26)) - 2].rstrip() + '…'
+    _draw(dr, X, y, f, 600, 26, (200, 204, 212))
+    # yellow bar + url
+    dr.rectangle((0, H - 10, W, H), fill=(242, 183, 5))
+    u = 'acchadaily.github.io'
+    _draw(dr, W - X - _len(u, 800, 22), 58, u, 800, 22, (200, 204, 212))
+    im.save(out, 'JPEG', quality=84, optimize=True, progressive=True)
+    return f'/{out}'
 
 
 # ---------- helpers ----------
@@ -232,7 +362,7 @@ def edition(d, home):
         extra = f'\n<script>window.SLUGS={json.dumps(slugs)}</script>'
     title = "accha? daily — Today's biggest stories" if home else f"accha? daily — {d['day']}, {d['date_label']}"
     desc = f"{len(S)} stories for {d['date_label']}: " + ' · '.join(s['head'] for s in S[:3]) + ' — and more, explained simply.'
-    return shell(title, desc, '/' if home else url(d), o and o['og'], body, extra=extra, active='today' if home else '')
+    return shell(title, desc, '/' if home else url(d), card(d) or (o and o['og']), body, extra=extra, active='today' if home else '')
 
 
 # ---------- 60-second swipe mode ----------
@@ -252,7 +382,7 @@ def brief_page(d):
     body = f'''<div class="bf-wrap" id="bf"><div class="bf-top"><a href="{url(d)}" aria-label="Close">✕</a><div class="bf-bar"><i id="bfp"></i></div><span id="bfn">1/{len(S)}</span></div>{cards}</div>
 <div class="bf-hint" id="bfh">Swipe up ↑</div>'''
     o = opt(d['date'], S[0].get('img', ''))
-    html_ = shell(f"Today in 60 seconds — accha? daily, {d['date_label']}", f"All {len(S)} of today's stories, one swipe at a time.", url(d) + '60/', o and o['og'], body)
+    html_ = shell(f"Today in 60 seconds — accha? daily, {d['date_label']}", f"All {len(S)} of today's stories, one swipe at a time.", url(d) + '60/', card(d) or (o and o['og']), body)
     return html_.replace('<body>', '<body class="bfmode">', 1)
 
 
@@ -292,7 +422,7 @@ def story(d, i):
 <div class="cta"><div><h3>accha<b>?</b> Now you know.</h3><p>Get stories like this every morning.</p></div><a class="btn" href="{IG}" target="_blank" rel="noopener">Follow @accha.daily</a></div>
 </div>'''
     extra = f'\n<meta property="article:published_time" content="{iso(d)}"><meta property="article:section" content="{e(s["tag"])}">\n<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>'
-    return shell(f"{s['head']} — accha? daily", s['dek'], url(d, s), o and o['og'], body, kind='article', extra=extra, bar=True)
+    return shell(f"{s['head']} — accha? daily", s['dek'], url(d, s), card(d, s) or (o and o['og']), body, kind='article', extra=extra, bar=True)
 
 
 def write(path, text):
