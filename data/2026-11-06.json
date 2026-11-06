@@ -1,0 +1,284 @@
+{
+ "date": "2026-11-06",
+ "day": "Friday",
+ "date_label": "6 November 2026",
+ "note": "Happy Dhanteras 🪔",
+ "stories": [
+  {
+   "slug": "blinkit-ambulance",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "blinkit.jpg",
+   "credit": "Blinkit / via Telangana Today",
+   "head": "Blinkit Ambulance will now charge ₹2,500 for non-emergency trips",
+   "dek": "Emergency rides stay free. Routine trips like check-ups and hospital-to-home transfers will now be paid.",
+   "stat": [
+    "₹0",
+    "charged for emergency rides — that doesn't change"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Blinkit, the quick-commerce app owned by Eternal (formerly Zomato), runs its own ambulance service in a few cities. Until now, every ride was free.",
+      "On Thursday, Deepinder Goyal, Eternal's vice-chairman, announced that non-emergency trips will now cost ₹2,500 each. That covers things like routine check-ups, regular hospital visits and hospital-to-home transfers. The amount is collected after the trip and is roughly what private ambulances charge.",
+      "Emergency cases remain completely free."
+     ]
+    },
+    {
+     "title": "Why they did it",
+     "paras": [
+      "According to Goyal, the service has done about 42,000 trips in two years, around 20,000 of them emergencies — and not one has been charged.",
+      "The problem: because rides were free, more and more people booked them for routine trips. Every routine booking takes an ambulance away from someone who might be having a heart attack or a stroke. The fee is meant to discourage that, so ambulances stay available for real emergencies.",
+      "The money collected goes to the Eternal Foundation, which runs the ambulances, to help expand the service."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "It's a rare case of a startup adding a price to make a free service work better, not to make money. Many people on social media backed the move, saying a free service only works if people don't misuse it."
+     ]
+    }
+   ],
+   "facts": [
+    "₹2,500 per non-emergency trip",
+    "~42,000 trips in two years",
+    "~20,000 emergency trips, all free"
+   ],
+   "sources": [
+    {
+     "name": "Telangana Today",
+     "url": "https://telanganatoday.com/deepinder-goyal-announces-rs-2500-charge-for-blinkit-non-emergency-ambulance-services"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/blinkit-ambulance-to-charge-rs-2500-for-non-emergency-cases"
+    },
+    {
+     "name": "Siasat",
+     "url": "https://www.siasat.com/blinkit-to-start-charging-rs-2500-for-non-emergency-ambulance-3570376/"
+    }
+   ]
+  },
+  {
+   "slug": "deepinder-goyal-temple",
+   "tag": "Founders",
+   "color": "#0E9F5B",
+   "img": "temple.jpg",
+   "credit": "Temple / via Siasat",
+   "contain": true,
+   "head": "Deepinder Goyal hits back at doctors over his ‘Temple’ wearable",
+   "dek": "Doctors called the ₹85,000 brain-tracking gadget a scam. Goyal says the science will prove them wrong.",
+   "stat": [
+    "$20M",
+    "of his own money put into Temple, Goyal says"
+   ],
+   "sections": [
+    {
+     "title": "What is Temple?",
+     "paras": [
+      "Temple is a small wearable that sits near the temple on the side of your head. It comes from Deepinder Goyal, the founder of Zomato, who stepped back from running Eternal to focus on it. It is priced at ₹85,000.",
+      "Goyal describes it as a fitness and wellness tracker — not a medical device."
+     ]
+    },
+    {
+     "title": "What the doctors are saying",
+     "paras": [
+      "Several doctors on X have questioned the product. Their main argument: the device sits over the superficial temporal artery, which carries blood to the face and scalp — so it can't really be measuring blood flow to the brain, as its marketing suggests.",
+      "Some, including the well-known liver specialist who posts as ‘TheLiverDoc’, went further and called it a scam, saying there is no solid evidence behind its claims for such a high price."
+     ]
+    },
+    {
+     "title": "How Goyal responded",
+     "paras": [
+      "Goyal rejected the scam claims on Thursday. He said that if the product were a scam, people would find out very quickly, and that its most important features haven't even been made public yet.",
+      "He says he has put about $20 million of his own money into the venture, and points to a 14-day, no-questions-asked return policy for anyone who isn't happy."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "It's a big test for one of India's best-known founders as he moves from food delivery into ‘deep tech’ health gadgets — a space where doctors and regulators expect hard scientific proof, not just good marketing."
+     ]
+    }
+   ],
+   "facts": [
+    "Price: ₹85,000",
+    "Goyal's own investment: ~$20 million",
+    "14-day no-questions return"
+   ],
+   "sources": [
+    {
+     "name": "Siasat",
+     "url": "https://www.siasat.com/not-medical-device-deepinder-goyal-on-chatter-around-temple-3570401/"
+    },
+    {
+     "name": "Digit",
+     "url": "https://www.digit.in/features/wearable-devices/deepinder-goyal-backs-temples-science-but-doctors-arent-convinced-what-is-behind-the-controversy.html"
+    }
+   ]
+  },
+  {
+   "slug": "openai-ipo-2027",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "openai.jpg",
+   "credit": "Jernej Furman / Wikimedia, CC BY 2.0",
+   "head": "OpenAI could go public in 2027",
+   "dek": "The ChatGPT maker's president says the company could be ready for a stock market listing next year.",
+   "stat": [
+    "+70%",
+    "growth in annualised revenue last quarter"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Speaking at a Wall Street Journal tech conference, OpenAI co-founder and president Greg Brockman was asked if the company could be ready for an IPO in 2027. His answer: “I think so. Yes.”",
+      "He added that OpenAI will list when the timing feels right, and that he feels very good about the business."
+     ]
+    },
+    {
+     "title": "The honest part",
+     "paras": [
+      "Brockman admitted the first half of 2026 was “pretty rough” for OpenAI's business with companies. He also said OpenAI “wasn't even in the conversation” in AI coding agents — a space where rival Anthropic's Claude Code has been winning customers.",
+      "Things turned around in the third quarter: OpenAI's annualised revenue grew about 70% compared with the previous quarter, mainly because revenue from businesses doubled. Enterprise customers now bring in most of OpenAI's money."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "An OpenAI IPO would be one of the biggest stock market listings ever, and it would let ordinary investors own a piece of the company behind ChatGPT for the first time. It also signals that the AI race is shifting from consumer chatbots to selling AI to businesses."
+     ]
+    }
+   ],
+   "facts": [
+    "Possible IPO: 2027",
+    "Q3 annualised revenue: +70% vs Q2",
+    "Enterprise revenue: doubled"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027"
+    }
+   ]
+  },
+  {
+   "slug": "pvr-juice-counter-viral",
+   "tag": "Viral",
+   "color": "#0891B2",
+   "img": "pvr.jpg",
+   "credit": "Raghavan2010 / Wikimedia, CC BY-SA 4.0",
+   "head": "A viral video got a PVR juice counter shut in Bengaluru",
+   "dek": "A moviegoer alleged that used cups were being reused. Food safety officials inspected — and shut the counter.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "A customer at the PVR INOX multiplex in Forum Mall, South Bengaluru, posted a video on Instagram showing a stack of used disposable cups. He alleged that staff were reusing cups that customers had already drunk from.",
+      "The video spread quickly. On its own, a video can't prove the allegation — but it was enough to get officials to act."
+     ]
+    },
+    {
+     "title": "What the authorities did",
+     "paras": [
+      "Karnataka food safety officers inspected the outlet. The state said they found violations of food safety rules, issued a notice, and shut the juice counter. The exact violations haven't been made public yet."
+     ]
+    },
+    {
+     "title": "What the companies said",
+     "paras": [
+      "Forum South Bengaluru apologised to the customer and said the PVR team was investigating the complaint and would take action."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "It shows how fast one customer's video can turn into government action against a big brand. For brands, the lesson is simple: in 2026, every customer is a reporter."
+     ]
+    }
+   ],
+   "facts": [
+    "Where: Forum Mall, South Bengaluru",
+    "Action: notice issued, counter shut",
+    "Status: PVR investigating"
+   ],
+   "sources": [
+    {
+     "name": "Sunday Guardian",
+     "url": "https://sundayguardianlive.com/trending/watch-viral-video-customer-raises-alarm-over-these-cups-at-pvr-inox-government-shuts-down-juice-counter-after-viral-controversy-karnataka-officials-shut-pvr-inox-juice-counter-forum-mall-318151/"
+    }
+   ]
+  },
+  {
+   "slug": "dhanteras-1-lakh-crore",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "img": "gold.jpg",
+   "credit": "Syed Sajidul Islam / Wikimedia, CC BY-SA 4.0",
+   "head": "India set for a ₹1 lakh crore Dhanteras",
+   "dek": "Traders expect record shopping today — led by gold and silver, even though gold is about 20% costlier than last year.",
+   "stat": [
+    "₹1.42L",
+    "price of 24-carat gold per 10 grams"
+   ],
+   "sections": [
+    {
+     "title": "What's expected",
+     "paras": [
+      "The Confederation of All India Traders (CAIT) estimates that Indians will spend more than ₹1 lakh crore on Dhanteras today, the day traditionally seen as lucky for buying gold, silver, utensils and new things for the home.",
+      "Gold and silver alone are expected to bring in over ₹60,000 crore."
+     ]
+    },
+    {
+     "title": "The price problem",
+     "paras": [
+      "24-carat gold is around ₹1,41,840 per 10 grams — roughly 20% more than a year ago. Jewellers say many buyers are switching to lighter 14- and 18-carat pieces so they can still buy something without spending too much."
+     ]
+    },
+    {
+     "title": "The bigger picture",
+     "paras": [
+      "CAIT expects total festive-season trade, from Navratri to Diwali, to cross ₹7 lakh crore — 15–18% more than last year. That's a strong sign that people are still spending, even with higher prices."
+     ]
+    },
+    {
+     "title": "What it means for you",
+     "paras": [
+      "If you're buying gold today, compare making charges across jewellers and always check the BIS hallmark. Lighter 18-carat designs are a popular way to keep the tradition without stretching the budget."
+     ]
+    }
+   ],
+   "facts": [
+    "Dhanteras trade: ₹1 lakh crore+",
+    "Gold & silver: ₹60,000 crore+",
+    "Festive season: ₹7 lakh crore+"
+   ],
+   "sources": [
+    {
+     "name": "Dainik Jagran English (CAIT estimate)",
+     "url": "https://english.dainikjagranmpcg.com/business/dhanteras-shopping-frenzy-india-eyes-%E2%82%B91-lakh-crore-business-as/article-43091"
+    }
+   ]
+  }
+ ],
+ "also": [
+  {
+   "title": "Wall Street loses $2.5 trillion in a day",
+   "text": "The Nasdaq fell 5.5% — its worst day since April 2025 — and chip stocks dropped 12.3%, as investors worried the new US Congress could slow AI data-center building.",
+   "url": "https://www.ksl.com/article/51643962/massive-tech-sell-off-wipes-25-trillion-from-the-stock-market"
+  },
+  {
+   "title": "Tankers catch fire in the Strait of Hormuz",
+   "text": "Iran says at least five tankers and a tugboat caught fire, several after hitting mines. Brent crude crossed $100 a barrel.",
+   "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack"
+  },
+  {
+   "title": "Airtel's profit jumps 24%",
+   "text": "Bharti Airtel's quarterly net profit rose to ₹10,710 crore as average revenue per user climbed to ₹271.",
+   "url": "https://indianopinion.org/today-in-india-6-november-2026/"
+  }
+ ]
+}

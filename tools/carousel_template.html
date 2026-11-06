@@ -1,0 +1,76 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:IN;font-weight:500;src:url(node_modules/@fontsource/inter/files/inter-latin-500-normal.woff2)}
+@font-face{font-family:IN;font-weight:600;src:url(node_modules/@fontsource/inter/files/inter-latin-600-normal.woff2)}
+@font-face{font-family:IN;font-weight:700;src:url(node_modules/@fontsource/inter/files/inter-latin-700-normal.woff2)}
+@font-face{font-family:IN;font-weight:800;src:url(node_modules/@fontsource/inter/files/inter-latin-800-normal.woff2)}
+@font-face{font-family:IN;font-weight:900;src:url(node_modules/@fontsource/inter/files/inter-latin-900-normal.woff2)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#888}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#FFFFFF;color:#0F1115;font-family:IN;margin-bottom:20px}
+.in{position:absolute;left:84px;right:84px;top:76px;bottom:70px;display:flex;flex-direction:column}
+.top{display:flex;justify-content:space-between;align-items:center}
+.logo{font:900 38px IN;letter-spacing:-1.5px}.logo b{color:#F2B705}
+.date{font:600 24px IN;color:#8B8F98;letter-spacing:.5px}
+.tag{display:inline-flex;align-items:center;gap:12px;font:700 22px IN;letter-spacing:2.5px;text-transform:uppercase;padding:10px 20px;border-radius:999px}
+.head{font:800 100px IN;letter-spacing:-4px;line-height:1.0}
+.sub{font:500 40px IN;color:#5B606B;line-height:1.35;letter-spacing:-.3px}
+.stat{display:flex;align-items:baseline;gap:22px;padding:26px 32px;border-radius:24px;background:#F5F5F2}
+.stat .v{font:900 120px IN;letter-spacing:-5px;line-height:1;white-space:nowrap}
+.stat .l{font:600 30px IN;color:#5B606B;line-height:1.3}
+.wim{font:800 22px IN;letter-spacing:3px;text-transform:uppercase;color:#8B8F98}
+.pt{display:flex;gap:22px;font:500 38px IN;line-height:1.35;color:#23262D;padding:14px 0}
+.pt i{flex:none;width:12px;height:12px;border-radius:50%;margin-top:18px}
+.foot{margin-top:auto;display:flex;justify-content:space-between;align-items:center;font:600 22px IN;color:#8B8F98}
+.dots{display:flex;gap:8px}.dots span{width:10px;height:10px;border-radius:50%;background:#D9DBE0}
+.row{display:flex;gap:26px;align-items:flex-start;padding:24px 0;border-bottom:2px solid #EEEFF1}
+.row .n{font:900 34px IN;color:#C4C7CE;width:44px;flex:none;padding-top:4px}
+.row .t{font:700 38px IN;letter-spacing:-1px;line-height:1.2}
+.row .c{font:700 18px IN;letter-spacing:2.5px;text-transform:uppercase;margin-bottom:8px}
+</style></head><body><div id="out"></div>
+<script>
+const D = /*DATA*/{
+ day: "Friday", date: "6 Nov 2026", note: "Happy Dhanteras 🪔",
+ stories: [
+  {tag:"Startups", img:"img/blinkit_amb.jpg", credit:"Blinkit / via Telangana Today", pos:"center 60%", short:"Blinkit ambulance won't be free", color:"#0E9F5B", head:"Blinkit Ambulance will now charge ₹2,500", sub:"Only for non-emergency trips like check-ups and hospital-to-home rides.", stat:["₹0","still charged for emergencies","#0E9F5B"],
+   points:["Goyal: free routine rides were blocking ambulances from real emergencies"], source:"Telangana Today, YourStory"},
+  {tag:"Founders", img:"img/temple.jpg", credit:"Temple / via Siasat", fit:"contain", short:"Deepinder Goyal vs doctors", color:"#0E9F5B", head:"Deepinder Goyal hits back at doctors over Temple", sub:"Doctors called his ₹85,000 wearable a scam. He says the science will prove them wrong.", stat:["$20M","of his own money put into Temple","#0E9F5B"],
+   points:["He says it's a wellness device, with a 14-day no-questions return"], source:"Siasat, Digit"},
+  {tag:"AI & Tech", img:"img/openai.jpg", credit:"Jernej Furman / Wikimedia, CC BY 2.0", pos:"center", short:"OpenAI eyes a 2027 IPO", color:"#7C3AED", head:"OpenAI could go public in 2027", sub:"President Greg Brockman said the ChatGPT maker could be IPO-ready next year.", stat:["+70%","growth in annualised revenue last quarter","#7C3AED"],
+   points:["Enterprise revenue doubled and is now its biggest business"], source:"TechCrunch"},
+  {tag:"Viral", img:"img/pvr.jpg", credit:"Raghavan2010 / Wikimedia, CC BY-SA 4.0", pos:"center 65%", short:"PVR cup video goes viral", color:"#0891B2", head:"A viral video got a PVR juice counter shut", sub:"A Bengaluru viewer alleged used cups were being reused at a PVR INOX counter.", stat:null,
+   points:["Karnataka food officials found violations and shut the counter","The mall apologised; PVR says it is investigating"], source:"Sunday Guardian"},
+  {tag:"Your Wallet", img:"img/gold2.jpg", credit:"Syed Sajidul Islam / Wikimedia, CC BY-SA 4.0", pos:"center 60%", short:"Dhanteras: ₹1 lakh crore", color:"#D97706", head:"India's ₹1 lakh crore Dhanteras", sub:"Traders expect record shopping today, led by gold and silver.", stat:["₹1.42L","gold per 10g, ~20% costlier than last year","#D97706"],
+   points:["₹60,000 crore expected in gold and silver sales alone"], source:"CAIT via Dainik Jagran"}
+ ],
+ quick: ["Wall Street loses $2.5 trillion as AI and chip stocks crash","Tankers catch fire in the Strait of Hormuz; oil crosses $100","Airtel's quarterly profit jumps 24% to ₹10,710 crore"]
+}/*END*/;
+const N=D.stories.length+2;
+const dots=k=>`<div class="dots">${[...Array(N)].map((_,i)=>`<span style="${i===k?'background:#0F1115;width:28px;border-radius:5px':''}"></span>`).join('')}</div>`;
+const hdr=()=>`<div class="top"><div class="logo">accha<b>?</b> <span style="font-weight:600;color:#8B8F98;letter-spacing:-.5px">daily</span></div><div class="date">${D.day}, ${D.date}</div></div>`;
+let h='';
+h+=`<div class="s"><div class="in">${hdr()}
+ <div style="flex:1;display:flex;flex-direction:column;justify-content:center">
+  <div style="font:800 30px IN;letter-spacing:5px;color:#8B8F98;text-transform:uppercase">${D.day} · ${D.date}</div>
+  <div style="font:900 168px IN;letter-spacing:-8px;line-height:.92;margin-top:26px">Today's<br>${D.stories.length} biggest<br>stories<span style="color:#F2B705">.</span></div>
+  <div style="margin-top:56px;border-top:3px solid #0F1115">${D.stories.map((s,i)=>`<div style="display:flex;align-items:center;gap:22px;padding:18px 0;border-bottom:2px solid #EEEFF1;font:700 34px IN;letter-spacing:-.8px"><span style="width:14px;height:14px;border-radius:50%;background:${s.color};flex:none"></span>${s.short}</div>`).join('')}</div>
+ </div>
+ <div class="foot"><span style="color:#0F1115;font-weight:700">Swipe →</span>${dots(0)}</div></div></div>`;
+D.stories.forEach((s,i)=>{const im=!!s.img;h+=`<div class="s"><div class="in">${hdr()}
+ ${im?`<div style="margin-top:34px;height:440px;border-radius:26px;overflow:hidden;position:relative;background:#eee">${s.fit==='contain'?`<div style="position:absolute;inset:-40px;background:url(${s.img}) center/cover;filter:blur(30px) brightness(.95)"></div><div style="position:absolute;inset:0;background:url(${s.img}) center/contain no-repeat"></div>`:`<div style="position:absolute;inset:0;background:url(${s.img}) ${s.pos||'center'}/cover"></div>`}<div style="position:absolute;right:16px;bottom:12px;font:500 15px IN;color:#fff;text-shadow:0 1px 4px rgba(0,0,0,.8)">📷 ${s.credit}</div></div>`:''}
+ <div style="flex:1;display:flex;flex-direction:column;justify-content:${im?'flex-start':'center'};padding-top:${im?34:0}px;padding-bottom:${im?0:30}px"><div><span class="tag" style="background:${s.color}18;color:${s.color}"><span style="width:12px;height:12px;border-radius:50%;background:${s.color}"></span>${s.tag}</span><span style="font:800 26px IN;color:#C4C7CE;margin-left:18px">${String(i+1).padStart(2,'0')}</span></div>
+ <div class="head" style="margin-top:${im?24:34}px;${im?'font-size:76px;letter-spacing:-3px':''}">${s.head}</div>
+ <div class="sub" style="margin-top:${im?16:24}px;${im?'font-size:34px':''}">${s.sub}</div>
+ ${s.stat?`<div class="stat" style="margin-top:${im?26:44}px;${im?'padding:18px 28px':''}"><div class="v" style="color:${s.stat[2]};${im?'font-size:80px;letter-spacing:-3px':''}">${s.stat[0]}</div><div class="l" style="${im?'font-size:26px':''}">${s.stat[1]}</div></div>`:''}
+ <div style="margin-top:${im?20:46}px">${im?'':'<div class="wim">Key points</div>'}${(im?s.points.slice(0,s.stat?1:2):s.points).map(p=>`<div class="pt" style="${im?'font-size:32px;padding:8px 0':''}"><i style="background:${s.color};${im?'margin-top:15px':''}"></i><span>${p}</span></div>`).join('')}</div>
+ </div><div class="foot"><span>Source: ${s.source}</span>${dots(i+1)}</div></div></div>`});
+h+=`<div class="s"><div class="in">${hdr()}
+ <div style="margin-top:80px;font:800 26px IN;letter-spacing:4px;color:#8B8F98;text-transform:uppercase">Also today</div>
+ <div style="margin-top:16px">${D.quick.map(q=>`<div class="row"><div class="n" style="color:#F2B705">•</div><div class="t" style="font-weight:600">${q}</div></div>`).join('')}</div>
+ ${D.note?`<div style="margin-top:44px;font:800 52px IN;letter-spacing:-2px">${D.note}</div>`:''}
+ <div style="margin-top:auto;margin-bottom:46px;padding:44px;border-radius:30px;background:#0F1115;color:#fff">
+  <div style="font:900 64px IN;letter-spacing:-2.5px">accha<span style="color:#F2B705">?</span> Now you know.</div>
+  <div style="font:500 32px IN;color:#B5B9C2;margin-top:12px">The day's biggest stories, every morning, in 60 seconds.</div>
+  <div style="display:inline-block;margin-top:28px;background:#F2B705;color:#0F1115;font:800 32px IN;padding:14px 34px 16px;border-radius:999px">Follow @accha.daily</div></div>
+ <div class="foot"><span>Not investment advice</span>${dots(N-1)}</div></div></div>`;
+document.getElementById('out').innerHTML=h;
+</script></body></html>
