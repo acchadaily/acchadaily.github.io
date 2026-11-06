@@ -64,13 +64,14 @@ D.stories.forEach((s,i)=>{const im=!!s.img;h+=`<div class="s"><div class="in">${
  <div style="margin-top:${im?20:46}px">${im?'':'<div class="wim">Key points</div>'}${(im?s.points.slice(0,s.stat?1:2):s.points).map(p=>`<div class="pt" style="${im?'font-size:32px;padding:8px 0':''}"><i style="background:${s.color};${im?'margin-top:15px':''}"></i><span>${p}</span></div>`).join('')}</div>
  </div><div class="foot"><span>Source: ${s.source}</span>${dots(i+1)}</div></div></div>`});
 h+=`<div class="s"><div class="in">${hdr()}
- <div style="margin-top:80px;font:800 26px IN;letter-spacing:4px;color:#8B8F98;text-transform:uppercase">Also today</div>
- <div style="margin-top:16px">${D.quick.map(q=>`<div class="row"><div class="n" style="color:#F2B705">•</div><div class="t" style="font-weight:600">${q}</div></div>`).join('')}</div>
- ${D.note?`<div style="margin-top:44px;font:800 52px IN;letter-spacing:-2px">${D.note}</div>`:''}
- <div style="margin-top:auto;margin-bottom:46px;padding:44px;border-radius:30px;background:#0F1115;color:#fff">
-  <div style="font:900 64px IN;letter-spacing:-2.5px">accha<span style="color:#F2B705">?</span> Now you know.</div>
-  <div style="font:500 32px IN;color:#B5B9C2;margin-top:12px">The day's biggest stories, every morning, in 60 seconds.</div>
-  <div style="display:inline-block;margin-top:28px;background:#F2B705;color:#0F1115;font:800 32px IN;padding:14px 34px 16px;border-radius:999px">Follow @accha.daily</div></div>
- <div class="foot"><span>Not investment advice</span>${dots(N-1)}</div></div></div>`;
+ <div style="flex:1;display:flex;flex-direction:column;justify-content:center">
+  <div style="font:800 26px IN;letter-spacing:5px;color:#8B8F98;text-transform:uppercase">Want the full story?</div>
+  <div style="font:900 132px IN;letter-spacing:-6px;line-height:.95;margin-top:26px">For more news, click the link in bio<span style="color:#F2B705">.</span></div>
+  <div style="margin-top:48px;display:inline-flex;align-self:flex-start;align-items:center;gap:16px;background:#F5F5F2;border-radius:999px;padding:18px 30px;font:700 36px IN;letter-spacing:-.5px">🔗 acchadaily.github.io</div>
+ </div>
+ <div style="display:flex;justify-content:space-between;align-items:center;padding:34px 0 40px;border-top:2px solid #EEEFF1">
+  <div style="font:900 52px IN;letter-spacing:-2px">accha<span style="color:#F2B705">?</span></div>
+  <div style="background:#0F1115;color:#fff;font:800 30px IN;padding:16px 32px 18px;border-radius:999px">Follow @accha.daily</div></div>
+ <div class="foot"><span>${D.note||'Not investment advice'}</span>${dots(N-1)}</div></div></div>`;
 document.getElementById('out').innerHTML=h;
 </script></body></html>

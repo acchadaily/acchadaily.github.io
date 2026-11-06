@@ -262,23 +262,343 @@
      "url": "https://english.dainikjagranmpcg.com/business/dhanteras-shopping-frenzy-india-eyes-%E2%82%B91-lakh-crore-business-as/article-43091"
     }
    ]
+  },
+  {
+   "slug": "ronaldo-retires-from-portugal",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "stadium.jpg",
+   "credit": "Alawaalpark stadium / Wikimedia, CC BY-SA 4.0",
+   "head": "Cristiano Ronaldo retires from international football",
+   "dek": "After 23 years and a record 146 goals, the 41-year-old is done playing for Portugal — but he isn't leaving Al-Nassr.",
+   "stat": [
+    "146",
+    "goals for Portugal, a national record"
+   ],
+   "contain": false,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Cristiano Ronaldo announced on Thursday, in a video message, that he is retiring from international football. He called it “not an easy decision”.",
+      "He leaves after 234 matches for Portugal and 146 goals — the most in the team's history. He is also the only player to score at six different World Cups."
+     ]
+    },
+    {
+     "title": "Why now",
+     "paras": [
+      "Portugal went out in the Round of 16 at the 2026 World Cup this summer, where Ronaldo scored three goals in five games. Reports say tensions with head coach Jorge Jesus had been building, and Ronaldo left the squad suddenly about five weeks ago."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "He is not retiring from football completely. Ronaldo will keep playing for Al-Nassr in Saudi Arabia, where his contract runs until June 2027. He is on 985 career goals — and chasing 1,000."
+     ]
+    }
+   ],
+   "facts": [
+    "234 matches for Portugal",
+    "146 international goals",
+    "985 career goals"
+   ],
+   "sources": [
+    {
+     "name": "Yahoo Sports",
+     "url": "https://sports.yahoo.com/articles/cristiano-ronaldo-officially-retires-international-153504686.html"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/outkick-sports/cristiano-ronaldo-retires-international-soccer-legendary-23-year-career-portugal"
+    }
+   ]
+  },
+  {
+   "slug": "wall-street-2-5-trillion-crash",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "nyse.jpg",
+   "credit": "Arild Vågen / Wikimedia, CC BY-SA 4.0",
+   "head": "Wall Street loses $2.5 trillion in a single day",
+   "dek": "The Nasdaq fell 5.5%, its worst day since April 2025, as AI and chip stocks crashed.",
+   "stat": [
+    "−12.3%",
+    "chip stocks, worst day in ~6.5 years"
+   ],
+   "contain": false,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "US stocks had a brutal Thursday. The Nasdaq fell 5.52%, the S&P 500 fell 4.36% and the Dow dropped 1,833 points. About $2.5 trillion was wiped off the Nasdaq alone.",
+      "Chipmakers were hit hardest: Nvidia fell about 9%, while AMD and Micron fell around 17%."
+     ]
+    },
+    {
+     "title": "Why it happened",
+     "paras": [
+      "After Democrats won both houses of Congress in the midterms, investors began to worry that new rules and local opposition could slow the building of AI data centers — the engine behind the AI boom. Weak results from Qualcomm added to the selling."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Indian markets opened lower on Friday too. Some analysts called it a knee-jerk reaction; others said the AI rally had become too speculative and needed to cool down."
+     ]
+    }
+   ],
+   "facts": [
+    "Nasdaq: −5.52%",
+    "S&P 500: −4.36%",
+    "Dow: −1,833 points"
+   ],
+   "sources": [
+    {
+     "name": "CNN via KSL",
+     "url": "https://www.ksl.com/article/51643962/massive-tech-sell-off-wipes-25-trillion-from-the-stock-market"
+    },
+    {
+     "name": "Stocktitan",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+    }
+   ]
+  },
+  {
+   "slug": "hormuz-tankers-on-fire",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "tanker.jpg",
+   "credit": "Jordanroderick / Wikimedia, CC0",
+   "head": "Tankers catch fire in the Strait of Hormuz",
+   "dek": "Iran says at least five tankers and a tugboat caught fire, several after hitting mines. Oil crossed $100 a barrel.",
+   "stat": [
+    "$100+",
+    "Brent crude, per barrel"
+   ],
+   "contain": false,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Iran's forces said several oil tankers caught fire in the Strait of Hormuz on Thursday, some after hitting naval mines, and a tugboat sent to help also caught fire. A UK maritime agency separately reported a tanker hit by projectiles north of Qatar."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "About a fifth of the world's oil normally passes through this narrow strait. Traffic has been heavily restricted since the war involving Iran began in February, and attacks on ships are near record levels. Qatar is mediating talks, but no ceasefire is in place."
+     ]
+    },
+    {
+     "title": "What it means for you",
+     "paras": [
+      "India imports most of its oil. If crude stays above $100, it can push up fuel prices and inflation."
+     ]
+    }
+   ],
+   "facts": [
+    "Tankers on fire: at least 5",
+    "~1/5 of world oil passes here",
+    "Brent: above $100"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack"
+    },
+    {
+     "name": "Argus",
+     "url": "https://argusenglish.in/sports/sensex-falls-nearly-300-points-nifty-slips-148-points-amid-global-market-sell-off"
+    }
+   ]
+  },
+  {
+   "slug": "us-towns-reject-ai-data-centers",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "",
+   "credit": "",
+   "head": "40 US towns vote NO to AI data centers",
+   "dek": "Voters rejected new data-center projects, angry about power bills and pollution.",
+   "stat": [
+    "~80%",
+    "of voters in Trenton, Ohio backed a ban"
+   ],
+   "contain": false,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "In this week's US local elections, voters in nearly 40 towns rejected proposed data-center projects. In Trenton, Ohio, nearly 80% voted to ban large data centers that need more than 25 megawatts of power."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "AI runs on huge data centers that use massive amounts of electricity, water and land. Growing local pushback — plus fears that the new Congress could add rules — was one of the reasons tech stocks crashed on Thursday."
+     ]
+    }
+   ],
+   "facts": [
+    "~40 towns said no",
+    "Trenton, Ohio: ~80% for a ban",
+    "Ban covers projects over 25 MW"
+   ],
+   "sources": [
+    {
+     "name": "Daily Curated News",
+     "url": "https://dailycuratednews.substack.com/p/news-headlines-november-6-2026"
+    }
+   ]
+  },
+  {
+   "slug": "airtel-profit-jumps-24",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "head": "Airtel's profit jumps 24% as users pay more",
+   "dek": "Bharti Airtel's quarterly profit rose to ₹10,710 crore, helped by higher revenue per user.",
+   "stat": [
+    "₹271",
+    "average revenue per user, up from ₹256"
+   ],
+   "contain": false,
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Airtel's consolidated net profit for the September quarter rose 24% to ₹10,710 crore. Revenue grew 16.7% to about ₹60,878 crore, and India revenue rose 9.4%."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The key number is ARPU — how much the average customer pays each month. It rose to ₹271 from ₹256 as more users moved to pricier plans. Airtel now has about 69 crore customers worldwide."
+     ]
+    }
+   ],
+   "facts": [
+    "Profit: ₹10,710 crore",
+    "Revenue: +16.7%",
+    "Customers: ~69 crore"
+   ],
+   "sources": [
+    {
+     "name": "Indian Opinion",
+     "url": "https://indianopinion.org/today-in-india-6-november-2026/"
+    }
+   ]
+  },
+  {
+   "slug": "lic-profit-rises-20",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "img": "lic.jpg",
+   "credit": "Piyush P Pujari / Wikimedia, CC BY-SA 4.0",
+   "head": "LIC's profit rises 20% to ₹12,076 crore",
+   "dek": "India's biggest insurer had a strong September quarter, though new first-year premiums dipped slightly.",
+   "stat": [
+    "+20%",
+    "rise in quarterly net profit"
+   ],
+   "contain": false,
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Life Insurance Corporation of India reported a standalone net profit of ₹12,076 crore for the quarter ended September, up 20%. Net premium income grew 16.2% to about ₹1.47 lakh crore."
+     ]
+    },
+    {
+     "title": "The catch",
+     "paras": [
+      "First-year premium — money from brand-new policies — slipped slightly to ₹10,432 crore, and LIC flagged volatility in its market-linked (ULIP) products."
+     ]
+    }
+   ],
+   "facts": [
+    "Profit: ₹12,076 crore",
+    "Net premium: ~₹1.47 lakh crore",
+    "First-year premium: ₹10,432 crore"
+   ],
+   "sources": [
+    {
+     "name": "Indian Opinion",
+     "url": "https://indianopinion.org/today-in-india-6-november-2026/"
+    }
+   ]
+  },
+  {
+   "slug": "trai-satellite-internet-licences",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "dish.jpg",
+   "credit": "Cantons-de-l'Est / Wikimedia, CC BY-SA 4.0",
+   "head": "TRAI proposes separate licences for satellite internet",
+   "dek": "The telecom regulator wants satellite players under a new set of rules — and not selling directly to customers.",
+   "stat": null,
+   "contain": false,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The Telecom Regulatory Authority of India (TRAI) on Thursday recommended a separate authorisation for satellite communication providers, along with a ‘network-as-a-service’ model.",
+      "Under the proposal, satellite companies would not be allowed to sell telecom services directly to consumers."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Satellite internet is the next big battleground in Indian telecom. These rules will shape how players like Starlink, Jio and Airtel's satellite ventures reach customers. The government still has to decide whether to accept TRAI's recommendations."
+     ]
+    }
+   ],
+   "facts": [
+    "Separate satellite authorisation",
+    "Network-as-a-service model",
+    "No direct-to-consumer sales"
+   ],
+   "sources": [
+    {
+     "name": "Indian Opinion",
+     "url": "https://indianopinion.org/today-in-india-6-november-2026/"
+    }
+   ]
+  },
+  {
+   "slug": "deepti-sharma-icc-shortlist",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "head": "Deepti Sharma in the race for ICC Player of the Month",
+   "dek": "The all-rounder was shortlisted after a match-winning show against Zimbabwe.",
+   "stat": [
+    "106*",
+    "plus a five-wicket haul vs Zimbabwe"
+   ],
+   "contain": false,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The ICC named Deepti Sharma on its shortlist for the Women's Player of the Month award for October. She scored an unbeaten 106 and took five wickets against Zimbabwe, as India swept the ODI series 3–0."
+     ]
+    }
+   ],
+   "facts": [
+    "106* with the bat",
+    "5 wickets",
+    "Series won 3–0"
+   ],
+   "sources": [
+    {
+     "name": "Indian Opinion",
+     "url": "https://indianopinion.org/today-in-india-6-november-2026/"
+    }
+   ]
   }
  ],
- "also": [
-  {
-   "title": "Wall Street loses $2.5 trillion in a day",
-   "text": "The Nasdaq fell 5.5% — its worst day since April 2025 — and chip stocks dropped 12.3%, as investors worried the new US Congress could slow AI data-center building.",
-   "url": "https://www.ksl.com/article/51643962/massive-tech-sell-off-wipes-25-trillion-from-the-stock-market"
-  },
-  {
-   "title": "Tankers catch fire in the Strait of Hormuz",
-   "text": "Iran says at least five tankers and a tugboat caught fire, several after hitting mines. Brent crude crossed $100 a barrel.",
-   "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack"
-  },
-  {
-   "title": "Airtel's profit jumps 24%",
-   "text": "Bharti Airtel's quarterly net profit rose to ₹10,710 crore as average revenue per user climbed to ₹271.",
-   "url": "https://indianopinion.org/today-in-india-6-november-2026/"
-  }
- ]
+ "also": []
 }

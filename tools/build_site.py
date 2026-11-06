@@ -22,7 +22,8 @@ def page(d, prefix, others):
   <div class="cbody"><div class="tag" style="--c:{s['color']}"><i></i>{e(s['tag'])}</div>
   <h3>{e(s['head'])}</h3><p>{e(s['dek'])}</p><span class="more">Read the full story →</span></div></a>''' if s.get('img') else f'''<a class="card" style="grid-template-columns:1fr" href="#/{s['slug']}">
   <div class="cbody"><div class="tag" style="--c:{s['color']}"><i></i>{e(s['tag'])}</div>
-  <h3>{e(s['head'])}</h3><p>{e(s['dek'])}</p><span class="more">Read the full story →</span></div></a>''' for s in d['stories'])
+  <h3>{e(s['head'])}</h3><p>{e(s['dek'])}</p><span class="more">Read the full story →</span></div></a>''' for s in d['stories'][:5])
+    more = ''.join(f'''<a class="mrow" href="#/{s['slug']}">{f'<div class="mthumb" style="background-image:url({chr(39)}{a}{s["img"]}{chr(39)})"></div>' if s.get('img') else ''}<div><div class="tag" style="--c:{s['color']}"><i></i>{e(s['tag'])}</div><h4>{e(s['head'])}</h4><p>{e(s['dek'])}</p></div></a>''' for s in d['stories'][5:])
     arts = ''
     for s in d['stories']:
         secs = ''.join(f'<h2>{e(x["title"])}</h2>' + ''.join(f'<p>{e(p)}</p>' for p in x['paras']) for x in s['sections'])
@@ -54,9 +55,10 @@ def page(d, prefix, others):
 <header><div class="wrap"><a class="logo" href="{prefix or './'}">accha<b>?</b> <span>daily</span></a><div class="date">{e(d['day'])}, {e(d['date_label'])}</div></div></header>
 <main class="wrap">
 <section id="home">
- <div class="hero-t"><div class="kick">{e(d['day'])} · {e(d['date_label'])}</div><h1>{title_line} {len(d['stories'])} biggest stories<b>.</b></h1>
- <p>Brands, startups, tech and your wallet — the day's news, explained simply.</p></div>
+ <div class="hero-t"><div class="kick">{e(d['day'])} · {e(d['date_label'])}</div><h1>{title_line} biggest stories<b>.</b></h1>
+ <p>{len(d['stories'])} stories from India and the world — brands, startups, tech, sports and your wallet, explained simply.</p></div>
  <div class="cards">{cards}</div>
+ {f'<div class="sec-t">More stories</div><div class="more-list">{more}</div>' if more else ''}
  {f'<div class="sec-t">Also today</div><ul class="also">{also}</ul>' if also else ''}
  {f'<div class="note">{e(d["note"])}</div>' if d.get('note') else ''}
  <div class="cta"><h4>accha<b>?</b> Now you know.</h4><p>The day's biggest stories, every morning, in 60 seconds.</p><a class="btn" href="https://instagram.com/accha.daily" target="_blank" rel="noopener">Follow @accha.daily</a></div>
