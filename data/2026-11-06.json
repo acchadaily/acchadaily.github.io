@@ -314,6 +314,61 @@
    ]
   },
   {
+   "slug": "us-midterms-democrats-win-congress",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "capitol.jpg",
+   "credit": "Architect of the Capitol / Wikimedia, Public domain",
+   "contain": false,
+   "head": "Democrats win both houses of the US Congress",
+   "dek": "In Tuesday's midterm elections, Democrats took control of the House and the Senate — the first time in 20 years a Republican president has lost both.",
+   "stat": [
+    "54",
+    "Senate seats won by Democrats so far (51 needed)"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Americans voted on 3 November in the midterm elections, held halfway through a president's term. All 435 seats in the House of Representatives and 35 of the 100 Senate seats were up for grabs, along with 36 governor races.",
+      "By Wednesday, the Associated Press tally showed Democrats with 228 House seats (218 is a majority) and 54 Senate seats (51 is a majority), with a few races still being counted. They flipped seats in states such as Texas, Kansas, Iowa, Michigan and South Carolina."
+     ]
+    },
+    {
+     "title": "Some firsts",
+     "paras": [
+      "Abdul El-Sayed won in Michigan and becomes the first Muslim elected to the US Senate. Keisha Lance Bottoms became the first Black woman elected governor of a US state, in Georgia, and Deb Haaland the first Native American woman governor, in New Mexico.",
+      "President Trump told Fox News the Democrats \"did a good job\"."
+     ]
+    },
+    {
+     "title": "Why it matters for India",
+     "paras": [
+      "Congress writes US laws and approves spending, so the president now needs the other party for most new laws. Analysts quoted in Indian media expect it may limit how freely tariffs can be used, while Indian IT firms are watching for any change in the H-1B visa debate. Indian markets rose sharply at Thursday's open as investors reacted."
+     ]
+    }
+   ],
+   "facts": [
+    "Democrats: 228 House seats per AP, majority is 218",
+    "Democrats: 54 Senate seats, majority is 51",
+    "Last time a Republican president lost both houses: 2006"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis"
+    },
+    {
+     "name": "India TV (market reaction)",
+     "url": "https://www.indiatvnews.com/business/news/5-november-2026-stock-market-updates-sensex-surges-1-600-points-nifty-above-24-350-post-us-midterm-election-outcome-global-market-2026-11-05-1058714"
+    }
+   ]
+  },
+  {
    "slug": "wall-street-2-5-trillion-crash",
    "tag": "Markets",
    "color": "#E0262F",
@@ -413,41 +468,266 @@
    ]
   },
   {
-   "slug": "us-towns-reject-ai-data-centers",
-   "tag": "AI & Tech",
-   "color": "#7C3AED",
+   "slug": "iran-exempts-indian-ships-hormuz",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
    "img": "",
    "credit": "",
-   "head": "40 US towns vote NO to AI data centers",
-   "dek": "Voters rejected new data-center projects, angry about power bills and pollution.",
-   "stat": [
-    "~80%",
-    "of voters in Trenton, Ohio backed a ban"
-   ],
    "contain": false,
+   "head": "Iran lets Indian ships through the Strait of Hormuz",
+   "dek": "Indian vessels are exempt from Iran's shipping restrictions in the world's most important oil route — though they still pay a fee.",
+   "stat": null,
    "sections": [
     {
      "title": "What happened",
      "paras": [
-      "In this week's US local elections, voters in nearly 40 towns rejected proposed data-center projects. In Trenton, Ohio, nearly 80% voted to ban large data centers that need more than 25 megawatts of power."
+      "A senior Iranian lawmaker, Ahmad Hayat-Moghaddam of parliament's national security committee, said on Tuesday that ships from India, China, Iraq and Qatar are exempt from Iran's restrictions in the Strait of Hormuz and can move freely.",
+      "Qatari ships pay no transit fee, he said, while Indian and Chinese vessels still have to pay charges. He linked India's exemption to keeping medicine imports into Iran flowing."
      ]
     },
     {
      "title": "Why it matters",
      "paras": [
-      "AI runs on huge data centers that use massive amounts of electricity, water and land. Growing local pushback — plus fears that the new Congress could add rules — was one of the reasons tech stocks crashed on Thursday."
+      "A big share of the world's oil and gas passes through this narrow channel, and India buys most of its crude from abroad. Any delay there pushes up freight costs and, eventually, fuel prices. The exemption comes in the same week as fresh attacks on tankers in the strait, so it gives Indian shippers some relief — but the route is still far from normal."
      ]
     }
    ],
    "facts": [
-    "~40 towns said no",
-    "Trenton, Ohio: ~80% for a ban",
-    "Ban covers projects over 25 MW"
+    "4 countries exempted: India, China, Iraq, Qatar",
+    "Indian ships still pay transit charges",
+    "Announced on 3 November 2026"
    ],
    "sources": [
     {
-     "name": "Daily Curated News",
-     "url": "https://dailycuratednews.substack.com/p/news-headlines-november-6-2026"
+     "name": "Shafaq News",
+     "url": "https://shafaq.com/en/Middle-East/Iran-exempts-Iraq-three-countries-from-Hormuz-restrictions"
+    }
+   ]
+  },
+  {
+   "slug": "delhi-air-quality-severe",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "smog.jpg",
+   "credit": "Delhi smog / via Business Standard",
+   "contain": false,
+   "head": "Delhi's air turns \"severe\" before Diwali",
+   "dek": "The capital's average AQI crossed 450 this week, and stricter GRAP-II curbs are now in force across the NCR.",
+   "stat": [
+    "451",
+    "Delhi's average AQI at 8 am on Tuesday"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Delhi's air quality index hit 451 on Tuesday morning, according to Central Pollution Control Board data reported by ANI. Areas like Rohini, Punjabi Bagh and Bawana were in the 'severe' band, and most of the city was 'very poor'.",
+      "Later in the week, readings in parts of the NCR such as Ghaziabad, Noida and Faridabad were reported above 600."
+     ]
+    },
+    {
+     "title": "What changes",
+     "paras": [
+      "The Commission for Air Quality Management has put Stage II of the Graded Response Action Plan (GRAP) in force across the NCR. That means daily mechanical sweeping and water sprinkling on busy roads, tighter checks at construction sites and vehicle checks at the borders."
+     ]
+    },
+    {
+     "title": "What it means for you",
+     "paras": [
+      "If you live in or are travelling to Delhi-NCR, an N95 mask, limiting early-morning outdoor exercise and keeping windows shut on the worst days all help. Diwali firecrackers usually make the following days worse."
+     ]
+    }
+   ],
+   "facts": [
+    "AQI 451 in Delhi on 3 Nov (CPCB)",
+    "Above 400 = \"severe\"",
+    "GRAP Stage II active across NCR"
+   ],
+   "sources": [
+    {
+     "name": "ANI via WebIndia123",
+     "url": "https://news.webindia123.com/news/Articles/India/20261103/4515058.html"
+    },
+    {
+     "name": "Indian Opinion",
+     "url": "https://indianopinion.org/today-in-india-5-november-2026/"
+    }
+   ]
+  },
+  {
+   "slug": "zipline-raises-1-5-billion",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "zipline.jpg",
+   "credit": "Roksenhorn / Wikimedia, CC BY-SA 4.0",
+   "contain": false,
+   "head": "Drone-delivery startup Zipline raises $1.5 billion",
+   "dek": "Its valuation has nearly tripled in about ten months, and Walmart is adding about 300 more drone-delivery locations.",
+   "stat": [
+    "$21.5B",
+    "Zipline's new valuation"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Zipline, which delivers medicines and parcels by drone, raised $1.5 billion at a valuation of $21.5 billion. Paradigm, WCM Investment Management and Layer Global led the round, with Uber, Tiger Global, Fidelity, JPMorgan, ARK Invest and Salesforce Ventures also joining.",
+      "It also signed a multi-year deal with Walmart covering about 300 more delivery locations."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Earlier this year Zipline was valued at $7.6 billion. Investors are now betting that drone delivery moves from pilot projects to everyday shopping. Zipline started by flying blood and medicines in Africa, and has made nearly 3 million deliveries so far."
+     ]
+    }
+   ],
+   "facts": [
+    "$1.5 billion raised",
+    "Valuation: $21.5 billion (from $7.6B earlier in 2026)",
+    "~300 new Walmart locations"
+   ],
+   "sources": [
+    {
+     "name": "TechStartups",
+     "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+    },
+    {
+     "name": "Silicon UK",
+     "url": "https://www.silicon.co.uk/e-enterprise/fund-raising/zipline-funding-round-631606"
+    }
+   ]
+  },
+  {
+   "slug": "google-17-billion-wyoming-data-center",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "gdc.jpg",
+   "credit": "Chad Davis / Wikimedia, CC BY 2.0",
+   "contain": false,
+   "head": "Google plans a $17 billion AI data center in Wyoming",
+   "dek": "It will be Google's first in the state, powered largely by a giant fuel-cell plant.",
+   "stat": [
+    "$17B",
+    "planned investment in one AI data center"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Google announced plans for a $17 billion AI data center in Laramie County, Wyoming. It is being built with Tallgrass Energy, Black Hills Energy, American Electric Power and Related Digital.",
+      "Power will come mainly from a 702-megawatt fuel-cell project using Bloom Energy equipment, with carbon capture."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Big Tech is racing to build the computing power that AI needs. But the same week, voters in several US towns rejected new data centers over power bills and pollution — so companies are now trying to bring their own power instead of leaning on local grids. The $17 billion is a plan, not money already spent."
+     ]
+    }
+   ],
+   "facts": [
+    "$17 billion planned",
+    "702 MW fuel-cell power",
+    "Google's first data center in Wyoming"
+   ],
+   "sources": [
+    {
+     "name": "TechStartups",
+     "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+    },
+    {
+     "name": "Cowboy State Daily",
+     "url": "https://cowboystatedaily.com/2026/07/08/google-revealed-as-owner-of-wyomings-largest-data-center-now-project-tembo/"
+    }
+   ],
+   "alt": "A Google data center (Council Bluffs, Iowa)"
+  },
+  {
+   "slug": "google-meta-tiktok-sue-california",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Google, Meta and TikTok sue California over teen feeds law",
+   "dek": "The law limits autoplay and personalised feeds for users under 16. The companies say it breaks free-speech rules.",
+   "stat": [
+    "<16",
+    "age group the law protects"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Google, Meta and TikTok filed a lawsuit to block California's Assembly Bill 1709. The law restricts features like autoplay and personalised recommendations for users under 16. Governor Gavin Newsom signed it in September, and it is due to start on 1 January 2027.",
+      "The companies argue it violates free speech. California's Attorney General says the state will defend it."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Endless scroll and autoplay are exactly what keep people on apps — and what critics say make them addictive for teenagers. Rules in big markets like California often end up shaping how apps work everywhere, so the case is being watched far beyond the US."
+     ]
+    }
+   ],
+   "facts": [
+    "Applies to users under 16",
+    "Starts 1 Jan 2027 unless blocked",
+    "Signed by Newsom in September"
+   ],
+   "sources": [
+    {
+     "name": "TechStartups (via The Guardian)",
+     "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+    },
+    {
+     "name": "MediaPost",
+     "url": "https://www.mediapost.com/publications/article/417805/newsom-signs-ban-on-addictive-social-media-featu.html"
+    }
+   ]
+  },
+  {
+   "slug": "openai-gpt-6-cyber",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "OpenAI's new AI found 81 serious Firefox bugs",
+   "dek": "A cybersecurity model for approved researchers is finding and helping fix software holes at a scale humans could not.",
+   "stat": [
+    "81",
+    "previously unknown high-severity Firefox bugs found"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "OpenAI launched GPT-6 Cyber, a model only for authorised security researchers. Using it, researchers reported 81 previously unknown high-severity bugs in the Firefox browser and working exploits for 948 Linux kernel vulnerabilities — with fixes released or in progress.",
+      "Access is limited at first through a programme called Daybreak Red."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The same tools that help defenders find holes could help attackers too, which is why access is restricted. For everyday users, the takeaway is simple: keep your browser and phone updated, because many of these fixes arrive as routine updates."
+     ]
+    }
+   ],
+   "facts": [
+    "81 Firefox bugs found",
+    "948 Linux kernel flaws",
+    "Access limited to approved researchers"
+   ],
+   "sources": [
+    {
+     "name": "TechStartups",
+     "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+    },
+    {
+     "name": "AI Weekly",
+     "url": "https://aiweekly.co/ai-news-today/edition/2026-11-05"
     }
    ]
   },
@@ -530,6 +810,138 @@
    ]
   },
   {
+   "slug": "microsoft-nscale-ai-cloud-stocks",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "servers.jpg",
+   "credit": "Jhaxhillari / Wikimedia, CC BY-SA 4.0",
+   "contain": false,
+   "head": "Microsoft pulls back, AI cloud stocks tumble",
+   "dek": "Microsoft passed on a bigger deal with Nscale and is tightening oversight of its AI cloud partners. Their shares fell sharply.",
+   "stat": [
+    "-13%",
+    "fall in Nebius and IREN shares"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "According to Bloomberg, Microsoft is keeping a closer eye on AI cloud providers Nscale, Nebius and IREN after construction delays and rising costs, and is leaning more on its own data centers. It declined an option to expand its Texas deal with Nscale; the existing contract stays.",
+      "Nebius and IREN shares fell more than 13%, and CoreWeave fell by double digits."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "These 'neoclouds' rent out AI computing power, and much of their value depends on big customers like Microsoft. Any sign that the giants are slowing down hits them hard — and it added to the wider sell-off in AI and chip stocks on Wall Street this week."
+     ]
+    }
+   ],
+   "facts": [
+    "Nebius, IREN: down 13%+",
+    "CoreWeave: double-digit fall",
+    "Existing Nscale contract unchanged"
+   ],
+   "sources": [
+    {
+     "name": "TechStartups (via Bloomberg)",
+     "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+    },
+    {
+     "name": "AI Weekly",
+     "url": "https://aiweekly.co/ai-news-today/edition/2026-11-05"
+    }
+   ]
+  },
+  {
+   "slug": "palantir-revenue-doubles",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Palantir's revenue nearly doubles to $2.31 billion",
+   "dek": "The data and AI software company had its first $2 billion quarter and raised its outlook for the year.",
+   "stat": [
+    "$2.31B",
+    "quarterly revenue, nearly double last year"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Palantir, which sells data and AI software to governments and companies, reported third-quarter revenue of $2.31 billion — almost twice what it made a year ago. It now expects about $8.5 billion in revenue for 2026.",
+      "Growth was led by US companies buying its AI platform."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Palantir has become one of the clearest examples of a company actually making money from AI, not just spending on it. But its shares are priced for a lot of future growth, so even strong results can be met with nervous trading — especially in a week when AI stocks were falling."
+     ]
+    }
+   ],
+   "facts": [
+    "Q3 revenue: $2.31 billion",
+    "Full-year guide: ~$8.5 billion",
+    "First-ever $2B quarter"
+   ],
+   "sources": [
+    {
+     "name": "AI Weekly",
+     "url": "https://aiweekly.co/alerts/palantir-q3-revenue-nearly-doubles-to-231b-guides-to-853b"
+    },
+    {
+     "name": "InvestingLive",
+     "url": "https://investinglive.com/stocks/palantir-beats-q3-estimates-lifts-2026-revenue-outlook-to-around-8-5-billion/"
+    }
+   ]
+  },
+  {
+   "slug": "india-hockey-asian-champions-trophy-final",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "India storm into the Asian Champions Trophy final",
+   "dek": "The defending champions beat South Korea 8-1 in the semi-final in Punjab to reach a record seventh final.",
+   "stat": [
+    "8-1",
+    "semi-final win over South Korea"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "India's men's hockey team beat South Korea 8-1 in the semi-final of the Asian Champions Trophy, being played in Punjab, according to The Bridge. It is India's seventh final in the tournament — a record.",
+      "India had already beaten Korea 8-0 in the league stage and finished the group unbeaten."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "India are the defending champions and have been the strongest team in Asia this year. Winning again would build confidence ahead of a new-look squad for the FIH Pro League, which coach Craig Fulton has said he plans to field."
+     ]
+    }
+   ],
+   "facts": [
+    "Semi-final: India 8-1 South Korea",
+    "League stage: India 8-0 South Korea",
+    "Record 7th ACT final"
+   ],
+   "sources": [
+    {
+     "name": "The Bridge",
+     "url": "https://thebridge.in/"
+    },
+    {
+     "name": "Outlook India",
+     "url": "https://www.outlookindia.com/sports/hockey/india-vs-south-korea-asian-champions-trophy-2026-league-stage-match-report"
+    }
+   ]
+  },
+  {
    "slug": "trai-satellite-internet-licences",
    "tag": "India",
    "color": "#2563EB",
@@ -567,6 +979,200 @@
    ]
   },
   {
+   "slug": "us-towns-reject-ai-data-centers",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "",
+   "credit": "",
+   "head": "40 US towns vote NO to AI data centers",
+   "dek": "Voters rejected new data-center projects, angry about power bills and pollution.",
+   "stat": [
+    "~80%",
+    "of voters in Trenton, Ohio backed a ban"
+   ],
+   "contain": false,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "In this week's US local elections, voters in nearly 40 towns rejected proposed data-center projects. In Trenton, Ohio, nearly 80% voted to ban large data centers that need more than 25 megawatts of power."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "AI runs on huge data centers that use massive amounts of electricity, water and land. Growing local pushback — plus fears that the new Congress could add rules — was one of the reasons tech stocks crashed on Thursday."
+     ]
+    }
+   ],
+   "facts": [
+    "~40 towns said no",
+    "Trenton, Ohio: ~80% for a ban",
+    "Ban covers projects over 25 MW"
+   ],
+   "sources": [
+    {
+     "name": "Daily Curated News",
+     "url": "https://dailycuratednews.substack.com/p/news-headlines-november-6-2026"
+    }
+   ]
+  },
+  {
+   "slug": "amd-11-billion-acquisitions",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "AMD plans $11 billion in AI acquisitions",
+   "dek": "A filing shows the chipmaker wants to buy World Labs and inference-chip startup Taalas.",
+   "stat": [
+    "$11.1B",
+    "in proposed deals"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "A quarterly filing showed AMD plans to buy World Labs Technologies for about $8.2 billion in stock and chip developer Taalas for about $2.9 billion in cash and stock, including up to $1.4 billion tied to future milestones. Both deals still need to close."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "AMD is Nvidia's main rival in AI chips. Buying startups is a fast way to add talent and technology — Taalas works on chips that run AI models cheaply after they are trained, which is where a lot of future demand is expected."
+     ]
+    }
+   ],
+   "facts": [
+    "World Labs: ~$8.2B in stock",
+    "Taalas: ~$2.9B",
+    "Total: ~$11.1B"
+   ],
+   "sources": [
+    {
+     "name": "TechStartups (AMD SEC filing)",
+     "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+    }
+   ]
+  },
+  {
+   "slug": "shield-ai-buys-echodyne",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Defence startup Shield AI buys Echodyne for $5.3 billion",
+   "dek": "The AI drone-pilot maker is buying a radar company and raising $2.5 billion at a $28.8 billion valuation.",
+   "stat": [
+    "$5.3B",
+    "deal for radar maker Echodyne"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Shield AI, which builds AI software that flies drones and aircraft, agreed to buy radar maker Echodyne for about $5.3 billion. To pay for it, Shield AI is raising $2.5 billion, including a $1 billion round at a $28.8 billion valuation, $1 billion from Blackstone-managed funds and $500 million of debt.",
+      "Echodyne sells radars in more than 40 countries. The deal is expected to close in early 2027."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Defence tech is one of the hottest areas for startup investors right now, driven by drones in modern warfare. Shield AI wants to own both the 'eyes' (radar) and the 'brain' (AI pilot) of autonomous systems."
+     ]
+    }
+   ],
+   "facts": [
+    "Deal value: ~$5.3B",
+    "New funding: $2.5B",
+    "Valuation: $28.8B"
+   ],
+   "sources": [
+    {
+     "name": "TechStartups (via Shield AI)",
+     "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+    }
+   ]
+  },
+  {
+   "slug": "wonder-files-for-ipo",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Grubhub owner Wonder files to go public",
+   "dek": "Marc Lore's food company — which also owns Blue Apron — has confidentially filed for a US IPO.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Wonder Group, founded by Marc Lore (who previously sold Jet.com to Walmart), confidentially submitted papers for a US stock market listing. The number of shares, price and valuation are not set yet.",
+      "Wonder owns food delivery app Grubhub, meal-kit brand Blue Apron and kitchen-robotics firm Spyce. It raised about $650 million in July at a reported $9 billion valuation, and plans drone deliveries in Texas with Zipline."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Wonder is trying to combine restaurants, delivery and kitchens under one roof — a similar bet to what Swiggy and Zomato make in India with their own kitchens and quick-commerce. Its IPO will be a test of whether investors like that model."
+     ]
+    }
+   ],
+   "facts": [
+    "Raised ~$650M in July",
+    "Reported $9B valuation (private)",
+    "Owns Grubhub, Blue Apron, Spyce"
+   ],
+   "sources": [
+    {
+     "name": "TechStartups",
+     "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+    }
+   ]
+  },
+  {
+   "slug": "india-services-pmi-october",
+   "tag": "Economy",
+   "color": "#D97706",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "India's services sector picks up speed in October",
+   "dek": "The HSBC India Services PMI rose to 55.8, showing faster growth in businesses like IT, banking, travel and retail.",
+   "stat": [
+    "55.8",
+    "Services PMI in October (55.2 in September)"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The HSBC India Services PMI — a monthly survey of purchasing managers — rose to 55.8 in October from 55.2 in September. Any reading above 50 means the sector is growing."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Services make up more than half of India's economy. A stronger reading during the festive month suggests demand is holding up even as some other numbers look softer. Other data this week was mixed: railway freight hit a record in October, while FMCG sales growth slowed."
+     ]
+    }
+   ],
+   "facts": [
+    "Services PMI: 55.8 (Oct)",
+    "Up from 55.2 (Sep)",
+    "Above 50 = growth"
+   ],
+   "sources": [
+    {
+     "name": "India IPO daily report",
+     "url": "https://www.indiaipo.in/daily-reporter/india-ipo-daily-market-ipo-updates-05th-november-2026"
+    }
+   ]
+  },
+  {
    "slug": "deepti-sharma-icc-shortlist",
    "tag": "Sports",
    "color": "#F59E0B",
@@ -598,7 +1204,79 @@
      "url": "https://indianopinion.org/today-in-india-6-november-2026/"
     }
    ]
+  },
+  {
+   "slug": "ott-releases-this-weekend",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "ott.jpg",
+   "credit": "Streaming platforms / via IWMBuzz",
+   "contain": false,
+   "head": "What to watch this weekend on OTT",
+   "dek": "Dulquer Salmaan's I'm Game, Netflix's Dilwali Diwali and a new season of Black Doves lead this week's releases.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The big ones",
+     "paras": [
+      "I'm Game, starring Dulquer Salmaan, arrives on JioHotstar on 6 November in Malayalam, Hindi, Tamil, Telugu and Kannada. Netflix has Dilwali Diwali (from the makers of Musafir Cafe) and the suspense series Black Doves, both from 5 November.",
+      "SonyLIV has Haiwaan and Meesaya Murukku 2 on 6 November, and ZEE5 has Last Man In Tower in Hindi."
+     ]
+    },
+    {
+     "title": "For the family",
+     "paras": [
+      "Motu Patlu & The Mystery of Nagmani lands on JioHotstar on 8 November, and Minions & Monsters is already streaming there. Netflix also has the festive A Dog's Perfect Christmas."
+     ]
+    }
+   ],
+   "facts": [
+    "I'm Game — JioHotstar, 6 Nov",
+    "Dilwali Diwali — Netflix, 5 Nov",
+    "Motu Patlu movie — JioHotstar, 8 Nov"
+   ],
+   "sources": [
+    {
+     "name": "IWMBuzz",
+     "url": "https://www.iwmbuzz.com/digital/news-digital/ott-releases-this-week-november-2-8-2026-hindi-south-english-movies-and-shows-to-watch-across-netflix-jiohotstar-more/2026/11/04"
+    }
+   ]
   }
  ],
- "also": []
+ "also": [],
+ "markets": {
+  "asof": "US indices & Brent: Thu 5 Nov · Gold, rupee: 4 Nov",
+  "items": [
+   {
+    "n": "Nasdaq",
+    "v": "24,315",
+    "c": "-5.5%"
+   },
+   {
+    "n": "S&P 500",
+    "v": "7,353.7",
+    "c": "-4.4%"
+   },
+   {
+    "n": "Dow",
+    "v": "51,523",
+    "c": "-3.4%"
+   },
+   {
+    "n": "Gold",
+    "v": "$4,040/oz",
+    "c": "+2.9%"
+   },
+   {
+    "n": "Brent",
+    "v": "$100+",
+    "c": ""
+   },
+   {
+    "n": "USD/INR",
+    "v": "₹94.65",
+    "c": ""
+   }
+  ]
+ }
 }

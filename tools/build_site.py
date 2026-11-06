@@ -114,7 +114,7 @@ ICON_SEARCH = '<svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentC
 def shell(title, desc, path, img=None, body='', kind='website', extra='', active='', bar=False):
     og = SITE + (img or '/static/og.png')
     nav = ''.join(f'<a href="{h}"{" aria-current=page" if active == k else ""}{c}>{t}</a>' for k, h, t, c in (
-        ('today', '/', 'Today', ''), ('archive', '/archive/', 'Archive', ' class="hide-s"'),
+        ('today', '/', 'Today', ''), ('sixty', f'/{days[0]["date"]}/60/', '▶ 60s', ' class="n60"'), ('archive', '/archive/', 'Archive', ' class="hide-s"'),
         ('search', '/search/', ICON_SEARCH + '<span class="hide-s"> Search</span>', ' aria-label="Search"')))
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
@@ -139,47 +139,121 @@ def shell(title, desc, path, img=None, body='', kind='website', extra='', active
 <script src="{JS}" defer></script></body></html>'''
 
 
-# ---------- edition page ----------
+# ---------- sections ----------
+SECTIONS = [  # (name, tags)
+    ('India', {'India', 'Politics', 'Your Wallet', 'Economy'}),
+    ('World', {'World', 'Geopolitics'}),
+    ('Startups & Brands', {'Startups', 'Founders', 'Brands', 'Marketing', 'Viral', 'Business'}),
+    ('Tech & AI', {'AI & Tech', 'Tech', 'Science', 'Space'}),
+    ('Markets & Money', {'Markets', 'Finance'}),
+    ('Sports', {'Sports'}),
+    ('Entertainment', {'Entertainment', 'Movies', 'Culture'}),
+]
+
+
+def section_of(s):
+    for n, tags in SECTIONS:
+        if s['tag'] in tags:
+            return n
+    return 'More news'
+
+
+def mins_total(d):
+    return max(1, round(sum(words(s) for s in d['stories']) / 200))
+
+
+def ticker(d):
+    items = ''.join(f'<a href="{url(d, s)}"><i style="background:{s["color"]}"></i>{e(s["head"])}</a>' for s in d['stories'])
+    return f'<div class="ticker" aria-label="Headlines"><div class="tk-l">Today</div><div class="tk-w"><div class="tk-t">{items}{items}</div></div></div>'
+
+
+def markets(d):
+    m = d.get('markets')
+    if not m:
+        return ''
+    cells = ''.join(f'''<div class="mk"><span>{e(x['n'])}</span><b>{e(x['v'])}</b><em class="{'up' if str(x.get('c','')).startswith('+') else 'dn' if str(x.get('c','')).startswith(('-','−')) else ''}">{e(x.get('c',''))}</em></div>''' for x in m['items'])
+    return f'<div class="mkts"><div class="wrap"><div class="mk-row">{cells}</div><div class="mk-as">{e(m.get("asof",""))}</div></div></div>'
+
+
 def edition(d, home):
     S = d['stories']
-    lead, grid, rest = S[0], S[1:5], S[5:]
-    tags = list(dict.fromkeys(s['tag'] for s in S))
-    chips = ''
-    if len(tags) > 2:
-        chips = '<div class="chips" role="toolbar" aria-label="Filter by topic"><button class="chip" data-t="*" aria-pressed="true">All</button>' + \
-                ''.join(f'<button class="chip" data-t="{e(t)}" aria-pressed="false">{e(t)}</button>' for t in tags) + '</div>'
+    lead, top4, rest = S[0], S[1:5], S[5:]
+    o = opt(d['date'], lead.get('img', ''))
     st = lead.get('stat')
-    statline = f'<div class="statline" style="--c:{lead["color"]}"><b>{e(st[0])}</b><span>{e(st[1])}</span></div>' if st else ''
-    lead_h = f'''<section data-block><a class="lead st" href="{url(d, lead)}" data-tag="{e(lead['tag'])}">
- {pic(d, lead, '(max-width:640px) 100vw, 600px', eager=True)}
- <div>{tag(lead)} <span class="rt">· {rt(lead)}</span><h2>{e(lead['head'])}</h2><p>{e(lead['dek'])}</p>{statline}<span class="go">Read the full story →</span></div></a></section>'''
-    grid_h = '<section class="grid" data-block>' + ''.join(f'''<a class="st" href="{url(d, s)}" data-tag="{e(s['tag'])}">{pic(d, s, '(max-width:640px) 104px, (max-width:900px) 50vw, 260px')}
- <div class="txt">{tag(s)}<h3>{e(s['head'])}</h3><p>{e(s['dek'])}</p></div></a>''' for s in grid) + '</section>' if grid else ''
-    rest_h = ''
-    if rest:
-        rows = ''.join(f'''<a class="row st" href="{url(d, s)}" data-tag="{e(s['tag'])}"{'' if s.get('img') else ' style="grid-template-columns:1fr"'}><div>{tag(s)}<h4>{e(s['head'])}</h4><p>{e(s['dek'])}</p></div>{pic(d, s, '104px') if s.get('img') else ''}</a>''' for s in rest)
-        rest_h = f'<section data-block><div class="sec"><h2>More stories</h2></div><div class="list">{rows}</div></section>'
-    others = [o for o in days if o is not d][:6]
+    lead_h = f'''<a class="hero2 st" href="{url(d, lead)}">
+ {pic(d, lead, '100vw', eager=True)}<div class="shade"></div>
+ <div class="hero-txt"><span class="tag lt" style="--c:{lead['color']}"><i></i>{e(lead['tag'])}</span><span class="rt lt">Top story · {rt(lead)}</span>
+ <h2>{e(lead['head'])}</h2><p>{e(lead['dek'])}</p>{f'<div class="hero-stat"><b>{e(st[0])}</b><span>{e(st[1])}</span></div>' if st else ''}</div></a>'''
+    top_h = '<section class="top4">' + ''.join(f'''<a class="st c4" href="{url(d, s)}">{pic(d, s, '(max-width:640px) 100vw, (max-width:1000px) 50vw, 25vw')}
+ <div class="txt"><span class="num">{i:02d}</span>{tag(s)}<h3>{e(s['head'])}</h3><p>{e(s['dek'])}</p></div></a>''' for i, s in enumerate(top4, 2)) + '</section>'
+    brief = f'''<a class="brief-cta" href="{url(d)}60/"><div><div class="bc-k">New · Swipe mode</div><div class="bc-h">Today in 60 seconds<b>.</b></div>
+<div class="bc-p">All {len(S)} stories, one swipe at a time. Like reels — but news.</div></div><span class="bc-b">Start ▶</span></a>'''
+    nums = [s for s in S if s.get('stat')]
+    num_h = ''
+    if nums:
+        num_h = '<div class="sec"><h2>Numbers of the day</h2></div><div class="nums">' + ''.join(
+            f'<a class="nm" href="{url(d, s)}" style="--c:{s["color"]}"><b>{e(s["stat"][0])}</b><span>{e(s["stat"][1])}</span><em>{e(s["tag"])} →</em></a>' for s in nums[:12]) + '</div>'
+    groups = {}
+    for s in rest:
+        groups.setdefault(section_of(s), []).append(s)
+    order = [n for n, _ in SECTIONS] + ['More news']
+    secs = ''
+    nav = ''
+    for n in order:
+        g = groups.get(n)
+        if not g:
+            continue
+        sid = re.sub(r'[^a-z]+', '-', n.lower()).strip('-')
+        nav += f'<a class="chip" href="#{sid}">{e(n)} <small>{len(g)}</small></a>'
+        first, others = g[0], g[1:]
+        feat = f'''<a class="sf st" href="{url(d, first)}">{pic(d, first, '(max-width:640px) 100vw, 400px')}<div>{tag(first)}<h3>{e(first['head'])}</h3><p>{e(first['dek'])}</p></div></a>'''
+        rows = ''.join(f'''<a class="row st" href="{url(d, s)}"{'' if s.get('img') else ' style="grid-template-columns:1fr"'}><div>{tag(s)}<h4>{e(s['head'])}</h4><p>{e(s['dek'])}</p></div>{pic(d, s, '104px') if s.get('img') else ''}</a>''' for s in others)
+        secs += f'<section class="secblock" id="{sid}"><div class="sh"><h2>{e(n)}</h2><span>{len(g)} {"story" if len(g) == 1 else "stories"}</span></div><div class="sgrid{" solo" if not others else ""}">{feat}<div class="srows">{rows}</div></div></section>'
+    others = [x for x in days if x is not d][:6]
     past = ''
     if others:
         past = '<div class="sec"><h2>Past editions</h2><a href="/archive/">All →</a></div><div class="days">' + ''.join(
-            f'<a class="day" href="{url(o)}"><small>{e(o["day"])}</small><b>{e(o["date_label"])}</b><span>{e(o["stories"][0]["head"])}</span></a>' for o in others) + '</div>'
-    h1 = "Today's" if home else e(d['day']) + "'s"
-    note = f'<div class="note">{e(d["note"])}</div>' if d.get('note') else ''
-    body = f'''<div class="wrap">
-<div class="top"><div><div class="kick">{e(d['day'])} · {e(d['date_label'])}</div><h1>{h1} biggest stories<b>.</b></h1>
-<p>{len(S)} stories from India and the world — brands, startups, tech, sports and your wallet, explained simply.</p></div>{note}</div>
-{chips}{lead_h}{grid_h}{rest_h}
-<div class="cta"><div><h3>accha<b>?</b> Now you know.</h3><p>The day's biggest stories, every morning on Instagram.</p></div><a class="btn" href="{IG}" target="_blank" rel="noopener">Follow @accha.daily</a></div>
+            f'<a class="day" href="{url(x)}"><small>{e(x["day"])}</small><b>{e(x["date_label"])}</b><span>{e(x["stories"][0]["head"])}</span></a>' for x in others) + '</div>'
+    note = f'<span class="mh-note">{e(d["note"])}</span>' if d.get('note') else ''
+    body = f'''{ticker(d)}{markets(d)}
+<div class="wrap">
+<div class="mast"><div class="mh-k"><span>{e(d['day'])}, {e(d['date_label'])}</span><span>{len(S)} stories · {mins_total(d)} min read</span>{note}</div>
+<h1>{"Today's" if home else e(d['day']) + "'s"} biggest stories<b>.</b></h1>
+<p>India and the world — brands, startups, tech, sports, money and more. Explained simply, in our own words.</p></div>
+{lead_h}{top_h}{brief}
+<nav class="jump" aria-label="Sections">{nav}</nav>
+{secs}
+{num_h}
+<div class="cta"><div><h3>accha<b>?</b> Now you know.</h3><p>The day's top stories every morning on Instagram — and all of them here.</p></div><a class="btn" href="{IG}" target="_blank" rel="noopener">Follow @accha.daily</a></div>
 {past}</div>'''
     extra = ''
     if home:
-        slugs = {s['slug']: url(o, s) for o in reversed(days) for s in o['stories']}
+        slugs = {s['slug']: url(x, s) for x in reversed(days) for s in x['stories']}
         extra = f'\n<script>window.SLUGS={json.dumps(slugs)}</script>'
-    o = opt(d['date'], lead.get('img', ''))
-    title = (f"accha? daily — Today's biggest stories" if home else f"accha? daily — {d['day']}, {d['date_label']}")
-    desc = f"{d['date_label']}: " + ' · '.join(s['head'] for s in S[:3]) + ' — and more, explained simply.'
+    title = "accha? daily — Today's biggest stories" if home else f"accha? daily — {d['day']}, {d['date_label']}"
+    desc = f"{len(S)} stories for {d['date_label']}: " + ' · '.join(s['head'] for s in S[:3]) + ' — and more, explained simply.'
     return shell(title, desc, '/' if home else url(d), o and o['og'], body, extra=extra, active='today' if home else '')
+
+
+# ---------- 60-second swipe mode ----------
+def brief_page(d):
+    S = d['stories']
+    cards = ''
+    for i, s in enumerate(S):
+        o = opt(d['date'], s.get('img', ''))
+        bg = f'<img src="{o["w720"]}" srcset="{o["w720"]} 720w, {o["w1200"]} 1200w" sizes="(max-width:520px) 100vw, 480px" alt="" {"fetchpriority=high" if i == 0 else "loading=lazy"} decoding="async">' if o else f'<div class="bf-ph" style="--c:{s["color"]}">?</div>'
+        st = s.get('stat')
+        cards += f'''<section class="bf" data-i="{i}"><div class="bf-img{' contain' if s.get('contain') else ''}"{f' style="--bgimg:url({o["w320"]})"' if (o and s.get('contain')) else ''}>{bg}</div>
+<div class="bf-body"><div class="bf-meta">{tag(s)}<span>{i + 1} / {len(S)}</span></div><h2>{e(s['head'])}</h2><p>{e(s['dek'])}</p>
+{f'<div class="bf-stat" style="--c:{s["color"]}"><b>{e(st[0])}</b><span>{e(st[1])}</span></div>' if st else ''}
+<a class="bf-go" href="{url(d, s)}">Read the full story →</a></div></section>'''
+    cards += f'''<section class="bf end"><div class="bf-body"><div class="bf-done">accha<b>?</b></div><h2>That's all {len(S)}. Now you know.</h2>
+<p>New stories every morning.</p><a class="btn" href="{IG}" target="_blank" rel="noopener">Follow @accha.daily</a><a class="bf-go" href="{url(d)}">← Back to all stories</a></div></section>'''
+    body = f'''<div class="bf-wrap" id="bf"><div class="bf-top"><a href="{url(d)}" aria-label="Close">✕</a><div class="bf-bar"><i id="bfp"></i></div><span id="bfn">1/{len(S)}</span></div>{cards}</div>
+<div class="bf-hint" id="bfh">Swipe up ↑</div>'''
+    o = opt(d['date'], S[0].get('img', ''))
+    html_ = shell(f"Today in 60 seconds — accha? daily, {d['date_label']}", f"All {len(S)} of today's stories, one swipe at a time.", url(d) + '60/', o and o['og'], body)
+    return html_.replace('<body>', '<body class="bfmode">', 1)
 
 
 # ---------- story page ----------
@@ -229,6 +303,7 @@ def write(path, text):
 # ---------- build ----------
 for d in days:
     write(f'{d["date"]}/index.html', edition(d, False))
+    write(f'{d["date"]}/60/index.html', brief_page(d))
     for i in range(len(d['stories'])):
         write(f'{d["date"]}/{d["stories"][i]["slug"]}/index.html', story(d, i))
     # old link format -> new
@@ -258,7 +333,7 @@ items = [(d, s) for d in days[:14] for s in d['stories']]
 rss = ''.join(f'''<item><title>{e(s['head'])}</title><link>{SITE}{url(d, s)}</link><guid>{SITE}{url(d, s)}</guid><category>{e(s['tag'])}</category>
 <pubDate>{format_datetime(datetime.fromisoformat(iso(d)))}</pubDate><description>{e(s['dek'])}</description></item>''' for d, s in items)
 write('feed.xml', f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>accha? daily</title><link>{SITE}/</link><description>The day\'s biggest stories, explained simply.</description><language>en-in</language>{rss}</channel></rss>')
-urls = ['/', '/archive/'] + [url(d) for d in days] + [url(d, s) for d in days for s in d['stories']]
+urls = ['/', '/archive/'] + [url(d) for d in days] + [url(d) + '60/' for d in days] + [url(d, s) for d in days for s in d['stories']]
 write('sitemap.xml', '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
       ''.join(f'<url><loc>{SITE}{u}</loc></url>' for u in urls) + '</urlset>')
 write('robots.txt', f'User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n')

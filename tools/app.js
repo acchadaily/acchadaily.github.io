@@ -61,3 +61,24 @@
     });
   }
 })();
+
+// 60-second swipe mode
+(function(){
+  var w = document.getElementById('bf'); if (!w) return;
+  var cards = w.querySelectorAll('.bf'), n = cards.length - 1, p = document.getElementById('bfp'), c = document.getElementById('bfn'), h = document.getElementById('bfh');
+  var cur = 0;
+  var upd = function(){
+    cur = Math.round(w.scrollTop / w.clientHeight);
+    var k = Math.min(cur + 1, n);
+    p.style.width = (k / n * 100) + '%'; c.textContent = (cur >= n ? n : k) + '/' + n;
+    if (cur > 0) h.classList.add('gone');
+  };
+  w.addEventListener('scroll', upd, {passive:true}); upd();
+  var go = function(i){ i = Math.max(0, Math.min(cards.length - 1, i)); w.scrollTo({top: i * w.clientHeight, behavior: 'smooth'}); };
+  addEventListener('keydown', function(ev){
+    if (ev.key === 'ArrowDown' || ev.key === 'ArrowRight' || ev.key === ' ' || ev.key === 'PageDown') { ev.preventDefault(); go(cur + 1); }
+    if (ev.key === 'ArrowUp' || ev.key === 'ArrowLeft' || ev.key === 'PageUp') { ev.preventDefault(); go(cur - 1); }
+    if (ev.key === 'Escape') location.href = w.querySelector('.bf-top a').href;
+  });
+  w.focus();
+})();
