@@ -302,3 +302,9 @@ body.bfmode header,body.bfmode footer,body.bfmode .skip{display:none}
 @keyframes bob{50%{transform:translateY(-6px)}}
 @media (min-width:521px){.bf-wrap{border-left:1px solid #222;border-right:1px solid #222}}
 nav .n60{color:var(--ink);font-weight:800}
+@media (max-width:640px){
+ .tag{font-size:9.5px;letter-spacing:1.2px;padding:3px 8px;gap:5px}
+ .tag i{width:5px;height:5px}
+ .c4 .num,.n{font-size:11px}
+ .c4 h3,.row h4{margin-top:6px}
+}
