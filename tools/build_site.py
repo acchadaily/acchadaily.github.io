@@ -244,7 +244,9 @@ ICON_SEARCH = '<svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentC
 def shell(title, desc, path, img=None, body='', kind='website', extra='', active='', bar=False):
     og = SITE + (img or '/static/og.png')
     nav = ''.join(f'<a href="{h}"{" aria-current=page" if active == k else ""}{c}>{t}</a>' for k, h, t, c in (
-        ('today', '/', 'Today', ''), ('sixty', f'/{days[0]["date"]}/60/', '▶ 60s', ' class="n60"'), ('archive', '/archive/', 'Archive', ' class="hide-s"'),
+        ('today', '/', 'Today', ' class="hide-s"'), ('sixty', f'/{days[0]["date"]}/60/', '▶ 60s', ' class="n60"'),
+        ('good', f'/{days[0]["date"]}/good/', '☀️<span class="hide-s"> Good news</span>', ' class="ngood" aria-label="Good news"'),
+        ('paper', f'/{days[0]["date"]}/paper/', 'Newspaper', ' class="hide-s"'), ('archive', '/archive/', 'Archive', ' class="hide-s"'),
         ('search', '/search/', ICON_SEARCH + '<span class="hide-s"> Search</span>', ' aria-label="Search"')))
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
@@ -278,6 +280,7 @@ SECTIONS = [  # (name, tags)
     ('Markets & Money', {'Markets', 'Finance'}),
     ('Sports', {'Sports'}),
     ('Entertainment', {'Entertainment', 'Movies', 'Culture'}),
+    ('Good News', {'Good News'}),
 ]
 
 
@@ -351,6 +354,8 @@ def edition(d, home):
 <h1>{"Today's" if home else e(d['day']) + "'s"} biggest stories<b>.</b></h1>
 <p>India and the world — brands, startups, tech, sports, money and more. Explained simply, in our own words.</p></div>
 {lead_h}{top_h}{brief}
+<div class="modes"><a class="mode good" href="{url(d)}good/"><span class="me">☀️</span><span><b>Only good news</b><small>{sum(1 for x in S if x.get('good'))} stories of things going right</small></span><span class="mg">→</span></a>
+<a class="mode paper" href="{url(d)}paper/"><span class="me">📰</span><span><b>Newspaper view</b><small>Today as a clean front page</small></span><span class="mg">→</span></a></div>
 <nav class="jump" aria-label="Sections">{nav}</nav>
 {secs}
 {num_h}
@@ -384,6 +389,71 @@ def brief_page(d):
     o = opt(d['date'], S[0].get('img', ''))
     html_ = shell(f"Today in 60 seconds — accha? daily, {d['date_label']}", f"All {len(S)} of today's stories, one swipe at a time.", url(d) + '60/', card(d) or (o and o['og']), body)
     return html_.replace('<body>', '<body class="bfmode">', 1)
+
+
+# ---------- good news page ----------
+CONF = ["#FFFFFF", "#FFE066", "#FF8FAB", "#7CF29A", "#7FD3FF", "#FFB347"]
+
+
+def good_page(d):
+    G = sorted([s for s in d['stories'] if s.get('good')], key=lambda s: 0 if s.get('img') else 1)
+    cards = ''
+    for s in G:
+        o = opt(d['date'], s.get('img', ''))
+        em = s.get('emoji', '☀️')
+        media = pic(d, s, '(max-width:640px) 100vw, 480px') if o else f'<div class="gemo">{em}</div>'
+        st = s.get('stat')
+        stat = f'<div class="gstat"><b>{e(st[0])}</b> {e(st[1])}</div>' if st else ''
+        cards += (f'<a class="gcard st" href="{url(d, s)}">{media}<div class="gtxt"><span class="gtag">{em} Good news</span>'
+                  f'<h3>{e(s["head"])}</h3><p>{e(s["dek"])}</p>{stat}</div></a>')
+    dots = ''.join(f'<i style="--a:{k * 15}deg;--d:{280 + (k * 37) % 220}px;--c:{CONF[k % 6]}"></i>' for k in range(24))
+    body = (f'<div id="burst" aria-hidden="true"><div class="glow"></div><div class="rays"></div>'
+            f'<div class="bcore"><div class="sun">☀️</div><div class="bt">Good news!</div></div>{dots}</div>'
+            f'<div class="gwrap"><div class="wrap"><div class="ghero"><div class="kick">{e(d["day"])} · {e(d["date_label"])}</div>'
+            f'<h1>Only good news<span>.</span></h1><p>{len(G)} stories of things going right — in India and around the world. Take a breath. ☀️</p>'
+            f'<a class="gback" href="{url(d)}">← All of today\'s stories</a></div><div class="ggrid">{cards}</div>'
+            f'<div class="cta"><div><h3>accha<b>?</b> Now you know.</h3><p>A little good news, every morning.</p></div>'
+            f'<a class="btn" href="{IG}" target="_blank" rel="noopener">Follow @accha.daily</a></div></div></div>')
+    o = opt(d['date'], (G[0] if G else d['stories'][0]).get('img', ''))
+    h = shell(f"Good news — accha? daily, {d['date_label']}", f"{len(G)} good news stories from India and the world.",
+              url(d) + 'good/', o and o['og'], body, active='good')
+    return h.replace('<body>', '<body class="goodmode">', 1)
+
+
+# ---------- newspaper view ----------
+def paper_page(d):
+    S = d['stories']
+    lead, brief = S[0], S[1:5]
+
+    def first(s):
+        return s['sections'][0]['paras'][0] if s.get('sections') else s['dek']
+    lead_img = pic(d, lead, '(max-width:800px) 100vw, 700px', eager=True) if lead.get('img') else ''
+    lead_paras = ''.join(f'<p>{e(p)}</p>' for p in lead['sections'][0]['paras'][:2]) if lead.get('sections') else ''
+    side = ''.join(f'<a class="np-b" href="{url(d, s)}"><span class="np-k">{e(s["tag"])}</span><h3>{e(s["head"])}</h3><p>{e(s["dek"])}</p></a>' for s in brief)
+    groups = {}
+    for s in S[5:]:
+        groups.setdefault(section_of(s), []).append(s)
+    secs = ''
+    for n in [x for x, _ in SECTIONS] + ['More news']:
+        g = groups.get(n)
+        if not g:
+            continue
+        items = ''.join(f'<article class="np-i"><a href="{url(d, s)}"><h4>{e(s["head"])}</h4></a><p>{e(first(s))}</p>'
+                        f'<a class="np-more" href="{url(d, s)}">Continue reading →</a></article>' for s in g)
+        secs += f'<section class="np-sec"><h2>{e(n)}</h2><div class="np-cols">{items}</div></section>'
+    body = (f'<div class="np"><div class="np-wrap">'
+            f'<div class="np-top"><span>{e(d["day"])}, {e(d["date_label"])}</span><span>India + World · {len(S)} stories</span><span>Free · Every morning</span></div>'
+            f'<div class="np-mast">accha<b>?</b> daily</div><div class="np-tag">The news that matters, explained simply.</div><div class="np-rule"></div>'
+            f'<div class="np-front"><article class="np-lead"><span class="np-k">{e(lead["tag"])}</span><a href="{url(d, lead)}"><h1>{e(lead["head"])}</h1></a>'
+            f'<p class="np-dek">{e(lead["dek"])}</p>{lead_img}<figcaption>{e(lead.get("credit", ""))}</figcaption><div class="np-body">{lead_paras}</div>'
+            f'<a class="np-more" href="{url(d, lead)}">Continue reading →</a></article>'
+            f'<aside class="np-side"><div class="np-h">Also on the front page</div>{side}</aside></div>{secs}'
+            f'<div class="np-foot"><a href="{url(d)}">← Back to the modern view</a><span>accha? daily · acchadaily.github.io</span></div></div></div>')
+    extra = '\n<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">'
+    o = opt(d['date'], lead.get('img', ''))
+    h = shell(f"Newspaper — accha? daily, {d['date_label']}", f"{d['date_label']}: today's stories as a clean front page.",
+              url(d) + 'paper/', card(d) or (o and o['og']), body, extra=extra, active='paper')
+    return h.replace('<body>', '<body class="papermode">', 1)
 
 
 # ---------- story page ----------
@@ -434,6 +504,8 @@ def write(path, text):
 for d in days:
     write(f'{d["date"]}/index.html', edition(d, False))
     write(f'{d["date"]}/60/index.html', brief_page(d))
+    write(f'{d["date"]}/good/index.html', good_page(d))
+    write(f'{d["date"]}/paper/index.html', paper_page(d))
     for i in range(len(d['stories'])):
         write(f'{d["date"]}/{d["stories"][i]["slug"]}/index.html', story(d, i))
     # old link format -> new
@@ -463,7 +535,7 @@ items = [(d, s) for d in days[:14] for s in d['stories']]
 rss = ''.join(f'''<item><title>{e(s['head'])}</title><link>{SITE}{url(d, s)}</link><guid>{SITE}{url(d, s)}</guid><category>{e(s['tag'])}</category>
 <pubDate>{format_datetime(datetime.fromisoformat(iso(d)))}</pubDate><description>{e(s['dek'])}</description></item>''' for d, s in items)
 write('feed.xml', f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>accha? daily</title><link>{SITE}/</link><description>The day\'s biggest stories, explained simply.</description><language>en-in</language>{rss}</channel></rss>')
-urls = ['/', '/archive/'] + [url(d) for d in days] + [url(d) + '60/' for d in days] + [url(d, s) for d in days for s in d['stories']]
+urls = ['/', '/archive/'] + [url(d) for d in days] + [url(d) + x for d in days for x in ('60/', 'good/', 'paper/')] + [url(d, s) for d in days for s in d['stories']]
 write('sitemap.xml', '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
       ''.join(f'<url><loc>{SITE}{u}</loc></url>' for u in urls) + '</urlset>')
 write('robots.txt', f'User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n')

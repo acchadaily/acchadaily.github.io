@@ -939,7 +939,9 @@
      "name": "Outlook India",
      "url": "https://www.outlookindia.com/sports/hockey/india-vs-south-korea-asian-champions-trophy-2026-league-stage-match-report"
     }
-   ]
+   ],
+   "good": true,
+   "emoji": "🏑"
   },
   {
    "slug": "trai-satellite-internet-licences",
@@ -1239,6 +1241,465 @@
     {
      "name": "IWMBuzz",
      "url": "https://www.iwmbuzz.com/digital/news-digital/ott-releases-this-week-november-2-8-2026-hindi-south-english-movies-and-shows-to-watch-across-netflix-jiohotstar-more/2026/11/04"
+    }
+   ]
+  },
+  {
+   "slug": "joyalukkas-100-crore-charity",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "💛",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Joyalukkas sets aside ₹100 crore for charity",
+   "dek": "The jewellery brand will fund homes, girls' education, elderly care and medical help.",
+   "stat": [
+    "₹100 Cr",
+    "for charity, announced on the founder's 70th birthday"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Jewellery group Joyalukkas has set aside ₹100 crore to grow its charity work. The plan was announced in Kochi at the 70th birthday celebrations of its founder, Joy Alukkas.",
+      "The money will go to housing for families in need, education for girls, care for the elderly, medical help, women's empowerment and protecting the environment."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The group says it has already built more than 550 homes across five southern states. It has promised a transparent system so the money reaches the people it is meant for."
+     ]
+    }
+   ],
+   "facts": [
+    "₹100 crore set aside",
+    "550+ homes already built",
+    "5 southern states"
+   ],
+   "sources": [
+    {
+     "name": "The Hans India",
+     "url": "https://www.thehansindia.com/news/national/joyalukkas-earmarks-rs-100-crore-for-charitable-initiatives-1139673"
+    }
+   ]
+  },
+  {
+   "slug": "tata-trusts-hospitals",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "🏥",
+   "img": "g_tata.jpg",
+   "credit": "Tata / via Business Standard",
+   "contain": false,
+   "head": "Tata Trusts gave ₹1,556 crore — and plans up to 50 hospitals",
+   "dek": "The Trusts want a network of not-for-profit hospitals where those who can pay help cover those who can't.",
+   "stat": [
+    "₹1,556 Cr",
+    "given away by Tata Trusts in FY26"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Tata Trusts gave away ₹1,556 crore in the year to March 2026 — on rural development, education, cancer care, healthcare, water and nutrition.",
+      "Chairman Noel Tata says the Trusts are now working towards a network of 40 to 50 not-for-profit general hospitals, where patients who can pay help fund care for those who cannot."
+     ]
+    },
+    {
+     "title": "The impact",
+     "paras": [
+      "Its cancer care programme alone handled over 1 lakh outpatient visits, nearly 25,000 chemotherapy cycles and almost 30,000 radiotherapy patients last year."
+     ]
+    }
+   ],
+   "facts": [
+    "₹1,556 crore given in FY26",
+    "40–50 hospitals planned",
+    "1 lakh+ cancer consultations"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/companies/news/tata-trusts-disbursed-1-556-crore-in-fy26-plans-40-50-nonprofit-hospitals-126101800138_1.html"
+    }
+   ]
+  },
+  {
+   "slug": "blind-patients-see-objects-again",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "👁️",
+   "img": "g_eye.jpg",
+   "credit": "Illustration / via Physics World",
+   "contain": false,
+   "head": "Gene therapy helps blind patients see objects again",
+   "dek": "In a new trial, people blinded by an inherited eye disease could detect and find everyday objects.",
+   "stat": [
+    "7 of 10",
+    "patients became more sensitive to light"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Scientists treated 10 people who had lost their sight to an inherited disease called retinitis pigmentosa. A gene therapy made surviving cells in the eye sensitive to light, and special goggles sent light patterns into the eye.",
+      "Seven of the ten became more sensitive to light, and several could find and recognise objects like a notebook or a small box. The results were published in the New England Journal of Medicine."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "It's not normal vision yet — the researchers call the gains modest. But for people who could see almost nothing, being able to find objects again is a real step, and the treatment was judged safe in the trial."
+     ]
+    }
+   ],
+   "facts": [
+    "10 patients treated",
+    "7 saw improvement",
+    "Published in NEJM"
+   ],
+   "sources": [
+    {
+     "name": "Physics World",
+     "url": "https://physicsworld.com/a/optogenetic-therapy-shows-promise-for-vision-restoration/"
+    }
+   ]
+  },
+  {
+   "slug": "ukraine-truce-800-evacuated",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "🕊️",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "A short truce in Ukraine got nearly 800 people to safety",
+   "dek": "A six-day ceasefire in the town of Oleshky let aid in and people out. More peace talks are planned next week.",
+   "stat": [
+    "~800",
+    "people evacuated during the truce"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "A local ceasefire in Oleshky, in southern Ukraine, held from 27 October to 1 November. It allowed humanitarian aid into the area and nearly 800 people were evacuated.",
+      "The truce was brokered with the help of US First Lady Melania Trump, who hosted representatives of both countries at the White House this week."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "US officials say they will mediate talks between Russia and Ukraine in Abu Dhabi on 10–11 November. A full peace deal is not agreed yet."
+     ]
+    }
+   ],
+   "facts": [
+    "Truce: 27 Oct – 1 Nov",
+    "~800 people evacuated",
+    "Talks planned 10–11 Nov"
+   ],
+   "sources": [
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/world/2026/11/06/big-beautiful-agreement-trump-says-russia-ukraine-deal-close-as-melania-garners-praise-for-ceasefire.html"
+    }
+   ]
+  },
+  {
+   "slug": "teens-kayak-flood-rescue",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "🛶",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Two teen brothers rescue a family from a flooded home",
+   "dek": "When emergency crews couldn't get through, they paddled in with a kayak and a paddleboard.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "In Palm Bay, Florida, a mother and her young son were stuck on their kitchen counter with three dogs for over three hours as floodwater filled their home. Emergency crews couldn't reach them, so she asked for help on Facebook.",
+      "A woman who saw the post sent her two teenage sons. One borrowed a neighbour's kayak, the other took a paddleboard. They got the boy out first, then the mother and all three dogs."
+     ]
+    },
+    {
+     "title": "Why we love it",
+     "paras": [
+      "Everyone made it to dry land — rescued by two kids who simply decided to go."
+     ]
+    }
+   ],
+   "facts": [
+    "3+ hours stranded",
+    "2 teen rescuers",
+    "Everyone safe, including 3 dogs"
+   ],
+   "sources": [
+    {
+     "name": "Sunny Skyz",
+     "url": "https://www.sunnyskyz.com/good-news/6348/When-911-Couldn-039-t-Reach-This-Family-Two-Teenagers-Stepped-Up-to-Save-Them"
+    }
+   ]
+  },
+  {
+   "slug": "rajasthan-tiger-cubs",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "🐯",
+   "img": "g_tiger.jpg",
+   "credit": "Tigers / via The Better India",
+   "contain": false,
+   "head": "8 tiger cubs bring new hope to a Rajasthan sanctuary",
+   "dek": "It's the first successful tiger breeding recorded at Kailadevi in nearly 30 years.",
+   "stat": [
+    "8",
+    "tiger cubs recorded at Kailadevi"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "A study by WWF-India and the Rajasthan Forest Department recorded eight tiger cubs and three adult tigers at Kailadevi Wildlife Sanctuary in Karauli over five years.",
+      "It's the first documented successful tiger breeding there in nearly three decades."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Kailadevi is next to Ranthambore. Tigers breeding here raises hopes of a second tiger population in the region, with forests linking to Madhya Pradesh's Kuno National Park."
+     ]
+    }
+   ],
+   "facts": [
+    "8 cubs, 3 adults",
+    "First breeding in ~30 years",
+    "674 sq km sanctuary"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/wildlife/tiger-breeding-kailadevi-wildlife-sanctuary-rajasthan-cubs-ranthambore-conservation-12775902"
+    }
+   ]
+  },
+  {
+   "slug": "ladakh-saffron-barren-land",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "🌸",
+   "img": "g_saffron.jpg",
+   "credit": "Saffron, Leh / via The Better India",
+   "contain": false,
+   "head": "Saffron blooms on barren land in Ladakh",
+   "dek": "A pilot farm in Leh flowered in under a month and gave 22 grams of saffron in four days.",
+   "stat": [
+    "22 g",
+    "saffron picked in the first 4 days"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Ladakh planted about 90,000 saffron corms on 4,000 square metres of restored land in Leh on 1 October. Flowers appeared in under 30 days — saffron usually takes about two months.",
+      "Nearly 22 grams of saffron were collected in the first four days."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Saffron is one of the world's most expensive spices, and around 90% of India's comes from Kashmir. If the pilot works at scale, it could give Ladakh's farmers and young people a valuable new income."
+     ]
+    }
+   ],
+   "facts": [
+    "90,000 corms planted",
+    "Bloomed in < 30 days",
+    "22 g in 4 days"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/farming/ladakh-saffron-farming-barren-land-fast-blooms-new-livelihood-opportunities-12775527"
+    }
+   ]
+  },
+  {
+   "slug": "bengal-foodman-free-coaching",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "📚",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Bengal's \"Foodman\" runs 20+ free study centres for children",
+   "dek": "A college professor gives children free meals and free coaching across West Bengal.",
+   "stat": [
+    "20+",
+    "free learning centres"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Chandrashekhar Kundu, a college professor from West Bengal known as the \"Foodman\", started by feeding about 180 children in three villages nearly ten years ago.",
+      "Today his initiative runs more than 20 free coaching centres, where children get help with schoolwork along with nutritious meals."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Hungry children find it hard to study. Pairing a meal with free tuition keeps kids in school — and it is happening right here in Bengal."
+     ]
+    }
+   ],
+   "facts": [
+    "Started ~10 years ago",
+    "180 children at first",
+    "20+ centres today"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/web-stories/changemakers/chandrashekhar-kundu-boitoi-hoichoi-free-coaching-centres-west-bengal-12790192"
+    }
+   ]
+  },
+  {
+   "slug": "kachra-cafe-bhopal",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "♻️",
+   "img": "g_kachra.jpg",
+   "credit": "Kachra Café / via The Better India",
+   "contain": false,
+   "head": "This Bhopal café swaps your trash for a meal",
+   "dek": "Bring plastic, paper or household waste — walk out with food. 45 tonnes recycled so far.",
+   "stat": [
+    "45 t",
+    "of waste recycled in 8 months"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "At Bhopal's Kachra Café, people bring plastic, paper and other household waste and trade it for food, drinks and everyday essentials. Each kilo of waste has a fixed value.",
+      "It was started by homemaker Anjita Sabhlok through her NGO, Mannat, with the Bhopal Municipal Corporation."
+     ]
+    },
+    {
+     "title": "The impact",
+     "paras": [
+      "More than 45 tonnes of waste have been sent for recycling in eight months."
+     ]
+    }
+   ],
+   "facts": [
+    "45+ tonnes recycled",
+    "8 months running",
+    "Waste = food"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/startup/kachra-cafe-digital-currency-waste-food-startup-bhopal-india-12783022"
+    }
+   ]
+  },
+  {
+   "slug": "iit-bombay-drought-warning",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "🌾",
+   "img": "g_drought.jpg",
+   "credit": "KrishiDrought / via The Better India",
+   "contain": false,
+   "head": "IIT Bombay's free tool warns farmers of drought 4 weeks early",
+   "dek": "KrishiDrought uses satellites and AI to forecast dry soil for every district in India.",
+   "stat": [
+    "4 weeks",
+    "advance drought warning"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Researchers at IIT Bombay launched KrishiDrought, a free website that forecasts soil moisture up to four weeks ahead for every district in India, using satellite data, weather forecasts and deep learning.",
+      "A colour-coded map shows where soil is likely to be drier or wetter than normal."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "A few weeks' notice helps farmers plan irrigation and crops before a dry spell hits. It's free for anyone at KrishiDrought.in."
+     ]
+    }
+   ],
+   "facts": [
+    "Up to 4 weeks ahead",
+    "All districts in India",
+    "Free to use"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/innovation/iit-bombay-ai-drought-prediction-farmers-climate-data-india-12779095"
+    }
+   ]
+  },
+  {
+   "slug": "students-food-drive-250000",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "🥫",
+   "img": "g_food.jpg",
+   "credit": "Dermer Dreams / via Sunny Skyz",
+   "contain": false,
+   "head": "Students fill a football field with food for families in need",
+   "dek": "A New Jersey high school collected more than 250,000 pounds of food in one drive.",
+   "stat": [
+    "250,000 lb",
+    "of food collected"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Hundreds of students at Howell High School in New Jersey filled their football field with more than 250,000 pounds of food — the biggest drive in the organisers' history.",
+      "The food goes to about 30 food banks across the state."
+     ]
+    },
+    {
+     "title": "Why we love it",
+     "paras": [
+      "It's a reminder of what a few hundred teenagers can do in a few days when they decide to help."
+     ]
+    }
+   ],
+   "facts": [
+    "250,000+ pounds",
+    "~30 food banks helped",
+    "Record drive"
+   ],
+   "sources": [
+    {
+     "name": "Sunny Skyz",
+     "url": "https://www.sunnyskyz.com/good-news/6347/New-Jersey-Students-Fill-Football-Field-With-More-Than-250-000-Pounds-of-Food-for-Families-in-Need"
     }
    ]
   }
