@@ -1,0 +1,1772 @@
+{
+ "date": "2026-11-07",
+ "day": "Saturday",
+ "date_label": "7 November 2026",
+ "note": "Happy Choti Diwali 🪔",
+ "markets": {
+  "asof": "Sensex, Nifty & US indices: Fri 6 Nov close · Brent: Thu 5 Nov settlement · Gold: Delhi 24K, 7 Nov (GoodReturns)",
+  "items": [
+   {
+    "n": "Sensex",
+    "v": "81,028",
+    "c": "+2.17%"
+   },
+   {
+    "n": "Nifty",
+    "v": "25,030",
+    "c": "+2.01%"
+   },
+   {
+    "n": "S&P 500",
+    "v": "7,376.9",
+    "c": "+0.31%"
+   },
+   {
+    "n": "Nasdaq",
+    "v": "24,579",
+    "c": "+1.09%"
+   },
+   {
+    "n": "Brent",
+    "v": "$98.29",
+    "c": "+3.9%"
+   },
+   {
+    "n": "Gold 24K",
+    "v": "₹1,43,610/10g",
+    "c": ""
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slug": "angel-one-overtakes-zerodha",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "angelone.jpg",
+   "credit": "Angel One / via Analytics Insight",
+   "contain": false,
+   "head": "Angel One overtakes Zerodha to become India's No. 2 broker",
+   "dek": "New NSE data for October puts Angel One ahead of Zerodha by active clients for the first time. Groww is still far ahead at No. 1.",
+   "stat": [
+    "69.98L",
+    "active clients for Angel One in October"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "India's stockbroking league table just changed. According to NSE data for October 2026, Angel One now has about 69.98 lakh active clients, while Zerodha has about 67.59 lakh. That pushes Zerodha, long seen as the poster child of Indian discount broking, down to third place.",
+      "Angel One added roughly 2.43 lakh active users in the month. Zerodha went the other way, losing close to 33,000. Groww stays comfortably at the top with about 1.37 crore active clients after adding more than 3 lakh in October."
+     ]
+    },
+    {
+     "title": "Why it changed",
+     "paras": [
+      "Market watchers credit part of the jump to the record Jio Platforms IPO, which pulled lakhs of first-time investors into the market. Many of them opened or reactivated accounts with brokers that ran aggressive sign-up drives.",
+      "Zerodha had already flagged the trend in an August blog post: its share of active customers on NSE was falling even as its share of retail money (assets under management) kept rising. It restarted its referral programme earlier this year to win new users."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "'Active clients' only counts people who traded at least once in the past year, so it is a fight for engagement, not just downloads. October also brought 33.6 lakh new demat accounts, the most since January, taking India's total to about 24.4 crore.",
+      "The rankings below Groww are now tight, and every big IPO can move them."
+     ]
+    }
+   ],
+   "facts": [
+    "Groww: ~1.37 crore active clients",
+    "Angel One: ~69.98 lakh (+2.43 lakh)",
+    "Zerodha: ~67.59 lakh (−33,000)"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/companies/news/angel-one-overtakes-zerodha-to-become-2nd-largest-broker-by-active-clients-126110601754_1.html"
+    },
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/brokers-in-october-angel-one-climbs-to-the-second-spot-with-2-4-lakh-new-user-additions/"
+    },
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/news/angel-one-overtakes-zerodha-to-become-second-largest-broker-groww-adds-over-3-lakh-clients-in-october-12788879"
+    }
+   ]
+  },
+  {
+   "slug": "karbonn-rebel-comeback-11999",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "karbonn.jpg",
+   "credit": "Karbonn / via Business Today",
+   "contain": false,
+   "head": "Remember Karbonn? It's back with a ₹11,999 phone and a 7,000mAh battery",
+   "dek": "The Indian phone brand that ruled budget shelves a decade ago has returned with the Rebel series, betting on battery life over 5G.",
+   "stat": [
+    "7,000",
+    "mAh battery in the ₹11,999 Karbonn Rebel"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Karbonn, one of the Indian brands that sold millions of cheap phones before Chinese companies took over the market, has made a comeback with a new Rebel series. The Karbonn Rebel is listed on Amazon at ₹11,999 as a limited-time deal, down from ₹14,999.",
+      "Its big selling point is a 7,000mAh battery, the kind usually found in phones built for heavy all-day use. The catch: it charges at just 18W, so filling that battery takes a while."
+     ]
+    },
+    {
+     "title": "What you get",
+     "paras": [
+      "A 6.75-inch HD+ screen with a 90Hz refresh rate, a MediaTek Helio G81 chip, a 50MP rear camera, a 5MP selfie camera, a 3.5mm headphone jack and a memory-card slot that takes up to 1TB.",
+      "What you don't get is 5G. Reviewers point out that rivals already sell 5G phones for only a few hundred rupees more, which makes this a phone for people who care more about battery than network speed."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Nostalgia is a powerful marketing tool, and Karbonn is clearly leaning on it. But the Indian budget phone market is now dominated by Xiaomi, Realme, Samsung and Vivo, all with huge service networks.",
+      "The comeback will be a real test of whether an old 'desi' name can still win buyers in 2026, or whether people just liked remembering it."
+     ]
+    }
+   ],
+   "facts": [
+    "₹11,999 (listed at ₹14,999)",
+    "7,000mAh battery, 18W charging",
+    "4G only, no 5G"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/photo/remember-karbonn-its-rs11999-comeback-phone-has-a-feature-that-could-surprise-buyers-566014-2026-11-06"
+    },
+    {
+     "name": "Tech Times",
+     "url": "https://www.techtimes.com/articles/329965/20261103/karbonn-rebel-returns-android-16-under-120-indias-5g-market-has-moved.htm"
+    }
+   ]
+  },
+  {
+   "slug": "ramayana-box-office-100-crore",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "cinema.jpg",
+   "credit": "Bryce Edwards / Wikimedia, CC BY 2.0",
+   "contain": false,
+   "head": "Ramayana crosses ₹100 crore in India in just two days",
+   "dek": "Nitesh Tiwari's mega-budget epic has earned about ₹112.9 crore net in India and roughly ₹220 crore worldwide since Thursday's release.",
+   "stat": [
+    "₹112.9 Cr",
+    "India net in two days (Sacnilk estimate)"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Ramayana: Part 1, one of the most expensive films ever made in India, opened in theatres on Thursday, 5 November. According to trade tracker Sacnilk, it earned about ₹64.85 crore net in India on day one and another ₹48.05 crore on Friday, taking its two-day India total to around ₹112.9 crore net (₹134.8 crore gross).",
+      "Worldwide, Sacnilk estimates about ₹219.8 crore gross so far. The makers had claimed ₹155 crore gross worldwide for the opening day alone."
+     ]
+    },
+    {
+     "title": "The film",
+     "paras": [
+      "It is directed by Nitesh Tiwari and produced by Namit Malhotra and Yash. Ranbir Kapoor plays Lord Rama, Sai Pallavi plays Sita, Ravi Dubey plays Lakshmana and Yash plays Ravana.",
+      "The budget for Part 1 is estimated at ₹1,400–2,000 crore, with around ₹4,000 crore for the full two-part story."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "Day two saw a dip of roughly a quarter from the opening, which is normal for a Thursday release. About 43.8 lakh tickets have been sold in India so far.",
+      "The real test is the Diwali weekend: Lakshmi Puja is on Sunday, and holiday crowds could push the film much higher. Given its budget, it needs a very long run to be called a hit. Note: box-office figures are trade estimates and can differ from the producers' numbers."
+     ]
+    }
+   ],
+   "facts": [
+    "Day 1: ₹64.85 crore net",
+    "Day 2: ₹48.05 crore net",
+    "~₹219.8 crore worldwide gross"
+   ],
+   "sources": [
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/entertainment/2026/11/06/ramayana-box-office-collection-day-2-net-gross-100-crore.html"
+    },
+    {
+     "name": "Sacnilk",
+     "url": "https://www.sacnilk.com/movie/ramayana_part_1_2026"
+    }
+   ]
+  },
+  {
+   "slug": "mamaearth-honasa-profit-87-percent",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "mamaearth.jpg",
+   "credit": "Mamaearth / via Lapaas Voice",
+   "contain": false,
+   "head": "Mamaearth's parent Honasa grows profit 87% to ₹73 crore",
+   "dek": "The D2C beauty company behind Mamaearth posted strong September-quarter numbers, with revenue up 36%.",
+   "stat": [
+    "+87%",
+    "jump in Honasa's quarterly profit"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Honasa Consumer, the listed company behind Mamaearth, reported a net profit of about ₹73.2 crore for July–September 2026 (Q2 FY27). That's up 86.7% from ₹39.2 crore a year ago.",
+      "Revenue from operations rose about 36% to ₹731 crore, while expenses grew a slower 29% to ₹652 crore. When costs grow slower than sales, more of each rupee turns into profit."
+     ]
+    },
+    {
+     "title": "The fine print",
+     "paras": [
+      "Compared with the previous quarter, things cooled a bit: profit was about 19% lower than April–June's ₹90.4 crore, and revenue slipped around 3%. Beauty companies often see a softer monsoon quarter.",
+      "Expenses still came to about ₹652 crore, so margins remain thin by FMCG standards. The company will need to keep sales growing faster than costs for this to last."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Two years ago Honasa was the cautionary tale of Indian D2C. In late 2024 it reported a quarterly loss and its share price crashed. This quarter shows how far it has come: profit nearly doubled while sales grew by a third.",
+      "These results add to a growing story: profitable consumer brands built online are now standing on their own in the stock market.",
+      "For shoppers, it mostly means Mamaearth is here to stay. For other D2C founders, it's proof that the market rewards profits more than hype — Honasa was one of the first new-age consumer brands to list on the stock market in 2023."
+     ]
+    }
+   ],
+   "facts": [
+    "Profit: ₹73.2 crore (+86.7%)",
+    "Revenue: ₹731 crore (+36%)",
+    "Expenses: ₹652 crore (+29%)"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/mamaearth-parent-honasas-q2-profit-jumps-87-yoy-to-%E2%82%B973-cr/"
+    },
+    {
+     "name": "BW Disrupt",
+     "url": "https://www.bwdisrupt.com/article/mamaearth-parent-honasa-s-q2-net-profit-jumps-87-yoy-to-rs-73-cr-revenue-rises-36-632479"
+    },
+    {
+     "name": "Business Standard (2024 loss)",
+     "url": "https://www.business-standard.com/amp/markets/capital-market-news/mamaearth-hits-the-floor-after-reporting-net-loss-of-rs-19-cr-in-q2-124111800182_1.html"
+    }
+   ]
+  },
+  {
+   "slug": "openai-11-billion-1-25-trillion-valuation",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "openai.jpg",
+   "credit": "Jernej Furman / Wikimedia, CC BY 2.0",
+   "contain": false,
+   "head": "OpenAI raises $11 billion at a $1.25 trillion valuation",
+   "dek": "Bloomberg reports the ChatGPT maker's round could reach about $20 billion — but at a lower price than it was aiming for in September.",
+   "stat": [
+    "$1.25T",
+    "OpenAI's reported valuation"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "OpenAI has raised $11 billion so far in a new funding round that values the company at $1.25 trillion, Bloomberg reported on Friday, citing people familiar with the deal. TechCrunch, which followed up, said OpenAI did not immediately comment.",
+      "The round isn't closed yet. According to the report, it could total around $20 billion and wrap up in the coming weeks."
+     ]
+    },
+    {
+     "title": "The catch",
+     "paras": [
+      "In late September, Bloomberg had reported that OpenAI wanted to raise $30 billion at a $1.4 trillion valuation. Today's numbers are lower on both counts.",
+      "The timing matters: AI stocks have had a rough week. On Thursday, chip stocks had their worst day since March 2020 as investors worried about how much is being spent on data centres, before bouncing back partly on Friday."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "OpenAI is expected to go public sometime in 2027. A trillion-dollar private valuation, even a slightly trimmed one, shows investors still believe in the company's long-term growth.",
+      "Rival Anthropic is also reportedly preparing for an IPO, and the price buyers are willing to pay for these AI giants has become one of the biggest questions in tech."
+     ]
+    }
+   ],
+   "facts": [
+    "$11 billion raised so far",
+    "Round could reach ~$20 billion",
+    "Sept target: $30B at $1.4T"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation"
+    },
+    {
+     "name": "Yahoo Finance (markets)",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+    }
+   ]
+  },
+  {
+   "slug": "dream11-brand-new-app-december",
+   "tag": "Founders",
+   "color": "#0E9F5B",
+   "img": "dream11.jpg",
+   "credit": "Dream11 / Wikimedia, public domain",
+   "contain": true,
+   "head": "Harsh Jain teases a 'brand new Dream11' by end-December",
+   "dek": "After the real-money gaming ban killed its paid contests, Dream11's CEO says a rebuilt app for sports fans is coming.",
+   "stat": [
+    "₹20,000 Cr+",
+    "in GST dues Dream Sports is facing"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Dream11 co-founder and CEO Harsh Jain posted on X that a \"brand new Dream11\" will launch at the end of December, built \"by sports fans, for sports fans\". He didn't share features, pricing or an exact date.",
+      "Since the 2025 law banning online real-money games, Dream11 has stopped paid contests and turned into a watch-along platform where users follow creators playing fantasy teams."
+     ]
+    },
+    {
+     "title": "The bigger picture",
+     "paras": [
+      "Parent Dream Sports has been shrinking its side bets: it shut its money app Dream Money and its AI analytics app Dream Play in June 2026, and closed FanCode's merchandise business earlier this year. It still runs FanCode streaming, DreamCricket and a few other units.",
+      "It also faces GST demands of more than ₹20,000 crore after the Supreme Court upheld a 28% tax on the full face value of bets. The new app is its biggest attempt yet at a second life."
+     ]
+    }
+   ],
+   "facts": [
+    "Launch: end of December 2026",
+    "Paid contests stopped after 2025 law",
+    "Dream Money & Dream Play shut in June"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/ceo-harsh-jain-teases-a-revamped-dream11-by-2026-end/"
+    },
+    {
+     "name": "BW Disrupt",
+     "url": "https://www.bwdisrupt.com/article/dream11-co-founder-harsh-jain-hints-at-new-platform-introduction-by-december-end-632368"
+    }
+   ]
+  },
+  {
+   "slug": "ed-searches-coindcx-delta-exchange",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "coindcx.jpg",
+   "credit": "ED, CoinDCX, Delta Exchange / via The Crypto Times",
+   "contain": false,
+   "head": "ED searches CoinDCX and Delta Exchange over crypto trades sent abroad",
+   "dek": "The Enforcement Directorate says the two exchanges allegedly routed crypto derivatives and tokenised stock trades overseas without permission. Delta denies it.",
+   "stat": [
+    "3",
+    "Bengaluru premises searched on 4–5 Nov"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The Enforcement Directorate (ED) searched three premises in Bengaluru on 4 and 5 November linked to Neblio Technologies, which runs CoinDCX, and Excelium Technologies, which runs Delta Exchange India. The probe is under India's foreign exchange law, FEMA.",
+      "The ED alleges the platforms offered crypto futures and options, and trading in 'tokenised' foreign shares, without authorisation, and that user money was converted into stablecoins and moved to overseas exchanges. It says volumes ran into thousands of crores."
+     ]
+    },
+    {
+     "title": "What the companies say",
+     "paras": [
+      "Delta Exchange said it cooperated fully and denied any cross-border transfer of crypto assets. CoinDCX had not commented at the time of reporting. These are allegations; nothing has been proven, and the investigation is ongoing.",
+      "It is the latest in a string of ED actions against crypto firms this year, including a separate probe into Mudrex and others announced days earlier."
+     ]
+    }
+   ],
+   "facts": [
+    "Probe under FEMA, 1999",
+    "Volumes alleged in 'thousands of crores'",
+    "Delta denies wrongdoing"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/ed-searches-coindcx-delta-exchange-over-alleged-illegal-cross-border-transfers/"
+    },
+    {
+     "name": "Free Press Journal",
+     "url": "https://www.freepressjournal.in/mumbai/ed-searches-coindcx-delta-exchange-over-alleged-fema-violations-in-crypto-trading"
+    }
+   ]
+  },
+  {
+   "slug": "burger-king-india-avengers-doomsday-menu",
+   "tag": "Marketing",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Burger King India launches a black-bun 'Doomsday Whopper' for Avengers",
+   "dek": "As Marvel's official restaurant partner in India, Burger King has rolled out a villain-themed menu from ₹199 ahead of the film's December release.",
+   "stat": [
+    "₹199",
+    "starting price of the Avengers burgers"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Burger King India is the official restaurant partner for Marvel's Avengers: Doomsday in India. Its new menu is led by the Doomsday Whopper, with black buns coloured using plant-based colours, in veg and chicken versions.",
+      "There are also character-named items like a Loki Molten Cheese Burger, Cyclops Soft Paneer Burger, Shuri Vibranium Fries and Thor Thunder Nuggets, plus themed boxes, a Doctor Doom-style crown and a collectible tumbler with select meals."
+     ]
+    },
+    {
+     "title": "Why it's clever",
+     "paras": [
+      "Movie tie-ins give fast-food brands a reason to be talked about for weeks before a film opens. Burger King is running it everywhere at once: app pre-bookings, in-store, billboards and influencers.",
+      "It is part of a global Doomsday food frenzy: Dunkin' launched its own menu in the US on 4 November, and a KFC tie-in has been teased online."
+     ]
+    }
+   ],
+   "facts": [
+    "Burgers from ₹199",
+    "Veg and chicken Doomsday Whopper",
+    "Collectible tumbler with select meals"
+   ],
+   "sources": [
+    {
+     "name": "Indian Retailer",
+     "url": "https://www.indianretailer.com/brandlicense/archives/news/burger-king-india-partners-marvel-avengers-doomsday-menu.n6202"
+    },
+    {
+     "name": "Fiction Horizon",
+     "url": "https://fictionhorizon.com/?p=397327"
+    }
+   ],
+   "emoji": "🍔"
+  },
+  {
+   "slug": "sensex-nifty-best-week-six-years",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "bse.jpg",
+   "credit": "BSE / via ETV Bharat",
+   "contain": false,
+   "head": "Sensex jumps 1,718 points as foreign money pours back into India",
+   "dek": "The Sensex and Nifty rose about 2% on Friday and over 8% for the week — their best week in six years.",
+   "stat": [
+    "+1,718",
+    "Sensex points gained on Friday"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The Sensex closed at 81,028 on Friday, up 1,718 points (2.17%), and the Nifty ended at 25,030, up about 494 points (2.01%), reclaiming the 25,000 mark. It was a seventh straight day of gains.",
+      "For the week, both indices rose roughly 8.6–8.8%, their strongest weekly run in six years. Banks led, with ICICI Bank, HDFC Bank and Axis Bank among the top gainers, along with M&M and Titan."
+     ]
+    },
+    {
+     "title": "Why",
+     "paras": [
+      "Foreign investors bought about ₹15,000 crore of Indian shares on Thursday, their biggest single-day buying in nearly six years, as money rotated out of US AI stocks into markets like India. Lower oil prices earlier in the week also eased worries about inflation and the rupee.",
+      "Even after the rally, both indices are still down around 4–5% for 2026. This is market information, not investment advice."
+     ]
+    }
+   ],
+   "facts": [
+    "Sensex: 81,028 (+2.17%)",
+    "Nifty: 25,030 (+2.01%)",
+    "FII buying Thursday: ~₹15,000 crore"
+   ],
+   "sources": [
+    {
+     "name": "HDFC Sky",
+     "url": "https://hdfcsky.com/news/market-close-report-today-november-6-2026-diwali-party-continues-in-full-swing-ignoring-global-selloff"
+    },
+    {
+     "name": "ETV Bharat",
+     "url": "https://www.etvbharat.com/en/business/stock-market-on-november-6-2026-sensex-nifty50-crude-oil-prices-fii-world-stock-markets-enn26110601249"
+    }
+   ]
+  },
+  {
+   "slug": "india-win-asian-champions-trophy-hockey",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "hockey.jpg",
+   "credit": "Jagmit Singh Brar / Wikimedia, CC BY-SA 4.0",
+   "contain": false,
+   "head": "India beat Japan 4-1 to win a record 6th Asian Champions Trophy",
+   "dek": "Down 0-1 for most of the final, India scored four goals in the last 18 minutes in Mohali to complete a hat-trick of titles.",
+   "stat": [
+    "6th",
+    "Asian Champions Trophy title — a record"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "India's men's hockey team beat Japan 4-1 in the Asian Champions Trophy final in Mohali on Thursday. Japan scored in the 3rd minute and held on until the 42nd, when Shilanand Lakra equalised. Dilpreet Singh, Jugraj Singh (penalty corner) and Sukhjeet Singh then made it 4-1.",
+      "It is India's sixth title, the most by any team, and their third in a row. They went unbeaten all tournament, including an 8-1 semi-final win over South Korea."
+     ]
+    },
+    {
+     "title": "Milestones",
+     "paras": [
+      "Captain Harmanpreet Singh finished as top scorer with 10 goals and reached 250 senior international goals. Hardik Singh played his 200th international match. Hockey India announced ₹3 lakh for each player."
+     ]
+    }
+   ],
+   "facts": [
+    "Final: India 4-1 Japan",
+    "Harmanpreet: 10 goals, 250 career",
+    "3rd straight title"
+   ],
+   "sources": [
+    {
+     "name": "Khel Now",
+     "url": "https://khelnow.com/hockey/india-japan-final-report-mens-hockey-asian-champions-trophy-202611"
+    },
+    {
+     "name": "The Bridge",
+     "url": "https://thebridge.in/hockey/asian-mens-champions-trophy-india-wins-title-58289"
+    }
+   ],
+   "good": true,
+   "emoji": "🏑"
+  },
+  {
+   "slug": "aadhaar-voter-id-benefit-payments",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "aadhaar.jpg",
+   "credit": "Aadhaar cards / via Business Today",
+   "contain": false,
+   "head": "Minister says voter ID, not Aadhaar, may be used for benefit payments",
+   "dek": "Union Minister Rajiv Ranjan Singh said biometrics and the voter ID number would be the basis for paying beneficiaries. No official policy has been announced yet.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What was said",
+     "paras": [
+      "At a Panchayati Raj ministry workshop, Union Minister Rajiv Ranjan (Lalan) Singh said that for paying beneficiaries, \"biometrics and their voter ID (EPIC) number will be used as the basis\", indicating Aadhaar may no longer be the key. The Indian Express first reported the remarks.",
+      "He did not say which schemes would change, or when."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Today, money under big schemes like PM-Kisan, PMAY-Gramin, old-age and widow pensions and the rural jobs programme goes into Aadhaar-linked bank accounts. Any switch would affect crores of people.",
+      "For now it's a minister's statement, not a notified rule, so nothing changes yet for beneficiaries."
+     ]
+    }
+   ],
+   "facts": [
+    "Remarks by Union Minister Lalan Singh",
+    "No schemes or dates named",
+    "PM-Kisan etc. use Aadhaar-linked accounts today"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/india/story/aadhaar-card-will-no-longer-be-the-basis-centre-may-replace-aadhaar-with-voter-id-biometrics-for-beneficiary-payments-566044-2026-11-05"
+    },
+    {
+     "name": "The Federal",
+     "url": "https://thefederal.com/category/news/voter-id-will-replace-aadhaar-for-govt-scheme-payments-union-minister-lalan-singh-261900"
+    }
+   ]
+  },
+  {
+   "slug": "israel-eisenkot-67-seats-mandate",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "knesset.jpg",
+   "credit": "Clema12 / Wikimedia, CC BY-SA 4.0",
+   "contain": false,
+   "head": "67 Israeli MPs back Eisenkot over Netanyahu to form the next government",
+   "dek": "President Herzog will announce on Sunday who gets the first chance to form a government after last month's election.",
+   "stat": [
+    "67 vs 46",
+    "MPs backing Eisenkot vs Netanyahu"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "After meeting all parties, Israeli President Isaac Herzog said 67 of the Knesset's 120 members recommended Gadi Eisenkot, leader of the Yashar party, as prime minister, while 46 recommended Benjamin Netanyahu. United Torah Judaism's 7 members backed no one.",
+      "Eisenkot's 67 include Arab-led parties Ra'am and the Joint List. Herzog said he will announce his choice on Sunday, 8 November."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "Recommendations don't automatically make a government. Several Jewish-led parties in Eisenkot's camp refuse to sit with Arab parties, so his path to a working coalition is still unclear. The new Knesset is sworn in on 10 November."
+     ]
+    }
+   ],
+   "facts": [
+    "120 seats in the Knesset",
+    "Eisenkot 67, Netanyahu 46",
+    "Decision due Sunday, 8 Nov"
+   ],
+   "sources": [
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government"
+    }
+   ]
+  },
+  {
+   "slug": "makemytrip-buys-quick-ride",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "mmt.jpg",
+   "credit": "MakeMyTrip / via Inc42",
+   "contain": false,
+   "head": "MakeMyTrip buys majority stake in carpooling app Quick Ride",
+   "dek": "The travel giant is entering daily commutes, adding Bengaluru's Quick Ride to a ground-transport stable that already has redBus and Savaari.",
+   "stat": [
+    "8",
+    "cities where Quick Ride runs"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "MakeMyTrip has bought a majority stake in Quick Ride, a Bengaluru app that matches people travelling the same way so they can share car and bike rides. The price wasn't disclosed. Founder KNM Rao and team will keep running it.",
+      "The ride-pooling business moves into a new company, Co Ride Mobility, while Quick Ride's EV taxi business stays separate."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Group CEO Rajesh Magow said ride pooling gives MakeMyTrip a presence in high-frequency daily commutes within cities as well as intercity trips. Travel apps get used a few times a year; a commute app can be used twice a day.",
+      "Quick Ride works in Bengaluru, Hyderabad, Chennai, Pune, Kochi, Delhi NCR, Mumbai and Kolkata, and counts companies like Wipro, TCS and Infosys as enterprise clients."
+     ]
+    }
+   ],
+   "facts": [
+    "Deal value undisclosed",
+    "Founder KNM Rao stays on",
+    "Raised $14M+ earlier"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/makemytrip-acquires-majority-stake-in-quick-ride-to-enter-ride-pooling/"
+    },
+    {
+     "name": "StartupTalky",
+     "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-6-november-2026/"
+    }
+   ]
+  },
+  {
+   "slug": "claude-personal-finance-bank-accounts",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "claude.jpg",
+   "credit": "Anthropic / via TechCrunch",
+   "contain": false,
+   "head": "Claude can now read your bank transactions and flag odd charges",
+   "dek": "Anthropic's new Personal Finance beta connects bank and card accounts through Plaid. It's US-only for now and read-only.",
+   "stat": [
+    "2 years",
+    "of transaction history Claude can see"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Anthropic has launched Personal Finance in Claude, a beta for US users on its Pro, Max and Ultra plans. People can link bank and credit-card accounts through Plaid, then ask questions about their money.",
+      "Claude can total and sort spending by category, spot duplicate charges, surprise fees and bills that keep creeping up, and explain things like how much interest you paid last year."
+     ]
+    },
+    {
+     "title": "Privacy",
+     "paras": [
+      "Anthropic says access is read-only: Claude can't move, manage or invest money. It sees balances, account types, the last four digits of account numbers and up to two years of transactions. Chats in the Personal Finance hub aren't used to train models, and there are no ads or sponsored product picks.",
+      "It's not available in India yet."
+     ]
+    }
+   ],
+   "facts": [
+    "US-only beta",
+    "Pro, Max and Ultra plans",
+    "Read-only via Plaid"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+    },
+    {
+     "name": "Plaid",
+     "url": "https://plaid.com/blog/plaid-anthropic-financial-insights-in-claude/"
+    }
+   ]
+  },
+  {
+   "slug": "giva-raises-100-million",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Jewellery brand GIVA raises $100 million to open 1,000 stores",
+   "dek": "The fine-jewellery startup's round is led by Multiples, just as India heads into Diwali shopping.",
+   "stat": [
+    "$100M+",
+    "raised by GIVA"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "GIVA, the jewellery brand started in 2019 by Ishendra Agarwal and Nikita Prasad, has raised over $100 million in a round led by Multiples Alternate Asset Management. Existing investors Epiq Capital and Edelweiss Discovery Fund also joined.",
+      "The money will go into more physical stores, its own manufacturing, and stock across categories."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "GIVA started online and now has 400+ stores in India and Sri Lanka, mostly in Tier 1 and Tier 2 cities. It wants more than 1,000 within three to five years.",
+      "It's one of the biggest consumer-brand rounds of the season, and a sign that investors still back online-first brands that are building real stores."
+     ]
+    }
+   ],
+   "facts": [
+    "400+ stores today",
+    "Target: 1,000+ in 3–5 years",
+    "Lead investor: Multiples"
+   ],
+   "sources": [
+    {
+     "name": "DealStreetAsia",
+     "url": "https://www.dealstreetasia.com/stories/giva-multiples-500083"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/giva-raises-100m-in-multiples-led-round"
+    }
+   ],
+   "emoji": "💍"
+  },
+  {
+   "slug": "us-jobs-report-october-165000",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "US economy adds 165,000 jobs in October, far above forecasts",
+   "dek": "Unemployment fell to 4.1%, a surprise after a rough week for US stocks.",
+   "stat": [
+    "165,000",
+    "US jobs added in October"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "US employers added 165,000 jobs in October, more than double the roughly 65,000–70,000 economists expected. The unemployment rate dipped to 4.1% from 4.2%.",
+      "On Friday, the Nasdaq rose about 1.1% and the S&P 500 0.3%, as chip stocks bounced back after Thursday's sell-off. The Dow slipped 0.5%.",
+      "September's number was revised to 60,000, so October's jump stands out even more. Economists also noted that wages are still struggling to keep pace with prices."
+     ]
+    },
+    {
+     "title": "Why it matters for India",
+     "paras": [
+      "A strong US job market can keep US interest rates higher for longer, which affects the dollar, the rupee and where global investors put their money. For now, foreign investors have been moving money into Indian shares."
+     ]
+    }
+   ],
+   "facts": [
+    "Unemployment: 4.1%",
+    "Expected: ~65,000–70,000 jobs",
+    "S&P 500 closed at 7,376.86"
+   ],
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+    }
+   ]
+  },
+  {
+   "slug": "nse-shares-record-high-50-billion",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "nse.jpg",
+   "credit": "NSE / via Business Today",
+   "contain": false,
+   "head": "NSE shares hit a record; exchange now worth over $50 billion",
+   "dek": "India's biggest stock exchange touched ₹1,953.95 a share after strong September-quarter profits.",
+   "stat": [
+    "$50B+",
+    "NSE's market value"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Shares of the National Stock Exchange of India rose up to 3.15% on Friday to a record ₹1,953.95, the fourth straight day of gains. That puts its market value at about ₹4.83 lakh crore, or more than $50 billion.",
+      "In the September quarter, NSE's consolidated profit rose 23% to ₹2,578 crore and total income rose 9% to ₹4,554 crore.",
+      "Operating profit (EBITDA) more than doubled to ₹3,079 crore, cash-market trading values rose 24% and listing fees jumped 70% — helped by a busy IPO season."
+     ]
+    },
+    {
+     "title": "What brokerages say",
+     "paras": [
+      "JPMorgan said results beat its estimates and kept a Buy with a ₹2,130 target; Morgan Stanley, Jefferies and Macquarie also stayed positive. This is information, not investment advice."
+     ]
+    }
+   ],
+   "facts": [
+    "Record: ₹1,953.95",
+    "Q2 profit: ₹2,578 crore (+23%)",
+    "Market cap ~₹4.83 lakh crore"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/markets/stocks/story/nse-shares-extend-gains-hit-fresh-peak-what-brokerages-recommend-566112-2026-11-06"
+    },
+    {
+     "name": "Kotak Neo",
+     "url": "https://www.kotakneo.com/news/stocks/nse-share-price-hits-post-listing-high/"
+    }
+   ]
+  },
+  {
+   "slug": "tata-punch-ev-beats-mahindra-xev-9s",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "img": "punch.jpg",
+   "credit": "Tata Punch.ev / via WION Drive",
+   "contain": false,
+   "head": "Tata Punch EV beats Mahindra XEV 9S by just 45 units in October",
+   "dek": "India's best-selling electric car race is down to a photo finish, with EV sales up about 76% from last year.",
+   "stat": [
+    "45",
+    "units separating No. 1 and No. 2"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The Tata Punch EV was India's top-selling electric car in October with 4,801 registrations, just ahead of the Mahindra XEV 9S at 4,756, according to ElecTree data. The Tata Nexon EV (3,562) and MG Windsor EV (3,127) followed.",
+      "The gap is so small that late registration updates could still change the order."
+     ]
+    },
+    {
+     "title": "The bigger picture",
+     "paras": [
+      "Autocar India counted about 36,900 electric cars sold in October, up 76% from a year ago. Tata sold 14,654 and Mahindra hit a record 8,541. The Punch EV costs ₹9.79–12.99 lakh, while the much bigger XEV 9S costs ₹19.95–29.45 lakh (ex-showroom)."
+     ]
+    }
+   ],
+   "facts": [
+    "Punch EV: 4,801",
+    "XEV 9S: 4,756",
+    "EV market +76% year on year"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/trends/photo/tata-punch-ev-holds-off-mahindra-xev-9s-by-45-units-in-october-566200-2026-11-06"
+    },
+    {
+     "name": "WION Drive",
+     "url": "https://www.wiondrive.com/news/tata-punch-ev-crosses-5000-unit-sales-mark-in-oct-2026-34729/"
+    }
+   ]
+  },
+  {
+   "slug": "turkey-ratifies-mecca-defence-pact",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Turkey ratifies a NATO-style defence pact with Saudi Arabia and Pakistan",
+   "dek": "The Mecca agreement commits the three countries to help each other if one is attacked.",
+   "stat": [
+    "279–119",
+    "vote in Turkey's parliament"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Turkey's parliament approved the Mecca Joint Defence Agreement with Saudi Arabia and Pakistan by 279 votes to 119. The three countries signed it in Mecca in August.",
+      "Its key clause says an armed attack on one member requires the others to help, similar to NATO's Article 5. It also covers joint training, intelligence sharing and defence industry cooperation, and runs for at least 10 years."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Turkey is a NATO member, so critics ask whether the two commitments could clash; Turkish officials dismiss that. Saudi Arabia faces rising Houthi missile attacks, but Turkey's defence minister said it does not expect to fight the Houthis and sees the pact as deterrence. Ratification alone doesn't send troops anywhere."
+     ]
+    }
+   ],
+   "facts": [
+    "Signed in Mecca, August 2026",
+    "16 articles",
+    "Minimum 10-year commitment"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://aljazeera.com/amp/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement"
+    },
+    {
+     "name": "Jerusalem Post",
+     "url": "https://www.jpost.com/middle-east/article-914024"
+    }
+   ],
+   "emoji": "🤝"
+  },
+  {
+   "slug": "eloelo-80-million-story-tv-microdramas",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "EloElo raises $80 million from NBCUniversal to grow microdramas",
+   "dek": "The parent of Story TV is betting that Indians will pay for bite-sized vertical dramas.",
+   "stat": [
+    "$80M",
+    "Series C for EloElo"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "EloElo Group, which runs microdrama app Story TV, raised $80 million in a Series C led by Hornbill Capital and NBCUniversal, at a $500 million valuation. It has now raised $130 million in total. Founder Saurabh Pandey is a former Flipkart executive.",
+      "EloElo says it has over 40 million monthly users across its apps, who spend about 95 minutes a day watching."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Microdramas are short, cliffhanger-heavy episodes made for phones. Over 11.8 crore Indians watch them monthly, and analysts expect the business to make $3–4 billion a year by 2030. The challenge is payment: one survey found 72% of viewers have never paid."
+     ]
+    }
+   ],
+   "facts": [
+    "Valuation: $500 million",
+    "40M+ monthly users",
+    "5,000+ titles in 6 languages"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/"
+    },
+    {
+     "name": "Variety",
+     "url": "https://variety.com/2026/tv/news/nbcuniversal-microdrama-story-tv-eloelo-80-million-1236938992/"
+    }
+   ],
+   "emoji": "📱"
+  },
+  {
+   "slug": "india-beat-pakistan-saff-championship",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "India hold off Pakistan 3-2 in SAFF Championship opener",
+   "dek": "Suhail Bhat scored twice as the defending champions led 3-0 at half-time in Dhaka, before two late Pakistan goals.",
+   "stat": [
+    "3-2",
+    "India's win over Pakistan"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "India began their SAFF Championship title defence with a 3-2 win over Pakistan at Dhaka's National Stadium on Thursday. Suhail Ahmad Bhat scored in the 13th and 19th minutes and Manglenthang Kipgen added a third in the 31st.",
+      "Pakistan missed a first-half penalty and scored twice in stoppage time to make the finish nervy."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "India top Group B and play the Maldives on 11 November. The top two from each group reach the semi-finals, and the final is on 17 November.",
+      "This is the 15th edition of South Asia's top football tournament, with six teams taking part. India are the defending champions and the most successful side in SAFF history."
+     ]
+    }
+   ],
+   "facts": [
+    "Suhail Bhat: 2 goals",
+    "India led 3-0 at half-time",
+    "Next: vs Maldives, 11 Nov"
+   ],
+   "sources": [
+    {
+     "name": "Khel Now",
+     "url": "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-pakistan-match-report"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/football/story/_/id/50386048/india-vs-pakistan-live-latest-updates-commentary-score-news-saff-championship-2026"
+    }
+   ],
+   "good": true,
+   "emoji": "⚽"
+  },
+  {
+   "slug": "aina-ai-ring-with-screen",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "aina.jpg",
+   "credit": "Aina / via Notebookcheck",
+   "contain": false,
+   "head": "Bengaluru startup Aina unveils a $399 AI ring with its own screen",
+   "dek": "The ring tries to guess your next three actions and lets you approve them with a flick.",
+   "stat": [
+    "$399",
+    "early-bird price"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Aina, a Bengaluru startup founded in May 2025 by former Ultrahuman hardware VP Apoorv Shankar, has revealed an AI ring with a tiny screen, a joystick-style control and a microphone. Pre-orders opened on 5 November at $399, with shipping planned from January 2027.",
+      "The ring learns your habits from your phone, computer and calendar, then suggests three likely next actions, such as booking a cab before your commute, which you accept or reject with an up or down flick."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "It's an Indian hardware startup taking a big swing at the 'what comes after the smartphone' question. It works with iOS and Mac at launch."
+     ]
+    }
+   ],
+   "facts": [
+    "Pre-orders from 5 Nov",
+    "Ships January 2027",
+    "iOS and Mac at launch"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/companies/start-ups/bengaluru-startup-aina-unveils-ai-ring-to-predict-users-next-actions-126110502214_1.html"
+    },
+    {
+     "name": "Notebookcheck",
+     "url": "https://www.notebookcheck.net/Aina-unveils-a-chunky-AI-ring-with-its-own-screen-joystick-and-microphone.1443341.0.html"
+    }
+   ]
+  },
+  {
+   "slug": "bank-of-india-waives-loan-processing-fee",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "img": "boi.jpg",
+   "credit": "Bank of India / via Business Today",
+   "contain": false,
+   "head": "Bank of India waives processing fees on home and car loans till March 2027",
+   "dek": "Borrowers with a CIBIL score of 725 or more can skip the fee; EV car loans qualify regardless of score.",
+   "stat": [
+    "100%",
+    "processing fee waived"
+   ],
+   "sections": [
+    {
+     "title": "What's on offer",
+     "paras": [
+      "Bank of India is waiving 100% of processing charges on home loans and new car loans until 31 March 2027. Individuals need a CIBIL score of 725 or above. It covers regular home loans, top-ups and loans moved over from other banks, subject to the bank's rules.",
+      "Loans for electric cars get the waiver whatever the credit score."
+     ]
+    },
+    {
+     "title": "Worth knowing",
+     "paras": [
+      "A fee waiver doesn't guarantee approval; normal eligibility checks still apply. Before switching, compare the interest rate too — over a 20-year home loan, a small rate difference matters far more than a one-time fee."
+     ]
+    }
+   ],
+   "facts": [
+    "Valid till 31 March 2027",
+    "CIBIL 725+ needed",
+    "EV car loans: no score cut-off"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/industry/banks/story/bank-of-india-waives-processing-fees-on-home-car-loans-till-march-2027-check-eligibility-565124-2026-11-02"
+    },
+    {
+     "name": "Equitybulls",
+     "url": "https://www.equitybulls.com/news/378322/bank-of-india-announces-100-processing-charge-waiver-on-eligible-home-and-four-w"
+    }
+   ]
+  },
+  {
+   "slug": "paraguay-president-pena-resigns-ueno-bank",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Paraguay's president tries to resign after a digital bank collapses",
+   "dek": "Congress refused Santiago Peña's resignation and moved towards impeachment after Ueno, used by about 3 million people, failed.",
+   "stat": [
+    "3M",
+    "Ueno customers in a country of 6.5M"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Paraguay's central bank said digital lender Ueno had fallen below the legal solvency level, leaving many of its roughly 3 million customers, in a country of 6.5 million, cut off from their accounts, including pensions. Ueno also handled close to $850 million in public funds.",
+      "President Santiago Peña offered to resign on Thursday, but Congress did not accept it after ruling-party lawmakers walked out, and the Senate pushed ahead with impeachment proceedings instead."
+     ]
+    },
+    {
+     "title": "Why he's under pressure",
+     "paras": [
+      "Peña once held a stake in Ueno's parent company, which he says he sold in 2025. The central bank chief has resigned and the attorney general has opened three criminal investigations. Peña says he will cooperate."
+     ]
+    }
+   ],
+   "facts": [
+    "~$850M of public funds at Ueno",
+    "Central bank chief resigned",
+    "3 criminal probes opened"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/05/ueno-bank-collapse-in-paraguay-prompts-president-santiago-pena-to-resign"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-2814-crore-lithium-nickel-scheme",
+   "tag": "Economy",
+   "color": "#D97706",
+   "img": "minerals.jpg",
+   "credit": "Minerals / via Business Standard",
+   "contain": false,
+   "head": "Cabinet clears ₹2,814 crore to build lithium and nickel plants in India",
+   "dek": "The scheme gives a 30% capital subsidy for four processing plants to cut dependence on imports for EV batteries.",
+   "stat": [
+    "30%",
+    "capital subsidy on eligible investment"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The Union Cabinet on Wednesday approved a ₹2,814 crore scheme, running from FY27 to FY31, to support two lithium and two nickel processing plants. Companies get a 30% capital subsidy, capped at ₹500 crore per lithium plant and ₹900 crore per nickel plant.",
+      "Each lithium plant must process at least 30,000 tonnes a year and each nickel plant 50,000 tonnes."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Lithium and nickel are key ingredients of EV and phone batteries, and India imports almost all of its refined supply. Processing at home makes the battery supply chain less vulnerable to shocks abroad."
+     ]
+    }
+   ],
+   "facts": [
+    "Outlay: ₹2,814 crore",
+    "2 lithium + 2 nickel plants",
+    "FY27 to FY31"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/india-news/cabinet-clears-2-814-crore-support-for-lithium-nickel-processing-plants-126110401937_1.html"
+    },
+    {
+     "name": "Deccan Herald",
+     "url": "https://www.deccanherald.com/india/cabinet-approves-rs-2814-crore-scheme-to-promote-critical-mineral-processing-4207134"
+    }
+   ]
+  },
+  {
+   "slug": "tanvi-patri-youth-olympics-badminton-silver",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "15-year-old Tanvi Patri wins India's first Youth Olympics women's singles silver",
+   "dek": "She pushed world junior champion Zhang Yi Xin to 26-24 in the deciding game of the final in Dakar.",
+   "stat": [
+    "26-24",
+    "the deciding game of the final"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Tanvi Patri, 15, won silver in women's singles badminton at the Youth Olympics in Dakar, Senegal, losing a thriller to China's Zhang Yi Xin, the reigning world junior champion, 21-15, 13-21, 24-26 over 82 minutes.",
+      "She is the first Indian woman to win a Youth Olympics singles badminton medal."
+     ]
+    },
+    {
+     "title": "In good company",
+     "paras": [
+      "Only two Indian shuttlers had won individual Youth Olympics medals before her: HS Prannoy (silver, 2010) and Lakshya Sen (silver, 2018). Both went on to big senior careers.",
+      "Tanvi had already made history earlier in the week as the first Indian woman to reach the Youth Olympics badminton semi-finals. Her run gives Indian women's badminton an exciting new name to follow."
+     ]
+    }
+   ],
+   "facts": [
+    "Age: 15",
+    "Match lasted 1 hr 22 min",
+    "3rd Indian shuttler with a YOG medal"
+   ],
+   "sources": [
+    {
+     "name": "The Bridge",
+     "url": "https://thebridge.in/youth-olympics/tanvi-patri-wins-indias-first-ever-womens-singles-silver-58288"
+    },
+    {
+     "name": "All India Radio",
+     "url": "https://newsonair.gov.in/tanvi-patri-scripts-history-enters-womens-badminton-final-at-youth-olympics/"
+    }
+   ],
+   "good": true,
+   "emoji": "🏸"
+  },
+  {
+   "slug": "doj-super-intelligence-task-force",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "US Justice Department sets up a 'Super Intelligence' task force",
+   "dek": "The new team will go after foreign states, criminal groups and fraudsters who misuse advanced AI.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The US Department of Justice has created the Super Intelligence Task Force (DOJ-SITF) to coordinate criminal and civil cases against people who misuse advanced AI, including foreign governments, criminal organisations and fraudsters. It brings together the FBI and the department's antitrust, criminal, civil and national security teams.",
+      "It takes over the work of an earlier AI task force set up in January."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "It is a sign that governments now treat AI misuse as a law-enforcement priority, not just a policy debate. Legal experts note it creates no new crime by itself; it uses existing laws."
+     ]
+    }
+   ],
+   "facts": [
+    "Led by the Attorney General's office",
+    "Includes the FBI",
+    "Replaces January's AI Task Force"
+   ],
+   "sources": [
+    {
+     "name": "ExecutiveGov",
+     "url": "https://www.executivegov.com/articles/doj-super-intelligence-task-force-ai-misuse"
+    },
+    {
+     "name": "Tech Times",
+     "url": "https://www.techtimes.com/articles/330168/20261106/doj-super-intelligence-task-force-launches-no-new-offense-hacking-law-needs-human-intent.htm"
+    }
+   ],
+   "emoji": "⚖️"
+  },
+  {
+   "slug": "mobikwik-nbfc-licence-5000-crore-loans",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "MobiKwik gets an RBI lending licence, eyes ₹5,000 crore in loans",
+   "dek": "The fintech's subsidiary can now lend directly as an NBFC, starting within three to six months.",
+   "stat": [
+    "₹5,000 Cr",
+    "loans planned over 3–4 years"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "MobiKwik Financial Services, a subsidiary of the listed payments company, has received an NBFC (non-banking finance company) registration from the RBI. MobiKwik plans to start lending within three to six months and aims to disburse ₹5,000 crore over the next three to four years."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Until now, fintech apps mostly earned a cut by connecting users to other lenders' loans. Having its own licence lets MobiKwik lend from its own books and keep more of the interest — but also carry more of the risk."
+     ]
+    }
+   ],
+   "facts": [
+    "RBI NBFC registration",
+    "Lending to start in 3–6 months",
+    "Target: ₹5,000 crore"
+   ],
+   "sources": [
+    {
+     "name": "BW Businessworld",
+     "url": "https://www.businessworld.in/article/mobikwik-gets-rbi-nbfc-licence-targets-rs-5-000-cr-loan-disbursals-632465"
+    },
+    {
+     "name": "StartupTalky",
+     "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-6-november-2026/"
+    }
+   ],
+   "emoji": "💳"
+  },
+  {
+   "slug": "india-vs-new-zealand-second-odi-wellington",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "India go for 2-0 against New Zealand in today's 2nd ODI",
+   "dek": "After Virat Kohli's 74 sealed the rain-hit opener, the series moves to Wellington.",
+   "stat": [
+    "1-0",
+    "India lead the 5-match series"
+   ],
+   "sections": [
+    {
+     "title": "Where things stand",
+     "paras": [
+      "India won the first ODI in Auckland by five wickets on DLS. Arshdeep Singh took 4 wickets as New Zealand were bowled out for 185, and Virat Kohli's 74 off 51 balls chased down the revised target of 143 in 22.4 overs.",
+      "With that innings Kohli passed Sachin Tendulkar as the highest run-scorer in ODI run chases (8,741 runs)."
+     ]
+    },
+    {
+     "title": "Today",
+     "paras": [
+      "The second ODI in Wellington starts at 3 pm local time (7:30 am IST) on Saturday. Mohammed Siraj has joined the squad. Three more ODIs and two Tests follow later this month."
+     ]
+    }
+   ],
+   "facts": [
+    "1st ODI: India won by 5 wkts (DLS)",
+    "Kohli 74 off 51",
+    "2nd ODI: 7:30 am IST today"
+   ],
+   "sources": [
+    {
+     "name": "All India Radio",
+     "url": "https://newsonair.gov.in/fcricket-indian-men-register-five-wicket-victory-over-nz-in-first-odi/"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.co.uk/cricket/scores/team/6/india"
+    }
+   ],
+   "emoji": "🏏"
+  },
+  {
+   "slug": "ott-releases-diwali-weekend",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "ott.jpg",
+   "credit": "Streaming platforms / via IWMBuzz",
+   "contain": false,
+   "head": "Diwali weekend on OTT: Haiwaan, The Vvaan and Last Man in Tower",
+   "dek": "Akshay Kumar and Saif Ali Khan, Sidharth Malhotra and Manoj Bajpayee lead this weekend's streaming picks.",
+   "stat": [
+    "5",
+    "big new releases this weekend"
+   ],
+   "sections": [
+    {
+     "title": "What's new",
+     "paras": [
+      "Haiwaan (SonyLIV): Priyadarshan's thriller with Akshay Kumar and Saif Ali Khan, about a visually impaired lift operator suspected of murder.",
+      "The Vvaan – Force of the Forrest (Prime Video): Sidharth Malhotra and Tamannaah Bhatia in a folklore thriller set in Central India's forests.",
+      "Last Man in Tower (ZEE5): Manoj Bajpayee as a retired teacher who refuses to sell his Mumbai flat for redevelopment, based on Aravind Adiga's novel."
+     ]
+    },
+    {
+     "title": "Also streaming",
+     "paras": [
+      "I'm Game (JioHotstar), a Malayalam action thriller with Dulquer Salmaan set around cricket, and Under Siege (Netflix), a Spanish drama about the 1985 Bogotá Palace of Justice siege. All dropped on 6 November."
+     ]
+    }
+   ],
+   "facts": [
+    "Haiwaan – SonyLIV",
+    "The Vvaan – Prime Video",
+    "Last Man in Tower – ZEE5"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://business-standard.com/lifestyle/ott-releases-this-week-new-movies-and-shows-to-watch-this-diwali-weekend-nc-126110601335_1.html"
+    },
+    {
+     "name": "ETV Bharat",
+     "url": "https://etvbharat.com/en/entertainment/ott-releases-this-weekend-im-game-the-vvaan-meesaya-murukku-2-and-more-to-stream-enn26110606151"
+    }
+   ],
+   "emoji": "🍿"
+  },
+  {
+   "slug": "sandwich-terns-return-after-bird-flu",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "g_tern.jpg",
+   "credit": "David Kinchin-Smith, RSPB / via Good News Network",
+   "contain": false,
+   "head": "Seabird colony wiped out by bird flu bounces back to 756 terns",
+   "dek": "At England's Pagham Harbour, sandwich terns have returned in big numbers after vanishing in 2022.",
+   "stat": [
+    "0 → 756",
+    "sandwich terns at Pagham Harbour"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Bird flu wiped out the sandwich tern colony at Pagham Harbour on England's south coast in 2022. This year, 756 birds are back, and little terns, ringed plovers and oystercatchers have also increased.",
+      "The site is part of the Solent Seascape project, a wider effort to restore coastal habitats along England's south coast."
+     ]
+    },
+    {
+     "title": "Why we love it",
+     "paras": [
+      "Bird flu has devastated seabirds around the world. A full colony returning in four years shows nature can recover fast when it's given space.",
+      "Black-headed gulls, which were also hit by the 2022 outbreak, are part of the same comeback story."
+     ]
+    }
+   ],
+   "facts": [
+    "Colony lost in 2022",
+    "756 sandwich terns now",
+    "Other shorebirds rising too"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/miracle-recovery-sees-seabirds-reclaim-former-colony-after-avian-flu-wiped-them-out/"
+    }
+   ],
+   "good": true,
+   "emoji": "🐦"
+  },
+  {
+   "slug": "tamil-nadu-villages-silent-diwali-for-bats",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "These Tamil Nadu villages skip Diwali crackers every year — to protect bats",
+   "dek": "In villages across the state, people have chosen quiet Diwalis for generations so fruit bats roosting nearby aren't scared away.",
+   "stat": [
+    "100+ yrs",
+    "of cracker-free Diwali in Perambur"
+   ],
+   "sections": [
+    {
+     "title": "What's happening",
+     "paras": [
+      "In Perambur in Mayiladuthurai district, villagers have skipped firecrackers at Diwali for more than a century because hundreds of fruit bats roost in a banyan tree they call Vavvaal Thoppu. Similar traditions exist in Kazhuperumpakkam near Vanur, Thoppupatti and Saampatti in Tiruchirappalli district, and Kalapattu near Katpadi.",
+      "Near Coimbatore, around 350 families in Kittampalayam agreed to avoid crackers to protect about 2,000 Indian flying foxes."
+     ]
+    },
+    {
+     "title": "Why we love it",
+     "paras": [
+      "Sudden bangs and flashes can terrify bats and drive colonies away. These villages treat the bats as neighbours — and prove that a festival of lights doesn't need to be a festival of noise."
+     ]
+    }
+   ],
+   "facts": [
+    "~2,000 flying foxes in Kittampalayam",
+    "~350 families went cracker-free",
+    "Bats = pollinators & seed spreaders"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/culture/tamil-nadu-villages-silent-diwali-bats-12775949"
+    }
+   ],
+   "good": true,
+   "emoji": "🦇"
+  },
+  {
+   "slug": "chinese-pangolin-spotted-near-shillong",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "g_pangolin.jpg",
+   "credit": "Pangolin / via The Better India",
+   "contain": false,
+   "head": "Critically endangered pangolin caught on camera near Shillong",
+   "dek": "A Wildlife Institute of India camera trap recorded a Chinese pangolin in forests on the edge of the city.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Camera traps set up by the Wildlife Institute of India (WII) photographed a Chinese pangolin in the Riat Laban and Laitkor reserve forests on Shillong's urban fringe. It is the first record of the species in WII's Meghalaya study area.",
+      "The Chinese pangolin has been listed as Critically Endangered since 2014; pangolins are among the most trafficked mammals in the world."
+     ]
+    },
+    {
+     "title": "Why we love it",
+     "paras": [
+      "It shows that small forests right next to growing cities can still shelter some of the world's rarest animals — a strong case for protecting them."
+     ]
+    }
+   ],
+   "facts": [
+    "Critically Endangered since 2014",
+    "First WII record in its Meghalaya study",
+    "Spotted by camera traps"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/wildlife/chinese-pangolin-spotted-near-shillong-urban-forests-12768901"
+    }
+   ],
+   "good": true,
+   "emoji": "🦔"
+  },
+  {
+   "slug": "brazil-expands-pantanal-national-park",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "g_pantanal.jpg",
+   "credit": "Filipe Frazão, CC BY-SA 3.0 / via Good News Network",
+   "contain": false,
+   "head": "Brazil expands Pantanal park, home to the world's most jaguars",
+   "dek": "The protected area in the world's largest tropical wetland has grown by 185 square miles.",
+   "stat": [
+    "+185 sq mi",
+    "added to the national park"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Brazil has expanded Pantanal Matogrossense National Park from 523 to about 708 square miles, adding wildlife corridors identified by the government's conservation agency ICMBio.",
+      "The Pantanal hosts 463 bird species, 269 fish species and more than 236 mammal species, including the highest concentration of jaguars on Earth.",
+      "The Pantanal was named a wetland of international importance under the Ramsar Convention more than three decades ago."
+     ]
+    },
+    {
+     "title": "Why we love it",
+     "paras": [
+      "The Pantanal has been hit hard by fires and drought in recent years. More protected land gives jaguars and countless birds room to move and recover."
+     ]
+    }
+   ],
+   "facts": [
+    "523 → ~708 square miles",
+    "463 bird species",
+    "Most jaguars on Earth"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/brazil-expands-protected-area-for-one-of-the-richest-and-most-sensitive-biomes-on-the-planet/"
+    }
+   ],
+   "good": true,
+   "emoji": "🐆"
+  },
+  {
+   "slug": "barbados-ends-mother-to-child-hiv",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Barbados stops HIV passing from mothers to babies, WHO confirms",
+   "dek": "No baby in Barbados got HIV from their mother between 2022 and 2024.",
+   "stat": [
+    "98%",
+    "of pregnant women tested for HIV"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The World Health Organization has certified that Barbados has eliminated mother-to-child transmission of HIV as a public health problem. No new infections in babies through this route were recorded from 2022 to 2024.",
+      "98% of pregnant women got antenatal care, 98% were tested, and 98% of those living with HIV received treatment. Testing and treatment are free for every pregnant woman, whatever her nationality."
+     ]
+    },
+    {
+     "title": "Why we love it",
+     "paras": [
+      "Barbados joins 26 countries and territories recognised for wiping out, or nearly wiping out, mother-to-baby spread of HIV, syphilis or hepatitis B. It shows simple, free care reaching everyone can end an epidemic among children."
+     ]
+    }
+   ],
+   "facts": [
+    "Zero cases 2022–2024",
+    "98% tested, 98% treated",
+    "Free care for all pregnant women"
+   ],
+   "sources": [
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/news/item/30-10-2026-barbados-eliminates-mother-to-child-transmission-of-hiv"
+    },
+    {
+     "name": "PAHO",
+     "url": "https://www.paho.org/en/news/30-10-2026-barbados-eliminates-mother-child-transmission-hiv"
+    }
+   ],
+   "good": true,
+   "emoji": "🏥"
+  },
+  {
+   "slug": "maharashtra-village-wadji-water-from-air",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "g_wadji.jpg",
+   "credit": "Meghdoot unit / via The Better India",
+   "contain": false,
+   "head": "This Maharashtra village now makes 500 litres of drinking water from air",
+   "dek": "A machine built with CSIR-IICT scientists pulls moisture out of the air for children in drought-prone Washim.",
+   "stat": [
+    "500 L",
+    "of clean water a day"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Wadji, a village of about 2,000 people in Washim district in Vidarbha, has installed 'Meghdoot', an atmospheric water generator developed by CSIR-IICT Hyderabad with Maithri Aquatech. It can produce about 500 litres of purified drinking water a day.",
+      "Fans draw in humid air, cooling turns the moisture into water, and carbon filters and UV light make it safe. The units are at the village primary school and anganwadi."
+     ]
+    },
+    {
+     "title": "Why we love it",
+     "paras": [
+      "Vidarbha is one of India's most drought-hit regions. Clean water for schoolchildren, made from thin air, is a small piece of science changing daily life. Output depends on humidity, so it works best in damper months."
+     ]
+    }
+   ],
+   "facts": [
+    "~500 litres/day capacity",
+    "Village of ~2,000 people",
+    "Built with CSIR-IICT"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/innovation/maharashtra-village-wadji-water-from-air-technology-innovation-atmospheric-water-generation-india-12760747"
+    }
+   ],
+   "good": true,
+   "emoji": "💧"
+  },
+  {
+   "slug": "record-nature-restoration-252-million-hectares",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Nature is being restored at the fastest rate ever recorded, says UN",
+   "dek": "About 252 million hectares across 149 countries are now under active restoration, a UNEP report finds.",
+   "stat": [
+    "252M ha",
+    "under active restoration"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "A new UN Environment Programme report says wildlife habitats are being restored faster than ever before. Some 252 million hectares of land, sea and freshwater habitat in 149 countries are under active restoration, supporting more than a million green jobs.",
+      "UNEP chief Inger Andersen called it the makings of one of the largest movements for nature in recorded history."
+     ]
+    },
+    {
+     "title": "The honest bit",
+     "paras": [
+      "Progress on land is on track, but only 23% of degraded coasts and seas and 5% of freshwater areas are being revived. Annual investment needs to rise from $64 billion to $296 billion by 2030."
+     ]
+    }
+   ],
+   "facts": [
+    "149 countries",
+    "1M+ green jobs",
+    "Land restoration on track"
+   ],
+   "sources": [
+    {
+     "name": "Positive News",
+     "url": "https://www.positive.news/society/good-news-stories-from-week-45-of-2026/"
+    }
+   ],
+   "good": true,
+   "emoji": "🌱"
+  },
+  {
+   "slug": "gurugram-student-skyqi-light-pollution",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "A Gurugram student built a free app that measures light pollution from a phone photo",
+   "dek": "Class 12 student Suhani Gupta's SkyQi has collected readings from 490+ people in 63 countries.",
+   "stat": [
+    "63",
+    "countries using SkyQi"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Suhani Gupta, a Class 12 student from Gurugram, built SkyQi, a free website that estimates how dark the night sky is from a single smartphone photo. It counts visible stars, compares horizon and overhead brightness, and corrects for camera settings.",
+      "It has gathered 1,198 photos from more than 490 contributors in 63 countries."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Her analysis of NASA satellite data found night-time brightness in 50 Indian cities rose about 70% from 2015 to 2025, and 47 of the 50 got brighter. Light pollution hurts wildlife, sleep and stargazing — and now anyone can measure it."
+     ]
+    }
+   ],
+   "facts": [
+    "1,198 photos",
+    "490+ contributors",
+    "Night glow up ~70% in 50 Indian cities"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/young-achievers/skyqi-light-pollution-india-12780106"
+    }
+   ],
+   "good": true,
+   "emoji": "🌌"
+  }
+ ],
+ "also": []
+}
