@@ -1,0 +1,1542 @@
+{
+ "date": "2026-11-09",
+ "day": "Monday",
+ "date_label": "9 November 2026",
+ "note": "",
+ "stories": [
+  {
+   "slug": "zomato-limitless-delivery-order-from-40-km-away",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "zomato.jpg",
+   "credit": "Zomato app / via Business Today",
+   "contain": false,
+   "head": "Zomato's 'Limitless Delivery' lets you order from restaurants up to 40 km away in 7 cities",
+   "dek": "Zomato (Eternal) has switched on a feature that stretches delivery range to as far as 40 km within a city, so restaurants that were out of reach can now show up on your app.",
+   "stat": [
+    "40 km",
+    "maximum range for restaurant orders"
+   ],
+   "sections": [
+    {
+     "title": "What's new",
+     "paras": [
+      "Zomato rolled out 'Limitless Delivery' on 6 November. Until now, an app only showed restaurants close to your address. With the new feature, you can order from participating restaurants up to 40 km away, as long as they are in the same city.",
+      "It is live in seven metros: Bengaluru, Delhi-NCR, Chennai, Mumbai, Kolkata, Pune and Hyderabad."
+     ]
+    },
+    {
+     "title": "How to find it",
+     "paras": [
+      "You can open the 'Explore More' section on Zomato's home screen, or simply search for a restaurant and check whether it can deliver to your location. Not every restaurant within 40 km will deliver to you: availability depends on the restaurant, where you are and whether delivery partners are available."
+     ]
+    },
+    {
+     "title": "What isn't clear yet",
+     "paras": [
+      "Business Today's report does not say whether far-away orders carry extra delivery charges or longer delivery times, so it is worth checking the fee on the checkout screen. One outlet linked the launch to Swiggy's recent multi-restaurant ordering feature, which would make this another round in the food-delivery feature race between the two apps."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Longer range turns famous but far-flung restaurants into delivery options and could give Zomato an edge in choice. It also tests how well the delivery network can handle long hauls, which are costlier to run than the usual 3 to 5 km trips."
+     ]
+    }
+   ],
+   "facts": [
+    "Range: up to 40 km, same city",
+    "Live in 7 cities incl. Bengaluru, Mumbai, Delhi-NCR",
+    "Launched on 6 November 2026"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://businesstoday.in/technology/news/story/zomato-launches-40-km-food-delivery-in-seven-cities-how-to-order-from-restaurants-farther-away-566226-2026-11-07"
+    },
+    {
+     "name": "NewsBytes",
+     "url": "https://newsbytesapp.com/news/business/zomato-launches-limitless-delivery-allowing-orders-from-40km-away/tldr"
+    }
+   ]
+  },
+  {
+   "slug": "tesla-to-wind-down-cybertruck-production-in-texas-2027",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "cybertruck.jpg",
+   "credit": "Tesla Cybertruck / via Electrek",
+   "contain": false,
+   "head": "Tesla to wind down Cybertruck production in Texas by mid-2027, Musk says",
+   "dek": "Elon Musk says Tesla will free up its Texas factory space for the Cybercab robotaxi, ending production of the stainless-steel pickup next year.",
+   "stat": [
+    "Mid-2027",
+    "when Cybertruck output at Giga Texas winds down"
+   ],
+   "sections": [
+    {
+     "title": "What Musk said",
+     "paras": [
+      "On 6 November Elon Musk announced on X that Tesla will wind down Cybertruck production at Gigafactory Texas next year, around mid-2027. CNBC reported the reason as making room for higher production of the Cybercab, Tesla's driverless robotaxi.",
+      "He added that 'the Cybertruck fleet will be around for a long time', a nod to the owners who already have one on the road."
+     ]
+    },
+    {
+     "title": "What's still unclear",
+     "paras": [
+      "Musk did not say whether the pickup would be built at another factory or stop entirely, and the Washington Post noted he gave no further detail. The post came without a formal Tesla statement."
+     ]
+    },
+    {
+     "title": "The sales backdrop",
+     "paras": [
+      "Tesla does not report Cybertruck deliveries separately. Electrek points to Tesla's 'Other Models' bucket, which includes the Cybertruck, Model S, Model X and Semi: 8,295 vehicles in Q3 2026, down 48% from a year earlier and the lowest since Q2 2021. Electrek also argues the space explanation is thin, noting Giga Texas has more than 10 million square feet of floor and the Cybertruck line is running at roughly a quarter of its capacity."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The Cybertruck was launched with huge hype as the product that would reshape pickups. Its end of line, paired with the push toward the Cybercab, shows how Tesla is betting its future on autonomy rather than on new body styles."
+     ]
+    }
+   ],
+   "facts": [
+    "Announced 6 Nov 2026 on X",
+    "Wind-down around mid-2027 at Giga Texas",
+    "Q3 'Other Models' deliveries: 8,295, down 48%"
+   ],
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
+    },
+    {
+     "name": "Electrek",
+     "url": "https://electrek.co/2026/11/06/tesla-ending-cybertruck-production-sales-10-percent-plan/"
+    },
+    {
+     "name": "The Washington Post",
+     "url": "https://www.washingtonpost.com/business/2026/11/06/musk-says-tesla-will-wind-down-cybertruck-production-texas/"
+    }
+   ]
+  },
+  {
+   "slug": "maharashtra-fda-suspends-licences-of-105-outlets-incl-blinkit-zepto",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "blinkit-zepto.jpg",
+   "credit": "Blinkit and Zepto logos / via Siasat",
+   "contain": true,
+   "head": "Maharashtra FDA suspends food licences of 105 outlets, including Blinkit and Zepto units in Mumbai",
+   "dek": "A pre-Diwali inspection drive on 4 and 5 November found hygiene lapses across the state. The suspension list names Blink Commerce Pvt Ltd and Zepto Ltd, both in Mumbai.",
+   "stat": [
+    "105",
+    "food-business licences suspended"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Maharashtra's Food and Drug Administration announced on Friday, 6 November, that it had suspended the licences of 105 food businesses after a special drive ahead of Diwali. The list included Blink Commerce Pvt Ltd (Blinkit) and Zepto Ltd, both in Mumbai, along with sweet shops, manufacturers, hotels, restaurants and caterers.",
+      "Inspectors cited unhygienic manufacturing and storage conditions, poor handling and packaging, no pest control or temperature control, and missing records and certificates."
+     ]
+    },
+    {
+     "title": "The numbers",
+     "paras": [
+      "By division, 39 suspensions were in Nashik, 28 in Mumbai, 20 in Pune, 15 in Amravati, two in Chhatrapati Sambhajinagar and one in Thane. Seven establishments were ordered shut and two were sealed.",
+      "Across the whole two-day drive, the FDA seized 39,485 kg of food worth about ₹1.35 crore from more than 70 establishments, plus gutkha and pan masala worth ₹7.96 lakh. Those totals cover all outlets, not just the quick-commerce firms."
+     ]
+    },
+    {
+     "title": "What the companies said",
+     "paras": [
+      "Siasat's report carries no statement from Blinkit, Zepto or the other named businesses, and it does not say which of their facilities were affected or whether deliveries were disrupted. We will update the story if either company responds."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Quick-commerce apps run dark stores that handle packaged and fresh food at scale, so regulators are paying closer attention to their storage standards. A suspension is a regulatory step rather than a final penalty, and outlets can usually fix the lapses and apply to get their licences restored."
+     ]
+    }
+   ],
+   "facts": [
+    "Inspections on 4–5 Nov; announced 6 Nov",
+    "105 suspended: Nashik 39, Mumbai 28, Pune 20",
+    "Food seized: 39,485 kg worth ₹1.35 crore"
+   ],
+   "sources": [
+    {
+     "name": "Siasat",
+     "url": "https://siasat.com/blinkit-zepto-face-licence-suspension-along-with-105-outlets-3571002"
+    }
+   ]
+  },
+  {
+   "slug": "openai-closes-11-billion-first-tranche-at-1-25-trillion-valuation",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "openai.jpg",
+   "credit": "Jernej Furman / Wikimedia, CC BY 2.0",
+   "contain": false,
+   "head": "OpenAI reportedly closes $11 billion at a $1.25 trillion valuation, below the $1.4 trillion it first sought",
+   "dek": "Bloomberg reports that the ChatGPT maker has received the first part of a new round, with SoftBank and MGX among the investors, after the AI-stock sell-off forced it to scale back.",
+   "stat": [
+    "$11B",
+    "first tranche of the round, per Bloomberg"
+   ],
+   "sections": [
+    {
+     "title": "The deal",
+     "paras": [
+      "Bloomberg reported on 6 November that OpenAI has taken in about $11 billion, the first part of a new funding round that values it at $1.25 trillion. Reuters, citing the Bloomberg report, said SoftBank and MGX took part. OpenAI declined to comment, so the figures come from people familiar with the deal rather than a company disclosure."
+     ]
+    },
+    {
+     "title": "Smaller than planned",
+     "paras": [
+      "OpenAI had reportedly aimed for $30 billion or more at about $1.4 trillion before cutting its target as AI shares fell on public markets. The round may still grow to about $20 billion over the coming weeks. For context, its previous round in March raised $122 billion at an $852 billion valuation."
+     ]
+    },
+    {
+     "title": "A detail to watch",
+     "paras": [
+      "Outlets disagree on whether $1.25 trillion is a pre-money or post-money figure. 24/7 Wall St. says it is pre-money, while another report treats it as post-money, so the exact stake bought by investors is not settled."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "OpenAI is the most closely watched private company in tech, and its valuation is a gauge of how much investors still believe in the AI build-out after this week's market sell-off. A smaller-than-planned round that still closes at a trillion-plus suggests demand is there, but more cautious."
+     ]
+    }
+   ],
+   "facts": [
+    "Raised so far: about $11 billion",
+    "Valuation: $1.25 trillion (pre vs post-money unclear)",
+    "Original target: $30B+ at about $1.4T"
+   ],
+   "sources": [
+    {
+     "name": "Reuters via Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/openai-secures-11-billion-funding-at-125-trillion-valuation-bloomberg-news-reports-5009182"
+    },
+    {
+     "name": "24/7 Wall St.",
+     "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
+    }
+   ]
+  },
+  {
+   "slug": "honasa-mamaearth-q2-profit-jumps-87-percent-to-73-crore",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "mamaearth.jpg",
+   "credit": "Mamaearth products / via YourStory",
+   "contain": false,
+   "head": "Mamaearth parent Honasa's Q2 profit jumps 87% to ₹73 crore as revenue grows 36%",
+   "dek": "Honasa Consumer posted a profit of about ₹73 crore for July–September, up from about ₹39 crore a year ago, though profit and revenue slipped from the June quarter.",
+   "stat": [
+    "₹73 cr",
+    "Q2 FY27 profit, up 87% year on year"
+   ],
+   "sections": [
+    {
+     "title": "The results",
+     "paras": [
+      "Honasa Consumer, which owns Mamaearth, The Derma Co and other beauty brands, reported a consolidated net profit of about ₹73.2 crore for the quarter ended 30 September 2026. A year earlier it made ₹39.23 crore, which puts the rise at roughly 87%.",
+      "Revenue from operations rose about 36% to roughly ₹731 crore, against ₹538 crore in Q2 FY26. The company said its focus categories grew more than 40%."
+     ]
+    },
+    {
+     "title": "The caveat",
+     "paras": [
+      "The numbers are lower than the previous quarter. In Q1 FY27 (April–June) Honasa had posted a profit of ₹90.45 crore, more than double the year before, so both profit and revenue fell sequentially in Q2."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Honasa has been one of the most-watched listed D2C brands since its 2023 IPO, because it shows whether online-first beauty labels can keep growing while staying profitable. A 36% revenue jump with a bigger profit is a good sign, but the sequential dip means investors will watch whether the Q1 level can be matched in the festive quarter."
+     ]
+    }
+   ],
+   "facts": [
+    "Q2 FY27 profit: ₹73.2 crore vs ₹39.23 crore",
+    "Revenue: about ₹731 crore, up 36%",
+    "Q1 FY27 profit was ₹90.45 crore"
+   ],
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/mamaearth-parent-honasa-q2-net-profit-rises-87-pc"
+    },
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/mamaearth-parent-honasas-q2-profit-jumps-87-yoy-to-₹73-cr/"
+    }
+   ]
+  },
+  {
+   "slug": "angel-one-overtakes-zerodha-as-second-largest-broker",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Angel One overtakes Zerodha as India's No. 2 broker with 69.98 lakh active clients",
+   "dek": "NSE data for October shows Angel One adding 2.43 lakh active clients while Zerodha lost 32,435, flipping the order behind Groww.",
+   "stat": [
+    "69.98 L",
+    "Angel One's active NSE clients in October"
+   ],
+   "sections": [
+    {
+     "title": "The new ranking",
+     "paras": [
+      "According to NSE data for October, Angel One ended the month with about 69.98 lakh active clients, up from 67.56 lakh in September. Zerodha slipped by 32,435 to about 67.59 lakh, reversing its narrow lead of roughly 36,000 clients and dropping to third.",
+      "Groww stays on top with about 1.37 crore active clients after adding 3.04 lakh in the month."
+     ]
+    },
+    {
+     "title": "Market share",
+     "paras": [
+      "Angel One's share of active clients was reported at 14.97% against Zerodha's 14.46%. Angel One's total registered base is about 4.06 crore, but that is a different measure from NSE active clients, which is what the ranking uses."
+     ]
+    },
+    {
+     "title": "Read it with care",
+     "paras": [
+      "One month does not make a trend. Angel One was losing clients earlier in 2026, and Zerodha led in September, so analysts caution that the October flip may not last."
+     ]
+    }
+   ],
+   "facts": [
+    "Angel One: 69.98 lakh active clients",
+    "Zerodha: 67.59 lakh (-32,435)",
+    "Groww: about 1.37 crore"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/brokers-in-october-angel-one-climbs-to-the-second-spot-with-2-4-lakh-new-user-additions/"
+    },
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/markets/story/angel-one-overtakes-zerodha-to-become-indias-second-largest-stockbroker-as-demat-accounts-near-20-crore-566180-2026-11-06"
+    }
+   ]
+  },
+  {
+   "slug": "makemytrip-buys-majority-stake-in-quick-ride",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "mmt.jpg",
+   "credit": "MakeMyTrip / via YourStory",
+   "contain": true,
+   "head": "MakeMyTrip buys a majority stake in ride-pooling app Quick Ride",
+   "dek": "The travel giant enters shared mobility for an undisclosed sum. Quick Ride's pooling business moves into a new company with its promoters still running it.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The deal",
+     "paras": [
+      "MakeMyTrip has acquired a majority stake in Bengaluru-based Quick Ride, taking it into ride pooling and shared commuting. The price and the exact stake were not disclosed.",
+      "Quick Ride's brand and ride-pooling business have been moved to a new entity, Co Ride Mobility Private Limited, where MakeMyTrip holds the majority. The earlier EV-taxi business stays with the predecessor company, iDisha Info Labs, and is not part of the deal."
+     ]
+    },
+    {
+     "title": "What happens next",
+     "paras": [
+      "Quick Ride's promoters will continue to lead the business. Reports earlier said MakeMyTrip was doing due diligence through its redBus arm, and the move fits its string of acquisitions this year, including a majority stake in tour operator Flamingo Transworld in March."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Ride pooling lets commuters share private cars on the same route. For MakeMyTrip it adds a daily-use product to a business mostly built on occasional trips, and it extends its ground-transport play beyond redBus buses and cabs."
+     ]
+    }
+   ],
+   "facts": [
+    "Stake: majority, undisclosed",
+    "New entity: Co Ride Mobility Pvt Ltd",
+    "Announced around 6 Nov 2026"
+   ],
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/makemytrip-enters-shared-mobility-space-with-majority-stake-quick-ride"
+    },
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/makemytrip-acquires-majority-stake-in-quick-ride-to-enter-ride-pooling/"
+    }
+   ]
+  },
+  {
+   "slug": "eloelo-raises-80-million-series-c-nbcuniversal-hornbill",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "EloElo raises $80 million from Hornbill and NBCUniversal to take microdrama app Story TV global",
+   "dek": "The Bengaluru group behind Story TV says the Series C takes its total funding to $130 million.",
+   "stat": [
+    "$80M",
+    "Series C, co-led by Hornbill Capital and NBCUniversal"
+   ],
+   "sections": [
+    {
+     "title": "The round",
+     "paras": [
+      "EloElo Group raised $80 million in a Series C round co-led by Hornbill Capital and NBCUniversal, bringing total capital raised to $130 million. MIT Investment Co. joined, as did existing investors Play Ventures, Kalaari Capital, Waterbridge Ventures and Griffin Gaming Partners.",
+      "The company runs the Story TV microdrama platform and an AI creative platform called Dolphin. Press reports put its valuation at about $500 million, but the company has not confirmed that."
+     ]
+    },
+    {
+     "title": "Where the money goes",
+     "paras": [
+      "Reports say the funds will back original content in local languages, expansion into international markets, including the US with NBCUniversal's help, and its AI tools. Reports cite more than 33 million monthly active users for Story TV (Sensor Tower) and more than 40 million across all four of its apps."
+     ]
+    }
+   ],
+   "facts": [
+    "Series C: $80M; total raised $130M",
+    "Co-leads: Hornbill Capital, NBCUniversal",
+    "Story TV: 33M+ monthly users (Sensor Tower)"
+   ],
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/eloelo-group-raises-80-million-series-c-led-by-hornbill-capital-nbcuniversal"
+    },
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/eloelo-group-bags-80-mn-to-take-its-microdrama-biz-global/"
+    }
+   ]
+  },
+  {
+   "slug": "giva-raises-over-100-million-led-by-multiples",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Jewellery brand GIVA raises over $100 million (about ₹975 crore) led by Multiples",
+   "dek": "The Bengaluru brand plans to grow from 400-plus stores to over 1,000 outlets in three to five years.",
+   "stat": [
+    "₹975 cr",
+    "about $103M, led by Multiples PE"
+   ],
+   "sections": [
+    {
+     "title": "The funding",
+     "paras": [
+      "GIVA, the Bengaluru fine-jewellery brand, has raised over $100 million, reported as about ₹975 crore, in a round led by Multiples Alternate Asset Management. Existing investors Epiq Capital and Edelweiss Discovery Fund also took part, and Multiples gets a board seat. A valuation was not disclosed."
+     ]
+    },
+    {
+     "title": "The plan",
+     "paras": [
+      "GIVA runs 400-plus stores in India and Sri Lanka and says it will use the money to build its leadership team, expand manufacturing and deepen its offline presence, targeting more than 1,000 outlets in three to five years. Silver is its core, at about 60% of revenue, alongside gold and lab-grown diamond jewellery.",
+      "This follows $28 million of debt raised in May 2026 and a ₹110 crore Series C extension in February."
+     ]
+    }
+   ],
+   "facts": [
+    "Round: over $100M (about ₹975 crore)",
+    "Stores: 400+ today, 1,000+ targeted",
+    "Silver: about 60% of revenue"
+   ],
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/jewellery-brand-giva-raises-100-million-from-multiples-pe"
+    },
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/giva-raises-₹975-cr-led-by-multiples-pe-eyes-160-new-stores-in-fy27/"
+    }
+   ]
+  },
+  {
+   "slug": "shiprocket-turns-profitable-in-q2-fy27-revenue-up-35-percent",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "shiprocket.jpg",
+   "credit": "Shiprocket illustration / via YourStory",
+   "contain": false,
+   "head": "Shiprocket swings to a profit in Q2 as revenue rises 35% to ₹674 crore",
+   "dek": "The logistics-tech firm made about ₹60 lakh in profit against a ₹20.3 crore loss a year ago, and is now debt-free after its IPO.",
+   "stat": [
+    "₹0.6 cr",
+    "Q2 net profit, vs ₹20.3 cr loss a year ago"
+   ],
+   "sections": [
+    {
+     "title": "The quarter",
+     "paras": [
+      "Shiprocket reported a consolidated net profit of about ₹59 lakh for July–September 2026, compared with a loss of ₹20.3 crore in the same quarter last year. In Q1 it had made a loss of ₹13.71 crore.",
+      "Revenue grew 35% to ₹673.6 crore, with its core business up 25.3% to ₹461.5 crore. Total expenses rose 29.5% to ₹693 crore."
+     ]
+    },
+    {
+     "title": "Balance sheet and caution",
+     "paras": [
+      "Using proceeds from its IPO, Shiprocket repaid all borrowings and ended the half year with zero debt. Reports differ on adjusted EBITDA figures, and one outlet calls the result an early sign of a turnaround rather than proof of lasting profitability."
+     ]
+    }
+   ],
+   "facts": [
+    "Net profit: about ₹0.6 crore",
+    "Revenue: ₹673.6 crore, up 35%",
+    "Debt: zero after IPO proceeds"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/shiprocket-turns-profitable-in-q2-revenue-jumps-35-yoy-to-₹674-cr/"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/shiprocket-turns-profitable-in-q2-fy27-with-rs-674-cr-revenue"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-approves-2814-crore-lithium-nickel-processing-scheme",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "minerals.jpg",
+   "credit": "Critical minerals illustration / via YourStory",
+   "contain": false,
+   "head": "Cabinet approves ₹2,814 crore scheme to boost lithium and nickel processing in India",
+   "dek": "A 30% capital subsidy will back four processing plants as the government tries to cut its dependence on imported refined minerals.",
+   "stat": [
+    "₹2,814 cr",
+    "five-year support scheme"
+   ],
+   "sections": [
+    {
+     "title": "What was approved",
+     "paras": [
+      "The Union Cabinet cleared a ₹2,814 crore capex support scheme on 4 November to promote domestic processing of lithium and nickel, running through 2030-31. It gives a 30% capital subsidy for four plants, with support capped at ₹500 crore per lithium project and ₹900 crore per nickel project."
+     ]
+    },
+    {
+     "title": "The conditions",
+     "paras": [
+      "Each plant needs a minimum capacity of 50,000 tonnes, and cobalt is expected to be recovered as a by-product of nickel processing. Beneficiaries will be picked through a two-stage process of technical qualification and then financial bidding."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Lithium and nickel go into EV and grid batteries. India imports most of its refined material, so the scheme aims to build processing capacity at home and make supply chains less exposed to other countries."
+     ]
+    }
+   ],
+   "facts": [
+    "Outlay: ₹2,814 crore to 2030-31",
+    "Subsidy: 30% for 4 plants",
+    "Caps: ₹500 cr (lithium), ₹900 cr (nickel)"
+   ],
+   "sources": [
+    {
+     "name": "Outlook India",
+     "url": "https://www.outlookindia.com/national/govt-approves-rs-2814-crore-scheme-critical-mineral-processing-lithium-nickel-plants"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/cabinet-approves-rs-2814-cr-scheme-to-promote-processing-of-lithium-nickel"
+    },
+    {
+     "name": "IBEF",
+     "url": "https://www.ibef.org/news/cabinet-approves-us-296-05-million-capex-support-scheme-to-promote-critical-mineral-processing"
+    }
+   ]
+  },
+  {
+   "slug": "november-money-deadlines-itr-pension-life-certificate-pnb-card-charges",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Money deadlines this month: ITR date for audit cases is 21 Nov, pensioners have until 30 Nov",
+   "dek": "A quick list of what changed from 1 November, from tax filing dates to credit card fees at one public-sector bank.",
+   "stat": [
+    "21 Nov",
+    "ITR deadline for specified audit-category taxpayers"
+   ],
+   "sections": [
+    {
+     "title": "Tax and pension dates",
+     "paras": [
+      "The ITR deadline for specified audit-category taxpayers for assessment year 2026-27 was extended from 31 October to 21 November 2026. It does not apply to everyone.",
+      "Government pensioners below 80 can submit their annual life certificate between 1 and 30 November. Those 80 and above have been able to submit since 1 October, and Unified Pension Scheme subscribers can complete it via Jeevan Setu by 30 November."
+     ]
+    },
+    {
+     "title": "Card and bank charges",
+     "paras": [
+      "Punjab National Bank has revised charges on its Visa and RuPay credit cards: cash withdrawal costs 2.5% or ₹400 (whichever is higher) at PNB ATMs and 2.5% or ₹500 at other domestic ATMs, and utility payments above ₹50,000 per billing cycle attract a 1% fee capped at ₹2,000 per transaction. IndusInd Bank has fixed ₹25 plus GST for failed transactions due to low balance on specified savings accounts.",
+      "Check your bank's notice for the card you hold, as the figures above come from a Goodreturns summary."
+     ]
+    },
+    {
+     "title": "GST",
+     "paras": [
+      "Changes to the CGST framework now cover post-supply discounts, credit notes and refunds for inverted-duty cases. These mostly affect businesses, not individual shoppers."
+     ]
+    }
+   ],
+   "facts": [
+    "ITR (audit cases): 21 Nov 2026",
+    "Pension life certificate: 1–30 Nov",
+    "PNB card cash advance: 2.5% or ₹400, whichever is higher"
+   ],
+   "sources": [
+    {
+     "name": "Goodreturns",
+     "url": "https://www.goodreturns.in/news/new-rules-from-november-1-2026-lpg-cylinder-prices-atf-rates-bank-charges-gst-changes-and-pensi-1544461.html"
+    },
+    {
+     "name": "Sunday Guardian",
+     "url": "https://sundayguardianlive.com/india/rules-change-from-november-1-10-big-changes-that-could-impact-your-pocket-from-lpg-prices-gst-provisions-income-tax-deadlines-pension-benefits-banking-rules-check-what-will-become-costlier-314915/"
+    }
+   ]
+  },
+  {
+   "slug": "iran-guard-claims-tankers-hit-mines-near-hormuz-brent-below-100",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "tanker.jpg",
+   "credit": "Oil tanker at sea / via OilPrice.com",
+   "contain": false,
+   "head": "Iran's Guards say tankers hit mines near Hormuz; Brent slips below $100 as talks continue",
+   "dek": "Maritime officials have not confirmed the Guards' claims, while mediators work on a US-Iran proposal.",
+   "stat": [
+    "~$94–97",
+    "Brent range on 4–5 November"
+   ],
+   "sections": [
+    {
+     "title": "The claims",
+     "paras": [
+      "Iran's Revolutionary Guard said on 4 November that four tankers were destroyed by mines and were burning, and on 6 November that two more tankers hit mines in or near the Strait of Hormuz. It has declared the strait 'unsafe and closed' to ships that do not coordinate with Tehran. Maritime officials have not confirmed these incidents.",
+      "On 5 November, British military monitors said a tanker was hit by two unidentified projectiles about 50 nautical miles north of Madinat ash Shamal, Qatar."
+     ]
+    },
+    {
+     "title": "Oil prices",
+     "paras": [
+      "Brent fell below $100 a barrel on 4 November for the first time since September, dropping roughly 8% to about $94 midday in New York. It rose 2.2% to $96.70 the next day. Prices have swung sharply on each headline."
+     ]
+    },
+    {
+     "title": "Diplomacy",
+     "paras": [
+      "Qatari, Pakistani and Saudi mediators are passing messages in indirect US-Iran talks, and Oman said it is working with Iran on a mechanism to manage traffic through the strait. President Trump told the Financial Times he had no immediate plans for new strikes but that the US was 'locked and loaded' if needed."
+     ]
+    },
+    {
+     "title": "Why it matters for India",
+     "paras": [
+      "India imports most of its crude oil, so a prolonged disruption in Hormuz or a swing in Brent feeds directly into fuel costs and the rupee."
+     ]
+    }
+   ],
+   "facts": [
+    "Guards' claim: 4 tankers on 4 Nov, 2 more on 6 Nov",
+    "Brent: about $94 on 4 Nov, $96.70 on 5 Nov",
+    "Status: unconfirmed by maritime officials"
+   ],
+   "sources": [
+    {
+     "name": "CBS News live updates",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+    },
+    {
+     "name": "OilPrice.com",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-117-as-Tanker-Catches-Fire-in-Strait-of-Hormuz.html"
+    }
+   ]
+  },
+  {
+   "slug": "us-russia-ukraine-talks-abu-dhabi-10-11-november",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "US to mediate Russia–Ukraine talks in Abu Dhabi on 10–11 November, with low hopes",
+   "dek": "The working-level round is the first direct negotiation between the two sides in about nine months.",
+   "stat": [
+    "10–11 Nov",
+    "Abu Dhabi, US-mediated"
+   ],
+   "sections": [
+    {
+     "title": "What is planned",
+     "paras": [
+      "US envoy Steve Witkoff said the US will mediate working-level negotiations between Ukraine and Russia in Abu Dhabi on 10 and 11 November. Witkoff and Jared Kushner are expected to lead for the US, and the agenda covers security guarantees for Ukraine, Europe's post-war security structure and reconstruction economics."
+     ]
+    },
+    {
+     "title": "Expectations",
+     "paras": [
+      "Reuters reported this would be the first direct negotiation in about nine months. The last US-mediated talks were held in February, before the US and Israel launched a war against Iran. As of 8 November, experts cautioned that a major breakthrough was unlikely, as the two sides remain far apart on terms. Witkoff said US negotiators would also meet European partners in Brussels later in the week."
+     ]
+    }
+   ],
+   "facts": [
+    "Dates: 10–11 November",
+    "Venue: Abu Dhabi",
+    "First direct talks in about 9 months"
+   ],
+   "sources": [
+    {
+     "name": "U.S. News (Reuters)",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-02/us-to-hold-trilateral-talks-with-ukraine-russia-in-abu-dhabi-next-week-us-official"
+    },
+    {
+     "name": "Semafor",
+     "url": "https://www.semafor.com/article/11/08/2026/us-to-hold-trilateral-ukraine-talks-in-uae"
+    }
+   ]
+  },
+  {
+   "slug": "cop31-opens-in-antalya-with-1-5c-goal-under-pressure",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "COP31 opens in Antalya, Türkiye: nearly 200 countries, leaders' summit on 11–12 November",
+   "dek": "The UN climate summit runs to 20 November, with the 1.5°C goal under heavy pressure.",
+   "stat": [
+    "9–20 Nov",
+    "COP31, Antalya"
+   ],
+   "sections": [
+    {
+     "title": "What starts today",
+     "paras": [
+      "COP31 opens on Monday, 9 November, in Antalya and runs to 20 November, with representatives from nearly 200 countries. The World Leaders' Summit is on 11 and 12 November. The theme is 'COP of the Future – COP of Implementation', and Australia's Chris Bowen is President of Negotiations."
+     ]
+    },
+    {
+     "title": "The mood",
+     "paras": [
+      "Climate Home News describes it as the first summit facing an almost certain overshoot of the 1.5°C warming limit. Türkiye's presidency is pushing a goal to electrify more than a third of the global economy by 2035, though critics note the pledge does not require the extra electricity to be low-carbon. Climate Home also reports that India and China are not sending their top leaders, and Reuters notes several Asian countries have leaned more on coal."
+     ]
+    }
+   ],
+   "facts": [
+    "Dates: 9–20 November",
+    "Leaders' summit: 11–12 November",
+    "Presidency goal: electrify a third of the economy by 2035"
+   ],
+   "sources": [
+    {
+     "name": "ThePrint (Reuters)",
+     "url": "https://theprint.in/world/cop31-to-open-in-turkey-with-climate-goals-under-pressure-from-war-and-ai/3093831/"
+    },
+    {
+     "name": "Climate Home News via WUWT",
+     "url": "https://wattsupwiththat.com/2026/11/08/climate-home-briefs-cop31-almost-certain-overshoot-a-climate-midterm-and-turkeys-electric-fog/"
+    }
+   ]
+  },
+  {
+   "slug": "us-midterms-democrats-win-house-and-senate",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "US midterms: Democrats win both the House and the Senate, networks call",
+   "dek": "Counts are still being finalised. AP tallies cited by Yahoo News show Democrats around 254 House seats and 54 Senate seats.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The result",
+     "paras": [
+      "Networks called both chambers for Democrats on election night, 3 November. AP tallies cited by Yahoo News put them at about 254 House seats to 162 for Republicans, with 19 House races uncalled, and 54 Senate seats to 44, with Alaska and Mississippi too close to call at that point. Seat totals differ by outlet and date. Rep. Hakeem Jeffries is in line to become Speaker."
+     ]
+    },
+    {
+     "title": "What analysts say",
+     "paras": [
+      "Analysts tied the result to voter concern over the US war with Iran, higher petrol prices and the economy. Vice President Vance said the war was 'the reason we lost', and Trump said it was 'largely true' that it hurt Republicans. Check AP or the clerks' offices for the final certified numbers."
+     ]
+    }
+   ],
+   "facts": [
+    "Election day: 3 November 2026",
+    "Senate (AP, partial): D 54, R 44",
+    "House (AP, partial): D 254, R 162, 19 uncalled"
+   ],
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html"
+    },
+    {
+     "name": "Yahoo News (AP)",
+     "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
+    }
+   ]
+  },
+  {
+   "slug": "indiaai-mission-releases-eka-1-dhir-2b-5b-homegrown-models",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "indiaai.jpg",
+   "credit": "AI illustration / via Inc42",
+   "contain": false,
+   "head": "IndiaAI Mission releases three homegrown models: EKA-1 and Dhīr 2B and 5B",
+   "dek": "EKA-1 from Soket Labs covers all 22 scheduled Indian languages; ZenteiQ's two smaller Dhīr models are open source.",
+   "stat": [
+    "26.3B",
+    "parameters in Soket Labs' EKA-1"
+   ],
+   "sections": [
+    {
+     "title": "The launch",
+     "paras": [
+      "On 3 November the IndiaAI Mission released three indigenous foundation models. EKA-1 from Soket Labs is described as an open, sparse hybrid model with 26.3 billion parameters, trained on about 7.5 trillion tokens, and it supports all 22 scheduled Indian languages plus English. It is aimed at maths, coding, reasoning and multi-step agent tasks, with banking, financial services and cybersecurity as focus areas."
+     ]
+    },
+    {
+     "title": "The small models",
+     "paras": [
+      "ZenteiQ's Dhīr 2B and Dhīr 5B are open-source multilingual models supporting English and 10 Indian languages. Several outlets say they are designed to run on smartphones and offline or on-premise, which matters for secure deployments. The figures come from press coverage and ministry statements, not an official technical paper."
+     ]
+    }
+   ],
+   "facts": [
+    "Launched 3 Nov under IndiaAI Mission",
+    "EKA-1: 26.3B parameters, 22 Indian languages",
+    "Dhīr 2B/5B: open source, 10 Indian languages"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/soket-labs-zenteiq-launch-indigenous-ai-models/"
+    },
+    {
+     "name": "The Week (PTI)",
+     "url": "https://www.theweek.in/wire-updates/business/2026/11/03/indiaai-mission-releases-indigenous-foundation-models-eka-1-dh-r-2b-and-dh-r-5b.html"
+    }
+   ]
+  },
+  {
+   "slug": "apple-ceo-ternus-pushes-federighi-to-speed-up-ai",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "applepark.jpg",
+   "credit": "Nils Huenerfuerst / Wikimedia, CC0",
+   "contain": false,
+   "head": "Apple CEO John Ternus is pushing software chief Craig Federighi to speed up AI, Bloomberg reports",
+   "dek": "Mark Gurman says Ternus is frustrated that Apple seems less urgent about AI than its rivals.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The report",
+     "paras": [
+      "Bloomberg's Mark Gurman reported in his Power On newsletter on 8 November that Apple CEO John Ternus has pressed software engineering chief Craig Federighi to move faster on AI and to go beyond basic Siri improvements. Federighi has been viewed as cautious on AI over privacy, security and jobs. Siri engineering VP Mike Rockwell is reportedly considering leaving his role or Apple next year, and two AI executives, Amar Subramanya and Sebastien Marineau, could take on more Siri AI work."
+     ]
+    },
+    {
+     "title": "What it means for Siri",
+     "paras": [
+      "The iOS 27 Siri update delivered many promised features but still lacks long-running background agentic tasks. Ternus has called agentic AI 'promising' on an earnings call, and Apple is reportedly changing its development cycle from iOS 28 to give engineers more time. These details come from anonymous sources and Apple has not commented."
+     ]
+    }
+   ],
+   "facts": [
+    "Source: Bloomberg's Power On, 8 Nov",
+    "Focus: more agentic Siri",
+    "Dev-cycle change planned from iOS 28"
+   ],
+   "sources": [
+    {
+     "name": "Gizmodo (citing Bloomberg)",
+     "url": "https://gizmodo.com/apples-new-ceo-is-reportedly-pushing-to-stuff-more-ai-into-iphones-2000836769"
+    }
+   ]
+  },
+  {
+   "slug": "muhurat-trading-sensex-nifty-end-red-first-time-in-nine-years",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "muhurat.jpg",
+   "credit": "Muhurat trading graphic / via Financial Express",
+   "contain": false,
+   "head": "Muhurat trading ends in the red for the first time in nine years: Sensex 80,999, Nifty 24,986",
+   "dek": "The one-hour Diwali session on Sunday followed a seven-day rally; smallcaps bucked the trend.",
+   "stat": [
+    "−0.04%",
+    "Sensex in the Muhurat hour"
+   ],
+   "sections": [
+    {
+     "title": "How the hour went",
+     "paras": [
+      "In the Sunday, 8 November Muhurat session, the Sensex closed at 80,999.40, down 28.62 points (0.04%), and the Nifty at 24,986.40, down 43.95 points (0.18%), just under 25,000. Both opened higher and slipped negative. The Nifty Smallcap 250 gained 1.20%.",
+      "Reports say it broke a streak of Muhurat gains since 2018, which is why it is described as the first red Muhurat close in nine years."
+     ]
+    },
+    {
+     "title": "The week behind it",
+     "paras": [
+      "The session followed a seven-day rally. The Week reported the Sensex closing Friday at 81,028.02 and the Nifty at 25,030.35, gains of about 7% and 6% for the week, though other sources give different weekly percentages. Markets are shut on Tuesday, 10 November."
+     ]
+    }
+   ],
+   "facts": [
+    "Sensex: 80,999.40 (−28.62)",
+    "Nifty: 24,986.40 (−43.95)",
+    "Nifty Smallcap 250: +1.20%"
+   ],
+   "sources": [
+    {
+     "name": "Nationpath India",
+     "url": "https://www.nationpathindia.com/economy/muhurat-trading-2026-sensex-nifty-close-nearly-flat"
+    },
+    {
+     "name": "IndiaIPO",
+     "url": "https://www.indiaipo.in/news/detail/muhurat-trading-sensex-nifty-break-9-year-diwali-streak-why-the-rally-fizzled"
+    },
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/biz-tech/2026/11/06/sensex-rallies-7pc-nifty-up-6pc-three-factors-fuelling-dalal-streets-bumper-week.html"
+    }
+   ]
+  },
+  {
+   "slug": "bosch-board-approves-1-5-split-and-3-1-bonus-each-share-becomes-20",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Bosch approves a 1:5 split and a 3:1 bonus, so every share becomes 20",
+   "dek": "The board announced the two moves with its Q2 results on 6 November; both need shareholder approval.",
+   "stat": [
+    "20",
+    "shares for every 1 held after split and bonus"
+   ],
+   "sections": [
+    {
+     "title": "What the board approved",
+     "paras": [
+      "On 6 November Bosch Ltd's board approved a sub-division of equity shares from a face value of ₹10 to five shares of ₹2 each (1:5), followed by a bonus issue of three shares for every one held after the split. Together, one existing share becomes 20. Both are subject to shareholder approval by postal ballot, and the authorised share capital is also being raised from ₹38.05 crore to ₹150 crore."
+     ]
+    },
+    {
+     "title": "Market reaction",
+     "paras": [
+      "Shares fell 3.38% to an indicative close of ₹50,700 on the announcement day, after hitting a record high on 3 November on speculation. Kotak Neo's report says Q2 net profit grew 19%. A record date has not been announced and the company expects to complete the steps within two months."
+     ]
+    }
+   ],
+   "facts": [
+    "Split: face value ₹10 → ₹2",
+    "Bonus: 3 for 1 after split",
+    "Indicative close on 6 Nov: ₹50,700 (−3.38%)"
+   ],
+   "sources": [
+    {
+     "name": "Autocar Pro",
+     "url": "https://www.autocarpro.in/news/bosch-ltd-to-split-shares-and-issue-31-bonus-each-share-becomes-20-135800"
+    },
+    {
+     "name": "Kotak Neo",
+     "url": "https://www.kotakneo.com/news/stocks/bosch-share-price-in-focus-stock-split-bonus-issue-announcement/"
+    }
+   ]
+  },
+  {
+   "slug": "f1-brazil-gp-norris-wins-as-antonelli-spins-from-lead",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "f1.jpg",
+   "credit": "Brazilian GP start / via PlanetF1",
+   "contain": false,
+   "head": "Norris wins a wet Brazilian GP after Antonelli spins from the lead; Mercedes clinch constructors' title",
+   "dek": "Verstappen was second and Hadjar third. Antonelli's lead over Verstappen is 111 points with 75 left.",
+   "stat": [
+    "111",
+    "Antonelli's points lead with 75 left"
+   ],
+   "sections": [
+    {
+     "title": "The race",
+     "paras": [
+      "Lando Norris won the Brazilian Grand Prix at a rain-hit Interlagos after Kimi Antonelli spun out of the lead at Turn 1 on lap 20. Max Verstappen, who said he 'did 85%' of the race with a damaged car, was second and Isack Hadjar third. Russell, Antonelli, Piastri, Lawson, Leclerc, Hamilton and Hülkenberg completed the top 10. Leclerc was handed a five-second penalty for a collision with Lawson."
+     ]
+    },
+    {
+     "title": "Championship picture",
+     "paras": [
+      "After 20 of 23 rounds, Antonelli has 390 points, Verstappen 279, Russell 262, Hamilton 261, Leclerc 249 and Norris 246, so Antonelli leads by 111 points with 75 available. Mercedes lead the constructors' standings on 652 points, 142 clear of Ferrari with 129 available."
+     ]
+    }
+   ],
+   "facts": [
+    "Winner: Lando Norris (McLaren)",
+    "Antonelli leads Verstappen by 111; 75 points left",
+    "Mercedes 652 vs Ferrari 510 in constructors'"
+   ],
+   "sources": [
+    {
+     "name": "RaceFans",
+     "url": "https://www.racefans.net/2026/11/08/2026-brazilian-grand-prix-race-result-and-championship-points/"
+    },
+    {
+     "name": "PlanetF1",
+     "url": "https://www.planetf1.com/news/f1-results-sao-paulo-grand-prix-2026-race-brazil"
+    }
+   ]
+  },
+  {
+   "slug": "man-utd-4-4-aston-villa-dorgu-96th-minute-equaliser",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "oldtrafford.jpg",
+   "credit": "Arne Müseler / Wikimedia, CC BY-SA 3.0 de",
+   "contain": false,
+   "head": "Man Utd come from two down twice to draw 4-4 with Aston Villa as Dorgu levels in the 96th minute",
+   "dek": "United are still in the relegation zone on 8 points from 10 games.",
+   "stat": [
+    "4-4",
+    "Old Trafford, 8 November"
+   ],
+   "sections": [
+    {
+     "title": "The match",
+     "paras": [
+      "Manchester United drew 4-4 with Aston Villa at Old Trafford after trailing 0-2 and 2-4. Villa's early goals gave United their fastest-ever Premier League 2-0 deficit. Bruno Fernandes, Youri Tielemans, Joshua Zirkzee and Patrick Dorgu scored for United, with Zirkzee and Dorgu both scoring in stoppage time. Alysson, Nicolas Jackson, John McGinn (penalty) and Leon Goretzka scored for Villa. Sky Sports puts Dorgu's equaliser in the 96th minute."
+     ]
+    },
+    {
+     "title": "The table",
+     "paras": [
+      "United have one win, five draws and four losses and sit in the relegation zone on 8 points. It equals their worst-ever Premier League run without a win, at eight games. Opta notes Villa scored four and failed to win for the first time since December 2007."
+     ]
+    }
+   ],
+   "facts": [
+    "Score: Man Utd 4-4 Aston Villa",
+    "Man Utd: 8 points from 10, 8 games without a win",
+    "Villa: first 4-goal non-win since Dec 2007"
+   ],
+   "sources": [
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13593226/man-utd-4-4-aston-villa-patrick-dorgu-levels-in-the-96th-minute-as-united-come-from-two-down-twice-to-earn-incredible-draw"
+    },
+    {
+     "name": "NBC Sports",
+     "url": "https://www.nbcsports.com/soccer/live/manchester-united-vs-aston-villa-live-updates-score-goals-highlights-stats-2026-november-8"
+    }
+   ]
+  },
+  {
+   "slug": "chennai-open-final-tjen-vs-linette-moved-to-monday",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Chennai Open final between Janice Tjen and Magda Linette moved to Monday after rain and poor air",
+   "dek": "Top seed and defending champion Tjen faces Linette at 11 a.m. today.",
+   "stat": [
+    "11 a.m.",
+    "Monday restart for the WTA 250 final"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The WTA 250 Chennai Open singles final between Janice Tjen and Magda Linette could not be played on Sunday because of rain and poor air quality. It was moved to 11 a.m. on Monday, 9 November, according to Indian Opinion's daily digest."
+     ]
+    },
+    {
+     "title": "The stakes",
+     "paras": [
+      "Tjen is the top seed and defending champion; she beat Kimberly Birrell 6-4, 6-3 in the 2025 final. Linette, 34, was a runner-up in 2022 and is playing for the fourth title of her career and her third on hard courts. We could not find a result at the time of writing."
+     ]
+    }
+   ],
+   "facts": [
+    "Final: Tjen vs Linette",
+    "Rescheduled to Mon 9 Nov, 11 a.m.",
+    "Tjen: defending champion"
+   ],
+   "sources": [
+    {
+     "name": "Indian Opinion",
+     "url": "https://indianopinion.org/today-in-india-9-november-2026/"
+    },
+    {
+     "name": "Tennis Temple",
+     "url": "https://en.tennistemple.com/actu/unbreathable-conditions-in-chennai-tjen-vs-linette/fX4S"
+    }
+   ]
+  },
+  {
+   "slug": "ecb-braced-for-up-to-50-million-pound-loss-in-2027-without-india-tour",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "ECB braces for a loss of up to £50 million in 2027 with no India series at home",
+   "dek": "Even with the Ashes at home, the board expects a big swing from the £12.6 million profit it made in 2025.",
+   "stat": [
+    "£50M",
+    "the ECB's reported upper loss estimate"
+   ],
+   "sections": [
+    {
+     "title": "The forecast",
+     "paras": [
+      "The England and Wales Cricket Board is bracing for a 'significant' financial loss in 2027, reported as up to £50 million (about ₹627 crore) in a Guardian-based report. It made a profit of £12.6 million in 2025. Some ECB sources reportedly believe the final figure could be nearer £35 million."
+     ]
+    },
+    {
+     "title": "Why",
+     "paras": [
+      "The ECB ties it to having no home men's series against India that year, as its broadcast income depends on which team visits. The ICC has also withheld part of its broadcast payments. Australian tours, including the 2027 Ashes, have historically brought less revenue than India. India's 2026 tour of England in July is expected to produce a profit this year."
+     ]
+    }
+   ],
+   "facts": [
+    "Estimated 2027 loss: up to £50M",
+    "2025 profit: £12.6M",
+    "Cause: no India home series, ICC withholding revenue"
+   ],
+   "sources": [
+    {
+     "name": "Flashscore",
+     "url": "https://www.flashscore.com/news/cricket-the-ashes-ecb-braced-for-significant-loss-in-2027-despite-hosting-ashes/b9a2Qv6N/"
+    },
+    {
+     "name": "BSS News",
+     "url": "https://www.bssnews.net/sports/388677"
+    }
+   ]
+  },
+  {
+   "slug": "ramayana-part-1-diwali-weekend-box-office",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Ramayana: Part 1's Diwali weekend: trackers put it at ₹220–239 crore net in India, ₹500 crore worldwide",
+   "dek": "Early day-4 estimates vary widely, from about ₹37 crore to ₹56 crore net.",
+   "stat": [
+    "~₹500 cr",
+    "four-day worldwide gross, per DNA"
+   ],
+   "sections": [
+    {
+     "title": "The numbers so far",
+     "paras": [
+      "Sacnilk estimated Day 1 at ₹64.85 crore net in India and about ₹127.5 crore worldwide. After four days, cumulative India net is reported between about ₹220 crore and ₹239 crore, depending on the outlet, and DNA reports ₹500.20 crore worldwide for the opening weekend.",
+      "CineTalkers says its Day 4 figure of about ₹56 crore net beats the previous Diwali-day record of ₹44.50 crore held by Tiger 3 (2023). Other outlets show lower Day 4 estimates, so treat that record claim as unconfirmed."
+     ]
+    },
+    {
+     "title": "Caveat",
+     "paras": [
+      "These are early trade estimates, not final figures. Wait for Sacnilk or Box Office India updates for confirmed totals."
+     ]
+    }
+   ],
+   "facts": [
+    "Day 1 India net: ₹64.85 crore (Sacnilk)",
+    "4-day India net: roughly ₹220–239 crore",
+    "4-day worldwide: ₹500.2 crore (DNA)"
+   ],
+   "sources": [
+    {
+     "name": "India TV",
+     "url": "https://www.indiatvnews.com/amp/entertainment/news/ramayana-part-1-day-4-box-office-ranbir-kapoor-yash-film-crosses-rs-200-crore-after-big-boost-on-choti-diwali-2026-11-08-1058962"
+    },
+    {
+     "name": "DNA India",
+     "url": "https://www.dnaindia.com/bollywood/report-ramayana-box-office-collection-day-4-ranbir-kapoor-yash-film-mints-rs-500-crore-in-opening-weekend-3223762"
+    },
+    {
+     "name": "Sacnilk",
+     "url": "https://www.sacnilk.com/news/ramayana-day-1-box-office-breaks-pre-diwali-opening-record-and-beats-adipurush-in-hindi-but-trails-in-overall-india-collections"
+    }
+   ]
+  },
+  {
+   "slug": "ott-this-week-haiwaan-blind-game-dilwali-diwali-im-game",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "OTT this week: Haiwaan, Blind Game, Dilwali Diwali and I'm Game, with Student Of The Year: After Dark next",
+   "dek": "A quick list of what streamed over Diwali week, per listings.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "Diwali week",
+     "paras": [
+      "According to OTT listings, ZEE5's Blind Game arrived on 4 November, Netflix's family drama Dilwali Diwali on 5 November, and on 6 November SonyLIV's Haiwaan (an Akshay Kumar and Saif Ali Khan thriller) and JioHotstar's I'm Game, a Dulquer Salmaan action thriller. Last Man in Tower also reached ZEE5 on 6 November."
+     ]
+    },
+    {
+     "title": "Coming up",
+     "paras": [
+      "Student Of The Year: After Dark is listed for JioHotstar on 13 November. Streaming dates are sometimes not officially confirmed by the makers or platforms, so check the app."
+     ]
+    }
+   ],
+   "facts": [
+    "Blind Game: ZEE5, 4 Nov",
+    "Dilwali Diwali: Netflix, 5 Nov",
+    "SOTY: After Dark: JioHotstar, 13 Nov (listed)"
+   ],
+   "sources": [
+    {
+     "name": "WION",
+     "url": "https://www.wionews.com/photos/new-ott-releases-this-week-november-2-8-2026-i-m-game-meesaya-murukku-2-blind-game-8-latest-titles-to-watch-this-diwali-on-ott-platforms-1793533241962"
+    },
+    {
+     "name": "Siasat",
+     "url": "https://www.siasat.com/ott-releases-this-week-november-2026-24-movies-series-to-watch-3569074/"
+    }
+   ]
+  },
+  {
+   "slug": "manisha-bhanwala-first-indian-woman-world-wrestling-champion",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Manisha Bhanwala becomes India's first woman world wrestling champion, winning 59 kg gold in Astana",
+   "dek": "She came back from 6-0 down to beat the USA's Abigail Nette 8-6 in the final on 30 October.",
+   "stat": [
+    "8-6",
+    "comeback win after trailing 6-0"
+   ],
+   "sections": [
+    {
+     "title": "The final",
+     "paras": [
+      "Manisha Bhanwala won gold in the 59 kg freestyle category at the World Wrestling Championships in Astana, Kazakhstan, on 30 October. She was 6-0 down against reigning Pan American champion Abigail Nette of the USA before winning 8-6. Reports describe her as the first Indian woman to win a world title, and only the second Indian after Sushil Kumar to win a senior world title."
+     ]
+    },
+    {
+     "title": "India's haul",
+     "paras": [
+      "India finished with four medals, all in women's freestyle: one gold, two silver and one bronze. The 59 kg class is not an Olympic weight, as Bhanwala moved there for these Championships."
+     ]
+    }
+   ],
+   "facts": [
+    "Gold in 59 kg, Astana (30 Oct 2026)",
+    "Beat Abigail Nette (USA) 8-6",
+    "India: 1 gold, 2 silver, 1 bronze"
+   ],
+   "sources": [
+    {
+     "name": "Olympics.com",
+     "url": "https://www.olympics.com/en/news/world-wrestling-championships-2026-manisha-bhanwala-gold-medal-report"
+    },
+    {
+     "name": "Outlook India",
+     "url": "https://www.outlookindia.com/sports/others/world-wrestling-championships-2026-manisha-gold-medal-59kg-first-ever-title-india-women"
+    }
+   ],
+   "good": true,
+   "emoji": "🤼"
+  },
+  {
+   "slug": "barbados-eliminates-mother-to-child-hiv-transmission",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "barbados-flag.jpg",
+   "credit": "Flag of Barbados / Cloudcounter, Wikimedia, CC0",
+   "contain": true,
+   "head": "Barbados is certified by WHO for eliminating mother-to-child HIV transmission",
+   "dek": "Babies born from 2022 to 2024 had no new HIV infections from their mothers, an independent review found.",
+   "stat": [
+    "98%",
+    "of pregnant women tested for HIV, 2022–24"
+   ],
+   "sections": [
+    {
+     "title": "What was certified",
+     "paras": [
+      "The WHO, working with PAHO, announced on 30 October that Barbados has eliminated mother-to-child transmission of HIV as a public health problem. An independent assessment found that infants born in 2022 to 2024 had no new infections from mother-to-child transmission. Positive News adds that 98% of pregnant women were tested for HIV and 98% of those with the virus received antiretroviral treatment."
+     ]
+    },
+    {
+     "title": "How",
+     "paras": [
+      "HIV testing and treatment are free for all pregnant women regardless of nationality, with early testing and follow-up for exposed babies. Barbados is one of 26 countries and territories recognised for eliminating mother-to-child transmission of HIV, syphilis or hepatitis B, or for being on track, and it must keep up testing and treatment to hold the status."
+     ]
+    }
+   ],
+   "facts": [
+    "WHO/PAHO announcement: 30 Oct 2026",
+    "No infant infections among births in 2022–24",
+    "One of 26 countries recognised"
+   ],
+   "sources": [
+    {
+     "name": "PAHO",
+     "url": "https://www.paho.org/en/news/30-10-2026-barbados-eliminates-mother-child-transmission-hiv"
+    },
+    {
+     "name": "Positive News",
+     "url": "https://www.positive.news/society/good-news-stories-from-week-45-of-2026/"
+    }
+   ],
+   "good": true,
+   "emoji": "🏥"
+  },
+  {
+   "slug": "iit-kharagpur-student-wins-viasat-space-for-good-india-challenge",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "iitkgp.jpg",
+   "credit": "Bubamannaiitkgp11 / Wikimedia, CC BY-SA 4.0",
+   "contain": false,
+   "head": "IIT Kharagpur student wins ₹5 lakh Viasat Space for Good India Challenge for AI to dodge space debris",
+   "dek": "Adeetya Uppal's idea helps satellites detect threatening debris and plan avoidance moves in seconds.",
+   "stat": [
+    "₹5 lakh",
+    "prize to develop the innovation"
+   ],
+   "sections": [
+    {
+     "title": "The win",
+     "paras": [
+      "Adeetya Uppal, a fourth-year aerospace dual-degree student at IIT Kharagpur from Navi Mumbai, was named winner of the 2026 Viasat: Space for Good India Challenge. His AI concept detects threatening space debris and plans satellite avoidance manoeuvres in seconds. The first prize is ₹5 lakh to develop the idea further."
+     ]
+    },
+    {
+     "title": "The field",
+     "paras": [
+      "Shashank Kumar Singh of IIT Gandhinagar and Aryan Gupta of IIT Roorkee placed second and third. Six finalists were announced ahead of the final on 27 October, with a prize pool of ₹11.5 lakh. The challenge is a STEM innovation competition run by Viasat in partnership with India's space agency."
+     ]
+    }
+   ],
+   "facts": [
+    "Winner: Adeetya Uppal, IIT Kharagpur",
+    "1st prize: ₹5 lakh; pool ₹11.5 lakh",
+    "Runners-up: IIT Gandhinagar, IIT Roorkee"
+   ],
+   "sources": [
+    {
+     "name": "Elets Digital Learning",
+     "url": "https://digitallearning.eletsonline.com/2026/11/iit-kharagpur-adeetya-uppal-drishti-ai-space-debris-viasat-space-for-good-india-challenge-2026/"
+    },
+    {
+     "name": "CXOToday",
+     "url": "https://cxotoday.com/media-coverage/viasat-announces-winner-of-viasat-space-for-good-india-challenge-2026/"
+    }
+   ],
+   "good": true,
+   "emoji": "🛰️"
+  },
+  {
+   "slug": "doberman-saraya-alerts-family-to-baby-heart-condition",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "A family Doberman helped save a baby: her behaviour led to a heart-condition diagnosis",
+   "dek": "Doctors found baby Alexander's heart rate was 280 beats per minute.",
+   "stat": [
+    "280",
+    "beats per minute found in the baby's check"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Kim Reynolds, 41, from Somerset in England, noticed her Doberman Saraya staying by her six-month-old son Alexander and crying whenever he was taken away. When he later became upset and looked unwell, she took him to hospital, where doctors recorded a heart rate of 280 beats per minute."
+     ]
+    },
+    {
+     "title": "The outcome",
+     "paras": [
+      "After two days, Alexander was diagnosed with Wolff-Parkinson-White syndrome, a heart rhythm condition that can be managed but is dangerous if left untreated. Three doses of medicine brought his heart rate down. At nine months, he takes propranolol three times a day. Saraya later alerted Kim again, and he was found to have bacterial tonsillitis, treated with penicillin."
+     ]
+    }
+   ],
+   "facts": [
+    "Baby's heart rate: 280 bpm",
+    "Diagnosis: Wolff-Parkinson-White syndrome",
+    "Now on propranolol, three times a day"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/baby-saved-as-racing-heartbeat-detected-by-pet/"
+    }
+   ],
+   "good": true,
+   "emoji": "🐕"
+  },
+  {
+   "slug": "german-study-trained-dogs-sniff-out-invasive-plants-75-percent",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "sniffer-dog.jpg",
+   "credit": "Sniffer dog with handler / via Good News Network",
+   "contain": false,
+   "head": "Volunteer dog teams find invasive plants with 75% accuracy in a German study",
+   "dek": "Eleven of 12 teams passed the field test, giving a low-cost way to protect local ecosystems.",
+   "stat": [
+    "75%",
+    "average detection success rate"
+   ],
+   "sections": [
+    {
+     "title": "The study",
+     "paras": [
+      "Scientists at the Helmholtz Centre for Environmental Research (UFZ) in Leipzig, led by Dr Annegret Grimm-Seyfarth, trained volunteer owners and their dogs from 2021 to 2023 to find invasive plants: Himalayan balsam, common ragweed and knotweeds such as Japanese knotweed. In the field test, the teams located them with an average success rate of 75%, and 11 of the 12 teams that completed it passed."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The study, published in PLOS One, also sets out how to select volunteers, train dogs and deploy them. Early detection makes invasive plants easier and cheaper to remove before they damage local ecosystems."
+     ]
+    }
+   ],
+   "facts": [
+    "Average detection: 75%",
+    "11 of 12 teams passed",
+    "Published in PLOS One"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/"
+    }
+   ],
+   "good": true,
+   "emoji": "🐕‍🦺"
+  },
+  {
+   "slug": "unep-252-million-hectares-under-active-restoration-149-countries",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "UN report: 252 million hectares of habitat are being actively restored across 149 countries",
+   "dek": "The Green Climate Fund also had a record year, allocating $3.3 billion to developing countries.",
+   "stat": [
+    "252 M ha",
+    "under active restoration"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "A UN Environment Programme report estimates that 252 million hectares of land, marine and freshwater habitat in 149 countries are under active restoration, supporting over a million green jobs. The Green Climate Fund reported a record year, allocating $3.3 billion to climate projects in developing countries."
+     ]
+    },
+    {
+     "title": "The gap",
+     "paras": [
+      "The report says restoration investment would need to rise from $64 billion to $296 billion a year by 2030, so the progress is real but far from enough."
+     ]
+    }
+   ],
+   "facts": [
+    "Area under restoration: 252M hectares",
+    "Countries: 149",
+    "Investment needed: $64B → $296B a year by 2030"
+   ],
+   "sources": [
+    {
+     "name": "Positive News",
+     "url": "https://www.positive.news/society/good-news-stories-from-week-45-of-2026/"
+    }
+   ],
+   "good": true,
+   "emoji": "🌱"
+  },
+  {
+   "slug": "short-necked-oil-beetle-returns-to-wales-after-60-years",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "A beetle absent from Wales for about 60 years has been rediscovered in Pembrokeshire",
+   "dek": "Surveyors found short-necked oil beetle larvae at Castlemartin Range after spotting adults there in 2025.",
+   "stat": [
+    "~60 yrs",
+    "the beetle was absent from Wales"
+   ],
+   "sections": [
+    {
+     "title": "The find",
+     "paras": [
+      "Surveyors have found larvae of the short-necked oil beetle at Castlemartin Range in Pembrokeshire, Wales, after spotting adults there in 2025. The species had not been recorded in Wales for about 60 years, and habitat loss had pushed it to near extinction in the 20th century."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Finding larvae suggests the beetles are breeding at the site, not just passing through. It is a small but real sign that restoring habitat can bring back species thought lost."
+     ]
+    }
+   ],
+   "facts": [
+    "Absent from Wales for about 60 years",
+    "Larvae found at Castlemartin Range",
+    "Adults spotted there in 2025"
+   ],
+   "sources": [
+    {
+     "name": "Positive News",
+     "url": "https://www.positive.news/society/good-news-stories-from-week-45-of-2026/"
+    }
+   ],
+   "good": true,
+   "emoji": "🪲"
+  }
+ ],
+ "also": [],
+ "markets": {
+  "asof": "Close of the Muhurat session, Sunday 8 November 2026",
+  "items": [
+   {
+    "n": "Sensex",
+    "v": "80,999.40",
+    "c": "-0.04%"
+   },
+   {
+    "n": "Nifty 50",
+    "v": "24,986.40",
+    "c": "-0.18%"
+   }
+  ]
+ }
+}
