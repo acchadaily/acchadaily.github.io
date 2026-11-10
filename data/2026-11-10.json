@@ -1,0 +1,1601 @@
+{
+ "date": "2026-11-10",
+ "day": "Tuesday",
+ "date_label": "10 November 2026",
+ "note": "Happy Balipratipada 🪔",
+ "markets": {
+  "asof": "Close of Monday 9 November 2026 (NSE and BSE are closed today, 10 November)",
+  "items": [
+   {
+    "n": "Sensex",
+    "v": "81,106",
+    "c": "+0.13%"
+   },
+   {
+    "n": "Nifty 50",
+    "v": "25,044",
+    "c": "+0.23%"
+   },
+   {
+    "n": "Gold 24K /10g",
+    "v": "₹1,44,600",
+    "c": "+4.1% since 1 Nov"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slug": "deepinder-goyal-responds-to-criticism-temple-85000-wearable",
+   "tag": "Founders",
+   "color": "#0E9F5B",
+   "img": "temple.jpg",
+   "credit": "Temple / via Business Today",
+   "contain": true,
+   "head": "Deepinder Goyal hits back at critics of his ₹85,000 Temple wearable: 'We didn't make any medical claim'",
+   "dek": "The Zomato founder says Temple is a fitness and AI device, not a medical one, and that he expects no more than 1% of its sales to come from India.",
+   "stat": [
+    "₹85,000",
+    "price of the Temple wearable"
+   ],
+   "sections": [
+    {
+     "title": "What the criticism was",
+     "paras": [
+      "Temple, the wearable from Deepinder Goyal's startup, has drawn questions over its ₹85,000 price, its science and the way it is positioned as a fitness and AI device. Medical professionals have asked for evidence, especially for its claim to track changes in blood flow to the brain."
+     ]
+    },
+    {
+     "title": "What Goyal said back",
+     "paras": [
+      "On 8 November Goyal replied point by point. On medical claims he said, 'We didn't make any medical claim,' and described Temple as a fitness and AI product that is not proven to diagnose or prevent disease. On proof, he said products are sold at different levels of evidence, from whitepaper to pre-print to peer-reviewed study, and buyers can simply wait for peer-reviewed results.",
+      "On price, he apologised if buyers find it too expensive and suggested waiting for user reviews. He also asked people not to back Temple only because it is an Indian startup, saying the company wants to compete globally and expects no more than 1% of sales from India."
+     ]
+    },
+    {
+     "title": "What is still pending",
+     "paras": [
+      "Goyal called 'Entropy', Temple's own measure of physiological strain, the device's main feature, but it has not been published and independent validation is pending. 'Brain Flow', the blood-flow feature, is not the main purpose, he said, and he promised a detailed note on how it is calculated, what it can be used for and its limits. He added that the company will get any regulatory clearances before making claims that need them."
+     ]
+    },
+    {
+     "title": "Who owns Temple",
+     "paras": [
+      "Business Today's ownership breakdown, based on data from February 2026 when Temple raised $54 million at a post-money valuation of about $190 million, puts Goyal's stake at 28.59%, followed by Steadview Capital at 5.28% and Peak XV Partners at 3.17%. Employee stock options account for about 10%."
+     ]
+    }
+   ],
+   "facts": [
+    "Price: ₹85,000",
+    "Goyal holds 28.59%; $54M raised in Feb 2026",
+    "Expects no more than 1% of sales from India"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/technology/story/temple-is-not-made-for-india-deepinder-goyal-responds-to-criticism-over-rs-85000-wearable-566382-2026-11-08"
+    },
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/technology/story/who-owns-temple-deepinder-goyal-holds-28-59-stake-heres-who-owns-the-rest-566513-2026-11-09"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "jio-rs-10000-recharge-plan-3-year-validity-unlimited-5g",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "jio.jpg",
+   "credit": "Jio / via Business Today",
+   "contain": false,
+   "head": "Jio launches a ₹10,000 recharge plan that lasts three years, with unlimited 5G and Canva Pro Lite",
+   "dek": "Pay once and your Jio number is covered for 1,095 days, which works out to about ₹278 a month.",
+   "stat": [
+    "₹278",
+    "effective cost per month"
+   ],
+   "sections": [
+    {
+     "title": "What you get",
+     "paras": [
+      "Reliance Jio's new prepaid plan costs ₹10,000 as a one-time payment and is valid for 1,095 days, or three years. It has been available nationwide since 7 November. It includes unlimited local and STD calls on all networks, 100 SMS a day and 2.5 GB of high-speed 4G data a day. After the daily quota, speeds drop to 64 Kbps. Unlimited 5G is available to eligible users with a 5G phone in a Jio True 5G area."
+     ]
+    },
+    {
+     "title": "The extras",
+     "paras": [
+      "The plan bundles JioHotstar mobile access, JioTV, 12 months of Canva Pro Lite and 50 GB of JioAI Cloud storage. You can buy it on the MyJio app, Jio's website, at Jio stores and through authorised third-party recharge channels."
+     ]
+    },
+    {
+     "title": "Is it good value?",
+     "paras": [
+      "At about ₹278 a month, or roughly ₹9.1 a day, it is cheaper than renewing the ₹3,599 annual plan three times, which would cost ₹10,797. That is a saving of about ₹797 over three years. The catch is the large upfront payment and the fact that prices of plans can change over three years, so it suits people who plan to keep the same number."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Telecom firms are competing hard on prepaid offers this week. Airtel has reportedly started a buy-one-get-one recharge on two of its plans, a move Business Today links to a similar Jio promotion."
+     ]
+    }
+   ],
+   "facts": [
+    "₹10,000 one-time, valid 1,095 days",
+    "2.5 GB/day 4G, 100 SMS/day, unlimited 5G for eligible users",
+    "Saves about ₹797 versus three ₹3,599 annual plans"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/technology/news/story/reliance-jio-launches-rs10000-recharge-plan-with-3-year-validity-unlimited-5g-and-more-566505-2026-11-09"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "nvidia-shares-hit-multi-month-low-jensen-huang-affair-board-probe",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "nvidia.jpg",
+   "credit": "Nvidia / via Business Today",
+   "contain": false,
+   "head": "Nvidia stock hits a multi-month low as CEO Jensen Huang admits an affair and the board opens a probe",
+   "dek": "Shares fell about 4% on Monday to $178.44 after the board began an independent inquiry into whether Huang was targeted by a foreign intelligence effort.",
+   "stat": [
+    "-22%",
+    "Nvidia's share price over the past month"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "In a letter to employees, Nvidia CEO Jensen Huang, 63, admitted to being unfaithful to his wife, saying he had 'fallen short' of his responsibility. On Sunday, Nvidia's board announced an independent investigation, overseen by independent directors with outside legal counsel, into whether he was the target of a foreign intelligence effort. The board said it has no reason to believe US national security or Nvidia's secrets were compromised, and Huang remains CEO during the review."
+     ]
+    },
+    {
+     "title": "The allegations",
+     "paras": [
+      "The New York Times reported last month that Huang had a close relationship with Alice Huang, a former executive of the Singapore data-centre firm Megaspeed, whom US authorities reportedly believe was a Chinese intelligence asset. These claims come from unnamed US officials and have not been confirmed. China's foreign ministry has called them groundless slander. President Trump said the FBI is looking into the matter."
+     ]
+    },
+    {
+     "title": "Markets and fallout",
+     "paras": [
+      "Nvidia fell as much as 8% in Monday's session, touching $172.37, before closing about 4% lower at $178.44. It is down roughly 22% over a month. Shareholders have filed a proposed class-action lawsuit accusing the company and Huang of concealing his ties, and some US Democrats are calling for an investigation."
+     ]
+    },
+    {
+     "title": "The succession question",
+     "paras": [
+      "In a Bloomberg interview, Huang said he hopes 'the next CEO of the company is already at the company', without naming anyone. He co-founded Nvidia in 1993 and has led it since."
+     ]
+    }
+   ],
+   "facts": [
+    "Shares: $178.44 on Monday, down about 22% in a month",
+    "Board probe launched Sunday; Huang remains CEO",
+    "Allegations rest on unnamed US officials; China denies"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/markets/story/nvidia-shares-plunge-after-ceo-jensen-huang-admits-to-affair-board-launches-spy-probe-566567-2026-11-09"
+    },
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/world/us/story/fbi-is-looking-into-nvidias-jensen-huangs-affair-with-alleged-chinese-spy-566575-2026-11-10"
+    },
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/technology/news/story/who-could-be-nvidias-next-ceo-jensen-huang-reveals-where-he-hopes-to-find-his-successor-566558-2026-11-10"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "physicswallah-q2-profit-doubles-ai-writes-90-percent-code-job-cuts",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "pw.jpg",
+   "credit": "Physics Wallah illustration / via Entrackr",
+   "contain": false,
+   "head": "PhysicsWallah's Q2 profit doubles to ₹142 crore; management says AI now writes about 90% of its code",
+   "dek": "Revenue rose 18% to ₹1,242 crore, even as headcount and employee costs came down.",
+   "stat": [
+    "90%",
+    "of code written by AI, says management"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "For the second quarter of FY27, PhysicsWallah reported consolidated revenue of ₹1,242 crore, up 18% from a year ago, and net profit of ₹142 crore, up from ₹70 crore."
+     ]
+    },
+    {
+     "title": "AI and the headcount",
+     "paras": [
+      "The company had about 19,100 employees and 7,100 faculty, both lower than the previous quarter. Employee expenses, excluding ESOP costs, were down 2.3% year on year. Management said AI now writes around 90% of its code, and technology spending in the first half of FY27 was ₹104 crore against ₹70 crore a year earlier."
+     ]
+    },
+    {
+     "title": "Offline business",
+     "paras": [
+      "Offline revenue was ₹541 crore in the quarter, up 9%. The offline arm still posted a first-half EBITDA loss of ₹108 crore, narrower than ₹120 crore a year ago. It runs 370 centres, including 167 Vidyapeeth centres, up from 117. Management said the standalone Vidyapeeth business is already profitable and expects offline to move towards breakeven."
+     ]
+    },
+    {
+     "title": "What next",
+     "paras": [
+      "PhysicsWallah has set aside less than $20 million for acquisitions, out of the ₹300 crore it earmarked from its IPO proceeds. For FY27 it guides to revenue growth of about 30%, with acquisitions adding less than 5 percentage points."
+     ]
+    }
+   ],
+   "facts": [
+    "Q2 FY27 revenue ₹1,242 crore (+18%), profit ₹142 crore",
+    "370 offline centres, 167 of them Vidyapeeth",
+    "M&A budget under $20 million"
+   ],
+   "sources": [
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/news/physicswallah-cites-ai-efficiencies-for-job-cuts-offline-biz-faces-profit-pressure-earmarks-20-mn-for-ma-12795872"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "airtel-reportedly-offers-buy-1-get-1-recharge-on-rs-349-and-rs-399-plans",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "airtel.jpg",
+   "credit": "Airtel / via Business Today",
+   "contain": false,
+   "head": "Airtel reportedly offers a buy-1-get-1 recharge on its ₹349 and ₹399 plans, after Jio's similar deal",
+   "dek": "An eligible account could get a second recharge of the same value free, stretching 28 days to 56.",
+   "stat": [
+    "1+1",
+    "reported free second recharge"
+   ],
+   "sections": [
+    {
+     "title": "What was spotted",
+     "paras": [
+      "According to Business Today, some Airtel prepaid users are seeing a '1+1 Recharge Free' tag on the ₹349 and ₹399 plans in the Airtel Thanks app. If it applies, the second recharge of the same value costs nothing, which could stretch the usual 28-day validity to 56 days."
+     ]
+    },
+    {
+     "title": "The maths",
+     "paras": [
+      "Effectively, the ₹349 plan would cost about ₹175 a month and the ₹399 plan about ₹200 a month. The ₹349 plan has 1.5 GB a day, unlimited 5G for eligible users and a 12-month Adobe Express Premium subscription. The ₹399 plan has unlimited 4G and 5G data with no daily cap."
+     ]
+    },
+    {
+     "title": "What isn't clear",
+     "paras": [
+      "Airtel has not publicly announced the offer, and it may not be available to every prepaid user. It also hasn't said whether the extra recharge arrives as a voucher or activates after the current plan ends. Jio's earlier promotion gave selected customers an extra month through a voucher after the paid plan expired, and Airtel's process may not work the same way. Check the Airtel Thanks app before relying on it."
+     ]
+    }
+   ],
+   "facts": [
+    "Plans: ₹349 and ₹399, normally 28 days",
+    "Effective ₹175 and ₹200 a month if applied",
+    "Not officially announced by Airtel"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/technology/news/story/after-jio-airtel-reportedly-offers-a-buy-1-get-1-recharge-deal-on-rs349-and-rs399-plans-566528-2026-11-09"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "anthropic-ipo-valuation-range-this-week-wsj",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Anthropic reportedly plans to set its IPO valuation range this week, with trading as early as next Thursday",
+   "dek": "Some investors want a valuation below the $1.5 trillion target discussed last week, per the Wall Street Journal.",
+   "stat": [
+    "$1.5T",
+    "target valuation discussed last week"
+   ],
+   "sections": [
+    {
+     "title": "What was reported",
+     "paras": [
+      "TechCrunch, citing the Wall Street Journal, says Anthropic plans to set its valuation range this week and begin trading on the Thursday or Friday of next week. Anthropic has not confirmed these details in the report."
+     ]
+    },
+    {
+     "title": "The valuation debate",
+     "paras": [
+      "Some institutional investors want a valuation below the $1.5 trillion target discussed last week. That target was already well below the $2 trillion that had been floated a few months earlier. The timing is seen as risky because the listing comes soon after one of Nasdaq's biggest sell-offs."
+     ]
+    },
+    {
+     "title": "The rival",
+     "paras": [
+      "OpenAI was reportedly valued at $1.25 trillion last week after raising $11 billion."
+     ]
+    }
+   ],
+   "facts": [
+    "Trading could start Thursday or Friday next week",
+    "$1.5T target; some investors want lower",
+    "OpenAI reportedly at $1.25T"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "anthropic-releases-fable-5-2-mythos-5-2-cheaper-faster",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Anthropic releases Fable 5.2 and Mythos 5.2: input price cut to $8 per million tokens and about 30% faster",
+   "dek": "The launch comes with a METR report suggesting Anthropic's own models may be speeding up its AI research.",
+   "stat": [
+    "$8",
+    "per million input tokens, down from $10"
+   ],
+   "sections": [
+    {
+     "title": "What's new",
+     "paras": [
+      "Anthropic launched Mythos 5.2 and Fable 5.2 on Monday, saying they improve on coding, reasoning and vision and explain things more clearly. Fable's input price drops from $10 to $8 per million tokens, which TechCrunch says makes it cheaper than rival GPT-6 Astra. Fable 5.2 responds about 30% faster, and faster inference is available at double the price. It also works with zero data retention policies for enterprises."
+     ]
+    },
+    {
+     "title": "The big claims",
+     "paras": [
+      "Anthropic says Fable 5.2, in pre-release testing, solved two open problems in theoretical physics and formalised Fermat's Last Theorem. These are the company's own claims."
+     ]
+    },
+    {
+     "title": "The caution flags",
+     "paras": [
+      "A METR report suggested Anthropic's internal models sped up AI progress by roughly 2x, raising talk of recursive self-improvement, though many uncertainties remain. Anthropic says both models suspect they are being tested more often than recent models, which makes it harder to judge how they act in the real world. The Mythos 5.2 system card also reports stronger covert capabilities than earlier Claude models on several evaluations."
+     ]
+    }
+   ],
+   "facts": [
+    "Fable input: $10 to $8 per million tokens",
+    "About 30% faster responses",
+    "METR: roughly 2x speed-up estimate"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "apple-launches-49-99-intelligence-usage-packs-first-paid-apple-intelligence",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "applepack.jpg",
+   "credit": "Apple Intelligence / via 9to5Mac",
+   "contain": false,
+   "head": "Apple launches $49.99 'Intelligence Usage Packs', its first paid Apple Intelligence option",
+   "dek": "For now the packs work only in Logic Pro, with other Creator Studio apps to follow.",
+   "stat": [
+    "$49.99",
+    "one-time usage pack"
+   ],
+   "sections": [
+    {
+     "title": "How it works",
+     "paras": [
+      "Apple is selling a one-time Intelligence Usage Pack for $49.99, found in Logic Pro under Intelligence Features. Extra usage is consumed only after you hit your monthly limit. Unused credit rolls over month to month, but purchased usage expires 12 months after purchase."
+     ]
+    },
+    {
+     "title": "Limits",
+     "paras": [
+      "Packs don't support Family Sharing and work only with the Apple Account used for iCloud at purchase. Final Cut Pro, Pixelmator Pro and the iWork apps are expected to get packs when their updates arrive later this month. 9to5Mac says similar paid access may come to other server-based AI features, but that is not confirmed, and the report does not say which countries get the packs."
+     ]
+    }
+   ],
+   "facts": [
+    "$49.99 per pack",
+    "Expires 12 months after purchase",
+    "Logic Pro only for now"
+   ],
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "adobe-and-disney-announce-multi-year-ai-alliance-custom-firefly-models",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "adobe.jpg",
+   "credit": "Adobe and Disney / via Adobe",
+   "contain": false,
+   "head": "Adobe and Disney announce a multi-year AI alliance to build custom Firefly models",
+   "dek": "Adobe becomes an official AI innovation partner of Disney, which will work on generative models tailored to its own characters and worlds.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The deal",
+     "paras": [
+      "Announced at Adobe MAX in Miami Beach on 9 November, the multi-year alliance makes Adobe an Official AI Innovation Partner of The Walt Disney Company. Financial terms and the exact length were not disclosed."
+     ]
+    },
+    {
+     "title": "What Disney gets",
+     "paras": [
+      "Through Firefly Foundry, Disney will work with Adobe on generative AI models tailored to its properties, trained on knowledge of characters, environments and visual style. Disney Imagineering R&D already uses Firefly Foundry, including a sketch-to-image model that turns hand-drawn concepts into concept art. Adobe has also joined StudioLAB, Disney's studio innovation programme, and the two will explore AI for ESPN fan engagement and bringing its archive to life."
+     ]
+    }
+   ],
+   "facts": [
+    "Announced 9 November at Adobe MAX",
+    "Custom Firefly models for Disney's IP",
+    "Terms not disclosed"
+   ],
+   "sources": [
+    {
+     "name": "Adobe",
+     "url": "https://news.adobe.com/news/2026/11/adobe-and-the-walt-disney-company-alliance"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "world-bank-warns-digital-wallets-must-not-be-mandatory-for-essential-services",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "wb.jpg",
+   "credit": "Digital wallet illustration / via Business Today",
+   "contain": false,
+   "head": "World Bank warns governments: digital ID wallets must not become a must-have for essential services",
+   "dek": "Its new report says elderly, low-income and low-connectivity people risk being locked out.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The warning",
+     "paras": [
+      "A World Bank report on national-scale digital wallets says they 'must not become a prerequisite for accessing essential services'. These wallets store and share verified credentials such as IDs, driving licences, certificates and medical records, and are different from payment apps."
+     ]
+    },
+    {
+     "title": "Who's at risk",
+     "paras": [
+      "The report flags the elderly, low-income households and people with limited digital skills, as well as anyone without a smartphone or reliable internet, or who struggles to recover access after losing a device. It suggests alternatives such as chip-enabled physical cards, cloud-based wallets and paper credentials, plus phased rollouts on open standards."
+     ]
+    },
+    {
+     "title": "India angle",
+     "paras": [
+      "Business Today notes the relevance to Aadhaar and DigiLocker, but the World Bank did not evaluate those systems or conclude that they exclude anyone."
+     ]
+    }
+   ],
+   "facts": [
+    "Report: Digital Wallets: Implementation",
+    "Suggests cards, cloud wallets and paper options",
+    "India's systems were not assessed"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/technology/news/story/world-bank-warns-against-mandatory-digital-wallets-could-millions-be-excluded-from-essential-services-566573-2026-11-10"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "iit-madras-alumni-startup-discovered-materials-offers-1-million-prize",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "IIT Madras alumni's Discovered Materials offers a $1 million prize for five unsolved materials-science problems",
+   "dek": "The Y Combinator-backed startup wants to test whether AI can truly make scientific progress.",
+   "stat": [
+    "$1M",
+    "total prize pool"
+   ],
+   "sections": [
+    {
+     "title": "The challenge",
+     "paras": [
+      "Discovered Materials, a San Francisco startup founded by IIT Madras alumni Advaith Sridhar and Akash Ramdas, is offering $1 million to anyone who solves five long-standing problems. The biggest prize, $400,000, is for cuprate superconductivity. Two problems carry $200,000 each and two carry $100,000 each. The others cover semiconductor interfaces, faster quantum-chemistry calculations, how light changes materials and heat transfer across solid interfaces."
+     ]
+    },
+    {
+     "title": "Why",
+     "paras": [
+      "Advanced AI models, run as autonomous agents with internet access, made little progress over several days, Sridhar said, asking 'How do we know AI is making progress?' Individuals, teams and organisations can enter, there is no fixed deadline, and prizes go only to solutions that meet the scientific criteria."
+     ]
+    },
+    {
+     "title": "The company",
+     "paras": [
+      "The startup was part of Y Combinator's spring 2026 batch and raised $9 million in seed funding in August."
+     ]
+    }
+   ],
+   "facts": [
+    "$400,000 top prize for cuprate superconductivity",
+    "$9M seed raised in August",
+    "Y Combinator spring 2026 batch"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/technology/news/story/scientists-couldnt-solve-these-problems-for-years-now-an-iit-madras-startup-is-offering-1-million-to-anyone-who-can-566374-2026-11-09"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "apple-pay-india-hsbc-in-talks-to-join-axis-bank-first-partner",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "applepay.jpg",
+   "credit": "Apple Pay / via Business Today",
+   "contain": false,
+   "head": "Apple Pay in India: HSBC reportedly in talks to become the second bank partner",
+   "dek": "Banks are negotiating over how much interchange income Apple gets on each credit card transaction.",
+   "stat": [
+    "1.02M",
+    "HSBC credit cards in circulation (Sept 2026)"
+   ],
+   "sections": [
+    {
+     "title": "Where things stand",
+     "paras": [
+      "Apple Pay launched in India in September with Axis Bank as its first banking partner. According to a Business Standard report cited by Business Today, HSBC India is in talks to join by the end of FY27. HSBC had 1.02 million credit cards in circulation as of September 2026, per RBI data."
+     ]
+    },
+    {
+     "title": "Other banks",
+     "paras": [
+      "Kotak Mahindra Bank's CEO Ashok Vaswani said the bank will eventually join, 'depending on customer demand', possibly within a couple of quarters. Several other large lenders are discussing tie-ups. The sticking point is Apple's share of interchange income. Apple typically takes around 15 basis points per credit card transaction in most global markets, though it varies. Apple Pay works in more than 90 markets with over 11,000 bank and network partners."
+     ]
+    }
+   ],
+   "facts": [
+    "Axis Bank is the first partner",
+    "HSBC targets end of FY27 (reported)",
+    "Apple's usual cut: ~15 bps globally"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/technology/news/story/apple-pay-in-india-hsbc-in-talks-to-join-as-second-bank-other-lenders-explore-tie-ups-566422-2026-11-09"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "govt-caps-trade-margins-on-137-anti-cancer-drugs-prices-cut-up-to-96-percent",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Government caps trade margins on 137 anti-cancer drugs; steepest price cut is 96%",
+   "dek": "The cap of 30% on trade margins took effect on 9 November and is expected to save about ₹3,557 crore a year.",
+   "stat": [
+    "96%",
+    "steepest reported price cut"
+   ],
+   "sections": [
+    {
+     "title": "What changed",
+     "paras": [
+      "The government has capped trade margins at 30% on 137 non-scheduled anti-cancer medicines, effective 9 November. The aim is to curb excessive mark-ups by manufacturers, distributors and pharmacies."
+     ]
+    },
+    {
+     "title": "How much will you save?",
+     "paras": [
+      "Reported price cuts range from about 20% to 70% on average, with the steepest at 96.45%. The estimated saving is about ₹3,557 crore a year, based on FY26 sales volumes. The source does not list the specific drugs, so patients should ask their pharmacist or hospital which products are covered."
+     ]
+    }
+   ],
+   "facts": [
+    "137 medicines covered",
+    "Trade margin cap: 30%",
+    "Estimated savings: ₹3,557 crore a year"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/bt-tv/whats-hot/video/govt-slashes-prices-of-137-cancer-drugs-by-up-to-96-what-patients-need-to-know-566537-2026-11-09"
+    }
+   ],
+   "good": true,
+   "emoji": "💊",
+   "also": []
+  },
+  {
+   "slug": "e20-fuel-row-karnataka-claims-ethanol-above-limit-oil-ministry-says-all-samples-fine",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "e20.jpg",
+   "credit": "E20 petrol sign / via Business Today",
+   "contain": false,
+   "head": "E20 petrol row: Karnataka claims ethanol above the limit; Petroleum Ministry says all 893 samples were within range",
+   "dek": "Kerala has begun random checks at petrol pumps, and oil companies want joint sampling.",
+   "stat": [
+    "31.2%",
+    "highest ethanol level Karnataka reports"
+   ],
+   "sections": [
+    {
+     "title": "Karnataka's claim",
+     "paras": [
+      "Karnataka Chief Minister DK Shivakumar said petrol samples from 67 locations were tested. The state says samples from seven districts showed ethanol above the 20% E20 limit, up to 31.2% in an Indian Oil sample and 30.5% in a Hindustan Petroleum sample. It also reports thousands of complaints about reduced mileage and engines stalling."
+     ]
+    },
+    {
+     "title": "The other side",
+     "paras": [
+      "Indian Oil, BPCL and HPCL reject the allegations, saying their E20 petrol meets the IS 17021 specification, and asked for joint sampling and independent verification. On 7 November the Petroleum Ministry said all 893 samples across 27 states and Union Territories were within 19% to 21%, including all 56 samples from Karnataka (19% to 20%)."
+     ]
+    },
+    {
+     "title": "Kerala",
+     "paras": [
+      "Kerala has ordered random inspections at pumps in Thiruvananthapuram, Ernakulam, Kozhikode and Kannur, with lab results expected in 10 days. Minister Anoop Jacob said no confirmed excess blending has been reported so far."
+     ]
+    }
+   ],
+   "facts": [
+    "Karnataka: 67 sites tested; Centre: 893 samples",
+    "Centre: all within 19-21%",
+    "Kerala results due in about 10 days"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/india/story/e20-fuel-controversy-karnataka-finds-excess-ethanol-kerala-begins-petrol-pump-checks-566546-2026-11-09"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "punjab-records-1152-fresh-farm-fires-on-diwali-sharpest-rise-this-season",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "punjab.jpg",
+   "credit": "Stubble burning / via Business Today",
+   "contain": false,
+   "head": "Punjab records 1,152 fresh farm fires on Diwali, its sharpest single-day rise this season",
+   "dek": "The season's tally reached 4,459, and Sangrur had the most new fires that day.",
+   "stat": [
+    "1,152",
+    "new farm fires on 8 November"
+   ],
+   "sections": [
+    {
+     "title": "The spike",
+     "paras": [
+      "Punjab recorded 1,152 farm fires on 8 November, taking the season's count to 4,459 from 3,307 a day earlier. Sangrur had the most new fires that day (194), followed by Ferozepur (157) and Bathinda (132). Tarn Taran has the highest cumulative count at 654."
+     ]
+    },
+    {
+     "title": "Why it jumped",
+     "paras": [
+      "On Diwali last year there were 45 fires, but only about 32% of paddy had been harvested by then. This year about 92% was harvested by 8 November. Last year's count was 3,622 on 8 November and 5,114 by 30 November."
+     ]
+    },
+    {
+     "title": "Action so far",
+     "paras": [
+      "Punjab has registered 884 FIRs and made 1,017 red entries in land records, and imposed over ₹62 lakh in environmental compensation in 1,228 cases, of which over ₹32 lakh has been recovered. The air quality panel CAQM has voiced serious concern and met officials from 12 districts."
+     ]
+    }
+   ],
+   "facts": [
+    "Season total: 4,459 fires",
+    "884 FIRs, 1,017 red entries",
+    "About 92% of paddy harvested by 8 Nov"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/india/story/punjab-records-1152-fresh-farm-fires-on-diwali-sangrur-reports-highest-daily-count-566501-2026-11-09"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "mumbai-first-non-ac-local-with-automatic-doors-begins-trials",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "mumbai.jpg",
+   "credit": "Mumbai local train / via Business Today",
+   "contain": false,
+   "head": "Mumbai gets its first non-AC local train with automatic doors, now in safety trials",
+   "dek": "The 12-coach rake from Chennai's ICF has louvred doors and sensors that reopen if someone is blocking them.",
+   "stat": [
+    "12",
+    "coaches in the rake"
+   ],
+   "sections": [
+    {
+     "title": "The train",
+     "paras": [
+      "Mumbai has received its first non-AC suburban local with automatic sliding doors, built at the Integral Coach Factory in Chennai. The louvred door panels let air in while the doors stay shut, roof ventilators add airflow, and sensors reopen the doors if a person or object blocks them. Other upgrades include more legroom, CCTV, fire detection and emergency communication."
+     ]
+    },
+    {
+     "title": "What next",
+     "paras": [
+      "Trials will test braking, acceleration, suspension, bogies, electrical systems and the doors, and the train needs a fitness certificate before regular service. Officials worry that automatic doors could lengthen station halts and hurt peak-hour punctuality, which will be assessed. The push follows a serious 2025 incident involving open doorways."
+     ]
+    }
+   ],
+   "facts": [
+    "12-coach rake built at ICF Chennai",
+    "Trials first, then fitness certificate",
+    "Concern: longer station halts"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/india/story/mumbai-gets-its-first-automatic-door-non-ac-local-train-what-changes-for-mumbai-local-passengers-566427-2026-11-09"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "indian-railways-earns-rs-628-crore-from-scrap-sales-beats-target",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "railway.jpg",
+   "credit": "Indian Railways / via Business Today",
+   "contain": false,
+   "head": "Indian Railways earns ₹628 crore from scrap sales in October, beating its ₹600 crore target",
+   "dek": "The month-long cleanliness drive also freed up about 6.2 lakh square feet of space.",
+   "stat": [
+    "₹628 cr",
+    "earned from scrap sales"
+   ],
+   "sections": [
+    {
+     "title": "The campaign",
+     "paras": [
+      "During Special Campaign 6, from 2 to 31 October, Indian Railways earned ₹628.49 crore from scrap, above its ₹600 crore target. It freed about 6.2 lakh sq ft (roughly 14.24 acres) of space and carried out over a lakh cleanliness drives at stations, offices and workshops."
+     ]
+    },
+    {
+     "title": "More numbers",
+     "paras": [
+      "More than 1.5 lakh units of e-waste were disposed of, bringing ₹10.43 crore. A passenger-feedback programme, Rail Jan Samvad, was held at 5,884 stations on 22 October. In 2025 the campaign earned ₹570 crore and freed 6.06 lakh sq ft."
+     ]
+    }
+   ],
+   "facts": [
+    "Target: ₹600 crore; earned ₹628.49 crore",
+    "6.2 lakh sq ft of space freed",
+    "2025: ₹570 crore"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/india/story/indian-railways-earns-rs-628-crore-selling-scrap-beats-revenue-target-566572-2026-11-09"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "gold-falls-21-percent-globally-only-15-percent-in-india-rupee-import-duty",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "img": "gold.jpg",
+   "credit": "Gold / via Business Today",
+   "contain": false,
+   "head": "Gold fell 21% globally this year but only 15% in India; rupee and import duty cushioned the drop",
+   "dek": "From 30 January to 30 October, dollar gold fell 21.4% while rupee gold fell 14.9%, says an Axis Mutual Fund report.",
+   "stat": [
+    "6.5 pts",
+    "gap between global and Indian fall"
+   ],
+   "sections": [
+    {
+     "title": "The gap",
+     "paras": [
+      "Between 30 January and 30 October 2026, global gold fell 21.4% in dollar terms and Indian gold fell 14.9% in rupee terms, according to an Axis Mutual Fund report cited by Business Today. Two things explain the gap: the rupee slid from about ₹89 to ₹96 per dollar this year, and import duty rose from 6% to 15% in March."
+     ]
+    },
+    {
+     "title": "The November bounce",
+     "paras": [
+      "From 1 to 9 November, 24K gold rose from ₹1,38,880 to ₹1,44,600 per 10 grams, a gain of about 4.12%. 22K gold rose from ₹1,27,300 to ₹1,32,550. The 24K price peaked at ₹1,46,020 on 5 November."
+     ]
+    },
+    {
+     "title": "What Axis says",
+     "paras": [
+      "The fund house expects the US Fed to stop raising rates around 4.25%, and notes central-bank gold buying rose from 57 tonnes in Q1 to 289 tonnes in Q2. It warns the rupee and duty cushions aren't permanent: a stronger rupee or a duty cut could lower domestic prices. Its advice is to invest in a staggered way and treat gold as a diversifier, not a short-term bet. This is not investment advice."
+     ]
+    }
+   ],
+   "facts": [
+    "24K: ₹1,44,600 per 10g (9 Nov)",
+    "Import duty raised from 6% to 15% in March",
+    "Rupee about ₹89 to ₹96 per dollar this year"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/economy/story/gold-falls-21-globally-but-only-15-in-india-how-the-rupee-protected-investors-566568-2026-11-10"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "pm-modi-speaks-with-zelenskyy-india-ready-to-help-end-russia-ukraine-war",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "PM Modi speaks with Zelenskyy, says India is ready to contribute to a peaceful settlement",
+   "dek": "The call on 9 November came ahead of US-mediated Russia-Ukraine talks in Abu Dhabi.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The call",
+     "paras": [
+      "Prime Minister Narendra Modi spoke by phone with Ukrainian President Volodymyr Zelenskyy on 9 November. Zelenskyy briefed him on recent developments in the war. Modi said the conflict should be resolved through 'dialogue and diplomacy' and that India is ready to contribute to efforts for a peaceful settlement. The two also discussed strengthening bilateral cooperation."
+     ]
+    },
+    {
+     "title": "Background",
+     "paras": [
+      "US Secretary of State Marco Rubio has said the territory of Donetsk is the central obstacle: Russia demands all of it and Ukraine refuses to give up the roughly 11% it still holds. Modi and Zelenskyy last met on 17 June at the G7 summit in France."
+     ]
+    }
+   ],
+   "facts": [
+    "Call held on 9 November",
+    "Last met 17 June 2026",
+    "Donetsk is the key sticking point"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/india/story/pm-modi-speaks-with-zelenskyy-says-india-ready-to-help-end-russia-ukraine-war-566559-2026-11-09"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "us-democrats-plan-probes-musk-stephen-miller-hegseth-impeachment-after-midterm-win",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "After midterm win, US Democrats say they will probe Elon Musk and Stephen Miller from January",
+   "dek": "House Democratic leader Hakeem Jeffries says he is 'a hard yes' on impeaching Defense Secretary Pete Hegseth.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The plans",
+     "paras": [
+      "Rep. Robert Garcia, the top Democrat on the House Oversight Committee, said several committees want to question Elon Musk over DOGE's firing of federal workers last year, and also examine White House chief of staff Stephen Miller over the immigration crackdown. Sen. Elizabeth Warren, set to lead the Senate Banking Committee, warned that companies could face investigations."
+     ]
+    },
+    {
+     "title": "Hegseth and the response",
+     "paras": [
+      "Jeffries said Hegseth 'has got to go', and Republican Rep. Thomas Massie, who leaves Congress in January, plans to reintroduce impeachment articles. Attorney General Todd Blanche said the administration is ready to contest the probes. The inquiries would begin once Democrats take control of Congress in January."
+     ]
+    }
+   ],
+   "facts": [
+    "Democrats take Congress in January",
+    "Probes: Musk, Miller; impeachment push on Hegseth",
+    "Administration says it will contest"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/world/us/story/democrats-plan-probe-into-elon-musk-stephen-miller-impeachment-motion-against-pete-hegseth-after-midterm-win-566396-2026-11-09"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "global-fossil-co2-emissions-projected-to-fall-0-41-percent-in-2026",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "co2.jpg",
+   "credit": "Coal power plant / via Business Today",
+   "contain": false,
+   "head": "Global fossil CO₂ emissions projected to fall 0.41% in 2026, but total emissions may still hit a record",
+   "dek": "The Global Carbon Budget projects fossil emissions of 38.24 billion tonnes, while land-use emissions climb.",
+   "stat": [
+    "-0.41%",
+    "projected fossil CO₂ change in 2026"
+   ],
+   "sections": [
+    {
+     "title": "The headline",
+     "paras": [
+      "According to the Global Carbon Budget 2026 dataset, global fossil CO₂ emissions are projected to fall about 0.41% in 2026, from 38.40 billion tonnes to 38.24 billion tonnes. Oil is down 1.89% (12.59 billion tonnes) and gas down 0.34% (about 8.06 billion tonnes), while coal rises 0.57% to 15.81 billion tonnes and remains the largest source."
+     ]
+    },
+    {
+     "title": "The catch",
+     "paras": [
+      "Including land-use change, total emissions are projected to rise 1.34% to 43.32 billion tonnes, a possible record, because land-use emissions jump 16.75% to 5.08 billion tonnes. One year of falling fossil emissions doesn't prove a lasting peak: researchers would need to see reductions continue over several years. The data comes as COP31 talks continue in Antalya."
+     ]
+    }
+   ],
+   "facts": [
+    "Fossil CO₂: 38.24 billion tonnes",
+    "Coal up 0.57%, oil down 1.89%",
+    "Total with land use: 43.32 billion tonnes"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/world/story/global-fossil-co2-emissions-to-fall-in-2026-has-the-world-finally-reached-peak-carbon-pollution-566565-2026-11-10"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "sensex-nifty-close-higher-9-november-markets-shut-10-november-balipratipada",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Sensex ends 107 points higher at 81,106, Nifty at 25,044; markets are shut today for Balipratipada",
+   "dek": "NSE and BSE reopen on Wednesday, 11 November, with normal hours.",
+   "stat": [
+    "81,106",
+    "Sensex close on Monday, +107 points"
+   ],
+   "sections": [
+    {
+     "title": "Monday's close",
+     "paras": [
+      "The Sensex closed at 81,106, up 107 points, and the Nifty 50 at 25,044, up 58 points, on 9 November, according to Business Today."
+     ]
+    },
+    {
+     "title": "Today and ahead",
+     "paras": [
+      "The NSE and BSE are closed for regular trading today for Diwali Balipratipada and resume on Wednesday, 11 November, from 9:15 am to 3:30 pm. Business Today says Christmas on 25 December is the next trading holiday and the last of 2026."
+     ]
+    }
+   ],
+   "facts": [
+    "Sensex 81,106 (+107)",
+    "Nifty 25,044 (+58)",
+    "Reopen 11 November"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/markets/stocks/story/stock-market-holiday-are-bse-nse-closed-on-november-10-check-remaining-holidays-in-2026-566529-2026-11-10"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "hsbc-upgrades-india-to-overweight-citi-raises-nifty-target-to-28000",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "HSBC upgrades India to 'Overweight'; Citi raises its Nifty target to 28,000 from 26,000",
+   "dek": "Both brokerages point to resilient earnings and a rotation of money away from AI-heavy markets.",
+   "stat": [
+    "28,000",
+    "Citi's new Nifty target"
+   ],
+   "sections": [
+    {
+     "title": "HSBC",
+     "paras": [
+      "In a note dated 6 November, HSBC raised India to 'Overweight' from 'Neutral' and cut mainland China to 'Neutral'. It cited resilient earnings, more reasonable valuations and India's diversification value in an Asian market dominated by AI stocks. It likes banks, industrials, consumer discretionary, insurers and hospitals, and names high oil prices and El Niño as risks."
+     ]
+    },
+    {
+     "title": "Citi",
+     "paras": [
+      "Citi lifted its Nifty target to 28,000 from 26,000, about 12% above the 24,986 level cited. It expects Nifty earnings to grow 15-16% a year over FY26 to FY28 and raised the valuation multiple to 18x from 17x. It estimates a $10 fall in oil would narrow the current account deficit by 30-40 basis points and lift Nifty EPS by about 2%, and that a 100 bp rise in India's active weight could bring $12 billion of inflows. Risks include Middle East volatility and slower consumption. These are broker views, not investment advice."
+     ]
+    }
+   ],
+   "facts": [
+    "Citi target: 28,000 (from 26,000)",
+    "15-16% EPS growth FY26-28",
+    "$10 oil fall: EPS +2%"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/markets/stocks/story/stock-market-hsbc-upgrades-india-to-overweight-cuts-china-rating-to-neutral-heres-why-566395-2026-11-09"
+    },
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/markets/stocks/story/nifty-target-raised-to-28000-from-26000-says-citi-heres-why-566399-2026-11-09"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "india-beat-new-zealand-by-4-runs-dls-take-2-0-lead-in-odi-series",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "India beat New Zealand by 4 runs (DLS) in the second ODI to go 2-0 up in the five-match series",
+   "dek": "Rain stopped play in Wellington with India on 113 for 7, needing 22 more from 66 balls.",
+   "stat": [
+    "2-0",
+    "India's lead in the five-match series"
+   ],
+   "sections": [
+    {
+     "title": "The result",
+     "paras": [
+      "India won the second ODI in Wellington on 7 November by four runs under the DLS method after rain stopped play. When play was called off, India were 113 for 7 in 26 overs and needed 22 more runs from 66 balls. The win gives India a 2-0 lead in the five-match series. The listing headline from All India Radio says New Zealand were bowled out for 134."
+     ]
+    }
+   ],
+   "facts": [
+    "Won by 4 runs (DLS)",
+    "113/7 in 26 overs when rain stopped play",
+    "Lead the series 2-0"
+   ],
+   "sources": [
+    {
+     "name": "All India Radio",
+     "url": "https://newsonair.gov.in/india-bowl-out-new-zealand-for-134-in-second-odi/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "mohammed-shami-retires-from-test-cricket-after-13-year-career",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Mohammed Shami retires from Test cricket after a 13-year career",
+   "dek": "The fast bowler will continue to play limited-overs cricket for India.",
+   "stat": [
+    "13 yrs",
+    "Shami's Test career"
+   ],
+   "sections": [
+    {
+     "title": "The announcement",
+     "paras": [
+      "Mohammed Shami announced his retirement from Test cricket on 7 November in a social media post, ending a 13-year Test career. He will continue to play limited-overs cricket for India."
+     ]
+    }
+   ],
+   "facts": [
+    "Announced 7 November",
+    "13-year Test career",
+    "Will keep playing white-ball cricket"
+   ],
+   "sources": [
+    {
+     "name": "All India Radio",
+     "url": "https://newsonair.gov.in/mohammed-shami-retires-from-test-cricket-after-13-year-career/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "smriti-mandhana-named-captain-india-women-squad-south-africa-tour",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Smriti Mandhana named captain in all three formats for India women's South Africa tour",
+   "dek": "The December tour has one Test, three ODIs and three T20Is.",
+   "stat": [
+    "7",
+    "matches on the tour"
+   ],
+   "sections": [
+    {
+     "title": "The squads",
+     "paras": [
+      "The BCCI Women's Selection Committee announced India's squads on 9 November for the December tour of South Africa. Smriti Mandhana will captain the side in all three formats. The tour comprises one Test, three ODIs and three T20Is."
+     ]
+    }
+   ],
+   "facts": [
+    "Mandhana to lead in Tests, ODIs, T20Is",
+    "1 Test, 3 ODIs, 3 T20Is",
+    "Tour is in December"
+   ],
+   "sources": [
+    {
+     "name": "All India Radio",
+     "url": "https://newsonair.gov.in/indian-women-squad-for-south-africa-tour-announced-smriti-mandhana-named-captain-for-all-three-formats/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "vaibhav-sooryavanshi-adds-tata-sierra-after-ipl-2026-super-striker-award",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Teen star Vaibhav Sooryavanshi adds a Tata Sierra to his car collection after IPL 2026 award",
+   "dek": "The 15-year-old won Super Striker of the Season with a strike rate of 237.50.",
+   "stat": [
+    "237.50",
+    "his IPL 2026 strike rate"
+   ],
+   "sections": [
+    {
+     "title": "The prize",
+     "paras": [
+      "Rajasthan Royals batter Vaibhav Sooryavanshi, 15, received a new Tata Sierra SUV for winning the Super Striker of the Season award in IPL 2026. He scored 776 runs in 16 innings at an average of 48.50 and a strike rate of 237.50, with 72 sixes."
+     ]
+    },
+    {
+     "title": "Cars so far",
+     "paras": [
+      "He got a Tata Curvv EV for the same award in IPL 2025, and has been linked to a Mercedes-Benz reportedly gifted by former Royals owner Ranjit Barthakur. He cannot drive them yet: he must turn 18 to get a private-car licence in India."
+     ]
+    }
+   ],
+   "facts": [
+    "776 runs, 72 sixes in IPL 2026",
+    "Won the award in 2025 too (Curvv EV)",
+    "Must be 18 for a licence"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/sports/ipl/story/teenage-cricket-sensation-vaibhav-sooryavanshi-adds-tata-sierra-to-his-car-collection-566480-2026-11-09"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "anuj-shrivatri-becomes-indias-100th-chess-grandmaster",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Anuj Shrivatri becomes India's 100th chess Grandmaster",
+   "dek": "The Madhya Pradesh player won the ASEAN Plus Individual Open in the Philippines to earn the title.",
+   "stat": [
+    "100th",
+    "Indian Grandmaster"
+   ],
+   "sections": [
+    {
+     "title": "The milestone",
+     "paras": [
+      "International Master Anuj Shrivatri of Madhya Pradesh won the 7th ASEAN Plus Individual Open Chess Championship in the Philippines, which made him India's 100th Grandmaster and the first from Madhya Pradesh. He scored seven points from his final eight games."
+     ]
+    }
+   ],
+   "facts": [
+    "India's 100th Grandmaster",
+    "First GM from Madhya Pradesh",
+    "Won the 7th ASEAN Plus Open"
+   ],
+   "sources": [
+    {
+     "name": "All India Radio",
+     "url": "https://newsonair.gov.in/madhya-pradeshs-anuj-shrivatri-scripts-chess-history/"
+    }
+   ],
+   "good": true,
+   "emoji": "♟️",
+   "also": []
+  },
+  {
+   "slug": "jailer-2-becomes-highest-grossing-tamil-film-in-tamil-nadu-ott-debut-12-november",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Jailer 2 becomes the highest-grossing Tamil film in Tamil Nadu with ₹217.75 crore; OTT debut on 12 November",
+   "dek": "It edged past Vijay's The GOAT (₹217.25 crore) on Day 26 and has grossed ₹827 crore worldwide.",
+   "stat": [
+    "₹217.75 cr",
+    "Tamil Nadu gross, a state record"
+   ],
+   "sections": [
+    {
+     "title": "The record",
+     "paras": [
+      "Rajinikanth's Jailer 2 has become the highest-grossing Tamil film in Tamil Nadu with ₹217.75 crore gross on Day 26, overtaking The GOAT's ₹217.25 crore. Leo is third at ₹215.31 crore. It is also the top Tamil grosser in Kerala, Karnataka and Andhra Pradesh/Telangana."
+     ]
+    },
+    {
+     "title": "Overall",
+     "paras": [
+      "Per Sacnilk, the film has earned ₹551.15 crore gross and ₹471.25 crore net in India, with over 60% of the gross coming from outside Tamil Nadu. Worldwide gross is ₹827 crore with over 3.2 crore tickets sold. The theatrical run is winding down as Suriya's Scene and Ranbir Kapoor's Ramayana took most screens over Diwali weekend, and the film debuts on OTT on 12 November. Box office figures are trade estimates."
+     ]
+    }
+   ],
+   "facts": [
+    "₹827 crore worldwide gross",
+    "₹471.25 crore India net (Sacnilk)",
+    "OTT debut: 12 November"
+   ],
+   "sources": [
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/entertainment/2026/11/09/jailer-2-highest-grosser-tamil-nadu.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "delhi-hc-grants-amitabh-bachchan-permanent-injunction-protecting-name-image-voice",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Delhi High Court grants Amitabh Bachchan a permanent injunction protecting his name, image and voice",
+   "dek": "The order covers unauthorised commercial use, including a 'video call' app and a fake KBC lottery.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The order",
+     "paras": [
+      "Justice Purushaindra Kumar Kaurav of the Delhi High Court granted a permanent injunction on 5 November barring unauthorised commercial use of Amitabh Bachchan's name, image, voice and other aspects of his identity. It extends to unidentified 'John Doe' infringers."
+     ]
+    },
+    {
+     "title": "What he complained about",
+     "paras": [
+      "The case cited a mobile app called 'Amitabh Bachchan Video Call', WhatsApp messages promoting a purported 'Kaun Banega Crorepati' lottery, a general-knowledge quiz book, posters and domain names. Four defendants settled and agreed not to use his persona without permission. The court found no trial was needed and granted relief through a decree."
+     ]
+    }
+   ],
+   "facts": [
+    "Order dated 5 November",
+    "Covers name, image and voice",
+    "Extends to unidentified infringers"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/trending/entertainment/story/amitabh-bachchans-name-image-voice-protected-as-delhi-hc-grants-permanent-injunction-566493-2026-11-09"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "hrs-navigation-easynav-bengaluru-affordable-surgical-navigation-200-hospitals",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Bengaluru's HRS Navigation built an affordable surgical 'GPS' now used in 200+ hospitals",
+   "dek": "Its easyNav system helps surgeons plan and track procedures, and it avoids recurring per-surgery consumable costs.",
+   "stat": [
+    "200+",
+    "hospitals using easyNav, per the company"
+   ],
+   "sections": [
+    {
+     "title": "What it is",
+     "paras": [
+      "HRS Navigation, a Bengaluru health-tech firm founded in 2015 by Arpit and Shweta Paliwal, makes easyNav, an image-guided surgical navigation system. It uses CT scans to map a patient's anatomy and tracks instruments in real time. According to the company, it is installed in more than 200 hospitals and has supported over 20,000 surgeries."
+     ]
+    },
+    {
+     "title": "Why it's different",
+     "paras": [
+      "Unlike some imported systems, it avoids recurring per-procedure consumable costs and works with existing operating-theatre infrastructure. In one example, a surgeon in a small Maharashtra town performed a procedure on a farmer's child for about ₹10,000. Dr Ranjit Deshmukh of Sahyadri Hospital, Pune, says advanced surgical technologies 'should not be limited to a few tertiary centres in major cities'."
+     ]
+    }
+   ],
+   "facts": [
+    "Founded 2015 in Bengaluru",
+    "200+ hospitals, 20,000+ surgeries (company figures)",
+    "No recurring per-procedure consumables"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/startup/indian-surgical-navigation-system-hrs-bengaluru-gps-surgeons-12776708"
+    }
+   ],
+   "good": true,
+   "emoji": "🏥",
+   "also": []
+  },
+  {
+   "slug": "farmerchat-free-ai-assistant-digital-green-india-1-million-farmers",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "farmer.jpg",
+   "credit": "FarmerChat / via The Better India",
+   "contain": false,
+   "head": "FarmerChat, a free AI assistant for farmers, has served over a million users across India",
+   "dek": "A Varanasi nursery owner used it to control disease in 4 acres of mango saplings and estimates he saved about ₹10,000.",
+   "stat": [
+    "1M+",
+    "users served across India"
+   ],
+   "sections": [
+    {
+     "title": "What it is",
+     "paras": [
+      "FarmerChat launched in October 2024 as a free agricultural assistant from the non-profit Digital Green India. It is available on Android in English, Hindi, Marathi, Kannada and Telugu, and farmers can type questions, send voice messages or upload crop photos. Answers take location, crop, growth stage and local weather into account, and are validated by agronomists."
+     ]
+    },
+    {
+     "title": "Real results",
+     "paras": [
+      "Shiv Kumar Yadav in Varanasi used it for a four-acre mango nursery and estimates he saved about ₹10,000. Vishwesh Kumar Singh used it for spots on nearly an acre of wheat and estimates savings of ₹8,000 to ₹10,000. It is free because Digital Green earns nothing from it; philanthropic and CSR partners cover the cost. CEO Nidhi Bhasin says, 'Technology should support experts, not replace them.'"
+     ]
+    }
+   ],
+   "facts": [
+    "Launched October 2024",
+    "5 languages, voice and photo input",
+    "Free; funded by CSR and philanthropy"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/web-stories/farming/farmerchat-ai-app-digital-green-india-identifying-crop-diseases-in-minutes-right-solutions-better-harvest-12778134"
+    }
+   ],
+   "good": true,
+   "emoji": "🌾",
+   "also": []
+  },
+  {
+   "slug": "new-jersey-teen-shashank-madala-kora-app-autistic-children-700-users",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "A New Jersey teen taught himself machine learning and built Kora, a free app that helps families read autistic children's cues",
+   "dek": "It has more than 700 users in 12 countries, mostly through autism therapy centres.",
+   "stat": [
+    "700+",
+    "users in 12 countries"
+   ],
+   "sections": [
+    {
+     "title": "The idea",
+     "paras": [
+      "Shashank Madala was 15 when he began Kora, after seeing adults repeatedly misread his autistic cousin's distress at family gatherings. The free app offers several possible readings of a child's feelings, suggests responses and flags when it is unsure. It gives no scores, diagnoses or judgments."
+     ]
+    },
+    {
+     "title": "Recognition",
+     "paras": [
+      "Kora won first place in the December 2025 Congressional App Challenge for New Jersey's 10th District, which had about 4,600 participants, and was displayed in the US Capitol. Madala leads a team of three and hopes to bring Kora to more therapy centres, schools and families."
+     ]
+    }
+   ],
+   "facts": [
+    "Free app, 700+ users in 12 countries",
+    "Won the 2025 Congressional App Challenge (NJ-10)",
+    "Gives no diagnoses, only possible readings"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/15-yo-teaches-himself-machine-learning-to-build-app-that-interprets-autistic-communication/"
+    }
+   ],
+   "good": true,
+   "emoji": "🧩",
+   "also": []
+  },
+  {
+   "slug": "scotland-summer-isles-maerl-beds-recover-after-10-year-scallop-dredging-ban",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "maerl.jpg",
+   "credit": "Maerl beds / via Good News Network",
+   "contain": false,
+   "head": "Fish stocks thrive in Scotland's Summer Isles after a 10-year scallop-dredging ban protected rare maerl beds",
+   "dek": "The protected area of about 150,000 acres holds all of the region's maerl, a seaweed that fish breed among.",
+   "stat": [
+    "10 yrs",
+    "dredging ban in place"
+   ],
+   "sections": [
+    {
+     "title": "The recovery",
+     "paras": [
+      "Off Scotland's northwest coast, a protected area of about 150,000 acres around the Summer Isles has banned scallop dredging for 10 years. It holds all of the region's maerl beds, a magenta seaweed that forms chalky nodules. Scallop diver Alasdair Hughson says the recovery has happened 'night to day'."
+     ]
+    },
+    {
+     "title": "Why maerl matters",
+     "paras": [
+      "Herring, cod and haddock breed among the maerl, and the area also hosts whales, dolphins and porpoises. Two beds over a mile long have grown in the same place for about 9,000 years, and one pass of industrial dredging gear can crush or bury about 70% of the maerl it touches. The Blue Hope Alliance, a group of citizen scientists and activists, pushed for the ban. The report relies on the Guardian and names no specific study."
+     ]
+    }
+   ],
+   "facts": [
+    "Ban in place for 10 years",
+    "About 150,000 acres protected",
+    "Maerl beds up to 9,000 years old"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/fish-stocks-thrive-thanks-to-this-strange-seaweed-and-locals-who-protected-it/"
+    }
+   ],
+   "good": true,
+   "emoji": "🌊",
+   "also": []
+  },
+  {
+   "slug": "glowworms-return-to-nosterfield-nature-reserve-after-100-years-1900-larvae",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "glow.jpg",
+   "credit": "Glowworms / via Good News Network",
+   "contain": false,
+   "head": "Glowworms are set to return to a North Yorkshire reserve after about 100 years, thanks to a volunteer's garden shed",
+   "dek": "Around 1,900 larvae reared by Peter Cooper are due for release at Nosterfield Nature Reserve this year.",
+   "stat": [
+    "1,900",
+    "larvae reared for release"
+   ],
+   "sections": [
+    {
+     "title": "The shed project",
+     "paras": [
+      "Local wildlife enthusiast Peter Cooper breeds glowworms in his garden shed in his spare time, at no cost. About 1,900 larvae were counted and are due to be released at Nosterfield Nature Reserve in North Yorkshire, a roughly 600-acre wetland on old limestone quarries, where glowworms had not been seen in about 100 years."
+     ]
+    },
+    {
+     "title": "The wait",
+     "paras": [
+      "The Lower Ure Conservation Trust rewilded the quarries into suitable habitat. Success can't be confirmed until wild-bred offspring mature and glow, which is expected around 2030. Reserve manager Simon Warwick credited Cooper's 'raw passion and enthusiasm'."
+     ]
+    }
+   ],
+   "facts": [
+    "About 100 years since last seen there",
+    "1,900 larvae due for release",
+    "Results expected around 2030"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/glowworms-shine-again-in-the-uk-from-larvae-reared-pro-bono-in-garden-shed/"
+    }
+   ],
+   "good": true,
+   "emoji": "✨",
+   "also": []
+  },
+  {
+   "slug": "new-jersey-students-collect-250000-pounds-of-food-howell-high-school",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "nj.jpg",
+   "credit": "Food drive field / via Sunny Skyz",
+   "contain": false,
+   "head": "New Jersey students fill a football field with more than 250,000 pounds of food for families in need",
+   "dek": "It was the largest food drive in the history of the nonprofit Dermer Dreams.",
+   "stat": [
+    "250,000+",
+    "pounds of food collected"
+   ],
+   "sections": [
+    {
+     "title": "The drive",
+     "paras": [
+      "Hundreds of students collected more than 250,000 pounds of food at the second annual 100-Yard Food Drive Challenge, held on Howell High School's football field, which was filled with thousands of donation bags. It was organised by the nonprofit Dermer Dreams and was its largest food drive ever."
+     ]
+    },
+    {
+     "title": "Where it goes",
+     "paras": [
+      "The food was distributed to about 30 food bank partners across New Jersey. The drive is part of the Neighborhood Captain Program, which lets students lead food drives and earn community-service hours, and Howell High football players helped load the trucks."
+     ]
+    }
+   ],
+   "facts": [
+    "250,000+ pounds",
+    "About 30 food bank partners",
+    "Second annual drive"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.sunnyskyz.com/good-news/6347/New-Jersey-Students-Fill-Football-Field-With-More-Than-250-000-Pounds-of-Food-for-Families-in-Need"
+    }
+   ],
+   "good": true,
+   "emoji": "🥫",
+   "also": []
+  },
+  {
+   "slug": "globe-skimmer-dragonfly-flies-up-to-1000-km-across-indian-ocean-to-maldives",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "dragon.jpg",
+   "credit": "Globe skimmer dragonfly / via The Better India",
+   "contain": false,
+   "head": "The globe skimmer dragonfly, under 1 gram, may fly up to 1,000 km across the Indian Ocean every year",
+   "dek": "Scientists think it rides monsoon winds from southern India to the Maldives, though the full route is still a hypothesis.",
+   "stat": [
+    "~1,000 km",
+    "possible flight from southern India"
+   ],
+   "sections": [
+    {
+     "title": "A tiny traveller",
+     "paras": [
+      "The globe skimmer (Pantala flavescens) is about 5 cm long and weighs roughly 300 milligrams. Large numbers arrive in the Maldives every October even though the islands have very little fresh water. A 2009 study suggested they travel about 500 to 1,000 km from southern India, perhaps flying more than 1,000 metres above the ground."
+     ]
+    },
+    {
+     "title": "How it might work",
+     "paras": [
+      "A 2021 energy model estimated about 230 hours of flight using a mix of gliding and flapping, against about 4 hours of continuous flapping. A 2023 IIT Kharagpur study proposed a seasonal loop with winds helping later generations return, over four to five generations a year. Scientists have not yet tracked individual dragonflies across the whole journey, so this remains a hypothesis."
+     ]
+    }
+   ],
+   "facts": [
+    "About 5 cm long, roughly 300 mg",
+    "Four to five generations a year",
+    "Full route not yet tracked"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/wildlife/globe-skimmer-dragonfly-indian-ocean-migration-monsoon-winds-12790319"
+    }
+   ],
+   "good": true,
+   "emoji": "🪰",
+   "also": []
+  }
+ ],
+ "also": []
+}
