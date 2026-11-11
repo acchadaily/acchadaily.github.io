@@ -1,0 +1,1902 @@
+{
+ "date": "2026-11-11",
+ "day": "Wednesday",
+ "date_label": "11 November 2026",
+ "note": "National Education Day 📚",
+ "markets": {
+  "asof": "Last available closes. Sensex and Nifty: 9 Nov (NSE/BSE shut 10 Nov; the 11 Nov session was not yet reported). Brent: 10 Nov settlement. Gold: 10 Nov retail rate, Kolkata. USD/INR: 9 Nov close.",
+  "items": [
+   {
+    "n": "Sensex",
+    "v": "81,106",
+    "c": "+0.13%"
+   },
+   {
+    "n": "Nifty 50",
+    "v": "25,044",
+    "c": "+0.23%"
+   },
+   {
+    "n": "Gold 24K/10g",
+    "v": "₹1,44,110",
+    "c": "-0.34%"
+   },
+   {
+    "n": "Brent",
+    "v": "$91.49",
+    "c": "-1.17%"
+   },
+   {
+    "n": "USD/INR",
+    "v": "93.93",
+    "c": "-0.05%"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slug": "temple-row-goyal-denies-paid-promotion-ranveer-says-not-an-investor",
+   "tag": "Founders",
+   "color": "#0E9F5B",
+   "img": "temple.jpg",
+   "credit": "Temple / via Business Today",
+   "contain": true,
+   "head": "Temple row widens: Deepinder Goyal denies paid promotion, Ranveer Allahbadia says he is not an investor in the ₹85,000 wearable",
+   "dek": "The fight over Goyal's brain-blood-flow wearable has moved from science to influencer disclosures, with liver specialist 'TheLiverDoc' asking who is backing it and why.",
+   "stat": [
+    "₹85,000",
+    "Temple pre-order price in India"
+   ],
+   "sections": [
+    {
+     "title": "What's new",
+     "paras": [
+      "The argument over Temple, the forehead-worn wearable from Zomato founder Deepinder Goyal, has taken a fresh turn. After hepatologist Dr Cyriac Abby Philips, known online as TheLiverDoc, suggested that some public supporters had a stake in the company, Goyal posted that his companies have never asked anyone to post online \"for money or otherwise\". He said he writes his own posts and calls it \"building in public\"."
+     ]
+    },
+    {
+     "title": "Ranveer enters the chat",
+     "paras": [
+      "Philips also asked podcaster Ranveer Allahbadia, who had defended Temple, to disclose any interest, alleging he was an angel investor. Allahbadia replied that he has received no money and is not an investor, and invited both Philips and Goyal onto The Ranveer Show to settle it in public. Philips separately shared a screenshot that he says shows Goyal asking people to amplify posts; its authenticity has not been independently checked."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Temple raised $54 million in a seed round in February 2026 at a reported valuation of about $190 million. Goyal maintains it is a wellness tracker, not a medical device, and has promised to publish an explanation of its BrainFlow metric and its limits. He also says he expects India to be under 1% of sales and told buyers to wait for reviews."
+     ]
+    }
+   ],
+   "facts": [
+    "Pre-order price: ₹85,000",
+    "Seed round: $54 million (Feb 2026)",
+    "Reported valuation: ~$190 million"
+   ],
+   "sources": [
+    {
+     "name": "StartupPedia",
+     "url": "https://startuppedia.in/trending/deepinder-goyal-denies-allegations-of-paid-promotions-for-temple-wearable-12797661"
+    },
+    {
+     "name": "StartupPedia",
+     "url": "https://startuppedia.in/trending/ranveer-hits-back-at-theliverdoc-over-temple-row-invites-him-and-goyal-to-trs-12798410"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/02/27/after-zomato-deepinder-goyal-returns-with-a-54m-brain-monitoring-bet/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "anthropic-sets-ipo-price-range-70-78-dollars-valuation-1-4-trillion",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "anthropic.jpg",
+   "credit": "Anthropic / via anthropic.com",
+   "contain": true,
+   "head": "Anthropic sets IPO price at $70–78 a share, valuing the Claude maker at up to $1.4 trillion",
+   "dek": "An updated filing on 10 November puts 825 million shares on offer, with Nasdaq trading under the ticker 'ANT' expected around 19 November.",
+   "stat": [
+    "$1.4T",
+    "top-end implied valuation"
+   ],
+   "sections": [
+    {
+     "title": "The offer",
+     "paras": [
+      "Anthropic plans to sell 825 million Class A shares at $70 to $78 each, which would raise roughly $58 billion to $64 billion. TechCrunch calculates a fully diluted valuation of about $1.404 trillion at the top of the range, up from $965 billion in a May funding round. Up to 20% of the offering is set aside for retail investors."
+     ]
+    },
+    {
+     "title": "Big backers, big numbers",
+     "paras": [
+      "Seven chip and cloud giants, including Google, Nvidia, Microsoft and TSMC, are buying $26 billion of non-voting stock at the IPO price; Google and Nvidia are putting in $10 billion each. The filing shows an $81 billion revenue run rate at the end of October, but also a $104 billion net loss over nine months."
+     ]
+    },
+    {
+     "title": "Who stays in charge",
+     "paras": [
+      "Founders keep a special share class with 50.1% of the votes, so ordinary shareholders will have limited say over how the company is run."
+     ]
+    },
+    {
+     "title": "What happens next",
+     "paras": [
+      "According to CNBC's sources, the final price is due to be fixed on 18 November, with shares starting to trade on Nasdaq under the ticker 'ANT' the following day. Because up to a fifth of the offering is reserved for retail buyers, ordinary investors will get an unusually large slice of one of the biggest listings ever attempted. The gap between the huge revenue run rate and the even bigger losses is likely to be the main thing investors argue about before the price is set."
+     ]
+    }
+   ],
+   "facts": [
+    "825 million shares on offer",
+    "Run-rate revenue: $81 billion",
+    "Nine-month net loss: $104 billion"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/video/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-looks-to-start-trading-nov-19-sources-say.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "kalyan-jewellers-q2-profit-jumps-64-percent-to-427-crore",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "kalyan.jpg",
+   "credit": "Kalyan Jewellers / via kalyanjewellers.net",
+   "contain": true,
+   "head": "Kalyan Jewellers' Q2 profit jumps 64% to ₹427 crore as revenue crosses ₹10,000 crore",
+   "dek": "The jeweller's September quarter beat estimates, though a one-time land sale added about ₹73 crore to the profit.",
+   "stat": [
+    "64%",
+    "jump in Q2 profit"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Kalyan Jewellers earned a consolidated profit of about ₹427 crore in the July–September quarter, up roughly 64% from ₹260.5 crore a year ago. Revenue from operations rose about 31% to ₹10,323 crore. A pre-results preview had expected profit of around ₹340 crore."
+     ]
+    },
+    {
+     "title": "Read the fine print",
+     "paras": [
+      "Part of the jump is one-off: Kalyan booked an exceptional gain of about ₹73.5 crore from selling a land parcel in Coimbatore. Before that item, profit before tax grew about 39%. Operating margin slipped slightly to 6.24%."
+     ]
+    },
+    {
+     "title": "Where growth came from",
+     "paras": [
+      "Same-store sales in India grew about 20%, and online brand Candere's revenue rose about 64%. The Middle East grew more slowly, at about 12%. Kalyan opened 12 showrooms in India in the quarter, nine Candere stores and one in the UK, taking its total to 546. In the first half of the year, profit rose about 48% to ₹776 crore."
+     ]
+    },
+    {
+     "title": "Why shoppers should care",
+     "paras": [
+      "Strong numbers from a big jeweller during a period of high gold prices show that Indians are still buying, especially around weddings and festivals. Kalyan's India business alone made about ₹9,007 crore in revenue and ₹424 crore in profit this quarter. The shares closed at ₹611 on 9 November, ahead of the results."
+     ]
+    }
+   ],
+   "facts": [
+    "Q2 profit: ₹427 crore",
+    "Revenue: ₹10,323 crore (+31%)",
+    "Showrooms: 546"
+   ],
+   "sources": [
+    {
+     "name": "NiftyTrader",
+     "url": "https://www.niftytrader.in/markets/kalyan-jewellers-q2-fy27-land-gain/"
+    },
+    {
+     "name": "Zee Business",
+     "url": "https://www.zeebiz.com/companies/news-kalyan-jewellers-q2-fy27-results-pat-jumps-64-yoy-to-rs-427-crore-beats-estimates-revenue-grows-31-405377"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "ramayana-part-1-box-office-day-6-823-crore-worldwide-uk-record",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "ramayana.jpg",
+   "credit": "Ramayana: Part 1 poster / via The Hollywood Reporter India",
+   "contain": false,
+   "head": "Ramayana: Part 1 crosses ₹823 crore worldwide in six days and becomes the first Indian film to top the UK box office",
+   "dek": "Sacnilk puts the India net total at ₹440 crore after a ₹94 crore Tuesday, while the film set overseas records for an Indian release.",
+   "stat": [
+    "₹823Cr",
+    "worldwide gross in 6 days"
+   ],
+   "sections": [
+    {
+     "title": "In India",
+     "paras": [
+      "Ranbir Kapoor and Yash's epic earned ₹94.10 crore net on Tuesday, its sixth day, a 12.5% drop from Monday's ₹107.5 crore, according to Sacnilk. That takes its India total to ₹440.45 crore net (₹526.5 crore gross). Worldwide, the tracker estimates ₹823.5 crore gross, though overseas figures are rough."
+     ]
+    },
+    {
+     "title": "Abroad",
+     "paras": [
+      "The film, released overseas as Ramayana: Rise of a Legend, opened at number one in the UK and Ireland with about £1.7 million over three days, per Screen Daily, the first Indian film to do so. It beat Godzilla Minus Zero there. The Week reports it made $3.6 million overseas on Monday, the best Monday ever for an Indian film abroad, beating Baahubali 2's record."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Indian films have often done well overseas, but mostly among the diaspora and rarely at the very top of a mainstream chart. Opening at number one in the UK and Ireland, ahead of a big Hollywood monster film, suggests Ramayana is reaching a wider audience. With a second part still to come, the six-day run also gives the makers a strong base for the franchise."
+     ]
+    }
+   ],
+   "facts": [
+    "India net (6 days): ₹440.45 crore",
+    "Day 6 net: ₹94.10 crore",
+    "UK opening: about £1.7 million"
+   ],
+   "sources": [
+    {
+     "name": "Sacnilk",
+     "url": "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_6"
+    },
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/entertainment/2026/11/10/ramayana-beats-baahubali-2-monday-box-office-record.html"
+    },
+    {
+     "name": "The Tribune",
+     "url": "https://www.tribuneindia.com/news/entertainment/ramayana-rise-of-a-legend-becomes-first-indian-film-to-top-uk-and-ireland-box-office/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "blue-tokai-crosses-500-crore-revenue-fy26-losses-up-54-percent",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "bluetokai.jpg",
+   "credit": "Blue Tokai / via bluetokaicoffee.com",
+   "contain": false,
+   "head": "Blue Tokai crosses ₹500 crore in revenue, but its loss widens 54% to ₹83 crore",
+   "dek": "The coffee chain's sales jumped nearly 60% in FY26 as it opened more cafés, but costs grew even faster.",
+   "stat": [
+    "₹518 cr",
+    "FY26 revenue"
+   ],
+   "sections": [
+    {
+     "title": "Brewing growth",
+     "paras": [
+      "Gurugram-based Blue Tokai earned ₹518 crore from operations in FY26 (the year to March 2026), up about 59% from ₹325 crore. Almost all of it came from selling coffee and related products, in cafés and as packaged beans."
+     ]
+    },
+    {
+     "title": "But the bill is bigger",
+     "paras": [
+      "Total expenses rose about 62% to ₹608 crore. Raw-material costs, staff pay, rent and depreciation all climbed as the chain expanded. Its net loss widened to ₹83 crore from ₹54 crore, and it spent about ₹1.17 for every rupee it earned. Cash and bank balances fell to ₹39 crore from ₹118 crore."
+     ]
+    },
+    {
+     "title": "The competition",
+     "paras": [
+      "For scale, Tata Starbucks reported revenue of ₹1,367 crore for the year and cut its losses by 27%. Third Wave Coffee has not yet released FY26 numbers. Blue Tokai's next test is making each café profitable, not just opening more of them.",
+      "Its operating profit (EBITDA) did rise to ₹23 crore from ₹19.4 crore, but the margin shrank to about 4.4% from 6%. Finance costs also jumped about 69% to ₹27 crore, a sign that expansion is getting more expensive to fund."
+     ]
+    }
+   ],
+   "facts": [
+    "Revenue: ₹518 crore (+59%)",
+    "Net loss: ₹83 crore (+54%)",
+    "Cash: ₹39 crore, down from ₹118 crore"
+   ],
+   "sources": [
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/fintrackr/blue-tokai-crosses-rs-500-cr-revenue-in-fy26-losses-up-54-12798434"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "softbank-7-billion-loss-lenskart-meesho-gains-ola-electric-loss",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "img": "softbank.jpg",
+   "credit": "SoftBank / via Inc42",
+   "contain": false,
+   "head": "SoftBank swings to a $7 billion loss, but Lenskart and Meesho add $394 million in gains as Ola Electric slips",
+   "dek": "SoftBank's first quarterly loss in about two years came from US data-centre costs, while two of its Indian bets kept climbing.",
+   "stat": [
+    "$7 bn",
+    "SoftBank's Q2 net loss"
+   ],
+   "sections": [
+    {
+     "title": "The big number",
+     "paras": [
+      "SoftBank Group posted a net loss of about 1.12 trillion yen (roughly $7 billion) for the July–September quarter, against a profit of 2.5 trillion yen a year earlier. A key reason was a loss of about $3.7 billion after it changed plans to buy power equipment for US AI data centres. Revenue still beat estimates, and its stake in OpenAI was valued at $99.6 billion."
+     ]
+    },
+    {
+     "title": "India: winners and losers",
+     "paras": [
+      "Lenskart added $273 million in gains in the quarter, taking SoftBank's total gross gain on it to $1.3 billion on a $225 million investment. Meesho added $121 million, for total gains of $642 million. Ola Electric went the other way: a $42 million valuation loss left SoftBank's holding worth about 30% less than the $556 million it put in. Swiggy was roughly flat, while Delhivery and FirstCry also lost value.",
+      "SoftBank has also been cashing in: it sold a 1.56% stake in Lenskart for about ₹1,896 crore on 7 November, with Goldman Sachs the biggest buyer, cutting its holding to 5.71%."
+     ]
+    },
+    {
+     "title": "Big picture",
+     "paras": [
+      "SoftBank has put nearly $16 billion into Indian startups and backed about a fifth of India's 100-plus unicorns. Its shares closed 13.9% higher on Tuesday as Asian tech stocks bounced."
+     ]
+    }
+   ],
+   "facts": [
+    "Net loss: ~$7 billion",
+    "Lenskart gain this quarter: $273 million",
+    "Ola Electric valuation loss: $42 million"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/softbank-q2-lenskart-meesho-drive-valuation-gains-ola-electric-books-losses/"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
+    },
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/companies/news/softbank-sells-1-56-lenskart-stake-for-1-896-crore-goldman-biggest-buyer-126110701043_1.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "sharechat-mohalla-tech-fy26-revenue-crosses-1000-crore",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "ShareChat parent crosses ₹1,000 crore in revenue as microdrama app QuickTV takes off",
+   "dek": "Mohalla Tech's FY26 revenue grew about 40%, and it says it turned EBITDA-positive in the June quarter.",
+   "stat": [
+    "₹1,016 cr",
+    "FY26 revenue"
+   ],
+   "sections": [
+    {
+     "title": "The results",
+     "paras": [
+      "Mohalla Tech, which runs ShareChat and Moj, made ₹1,016 crore in operating revenue in FY26, up about 40% from ₹723 crore. Livestreaming brought in about ₹472 crore and subscriptions about ₹293 crore, mostly from QuickTV, its microdrama app. Ad revenue fell 13% to about ₹252 crore after real-money gaming advertisers pulled back."
+     ]
+    },
+    {
+     "title": "The loss question",
+     "paras": [
+      "Reports differ on the bottom line. Inc42 puts the consolidated loss at ₹1,978 crore, citing large non-cash costs such as ₹739 crore of ESOP expenses and unrealised forex losses, while Entrackr reports a ₹672 crore loss. The company says it posted its first EBITDA-positive quarter in April–June 2026 and is targeting about ₹25 crore of EBITDA profit this year."
+     ]
+    }
+   ],
+   "facts": [
+    "Revenue: ₹1,016 crore (+40%)",
+    "QuickTV & subscriptions: ~₹293 crore",
+    "ESOP cost: ₹739 crore"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/sharechat-parent-mohalla-techs-fy26-loss-widens-79-to-%e2%82%b91978-cr-revenue-inches-past-%e2%82%b91000-cr-mark/"
+    },
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/fintrackr/sharechat-parent-crosses-rs-1000-cr-revenue-in-fy26-posts-rs-672-cr-loss-12797478"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "matrimony-q2-profit-2-7x-to-20-7-crore-astro-vision-stake",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Matrimony.com's Q2 profit rises 2.7 times to ₹20.7 crore; it will also buy more of astrology matchmaker Astro-Vision",
+   "dek": "The matchmaking company added 3.02 lakh paid subscriptions in the quarter, up about 27% from a year ago.",
+   "stat": [
+    "2.7x",
+    "Q2 profit growth"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Matrimony.com, which runs BharatMatrimony, earned a consolidated profit of ₹20.7 crore in the September quarter, up from ₹7.8 crore a year earlier. Operating revenue rose 17.6% to ₹134.8 crore, while costs grew only about 2%.",
+      "Profit was also up about 8% from the June quarter's ₹19.1 crore, and billing, a sign of future revenue, grew about 11% from a year ago to ₹131.1 crore."
+     ]
+    },
+    {
+     "title": "More subscribers, plus astrology",
+     "paras": [
+      "Its matchmaking business added 3.02 lakh paid subscriptions, up 26.6% from a year ago. The board also approved buying a further 50% of Astro-Vision, an astrology-based matchmaking business, for ₹8 crore, which will raise Matrimony's holding. The stock closed slightly lower at ₹578.60 on the BSE."
+     ]
+    }
+   ],
+   "facts": [
+    "Profit: ₹20.7 crore (from ₹7.8 crore)",
+    "Revenue: ₹134.8 crore (+17.6%)",
+    "Paid subscriptions added: 3.02 lakh"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/matrimony-q2-profit-soars-2-7x-yoy-to-%e2%82%b920-7-cr-revenue-up-17-6/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "sebi-clears-makemytrip-india-ipo-1-billion-ofs",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "makemytrip.jpg",
+   "credit": "MakeMyTrip / via Inc42",
+   "contain": false,
+   "head": "SEBI clears MakeMyTrip's India IPO; the share sale could raise over $1 billion",
+   "dek": "The Nasdaq-listed travel company will sell part of its Indian unit to local investors, but the unit gets no new money.",
+   "stat": [
+    "$1 bn+",
+    "reported issue size"
+   ],
+   "sections": [
+    {
+     "title": "What's cleared",
+     "paras": [
+      "SEBI has given its final go-ahead for MakeMyTrip (India) Ltd to list. The regulator issued its observations on 6 November, and they appeared on its website on 9 November. The company had filed its papers confidentially in July."
+     ]
+    },
+    {
+     "title": "How it works",
+     "paras": [
+      "The IPO is entirely an offer for sale: the parent, MakeMyTrip Ltd, and its unit ibibo Group Holdings will sell shares, so the money goes to them rather than the Indian company. Reports suggest it could raise over $1 billion. MMT India will stay a subsidiary after listing. The parent says a local listing will raise brand visibility and help it reward staff. No dates or price band have been announced. The parent swung to a $1.8 million profit in its latest quarter."
+     ]
+    }
+   ],
+   "facts": [
+    "Type: 100% offer for sale",
+    "Reported size: over $1 billion",
+    "Parent Q2 profit: $1.8 million"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/sebi-clears-makemytrips-india-ipo/"
+    },
+    {
+     "name": "BW Businessworld",
+     "url": "https://www.businessworld.in/article/sebi-clears-makemytrip-india-arm-s-proposed-ipo-632765"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "d2c-brands-one-in-three-startup-funding-deals-october-2026",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "d2c.jpg",
+   "credit": "Illustration / via Entrackr",
+   "contain": false,
+   "head": "D2C brands bagged one in three startup funding deals in October, led by Boldfit's $42 million",
+   "dek": "Even as overall startup funding fell to $678 million, consumer brands raised about $200 million ahead of the festive and wedding season.",
+   "stat": [
+    "36",
+    "D2C deals in October"
+   ],
+   "sections": [
+    {
+     "title": "The trend",
+     "paras": [
+      "Direct-to-consumer brands closed 36 of the 108 startup funding deals in India in October, about a third, according to Entrackr's data. They raised about $200 million, nearly 30% of the month's $678 million total. In the first half of 2026, D2C made up only about a fifth of deals."
+     ]
+    },
+    {
+     "title": "Who raised",
+     "paras": [
+      "Fitness brand Boldfit raised the biggest round, $42 million. DailyObjects raised $35 million, Nat Habit $15 million, and The Pant Project and Beyond Appliances $11.5 million each. Food and drink was the busiest category with eight deals, followed by fashion and health with seven each. The festive season usually brings more spending, and fresh money helps brands stock up and advertise."
+     ]
+    }
+   ],
+   "facts": [
+    "D2C share of deals: 33%",
+    "D2C funding: ~$200 million",
+    "Largest round: Boldfit, $42 million"
+   ],
+   "sources": [
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/report/festive-boost-d2c-startups-bag-every-third-funding-deal-in-october-12797327"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "october-retail-inflation-may-cross-6-percent-cpi-data-due-12-november",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "img": "inflation.jpg",
+   "credit": "Illustration / via Business Standard",
+   "contain": false,
+   "head": "October retail inflation may have crossed RBI's 6% ceiling, economists say; official data due Thursday",
+   "dek": "Polls point to a reading of about 6%, up from 5.5% in September, as food costs climb. The official number comes out on 12 November.",
+   "stat": [
+    "6.1%",
+    "ICRA's October inflation forecast"
+   ],
+   "sections": [
+    {
+     "title": "What economists expect",
+     "paras": [
+      "A Business Standard poll of 11 economists puts October consumer inflation at roughly 6.05%. Rating agency ICRA expects 6.1%, up from 5.5% in September. If either forecast holds, it would be the first time since October 2024 that inflation has gone above the top of the RBI's 2–6% comfort band."
+     ]
+    },
+    {
+     "title": "Why prices are rising",
+     "paras": [
+      "Food is doing most of the damage. ICRA thinks food and drink inflation went above 8% in October. Part of the jump is also a quirk of comparison: prices a year ago were pulled down by GST rate cuts, so the yearly change now looks larger."
+     ]
+    },
+    {
+     "title": "What it means for you",
+     "paras": [
+      "Higher inflation means your grocery bill and savings both feel it. It also makes another RBI rate hike more likely. ICRA's Aditi Nayar says she expects one at the December policy meeting, which could push loan EMIs up. Fixed-deposit savers, on the other hand, may see better rates."
+     ]
+    }
+   ],
+   "facts": [
+    "Sept inflation: 5.5%",
+    "RBI band: 2–6%",
+    "Official data: 12 Nov"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/economy/news/october-retail-inflation-may-have-breached-rbi-s-6-upper-limit-bs-poll-126110901082_1.html"
+    },
+    {
+     "name": "TradingView (Moody's/ICRA report)",
+     "url": "https://www.tradingview.com/news/moodys:5764e5190fff9:0-retail-inflation-may-breach-6-in-october-amid-rising-food-prices/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "india-unemployment-rate-falls-to-5-1-percent-july-september-plfs",
+   "tag": "Economy",
+   "color": "#D97706",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "India's unemployment rate eases to 5.1% in July–September, government survey shows",
+   "dek": "Joblessness for people aged 15 and over fell from 5.4% in the April–June quarter, helped by a drop in rural unemployment.",
+   "stat": [
+    "5.1%",
+    "unemployment rate, Jul–Sep 2026"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "The National Statistics Office's quarterly labour survey, released on Tuesday, puts the unemployment rate at 5.1% for July–September 2026. That is down from 5.4% in the previous quarter and 5.2% a year earlier. The survey covered more than 5.5 lakh people."
+     ]
+    },
+    {
+     "title": "Villages vs cities",
+     "paras": [
+      "Most of the improvement came from rural India, where the rate fell to 4.3% from 4.8%. Cities did not improve: urban unemployment was 6.8%, a touch higher than the 6.7% recorded in April–June."
+     ]
+    },
+    {
+     "title": "Women in cities",
+     "paras": [
+      "Among urban women, unemployment eased to 8.8% from 9% a year ago. That is still clearly higher than the 6.1% rate for urban men. This is the sixth quarterly bulletin since the survey changed its method in January 2025, so comparisons with older data should be made with care."
+     ]
+    }
+   ],
+   "facts": [
+    "Rural rate: 4.3%",
+    "Urban rate: 6.8%",
+    "Urban women: 8.8%"
+   ],
+   "sources": [
+    {
+     "name": "The Tribune",
+     "url": "https://www.tribuneindia.com/news/business/unemployment-decreases-marginally-to-5-1-for-july-september-govt-survey"
+    },
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/economy/news/unemployment-dips-slightly-to-5-1-in-july-september-govt-survey-126111000641_1.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "sheikh-hasina-seeks-new-passport-dhaka-rejects-renews-extradition-demand",
+   "tag": "Politics",
+   "color": "#2563EB",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Sheikh Hasina's lawyers seek a new Bangladeshi passport; Dhaka says no and repeats its extradition demand",
+   "dek": "The former PM, who has lived in India since August 2024, has said she wants to return home in December. Bangladesh says she must come back through extradition.",
+   "stat": [
+    "Dec",
+    "Hasina's planned return month"
+   ],
+   "sections": [
+    {
+     "title": "The request",
+     "paras": [
+      "London-based lawyers acting for Sheikh Hasina wrote to Bangladesh's High Commission in New Delhi on 9 November. They asked for a new passport and national ID card, saying her old documents had been cancelled. The mission passed the letter to the foreign ministry in Dhaka. Officials there said it was not clear that Hasina herself had authorised the request."
+     ]
+    },
+    {
+     "title": "Dhaka's response",
+     "paras": [
+      "Bangladesh turned the request down and again asked India to extradite her. A Bangladeshi court has sentenced Hasina to death over the 2024 crackdown on protesters. The tribunal's chief prosecutor said convicted people cannot get passports, and that she would have to face the verdict if she returned."
+     ]
+    },
+    {
+     "title": "Where India stands",
+     "paras": [
+      "Hasina has said she plans to go back in December and appear before a court. India has not announced a decision on Dhaka's extradition requests; reports say they are being examined."
+     ]
+    }
+   ],
+   "facts": [
+    "In India since: Aug 2024",
+    "Letter dated: 9 Nov",
+    "Planned return: December"
+   ],
+   "sources": [
+    {
+     "name": "The Business Standard (Bangladesh)",
+     "url": "https://www.tbsnews.net/bangladesh/delhi-mission-receives-email-seeking-new-passport-nid-hasina-forwards-it-dhaka-report"
+    },
+    {
+     "name": "Outlook",
+     "url": "https://www.outlookindia.com/international/no-option-but-to-face-death-sentence-verdcit-says-bangladesh-chief-prosecutor-on-return-of-sheikh-hasina"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "medical-devices-pli-scheme-extended-to-2035-36-fresh-applications",
+   "tag": "Economy",
+   "color": "#D97706",
+   "img": "pli.jpg",
+   "credit": "Rupee notes / via PSU Watch",
+   "contain": false,
+   "head": "Govt extends ₹2,700 crore PLI scheme for medical devices to 2035–36 and invites new applications",
+   "dek": "Manufacturers will get three years to set up factories, and the minimum sales level needed to claim incentives has been dropped.",
+   "stat": [
+    "2035–36",
+    "new end date of the scheme"
+   ],
+   "sections": [
+    {
+     "title": "What changed",
+     "paras": [
+      "The Department of Pharmaceuticals said on Tuesday that the production-linked incentive scheme for medical devices will now run until 2035–36. Companies can apply again through an online portal, which is due to open within about 10 days. The scheme's outlay remains ₹2,700 crore."
+     ]
+    },
+    {
+     "title": "Easier rules",
+     "paras": [
+      "Approved companies get three years to start making products. The government has also lowered the minimum investment it expects and removed the minimum sales level needed to claim incentives, which should help smaller firms take part."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "India imports most of its high-end medical equipment. The government says the scheme has already helped bring local production of more than 60 high-end devices and parts, including MRI and CT scanners, worth over ₹16,000 crore."
+     ]
+    }
+   ],
+   "facts": [
+    "Outlay: ₹2,700 crore",
+    "Devices made locally: 60+",
+    "Output so far: ₹16,000 crore+"
+   ],
+   "sources": [
+    {
+     "name": "PSU Watch",
+     "url": "https://psuwatch.com/newsupdates/govt-invites-fresh-applications-under-pli-scheme-for-medical-devices-extends-tenure-till-2035-36"
+    },
+    {
+     "name": "ANI",
+     "url": "https://www.aninews.in/news/business/govt-extends-medical-devices-pli-scheme-till-2035821136-invites-fresh-applications-with-rs-2700-crore-available20261110200655/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "delhi-namo-yamuna-river-cruise-launched-sonia-vihar-jagatpur-500-rupees",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "yamuna.jpg",
+   "credit": "Namo Yamuna River Safari / via Sunday Guardian",
+   "contain": false,
+   "head": "Delhi gets a river cruise on the Yamuna: 40-minute rides between Sonia Vihar and Jagatpur for ₹500",
+   "dek": "Union minister Sarbananda Sonowal launched the service on 10 November with Delhi CM Rekha Gupta.",
+   "stat": [
+    "₹500",
+    "fare per passenger"
+   ],
+   "sections": [
+    {
+     "title": "What's new",
+     "paras": [
+      "Delhi now has a leisure boat service on the Yamuna. The 'Namo Yamuna' cruise runs between Sonia Vihar and Jagatpur, upstream of the Wazirabad barrage. Union shipping minister Sarbananda Sonowal opened it on Tuesday, with Chief Minister Rekha Gupta present. The Inland Waterways Authority of India is behind the project."
+     ]
+    },
+    {
+     "title": "How it works",
+     "paras": [
+      "Each trip lasts about 40 minutes. The boats are air-conditioned and carry up to 30 passengers, with life jackets and bio-toilets on board. Tickets cost ₹500 a person and can be booked through Delhi Tourism. At least four trips run each day. Reports give different figures for the distance, so check the route details before you go."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The Yamuna in Delhi is better known for its pollution than for leisure trips. Officials hope the service will draw tourists to a cleaner stretch of the river above the city."
+     ]
+    }
+   ],
+   "facts": [
+    "Ride time: ~40 minutes",
+    "Seats per boat: 30",
+    "Launched: 10 Nov"
+   ],
+   "sources": [
+    {
+     "name": "NewsX",
+     "url": "https://www.newsx.com/india/watch-delhi-gets-its-own-river-safari-namo-yamuna-ride-to-offer-40-minute-cruise-in-ac-electric-boats-291247/"
+    },
+    {
+     "name": "Dainik Jagran English",
+     "url": "https://english.dainikjagranmpcg.com/top-stories/november-11-news-india-and-world-latest-headlines-2026/article-43649"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "cop31-antalya-leaders-summit-begins-102-leaders-india-climate-finance",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "cop31.jpg",
+   "credit": "COP31 venue / via AzerNews",
+   "contain": false,
+   "head": "COP31 leaders' summit opens in Antalya today, with about 102 heads of state and government expected",
+   "dek": "Leaders will set out their national climate plans on 11–12 November. PM Modi is not expected to attend; Environment Minister Bhupender Yadav leads India's team.",
+   "stat": [
+    "102",
+    "leaders confirmed (pre-summit)"
+   ],
+   "sections": [
+    {
+     "title": "What's happening",
+     "paras": [
+      "The two-day leaders' segment of the UN climate talks starts today in Antalya, Türkiye, hosted by President Recep Tayyip Erdoğan. Leaders from about 102 countries and more than 300 ministers had confirmed they would attend. Leaders who miss these two days can give their speeches on 17–18 November. The conference runs until 20 November."
+     ]
+    },
+    {
+     "title": "What's on the table",
+     "paras": [
+      "Türkiye calls this an 'implementation COP', with the focus on turning past pledges into action. Its main goal is to raise electricity's share of the world economy from about a fifth to more than a third by 2035. The US is staying away for a second year."
+     ]
+    },
+    {
+     "title": "India's asks",
+     "paras": [
+      "Officials say PM Modi is unlikely to attend. India's main demands are climate finance and adaptation. It wants a formal work programme on finance, and it says developed countries must provide money that is reliable and mostly public."
+     ]
+    }
+   ],
+   "facts": [
+    "COP31 runs: 9–20 Nov",
+    "Leaders' days: 11–12 Nov",
+    "Electrification goal: >1/3 by 2035"
+   ],
+   "sources": [
+    {
+     "name": "UNFCCC",
+     "url": "https://unfccc.int/cop31/high-level"
+    },
+    {
+     "name": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/cop31-summit-leaders-urge-world-move-faster-climate"
+    },
+    {
+     "name": "ThePrint",
+     "url": "https://theprint.in/environment/india-solution-never-problem-bhupender-yadav-cop31/3089454/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "russia-ukraine-agree-large-prisoner-swap-abu-dhabi-talks-day-one",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Russia and Ukraine agree to a large prisoner swap on day one of US-led Abu Dhabi talks; up to 1,500 each discussed",
+   "dek": "In their first US-brokered talks since February, the two sides spoke for nearly four hours. Zelenskyy called the session 'constructive'. A second day of talks is under way.",
+   "stat": [
+    "1,500",
+    "prisoners each side, top option"
+   ],
+   "sections": [
+    {
+     "title": "What happened on day one",
+     "paras": [
+      "Ukrainian and Russian delegations met in Abu Dhabi on 10 November, with US envoys Jared Kushner and Steve Witkoff in the room. It was their first US-brokered meeting in about nine months. Ukraine's team was led by Rustem Umerov and Russia's by Kremlin aide Vladimir Medinsky."
+     ]
+    },
+    {
+     "title": "The prisoner deal",
+     "paras": [
+      "According to Ukrainian media, the sides agreed to carry out a large prisoner exchange soon. No official numbers or dates were given. Zelenskyy said a swap of 1,000 for 1,000, or even 1,500 for 1,500, was being discussed."
+     ]
+    },
+    {
+     "title": "The hard part",
+     "paras": [
+      "The US wants to settle security guarantees first and leave borders until the end. Ukraine wants Russia pushed back to the pre-war line; Moscow wants all of Donbas. Kushner said the gaps had narrowed, but analysts do not expect a breakthrough this week."
+     ]
+    }
+   ],
+   "facts": [
+    "Day one: nearly 4 hours",
+    "Last talks: Feb 2026",
+    "Swap options: 1,000 or 1,500 each"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
+    },
+    {
+     "name": "NV (Ukraine)",
+     "url": "https://english.nv.ua/nation/ukraine-russia-agree-on-major-prisoner-swap-in-uae-talks-50658013.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "trump-says-iran-war-effectively-over-blockade-stays-iran-dismisses",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "oil.jpg",
+   "credit": "Oil pumps / via OilPrice.com",
+   "contain": false,
+   "head": "Trump says the Iran war is 'effectively over', but keeps the naval blockade; Brent briefly dips below $90",
+   "dek": "Iran called the remarks 'fake news' and says it will not talk until its seven conditions are met. Oil fell as traders bet the fighting is winding down.",
+   "stat": [
+    "$89.16",
+    "Brent's 10 Nov low"
+   ],
+   "sections": [
+    {
+     "title": "What Trump said",
+     "paras": [
+      "After meeting Qatar's prime minister at the White House on 9 November, Trump said Iran was \"militarily, effectively over\". He also said fresh strikes were unlikely, but that US forces were ready to go back in if needed. The US naval blockade of Iranian ports continues, along with a new task force to cut Iran's trade by land and across the Caspian Sea."
+     ]
+    },
+    {
+     "title": "Iran's reply",
+     "paras": [
+      "Tehran rejected the idea that talks were planned. Iran has set seven conditions for ending the war, including lifting sanctions, releasing its frozen funds and halting the war on every front. President Masoud Pezeshkian said Iran is open to negotiation but will not give in to pressure. Qatar, which is mediating, called its talks in Washington \"positive\"."
+     ]
+    },
+    {
+     "title": "Why it matters for India",
+     "paras": [
+      "The war, which began on 28 February, has disrupted shipping through the Strait of Hormuz. On 10 November Brent crude briefly fell to $89.16, its first dip below $90 since August, before settling at $91.49. Cheaper oil eases pressure on India's import bill and fuel prices."
+     ]
+    }
+   ],
+   "facts": [
+    "War began: 28 Feb 2026",
+    "Brent settled: $91.49 (10 Nov)",
+    "Iran's conditions: 7"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"
+    },
+    {
+     "name": "Iran International",
+     "url": "https://www.iranintl.com/en/202611102662"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "china-trade-surplus-tops-1-trillion-second-year-october-exports-up-35-percent",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "China's trade surplus passes $1 trillion for the second year running, with two months still to go",
+   "dek": "October exports jumped 35.2% from a year earlier, driven by demand for AI and data-centre equipment.",
+   "stat": [
+    "$1.04T",
+    "China's surplus, Jan–Oct 2026"
+   ],
+   "sections": [
+    {
+     "title": "Record pace",
+     "paras": [
+      "Customs data released on 10 November show China sold $1.04 trillion more goods than it bought in the first ten months of 2026. It has never reached that mark this early. The full-year surplus for 2025 was about $1.2 trillion, a record, and economists at ING expect 2026 to top it."
+     ]
+    },
+    {
+     "title": "Driven by AI",
+     "paras": [
+      "October exports rose 35.2% to about $412 billion, beating forecasts. Shipments of cables, server racks and other data-centre gear rose sharply. High-tech exports grew 67%, the fastest since early 2021. Imports also climbed 41.6%, so the monthly surplus of $105.3 billion was smaller than in September."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The huge surplus is adding to pressure on Beijing from the US, Europe and others to buy more from abroad. China's exports to both the US and the EU rose strongly in October."
+     ]
+    }
+   ],
+   "facts": [
+    "Oct exports: +35.2%",
+    "Oct imports: +41.6%",
+    "Oct surplus: $105.3bn"
+   ],
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+    },
+    {
+     "name": "Quartz",
+     "url": "https://qz.com/china-trade-surplus-1-trillion-second-year-111026"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "markets-reopen-after-diwali-break-gift-nifty-up-297-points-fpi-inflows",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "gift.jpg",
+   "credit": "Illustration / via Business Today",
+   "contain": false,
+   "head": "Markets reopen after the Diwali break with GIFT Nifty up 297 points; foreign investors have put in ₹53,739 crore this month",
+   "dek": "November's foreign buying is the biggest monthly total since September 2024. Lower oil prices are also helping.",
+   "stat": [
+    "₹53,739",
+    "crore of FPI buying in Nov"
+   ],
+   "sections": [
+    {
+     "title": "Where things stand",
+     "paras": [
+      "NSE and BSE were shut on 10 November for Balipratipada. When they last traded, on 9 November, the Sensex closed at 81,106.65 and the Nifty at 25,044.65. That was their best close since late February. GIFT Nifty, which trades in Gujarat during the break, rose 297 points to 25,341 on Tuesday, pointing to a strong start on Wednesday."
+     ]
+    },
+    {
+     "title": "Money flowing in",
+     "paras": [
+      "Foreign portfolio investors have bought ₹53,739 crore of Indian shares so far in November. That is the most in any month since September 2024. HSBC raised India to 'overweight' this week, and Brent crude fell below $90 for a while, both of which helped."
+     ]
+    },
+    {
+     "title": "Levels to watch",
+     "paras": [
+      "Choice Broking's Sachin Gupta says the Nifty needs to hold above 25,150–25,200 to go higher. Analysts see support near 24,850–24,900."
+     ]
+    }
+   ],
+   "facts": [
+    "Sensex (9 Nov): 81,106.65",
+    "Nifty (9 Nov): 25,044.65",
+    "Nifty resistance: 25,150–25,200"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/markets/stocks/story/market-rally-on-wednesday-gift-nifty-surges-300-pts-on-rising-fii-inflows-falling-brent-crude-prices-566704-2026-11-10"
+    },
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "wall-street-falls-hot-us-october-cpi-0-4-percent-rate-hike-bets",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Wall Street slips after US prices rise 0.4% in October; markets now fully expect a Fed rate hike in December",
+   "dek": "The Nasdaq fell about 0.7% and the S&P 500 about 0.4% as inflation came in above forecasts. Nvidia dropped about 5.5%.",
+   "stat": [
+    "0.4%",
+    "US CPI rise in October"
+   ],
+   "sections": [
+    {
+     "title": "The inflation surprise",
+     "paras": [
+      "US consumer prices rose 0.4% in October, against forecasts of 0.3%. Core prices, which leave out food and energy, rose 0.3%, also above estimates. Food was up 0.5% and energy 0.7%. Housing costs made up more than 30% of the overall increase. There is no official yearly figure, because data for October 2025 was never collected during last year's government shutdown."
+     ]
+    },
+    {
+     "title": "How markets reacted",
+     "paras": [
+      "Traders now fully expect a quarter-point Fed rate hike at the 8–9 December meeting. The Dow fell about 0.3%. The 10-year US Treasury yield went above 5% during the day, and Nvidia fell about 5.5%."
+     ]
+    },
+    {
+     "title": "Why India watches this",
+     "paras": [
+      "Higher US rates and yields can pull foreign money out of emerging markets like India, and they tend to strengthen the dollar against the rupee."
+     ]
+    }
+   ],
+   "facts": [
+    "Core CPI: +0.3%",
+    "Nasdaq: about -0.7%",
+    "Fed meets: 8–9 Dec"
+   ],
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+    },
+    {
+     "name": "TheStreet",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "anthropic-launches-claude-sheets-whiteboards-meetings-office-suite",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "claudetools.jpg",
+   "credit": "Anthropic / via iClarified",
+   "contain": false,
+   "head": "Anthropic takes on Microsoft and Google with Claude Sheets, Whiteboards and Meetings",
+   "dek": "Claude can now build spreadsheets, sketch plans on shared boards and sit in on Google Meet calls, days before Anthropic's IPO.",
+   "stat": [
+    "4",
+    "new workplace tools"
+   ],
+   "sections": [
+    {
+     "title": "What's new",
+     "paras": [
+      "Claude Sheets lets teams create and edit multi-tab spreadsheets with formulas and dropdowns, and Claude keeps a log of every change it makes. Whiteboards is a shared canvas where Claude turns ideas into timelines, which can then become a document or slide deck. Claude Data, earlier called Dashboards, builds reports from company databases and CRMs."
+     ]
+    },
+    {
+     "title": "Claude joins your meeting",
+     "paras": [
+      "With Claude Meetings, the assistant enters a video call as a visible participant, drafts plans as people talk and hands over notes and action items afterwards. It works only with Google Meet for now, and will not join calls with outside guests unless an admin allows it."
+     ]
+    },
+    {
+     "title": "Who gets it",
+     "paras": [
+      "Sheets and Whiteboards are in beta on paid plans across web, desktop and mobile. Meetings is in beta for Team and Enterprise customers, while Claude Data is generally available."
+     ]
+    }
+   ],
+   "facts": [
+    "Meetings: Google Meet only at launch",
+    "Sheets, Whiteboards: beta on paid plans",
+    "Claude Data now generally available"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+    },
+    {
+     "name": "Claude",
+     "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "google-gemini-4-carbon-now-available-ai-ultra-api-price",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "gemini.jpg",
+   "credit": "Google / via Google blog",
+   "contain": false,
+   "head": "Google releases Gemini 4 Carbon, its 'strongest model', to AI Ultra users and developers at $2 per million tokens",
+   "dek": "After a limited preview for cyber defenders in October, Carbon is now in the Gemini app, AI Mode in Search and the API.",
+   "stat": [
+    "$2",
+    "per million input tokens (intro)"
+   ],
+   "sections": [
+    {
+     "title": "Who can use it",
+     "paras": [
+      "Google AI Ultra subscribers are getting Gemini 4 Carbon in the Gemini app, AI Mode in Search and the Antigravity coding tool. Paying developers and businesses can use it through the API in AI Studio. In the Gemini app, Carbon is labelled for 'most complex work', Gemini 4 Argon stays for everyday use, and the older Gemini 3.1 Pro has been dropped."
+     ]
+    },
+    {
+     "title": "Price and performance",
+     "paras": [
+      "The introductory API price is $2 per million input tokens and $10 per million output tokens until 30 November, doubling to $4 and $20 after that. Google says Carbon topped coding and automation tests such as CursorBench 4.0 at less than half the cost per task of the next-best rival, and blocked 99% of simulated cyberattacks in its red-team tests."
+     ]
+    }
+   ],
+   "facts": [
+    "Intro price till 30 November",
+    "Later price: $4 / $20 per million tokens",
+    "Gemini 3.1 Pro removed from the app"
+   ],
+   "sources": [
+    {
+     "name": "Google blog",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+    },
+    {
+     "name": "9to5Google",
+     "url": "https://9to5google.com/2026/11/10/gemini-app-4-carbon/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "openai-launches-businesses-in-chatgpt-verified-profiles-business-agents",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "chatgptbiz.jpg",
+   "credit": "OpenAI / via The Next Web",
+   "contain": false,
+   "head": "OpenAI launches 'Businesses in ChatGPT': brands can claim verified profiles and run their own agents",
+   "dek": "Companies get a blue tick, a dashboard showing how often ChatGPT mentions them, and, in the US, a customer-service agent inside ChatGPT.",
+   "stat": [
+    "1.2B",
+    "weekly ChatGPT users"
+   ],
+   "sections": [
+    {
+     "title": "How it works",
+     "paras": [
+      "Through a new Business Hub, companies can claim a profile, get verified with a blue check and keep their prices, stock and details up to date. They also see how often ChatGPT mentions them and how many clicks it sends to their site. OpenAI says it does not share people's chats with businesses."
+     ]
+    },
+    {
+     "title": "Agents and ads",
+     "paras": [
+      "Eligible US online shops and service firms can launch a Business Agent that answers questions about their products, clearly labelled as separate from ChatGPT's own replies. Agents must say they are AI and need the user's approval before any purchase or data sharing. The same agents can be used as landing spots for ChatGPT ads; OpenAI says paying does not change how often ChatGPT recommends a business. The feature is in beta."
+     ]
+    }
+   ],
+   "facts": [
+    "Profiles open wherever ChatGPT is available",
+    "Agents: US e-commerce firms first",
+    "ChatGPT ads: 100,000 advertisers"
+   ],
+   "sources": [
+    {
+     "name": "The Next Web",
+     "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents"
+    },
+    {
+     "name": "AI Weekly",
+     "url": "https://aiweekly.co/alerts/openai-puts-verified-business-profiles-and-agents-in-chatgpt"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "google-pixel-tag-goes-on-sale-india-price-3799",
+   "tag": "Tech",
+   "color": "#7C3AED",
+   "img": "pixeltag.jpg",
+   "credit": "Google Pixel Tag / via MacRumors",
+   "contain": true,
+   "head": "Google's Pixel Tag, its answer to the AirTag, goes on sale today; India price ₹3,799",
+   "dek": "The Bluetooth tracker costs $29 in the US, and a four-pack is ₹12,900 in India.",
+   "stat": [
+    "₹3,799",
+    "price of one Pixel Tag in India"
+   ],
+   "sections": [
+    {
+     "title": "What it does",
+     "paras": [
+      "The Pixel Tag is Google's first Bluetooth item tracker. It uses Ultra-Wideband to point you to a lost item with an arrow and distance, and Google's Find Hub network of Android devices to locate it further away. It has a speaker, an IP67 rating against dust and water, alerts if you leave it behind, and can be shared with up to 10 people."
+     ]
+    },
+    {
+     "title": "The extra trick",
+     "paras": [
+      "A button on the tag makes your phone ring, something Apple's AirTag cannot do for an iPhone. The coin-cell battery is user-replaceable and should last about a year. It works with phones on Android 9 or later. Google first showed the tag in August and set 11 November as the sale date."
+     ]
+    }
+   ],
+   "facts": [
+    "US: $29 for one, $99 for four",
+    "India: ₹12,900 for a four-pack",
+    "Battery life: about a year"
+   ],
+   "sources": [
+    {
+     "name": "Digital Trends",
+     "url": "https://www.digitaltrends.com/phones/googles-pixel-tag-is-finally-here-and-it-has-one-clever-trick-apples-airtag-doesnt/"
+    },
+    {
+     "name": "The Telegraph (t2)",
+     "url": "https://t2online.in/tech/tech-news/google-pixel-tag-launched-in-india-at--3-799--features-and-availability/2007208"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "india-nz-3rd-odi-washed-out-hamilton-india-cannot-lose-series-shreyas-iyer-captain",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "hamilton.jpg",
+   "credit": "BCCI / via The Statesman",
+   "contain": false,
+   "head": "Rain washes out 3rd ODI in Hamilton: India can't lose the series now; Shreyas Iyer to lead in the last two games",
+   "dek": "Not a ball was bowled at Seddon Park on 10 November, so India stay 2-0 up and New Zealand's 11-series home winning run is over.",
+   "stat": [
+    "2-0",
+    "India's series lead"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Shubman Gill won the toss and chose to bowl, and ground staff began removing covers for a 40-over game, but the rain came back. With the cut-off for a 20-over match approaching, the umpires called it off. With two matches left, New Zealand's best result is now a 2-2 draw."
+     ]
+    },
+    {
+     "title": "Streak broken",
+     "paras": [
+      "The no-result ends New Zealand's run of 11 straight home ODI series wins. India won the first two games under the DLS method, by five wickets in Auckland and four runs in Wellington."
+     ]
+    },
+    {
+     "title": "New captain",
+     "paras": [
+      "Gill and KL Rahul are expected to leave to prepare for the Tests, along with Kuldeep Yadav, Mohammed Siraj and Anshul Kamboj. Vice-captain Shreyas Iyer will lead India in the 4th ODI on 13 November and the finale on 15 November, both at Mount Maunganui in Tauranga."
+     ]
+    }
+   ],
+   "facts": [
+    "NZ's 11-series home streak ends",
+    "4th ODI: 13 November",
+    "5th ODI: 15 November"
+   ],
+   "sources": [
+    {
+     "name": "ESPNcricinfo",
+     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-3rd-odi-1539439/match-report"
+    },
+    {
+     "name": "The Sunday Guardian",
+     "url": "https://sundayguardianlive.com/sports/ind-vs-nz-3rd-odi-abandoned-due-to-rain-shreyas-iyer-takes-over-as-captain-for-final-two-matches-as-shubman-gill-kl-rahul-leave-320119/"
+    },
+    {
+     "name": "WION",
+     "url": "https://www.wionews.com/sports/ind-vs-nz-3rd-odi-hamilton-washed-out-rain-india-lead-2-0-1794295865412"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "india-women-25m-pistol-team-gold-issf-world-championship-doha-manu-bhaker-esha-singh",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "shooting.jpg",
+   "credit": "ISSF World Championship / via Telangana Today",
+   "contain": false,
+   "head": "Manu Bhaker, Esha Singh and Divya Subbaraju win 25m pistol team gold at the shooting World Championship in Doha",
+   "dek": "The trio scored 1761 to beat South Korea by 13 points, India's second gold of the championship; the men's 50m rifle 3-positions team added bronze.",
+   "stat": [
+    "1761",
+    "India's winning team score"
+   ],
+   "sections": [
+    {
+     "title": "Gold for the women",
+     "paras": [
+      "Esha Singh (590), Manu Bhaker (587) and Divya Thadigol Subbaraju (584) combined for 1761 in the women's 25m pistol team event. South Korea took silver with 1748 and Vietnam bronze with 1745."
+     ]
+    },
+    {
+     "title": "Bittersweet for Manu",
+     "paras": [
+      "In the individual final, Manu finished fourth, just missing out on a medal and, as The Tribune reported, an Olympic quota place for LA 2028. Esha came eighth."
+     ]
+    },
+    {
+     "title": "More medals",
+     "paras": [
+      "Aishwary Pratap Singh Tomar, Akhil Sheoran and Niraj Kumar won bronze in the men's 50m rifle 3-positions team event with 1751. Earlier, Jaypal Malviya won silver in the men's 10m air pistol, and the women's 10m air pistol team took silver. The men's 50m rifle 3-positions final was scheduled for 11 November."
+     ]
+    }
+   ],
+   "facts": [
+    "Second gold for India in Doha",
+    "Korea silver: 1748",
+    "Men's 50m 3P team: bronze (1751)"
+   ],
+   "sources": [
+    {
+     "name": "The Hans India",
+     "url": "https://www.thehansindia.com/sports/india-win-womens-25m-pistol-team-gold-1140880"
+    },
+    {
+     "name": "The Tribune",
+     "url": "https://www.tribuneindia.com/news/sports/manu-bhaker-misses-la-2028-quota-after-fourth-place-finish-in-womens-25m-pistol-event-at-issf-world-championship-2026"
+    }
+   ],
+   "good": true,
+   "emoji": "🥇",
+   "also": []
+  },
+  {
+   "slug": "fifpro-world-11-2026-messi-yamal-mbappe-kane-left-out",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "FIFPRO World 11: Messi returns for a record 18th time, Yamal makes history, Ballon d'Or winner Kane left out",
+   "dek": "Nearly 20,000 professional footballers voted for the 2026 men's team of the year, announced on 9 November.",
+   "stat": [
+    "18",
+    "Messi's record World 11 picks"
+   ],
+   "sections": [
+    {
+     "title": "The team",
+     "paras": [
+      "David Raya in goal; Pau Cubarsí, Achraf Hakimi and Nuno Mendes in defence; Jude Bellingham, Rodri and Vitinha in midfield; and Erling Haaland, Kylian Mbappé, Lionel Messi and Lamine Yamal up front. A total of 19,806 players from 73 countries voted."
+     ]
+    },
+    {
+     "title": "Records and a snub",
+     "paras": [
+      "Messi is back for the first time since 2023. Yamal becomes the first player picked twice before turning 20. Four Spaniards from the World Cup-winning side made it, taking Spain's record total to 53 selections. Harry Kane missed out, which reports say makes him the first Ballon d'Or winner left out of the World 11 in the same year."
+     ]
+    }
+   ],
+   "facts": [
+    "19,806 players voted",
+    "73 countries took part",
+    "Spain: 4 players in the XI"
+   ],
+   "sources": [
+    {
+     "name": "FIFPRO",
+     "url": "https://www.fifpro.org/en/articles/2026/11/who-is-in-the-2026-fifpro-mens-world-11"
+    },
+    {
+     "name": "Khel Now",
+     "url": "https://khelnow.com/football/fifpro-world-11-revealed-202611"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "ott-releases-this-week-daayra-rings-of-power-season-3-mrigaya-1-5",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "rop.jpg",
+   "credit": "Prime Video / via TVLine",
+   "contain": false,
+   "head": "OTT this week: Rings of Power Season 3, Kareena's Daayra on Netflix, and Bengali thriller Mrigaya 1.5",
+   "dek": "Prime Video has The Rings of Power today and Jailer 2 tomorrow; Friday brings Daayra, Student of the Year: After Dark and Mrigaya 1.5.",
+   "stat": [
+    "9",
+    "new titles this week"
+   ],
+   "sections": [
+    {
+     "title": "Today and tomorrow",
+     "paras": [
+      "Season 3 of The Lord of the Rings: The Rings of Power lands on Prime Video on 11 November, jumping several years ahead to the war between the Elves and Sauron; Prime Video has already renewed it for a fourth season. Zee5's crime thriller Blind Game, with Arjun Rampal and Priyamani, also arrives today. Rajinikanth's Jailer 2 streams on Prime Video and Netflix's Christmas Switch drops on 12 November."
+     ]
+    },
+    {
+     "title": "Friday, 13 November",
+     "paras": [
+      "Netflix has Daayra, a crime drama with Kareena Kapoor and Prithviraj Sukumaran. JioHotstar releases the thriller series Student of the Year: After Dark, Shanaya Kapoor's OTT debut. For Bengali viewers, Zee5 has Mrigaya 1.5: The Hunt Continues with Ritwick Chakraborty, plus the Malayalam action drama Bandra with Dileep and Tamannaah."
+     ]
+    }
+   ],
+   "facts": [
+    "Rings of Power S3: 11 November",
+    "Jailer 2 on Prime Video: 12 November",
+    "Daayra on Netflix: 13 November"
+   ],
+   "sources": [
+    {
+     "name": "Daily Jagran",
+     "url": "https://www.thedailyjagran.com/entertainment/ott/ott-releases-this-week-nov-9-to-15-2026-top-new-movies-series-on-netflix-prime-video-jiohotstar-and-others-10335682"
+    },
+    {
+     "name": "The Statesman",
+     "url": "https://www.thestatesman.com/entertainment/ott/the-lord-of-the-rings-the-rings-of-power-season-3-release-date-amazon-prime-video-november-release-date-november-1503592821.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "suriya-scene-box-office-day-5-crosses-100-crore-india-gross",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Suriya's Scene crosses ₹100 crore India gross in five days, ₹174 crore worldwide",
+   "dek": "Jithu Madhavan's Diwali action comedy is Suriya's third hit of 2026, after Karuppu and Vishwanath & Sons.",
+   "stat": [
+    "₹174Cr",
+    "worldwide gross in 5 days"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Scene opened with ₹19.15 crore net and held steady through the Diwali weekend. On Tuesday, its fifth day, it added about ₹12.85 crore net by 10 pm, according to Sacnilk figures cited by The Week, taking the India net total to about ₹97.4 crore and gross to ₹113 crore. Overseas markets have added ₹61.25 crore. Trackers give slightly different numbers, so final totals may change."
+     ]
+    },
+    {
+     "title": "The film",
+     "paras": [
+      "Suriya plays a police officer, DSP Inbaraj, with Nazriya and Naslen in key roles. Director Jithu Madhavan is known for the Malayalam hits Aavesham and Romancham. More than 62 lakh tickets have been sold so far."
+     ]
+    }
+   ],
+   "facts": [
+    "Opening day: ₹19.15 crore net",
+    "India net after 5 days: ~₹97.4 crore",
+    "Overseas: ₹61.25 crore"
+   ],
+   "sources": [
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/entertainment/2026/11/10/scene-movie-box-office-collection-day-5.html"
+    },
+    {
+     "name": "Pinkvilla",
+     "url": "https://www.pinkvilla.com/entertainment/box-office/scene-india-box-office-collections-suriya-starrer-collects-rs-13-crore-on-1st-tuesday-grosses-rs-111-crore-in-just-5-days-1406379"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "sundarbans-kultali-33-villagers-trained-tiger-response-teams",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "sundarbans.jpg",
+   "credit": "Sundarbans tiger / via The Better India",
+   "contain": false,
+   "head": "33 Sundarbans villagers, including 10 women, train to keep people and tigers safe",
+   "dek": "The new volunteers join a network of 98 'first responders' in Kultali, South 24 Parganas, who step in when a tiger strays into a village.",
+   "stat": [
+    "33",
+    "new volunteers trained on 24 October"
+   ],
+   "sections": [
+    {
+     "title": "Who they are",
+     "paras": [
+      "The Wildlife Trust of India and the West Bengal Forest Department run Primary Response Teams in Kultali block, with support from the IUCN. On 24 October, 33 new volunteers, 10 of them women, were trained at an education centre in Ambikanagar. They learned about tiger behaviour, tracking signs, keeping crowds calm and talking with worried residents. They do not try rescues themselves; they alert forest staff and keep people back."
+     ]
+    },
+    {
+     "title": "Why it helps",
+     "paras": [
+      "Since 2018–19 the network has grown to 98 members, including 18 women, who also watch over about 24 km of nylon fencing along the coast. In December 2023, such teams helped guide a straying tiger back across the Makri River to the mangroves without it being captured. Drones, camera traps and light-and-sound deterrents are also being tested."
+     ]
+    }
+   ],
+   "facts": [
+    "98 volunteers in the network, 18 of them women",
+    "About 24 km of nylon fencing monitored",
+    "Volunteers are known locally as 'Bagh Bondhu'"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/wildlife/sundarbans-tiger-response-teams-villagers-training-wildlife-conflict-safety-12791625"
+    }
+   ],
+   "good": true,
+   "emoji": "🐯",
+   "also": []
+  },
+  {
+   "slug": "dr-reddys-generic-lenacapavir-hiv-shot-40-dollars-fda",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "India's Dr Reddy's wins first US FDA nod for a $40-a-year generic HIV-prevention shot",
+   "dek": "The Hyderabad drugmaker's version of lenacapavir, an injection given just twice a year, is meant for 120 low- and middle-income countries.",
+   "stat": [
+    "$40",
+    "a year for the generic, vs about $28,000 for the brand in the US"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The US Food and Drug Administration has given tentative approval to the first generic version of lenacapavir, a twice-yearly injection that protects people from HIV. It was made by India's Dr Reddy's Laboratories. 'Tentative' is the FDA's usual label for a generic while the original drug is still under patent, so it cannot be sold in the US. Gilead's brand-name version lists at about $28,218 a year there."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The generic is expected to cost around $40 per person a year in the 120 countries covered by Gilead's royalty-free licences, roughly what daily PrEP pills cost now. In trials, the shots nearly stopped new infections among high-risk people. Unitaid, the Clinton Health Access Initiative and Wits RHI backed the work, and the first supplies could arrive within weeks. Health groups say money is still needed to buy enough doses."
+     ]
+    }
+   ],
+   "facts": [
+    "Dr Reddy's is one of six licensed generic makers",
+    "Aimed at 120 low- and middle-income countries",
+    "About 41 million people live with HIV worldwide (WHO)"
+   ],
+   "sources": [
+    {
+     "name": "AP via Anchorage Daily News",
+     "url": "https://www.adn.com/nation-world/2026/11/02/approval-of-a-cheap-version-of-hiv-prevention-shot-lenacapavir-raises-hopes-in-low-income-countries/"
+    },
+    {
+     "name": "Health Policy Watch",
+     "url": "https://healthpolicy-watch.news/fda-approves-first-generic-of-hiv-prevention-drug-lenacapavir/"
+    }
+   ],
+   "good": true,
+   "emoji": "💉",
+   "also": []
+  },
+  {
+   "slug": "assam-elrhino-paper-from-elephant-rhino-dung",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "elrhino.jpg",
+   "credit": "Elrhino / via The Better India",
+   "contain": false,
+   "head": "An Assam father and daughter turn rhino and elephant dung into notebooks",
+   "dek": "Since 2014, their venture Elrhino has made paper products from wildlife waste, giving villagers near habitats an extra income.",
+   "stat": [
+    "2014",
+    "year Elrhino was started"
+   ],
+   "sections": [
+    {
+     "title": "How it began",
+     "paras": [
+      "Retired mining engineer Mahesh Chandra Bora read on a flight about paper made from elephant dung in Rajasthan and wondered whether Assam, home of the one-horned rhino, could do the same. After retiring, he tried it at home with a kitchen blender and window screens. His daughter Nisha, who spent 17 years in the corporate world, later joined to turn it into a business, Elrhino Eco Industries."
+     ]
+    },
+    {
+     "title": "How it works",
+     "paras": [
+      "Villagers living near wildlife areas collect the dung, which is cleaned, washed and boiled into pulp. It is mixed with recycled paper, cotton waste and plant fibres such as banana stem, then pressed and dried into sheets. These become notebooks, journals, bags, lampshades and playing cards. The work gives local people paid work and craft skills, and uses less wood pulp."
+     ]
+    }
+   ],
+   "facts": [
+    "Founded in Assam in 2014",
+    "Uses banana fibre and recycled paper too",
+    "Products include notebooks, bags and lampshades"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/startup/elephant-rhino-dung-paper-assam-wildlife-conservation-elrhino-startup-india-12789296"
+    }
+   ],
+   "good": true,
+   "emoji": "🦏",
+   "also": []
+  },
+  {
+   "slug": "aarey-warli-adivasi-women-stitching-factory-jobs-27-sewing-machines",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "warli.jpg",
+   "credit": "Warli women's work / via The Better India",
+   "contain": false,
+   "head": "From 27 sewing machines to steady factory jobs: Aarey's Warli women are earning with PF and medical cover",
+   "dek": "Adivasi women from Mumbai's Aarey forest, whose hamlets shrank after the Metro car-shed project, now draw regular salaries at an Andheri factory.",
+   "stat": [
+    "27",
+    "sewing machines that started it"
+   ],
+   "sections": [
+    {
+     "title": "The background",
+     "paras": [
+      "Warli Adivasi families have lived in Aarey, Mumbai's big green patch, since the 1950s. Locals say about 70 families lost homes to the Metro project, and the number of hamlets fell from 27 to 15. Cassandra Nazareth and her team, working in the area since 2016, began with tote bags and Warli art, then gave the women 27 sewing machines. After the lockdown, garment factories came looking for them."
+     ]
+    },
+    {
+     "title": "What changed",
+     "paras": [
+      "Women now travel by bus to a factory in Andheri's MIDC, working 9:30 am to 6:30 pm, with provident fund and ESIC medical cards. Overtime pays double. One worker takes home about ₹15,000 a month after deductions, and says it is the first PF of her life. The team has also built 47 bio-toilets and set up 12 flour mills in the hamlets."
+     ]
+    }
+   ],
+   "facts": [
+    "Work began with 27 sewing machines",
+    "47 bio-toilets and 12 flour mills set up",
+    "Overtime pays double a day's wage"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/young-achievers/aarey-warli-adivasi-women-stitching-factory-jobs-12789781"
+    }
+   ],
+   "good": true,
+   "emoji": "🧵",
+   "also": []
+  },
+  {
+   "slug": "mumbai-6kg-baby-liver-transplant-mother-donor-alagille",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "liver.jpg",
+   "credit": "Representative image / via Free Press Journal",
+   "contain": false,
+   "head": "Mumbai doctors give a 6-kg baby a new liver in a 10-hour surgery, with his mother as donor",
+   "dek": "The one-year-old had advanced liver disease from a rare genetic disorder; he went home after 15 days.",
+   "stat": [
+    "6 kg",
+    "baby's weight at transplant"
+   ],
+   "sections": [
+    {
+     "title": "The case",
+     "paras": [
+      "The one-year-old boy had Alagille syndrome, a rare inherited condition that damaged his liver and also affected his heart and kidneys. Since birth he had suffered constant itching and dark urine, and he struggled to gain weight. Doctors at Narayana Health SRCC Children's Hospital in Mumbai decided a liver transplant was his best chance."
+     ]
+    },
+    {
+     "title": "The surgery",
+     "paras": [
+      "His mother donated part of her liver after genetic tests showed she did not carry the same faulty gene. A team led by Dr Sanjay Kumar Goja and Dr Ashok Thorat carried out the 10-hour living-donor transplant. The baby spent a week in the transplant ICU and was discharged 15 days after surgery; his mother went home after five days. He will still need regular check-ups for his heart and kidneys."
+     ]
+    }
+   ],
+   "facts": [
+    "10-hour living-donor liver transplant",
+    "Mother discharged after 5 days",
+    "Baby discharged 15 days after surgery"
+   ],
+   "sources": [
+    {
+     "name": "Free Press Journal",
+     "url": "https://www.freepressjournal.in/mumbai/mumbai-doctors-perform-complex-10-hour-liver-transplant-on-one-year-old-baby-weighing-just-6-kg"
+    }
+   ],
+   "good": true,
+   "emoji": "🏥",
+   "also": []
+  },
+  {
+   "slug": "kentucky-boy-autism-found-safe-300-volunteers-horses",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "300+ volunteers on foot and horseback find a 6-year-old boy with autism safe after 2 nights in Kentucky woods",
+   "dek": "Roman Heilman walked out of the brush with his dog onto a horse trail, about a mile and a half from home.",
+   "stat": [
+    "300+",
+    "volunteers joined the search"
+   ],
+   "sections": [
+    {
+     "title": "The search",
+     "paras": [
+      "Six-year-old Roman Heilman, who has autism, went missing near Louisa in Lawrence County, Kentucky, on 1 November. More than 300 volunteers joined state police, the National Guard and rescue crews from West Virginia and Ohio, using horses, drones and vehicles in hilly woodland. Searchers even sang 'If You're Happy and You Know It', a song he responds to, hoping to draw him out."
+     ]
+    },
+    {
+     "title": "The rescue",
+     "paras": [
+      "On Tuesday morning he stepped out of the bushes onto a horse trail with his small dog, pointed at the horses and said 'E-I-E-I-O'. He held on tightly to the leg of the lead rescuer. He was scratched and dehydrated after two cold nights outdoors but otherwise doing well, and was taken to hospital for a check. The local emergency chief called it 'nothing short of a miracle'."
+     ]
+    }
+   ],
+   "facts": [
+    "Missing since 1 November",
+    "Found about 1.5 miles from home",
+    "Teams came from three states"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/nothing-short-of-a-miracle-rescuers-find-boy-with-autism-missing-for-3-days/"
+    },
+    {
+     "name": "FOX19",
+     "url": "https://www.fox19.com/2026/11/02/missing-kentucky-boy-found-safe/"
+    }
+   ],
+   "good": true,
+   "emoji": "🐴",
+   "also": []
+  },
+  {
+   "slug": "atacama-desert-biggest-bloom-in-30-years-200-species",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "atacama.jpg",
+   "credit": "Atacama Desert bloom / via Good News Network",
+   "contain": false,
+   "head": "The world's driest desert bursts into its biggest bloom in 30 years, with 200+ species in flower",
+   "dek": "Record rains brought by a strong El Niño woke seeds and bulbs that had slept in Chile's Atacama sand for decades.",
+   "stat": [
+    "200+",
+    "plant species flowering"
+   ],
+   "sections": [
+    {
+     "title": "What's blooming",
+     "paras": [
+      "Chile's Atacama Desert is covered in colour, in what scientists call the largest and brightest 'desierto florido' in three decades, and possibly ever. More than 200 species are flowering, some in spots where blooms had never been recorded. Heavy rains in July and August soaked deep into the soil and reached seeds, bulbs and tubers that ordinary showers miss. The show is expected to last until mid-November."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Llanos de Challe National Park, which usually gets about 10,000 visitors a year, saw some 15,000 in just a few weeks. Scientists from Chile's national seed bank are collecting specimens to preserve the plants' desert-survival secrets. Atacama's governor is now seeking UNESCO World Heritage status for the bloom, including rare flowers like the crimson 'garra de león', found nowhere else."
+     ]
+    }
+   ],
+   "facts": [
+    "Biggest bloom in about 30 years",
+    "Park drew ~15,000 visitors in weeks",
+    "UNESCO heritage status being sought"
+   ],
+   "sources": [
+    {
+     "name": "NPR via OPB",
+     "url": "https://www.opb.org/article/2026/11/08/heavy-rains-awaken-a-hidden-world-beneath-chiles-atacama-desert/"
+    },
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/worlds-driest-desert-erupts-into-record-breaking-bloom-boom-look/"
+    }
+   ],
+   "good": true,
+   "emoji": "🌸",
+   "also": []
+  },
+  {
+   "slug": "flint-rx-kids-cash-newborn-deaths-fall-50-percent",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Newborn deaths in Flint fell by half after families got cash during pregnancy and infancy",
+   "dek": "A study in JAMA Pediatrics links the Rx Kids programme to a sharp drop in babies dying in their first month.",
+   "stat": [
+    "50%",
+    "drop in newborn deaths"
+   ],
+   "sections": [
+    {
+     "title": "The programme",
+     "paras": [
+      "Rx Kids, run in Flint, Michigan, gives families $1,500 during pregnancy and then $500 a month during infancy. It is described as the first community-wide cash 'prescription' programme for mothers and babies in the US. Before it began, Flint's newborn death rate was more than double the rest of the state's."
+     ]
+    },
+    {
+     "title": "The results",
+     "paras": [
+      "Researchers compared Michigan birth and death records from 2021 to 2025. Deaths within 28 days of birth in Flint fell from 10.2 to 5.1 per 1,000 live births, almost matching the state's 3.9. Deaths in the first week fell 74%. For the first time in the study period, the gap with the rest of Michigan was no longer statistically significant. The authors note the data is observational, so it shows a strong link rather than proof."
+     ]
+    }
+   ],
+   "facts": [
+    "$1,500 in pregnancy, then $500 a month in infancy",
+    "Early newborn deaths down 74%",
+    "Published in JAMA Pediatrics"
+   ],
+   "sources": [
+    {
+     "name": "Medical Xpress (Michigan State University)",
+     "url": "https://medicalxpress.com/news/2026-11-newborn-deaths-fell-flint-rx.html"
+    }
+   ],
+   "good": true,
+   "emoji": "👶",
+   "also": []
+  },
+  {
+   "slug": "arnhem-sheath-tailed-bat-found-400-miles-from-last-sighting",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "One of Australia's most mysterious bats turns up 400 miles from where it was last seen",
+   "dek": "A scientist's handheld detector picked up the call of the rare Arnhem sheath-tailed bat at a Northern Territory sanctuary.",
+   "stat": [
+    "400 mi",
+    "from its last known location"
+   ],
+   "sections": [
+    {
+     "title": "The find",
+     "paras": [
+      "The Arnhem sheath-tailed bat, a tiny microbat first described in 1979, has been caught on camera only a handful of times. During a nature survey at Pungalina-Seven Emu Wildlife Sanctuary in the Northern Territory, Australian Wildlife Conservancy scientist Oli Aylen was setting up mist nets around mangroves when his bat detector recorded its call overhead."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The sighting is about 400 miles from the last place the species was recorded, which suggests it may live across a much wider area than anyone knew. That is useful news in a country where more than 2,200 native species are listed as endangered, threatened or vulnerable. The sanctuary has been protected by the conservancy since 2008."
+     ]
+    }
+   ],
+   "facts": [
+    "Species first discovered in 1979",
+    "Detected by its echolocation call",
+    "Sanctuary protected since 2008"
+   ],
+   "sources": [
+    {
+     "name": "Good Good Good",
+     "url": "https://www.goodgoodgood.co/articles/endangered-species-microbat-australia"
+    }
+   ],
+   "good": true,
+   "emoji": "🦇",
+   "also": []
+  }
+ ],
+ "also": []
+}
