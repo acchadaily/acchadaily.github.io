@@ -1,0 +1,1774 @@
+{
+ "date": "2026-11-12",
+ "day": "Thursday",
+ "date_label": "12 November 2026",
+ "note": "",
+ "markets": {
+  "asof": "Last available closes: Sensex, Nifty and USD/INR (provisional) 11 Nov; Brent 11 Nov settlement; Gold 24K retail rate 11 Nov (Goodreturns). The 12 Nov session had not been reported at publishing time.",
+  "items": [
+   {
+    "n": "Sensex",
+    "v": "81,879",
+    "c": "+0.95%"
+   },
+   {
+    "n": "Nifty 50",
+    "v": "25,255",
+    "c": "+0.84%"
+   },
+   {
+    "n": "Gold 24K/10g",
+    "v": "₹1,41,980",
+    "c": "-0.50%"
+   },
+   {
+    "n": "Brent",
+    "v": "$92.76",
+    "c": "+1.39%"
+   },
+   {
+    "n": "USD/INR",
+    "v": "93.70",
+    "c": "-0.07%"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slug": "amul-mother-dairy-milk-price-hike-rs-2-4-per-litre-november-12",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "img": "amul.jpg",
+   "credit": "Amul, Mother Dairy / via News24",
+   "contain": true,
+   "head": "Amul and Mother Dairy raise milk prices by up to ₹4 a litre from today; Mother Dairy full cream now ₹76",
+   "dek": "India's two biggest milk brands have both raised prices from Thursday, 12 November, citing higher costs for fodder, feed, fuel and packaging.",
+   "stat": [
+    "₹2–4",
+    "more per litre from 12 November"
+   ],
+   "sections": [
+    {
+     "title": "What changed",
+     "paras": [
+      "Amul, sold by the Gujarat Cooperative Milk Marketing Federation (GCMMF), is raising fresh pouch milk prices across India from today. Amul Taaza (toned milk) goes up by ₹2 a litre and Amul Gold by ₹4 a litre, about 5.5%. Managing director Jayen Mehta blamed a steep rise in the cost of producing and processing milk.",
+      "In Delhi-NCR, Mother Dairy has made a similar move. Full cream milk in pouches now costs ₹76 a litre instead of ₹72. Toned milk goes from ₹60 to ₹62, bulk-vended toned milk from ₹58 to ₹60, double toned from ₹54 to ₹56, and cow milk from ₹62 to ₹65."
+     ]
+    },
+    {
+     "title": "Why prices are rising",
+     "paras": [
+      "The dairies say almost everything that goes into a litre of milk now costs more: cattle feed, fodder, diesel and packaging. Weak rainfall in parts of Gujarat has also hit fodder supply. For Amul, this is the second increase this financial year, after one in May. Mother Dairy's last revision was on 14 May 2026."
+     ]
+    },
+    {
+     "title": "What it means for you",
+     "paras": [
+      "Milk is bought every day in most Indian homes, so even ₹2–4 a litre adds up quickly for a family's monthly budget. Karnataka's Nandini already raised its basic toned milk from ₹46 to ₹54 a litre on 1 November, with ₹7 of that going to farmers. The hikes also add to food-price pressure just as October's retail inflation data is due today."
+     ]
+    }
+   ],
+   "facts": [
+    "Amul Gold: +₹4 a litre (about 5.5%)",
+    "Mother Dairy full cream: ₹72 → ₹76",
+    "Nandini toned milk: ₹46 → ₹54 (from 1 Nov)"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/story/amul-to-raise-milk-prices-from-tomorrow-nandini-mother-dairy-also-hike-prices-566937-2026-11-11"
+    },
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/india-news/mother-dairy-raises-milk-prices-by-2-4-per-litre-effective-thursday-126111100324_1.html"
+    },
+    {
+     "name": "National Herald",
+     "url": "https://www.nationalheraldindia.com/national/mother-dairy-hikes-milk-prices-by-rs-2-4-per-litre-from-12-november"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "gaurav-munjal-steps-down-unacademy-ceo-akhilendra-kumar",
+   "tag": "Founders",
+   "color": "#0E9F5B",
+   "img": "unacademy.jpg",
+   "credit": "Unacademy / via Business Today",
+   "contain": false,
+   "head": "Gaurav Munjal steps down as Unacademy CEO after a decade; Akhilendra Kumar takes over, two months after the $200 million upGrad sale",
+   "dek": "The co-founder becomes executive chairman of the edtech he started as a YouTube channel in 2015, once valued at $3.4 billion.",
+   "stat": [
+    "$3.4B",
+    "Unacademy's peak valuation in 2021"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Gaurav Munjal announced on social media that he is moving from chief executive to executive chairman of Unacademy. He said he will stay actively involved in day-to-day work and will help with the IPO plans of upGrad, which now owns the company.",
+      "Chief business officer Akhilendra Kumar becomes the new CEO. He has spent nearly five years at Unacademy and worked at OYO before that."
+     ]
+    },
+    {
+     "title": "How we got here",
+     "paras": [
+      "upGrad completed an all-stock acquisition of Unacademy in September for a little over $200 million. That was a steep fall from the roughly $3.4 billion valuation the company reached in 2021, at the height of the online-learning boom. At the time of the deal, Unacademy had revenue of around ₹400 crore and about ₹900 crore in cash. With Munjal's move, all four co-founders have now stepped back from running it; Sumit Jain stepped down as CEO in May."
+     ]
+    },
+    {
+     "title": "What's next for Munjal",
+     "paras": [
+      "Munjal and co-founder Roman Saini are reportedly raising a ₹700 crore fund called Longshot Capital to back AI and deeptech startups. Munjal started Unacademy as a YouTube channel in 2015, and it became a unicorn in 2020. His exit as CEO closes one of the most-watched founder journeys of India's edtech era."
+     ]
+    }
+   ],
+   "facts": [
+    "Peak valuation: ~$3.4 billion (2021)",
+    "Sold to upGrad: just over $200 million",
+    "Planned new fund: ₹700 crore"
+   ],
+   "sources": [
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/news/unacademys-gaurav-munjal-moves-to-executive-chairman-cbo-akhilendra-kumar-becomes-ceo-12801626"
+    },
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/after-a-decade-long-stint-gaurav-munjal-to-step-down-as-unacademy-ceo/"
+    },
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/corporate/story/gaurav-munjal-steps-down-as-unacademy-ceo-akhilendra-kumar-takes-charge-566923-2026-11-11"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "nvidia-board-meets-on-jensen-huang-future-shares-fall",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "nvidia.jpg",
+   "credit": "Nvidia / via TIME",
+   "contain": false,
+   "head": "Nvidia's board meets to decide Jensen Huang's future; the chipmaker has lost about $600 billion in value this week",
+   "dek": "Shares fell about 8.6% in late trading after a Wall Street Journal report that the board was preparing to remove the CEO who has run Nvidia for 33 years.",
+   "stat": [
+    "$600B",
+    "Nvidia market value lost this week"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "On Wednesday, the Wall Street Journal reported that Nvidia's board was preparing to oust co-founder and CEO Jensen Huang, and Reuters reported that the board was meeting to decide his future. Nvidia shares fell about 8.6% in after-hours trading. Counting that drop, the world's most valuable chipmaker has lost about $600 billion in market value this week.",
+      "As of Thursday morning India time, no decision had been announced, and Nvidia had not commented."
+     ]
+    },
+    {
+     "title": "Why the board is involved",
+     "paras": [
+      "Days ago Huang admitted to an affair, and reports said US officials suspect the woman of working for Chinese intelligence; China denies this. Nvidia's board hired the law firm Wachtell Lipton to investigate and said it had no reason to think national security or company secrets were compromised. New reports on Wednesday raised questions about a second relationship, with an employee who reports to him."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Huang has led Nvidia since founding it in 1993, and its chips power most of the world's AI systems. He owns about 3.6% of the company, and analysts say there is no obvious successor. Bloomberg reported the board is working with an outside firm on possible successors and has discussed an interim CEO. Some commentators expect him to stay with tighter oversight instead. Investors everywhere, including in Indian IT and AI stocks, are watching the outcome."
+     ]
+    }
+   ],
+   "facts": [
+    "After-hours fall on 11 Nov: about 8.6%",
+    "Value lost this week: about $600 billion",
+    "Huang's stake: about 3.6%"
+   ],
+   "sources": [
+    {
+     "name": "Reuters via Yahoo Finance",
+     "url": "https://finance.yahoo.com/news/nvidia-preparing-oust-ceo-jensen-223546395.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future"
+    },
+    {
+     "name": "Fortune",
+     "url": "https://fortune.com/2026/11/11/nvidia-board-directors-jensen-huang-captive-board/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "kunal-shah-whatsapp-three-priorities-users-reply-spam",
+   "tag": "Viral",
+   "color": "#0891B2",
+   "img": "whatsapp.jpg",
+   "credit": "WhatsApp / via Entrackr",
+   "contain": false,
+   "head": "Kunal Shah lists his 3 priorities as WhatsApp head, and users flood his post with spam complaints",
+   "dek": "The CRED founder, now global head of WhatsApp, wants more chat features, payments and AI. Users say business spam is the real problem.",
+   "stat": [
+    "96%",
+    "of users get spam daily: LocalCircles survey"
+   ],
+   "sections": [
+    {
+     "title": "The post",
+     "paras": [
+      "Kunal Shah, who founded CRED and became WhatsApp's global head about five months ago, set out his first three goals in a post on X. First, richer ways to talk, through voice notes, groups, stickers and video. Second, getting everyday tasks done inside chats, like paying bills, getting loans and international connectivity, with banks and telecom partners. Third, using AI to help people find information and manage tasks.",
+      "He promised that personal chats will stay end-to-end encrypted and said WhatsApp must remain simple, reliable and private."
+     ]
+    },
+    {
+     "title": "The replies",
+     "paras": [
+      "Many users answered with a different wish list: stop the flood of promotional messages from businesses. A LocalCircles survey found 96% of WhatsApp users receive promotional or spam messages every day. Shah's challenge is that business messaging is also one of WhatsApp's main ways of making money."
+     ]
+    },
+    {
+     "title": "The payments problem",
+     "paras": [
+      "WhatsApp has more than 3 billion users worldwide, and India is its biggest market. But WhatsApp Pay handled only 0.8% of UPI transactions in September, while PhonePe and Google Pay together held about 78%. Turning chats into a place where Indians pay bills and take loans will mean winning users from those apps."
+     ]
+    }
+   ],
+   "facts": [
+    "WhatsApp users: 3 billion+",
+    "WhatsApp Pay share of UPI (Sept): 0.8%",
+    "PhonePe + Google Pay share: ~78%"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/ai-financial-services-better-connections-kunal-shah-outlines-three-priorities-for-whatsapp/"
+    },
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/news/kunal-shah-sets-three-priorities-for-whatsapp-but-spam-and-payments-remain-key-challenges-12800955"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "dior-hand-drawn-holiday-film-six-fingers-ai-row",
+   "tag": "Marketing",
+   "color": "#0E9F5B",
+   "img": "dior.jpg",
+   "credit": "Dior / via afaqs",
+   "contain": false,
+   "head": "Dior's 'hand-drawn' holiday ad gets called out for six-fingered hands; director admits software filled in frames",
+   "dek": "Viewers spotted extra fingers and a shape-shifting dog collar in the luxury brand's 7-minute animated film. The director denies using generative AI.",
+   "stat": [
+    "20",
+    "artists worked 7 months on it, says Dior"
+   ],
+   "sections": [
+    {
+     "title": "The ad",
+     "paras": [
+      "Dior released Christian Dior's Night in Color, a seven-minute animated holiday film, on 4 November. It was directed by four-time Oscar nominee Sylvain Chomet and narrated by Robert Pattinson. Dior's creative director Jonathan Anderson had said the film was drawn entirely by hand."
+     ]
+    },
+    {
+     "title": "What viewers found",
+     "paras": [
+      "Animation fans then posted clips showing characters with six fingers, fingers that appear and disappear, and a dog collar that changes shape between shots. These are the kinds of glitches people associate with AI-generated video, and the claims spread quickly online."
+     ]
+    },
+    {
+     "title": "The response",
+     "paras": [
+      "Chomet denied using generative AI but admitted to automated interpolation, where software draws the in-between frames that link artists' key drawings. The producer called it a very small part of the work. Dior says 20 artists spent seven months on the film.",
+      "Much of the backlash is less about the tools and more about transparency: when a luxury brand sells 'hand-made', audiences now check frame by frame. It is a lesson for every brand using AI in its ads."
+     ]
+    }
+   ],
+   "facts": [
+    "Film length: 7 minutes",
+    "Released: 4 November",
+    "Team: 20 artists over 7 months (Dior)"
+   ],
+   "sources": [
+    {
+     "name": "afaqs",
+     "url": "https://www.afaqs.com/news/advertising/dior-ad-film-row-director-admits-interpolation-denies-generative-ai-12802075"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "diwali-smartphone-sales-fall-20-percent-realme-aimra",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "smart.jpg",
+   "credit": "Smartphones / via Inc42",
+   "contain": false,
+   "head": "Shops sold up to 20% fewer smartphones this Diwali as prices rose about 21%; Realme volumes fell over 50%",
+   "dek": "Buyers who did shop went for costlier phones from Apple, Google and Xiaomi, while the budget segment took the biggest hit, says the mobile retailers' body.",
+   "stat": [
+    "-20%",
+    "offline phone sales volume, Diwali days"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "The All India Mobile Retailers Association (AIMRA) says offline smartphone sales volumes fell 18–20% over the Diwali days, 6–9 November. Sales value stayed roughly flat because people bought pricier phones, mostly in the ₹30,000–60,000 range. Apple, Google Pixel and Xiaomi did well. Phones under ₹20,000 suffered most, and Realme's volumes dropped more than 50%."
+     ]
+    },
+    {
+     "title": "Why phones cost more",
+     "paras": [
+      "Memory-chip makers are prioritising AI data centres, which has pushed up component costs. Counterpoint says phone prices in India have risen about 21% on average, and only 60–70% of loan applications at shops were approved. AIMRA warns shop volumes could fall by up to 50% over the next three months."
+     ]
+    }
+   ],
+   "facts": [
+    "Diwali volume drop: 18–20%",
+    "Realme volumes: down 50%+",
+    "Average phone price rise: ~21% (Counterpoint)"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "cult-fit-ipo-cofounder-forgery-claim-cult-trademark",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "IPO-bound Cult.fit faces a co-founder's forgery claim over the 'CULT' trademark ahead of its ₹4,000 crore listing",
+   "dek": "A co-founder of the original CULT gym has asked the Madras High Court to cancel the trademark, alleging the 2017 transfer papers were forged.",
+   "stat": [
+    "₹4,000 Cr",
+    "expected Cult.fit IPO size"
+   ],
+   "sections": [
+    {
+     "title": "The case",
+     "paras": [
+      "Deepak Poduval, a co-founder of the original CULT gym, has petitioned the Madras High Court to cancel the CULT trademark held by cultfit Healthcare, alleging the 2017 transfer deeds were forged. He has also sued in a Bengaluru commercial court, with the next hearing on 16 November, and filed a police complaint in August against Cult co-founder Rishabh Telang. The Madras HC matter is listed for 2 December."
+     ]
+    },
+    {
+     "title": "Cult.fit's side",
+     "paras": [
+      "The company denies forgery, says Poduval signed the deeds and was paid, and notes it is not an accused in the police case. In a reply to a SEBI complaint, it accepted that its draft IPO papers misdescribed who owns the trademark and said it will correct this. The IPO is expected to be around ₹4,000 crore, including ₹950 crore of fresh shares."
+     ]
+    }
+   ],
+   "facts": [
+    "IPO size: ~₹4,000 crore",
+    "Fresh issue: ₹950 crore",
+    "Court dates: 16 Nov and 2 Dec"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/ipo-bound-cult-fit-faces-fresh-legal-challenge-over-cult-trademark/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "gokwik-esop-non-compete-nine-rivals-razorpay-cred",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "GoKwik staff could lose vested ESOPs if they join any of 9 rivals, including Razorpay and CRED",
+   "dek": "An Inc42 investigation found the checkout startup added a non-compete clause to its stock option plan that lasts two years after an employee leaves.",
+   "stat": [
+    "9",
+    "rivals named in GoKwik's ESOP clause"
+   ],
+   "sections": [
+    {
+     "title": "What the clause says",
+     "paras": [
+      "GoKwik amended its ESOP Plan 2021 to name nine companies: Razorpay, Shiprocket, CRED, Cashfree, Pine Labs, Shopflo, BiteSpeed, Snapmint and WebEngage. If the board decides an employee has joined a competitor, it can cancel both unvested options and vested options not yet exercised. The rule applies for two years after someone leaves, and staff were told in August that it covers existing grants."
+     ]
+    },
+    {
+     "title": "The reaction",
+     "paras": [
+      "Lawyers told Inc42 that naming competitors in an ESOP plan is unusual, and changing terms after grants could be challenged. GoKwik did not answer Inc42's questions; it put out a release saying its ESOPs have given 9x average returns and that it turned EBITDA-positive in October. The startup has raised $68 million and laid off about 120 people earlier this year."
+     ]
+    }
+   ],
+   "facts": [
+    "Rivals named: 9",
+    "Lock-in after exit: 2 years",
+    "Layoffs earlier this year: ~120"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/features/gokwiks-golden-handcuffs-non-compete-clause-puts-vested-esops-in-jeopardy/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "customs-holds-diageo-pernod-scotch-150-percent-duty-india-uk-deal",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "scotch.jpg",
+   "credit": "Scotch whisky / via Storyboard18",
+   "contain": false,
+   "head": "Customs holds Diageo and Pernod Ricard Scotch at ports, seeking 150% duty instead of the 75% in the India–UK deal",
+   "dek": "Officials say bulk Scotch is a 'compound alcoholic preparation', not whisky, so the trade deal's lower duty should not apply.",
+   "stat": [
+    "150%",
+    "duty customs wants, vs 75% under the deal"
+   ],
+   "sections": [
+    {
+     "title": "The dispute",
+     "paras": [
+      "The India–UK trade deal, in force since July, cut the duty on Scotch whisky to 75%. Customs officers now argue that bulk Scotch, shipped in large containers and bottled in India, is a concentrate and should pay the full 150%. Pernod Ricard (Chivas, Royal Stag) and Diageo (Johnnie Walker) each have more than 40 containers held at Indian ports, and Bacardi has five."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Bulk shipments make up about 80% of the Scotch India imports from the UK by volume. The commerce ministry told the industry on 2 November that it would honour the deal, and the finance and commerce ministries are reportedly working on a fix. If it drags on, prices of popular whisky brands could go up."
+     ]
+    }
+   ],
+   "facts": [
+    "Containers held: 40+ each for Diageo and Pernod",
+    "Bulk share of UK Scotch imports: ~80%",
+    "Deal duty: 75%"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/corporate/story/india-uk-trade-deal-hits-tariff-hurdle-customs-seeks-150-duty-on-bulk-scotch-shipments-held-at-ports-566815-2026-11-11"
+    },
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/india-customs-holds-pernod-ricard-diageo-scotch-shipments-amid-150-tariff-dispute-114503.htm"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "qualcomm-india-layoffs-1000-jobs-at-risk",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "img": "qcom.jpg",
+   "credit": "Qualcomm / via Business Today",
+   "contain": false,
+   "head": "Qualcomm begins layoffs in India, with about 1,000 jobs reportedly at risk",
+   "dek": "The first round started at the chipmaker's Bengaluru site and is expected to reach Hyderabad, Delhi-NCR and Chennai.",
+   "stat": [
+    "~1,000",
+    "India jobs reportedly at risk"
+   ],
+   "sections": [
+    {
+     "title": "What's happening",
+     "paras": [
+      "Qualcomm began cutting jobs at its Bengaluru campus on 9 November, and the cuts are expected to spread to Hyderabad, Delhi-NCR and Chennai. Teams working on RF, Bluetooth, Wi-Fi and GNSS may be affected. Early estimates put about 1,000 roles at risk out of roughly 20,000 staff in India, though Qualcomm has not confirmed a number and some reports suggest fewer."
+     ]
+    },
+    {
+     "title": "Severance and the reason",
+     "paras": [
+      "Reported severance is three months' pay plus a component based on tenure, with one extra month for those who sign within three days. CEO Cristiano Amon had flagged a 'performance-focused workforce reduction' in October, after revenue from handset chips fell 26% to $5.14 billion last quarter."
+     ]
+    }
+   ],
+   "facts": [
+    "Jobs at risk: ~1,000 (estimate)",
+    "Qualcomm India staff: ~20,000",
+    "Handset chip revenue: -26% to $5.14 billion"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/technology/news/story/1000-qualcomm-jobs-at-risk-in-india-as-chipmaker-begins-layoffs-severance-details-emerge-566795-2026-11-11"
+    },
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/biz-tech/2026/11/11/qualcomm-layoffs-india-bengaluru.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "cabinet-rabi-fertiliser-subsidy-rs-62370-crore-up-64-percent",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "fert.jpg",
+   "credit": "Wheat field / via The Tribune",
+   "contain": false,
+   "head": "Cabinet raises rabi fertiliser subsidy by 64% to ₹62,370 crore so farmers don't pay more",
+   "dek": "Higher global fertiliser prices pushed the government to raise per-kg support for non-urea fertilisers for the October–March season.",
+   "stat": [
+    "₹62,370 Cr",
+    "rabi 2026-27 fertiliser subsidy"
+   ],
+   "sections": [
+    {
+     "title": "The decision",
+     "paras": [
+      "On 11 November the Union Cabinet approved Nutrient Based Subsidy rates for phosphatic and potassic fertilisers for the rabi 2026-27 season, from 1 October 2026 to 31 March 2027. The outlay is about ₹62,370 crore, roughly ₹24,418 crore (64%) more than last rabi. The subsidy on nitrogen rises to ₹94.21 a kg from ₹43.02, and on phosphorus to ₹66.11 from ₹47.96."
+     ]
+    },
+    {
+     "title": "What it means for farmers",
+     "paras": [
+      "The aim is to keep shop prices unchanged despite costlier imports. DAP stays at ₹1,350 for a 50-kg bag, with extra special support on top. Business Standard reports total spending on non-urea fertilisers this year could reach about ₹1.03 lakh crore, well above the budget estimate."
+     ]
+    }
+   ],
+   "facts": [
+    "Rabi outlay: ~₹62,370 crore (+64%)",
+    "Nitrogen subsidy: ₹94.21/kg (was ₹43.02)",
+    "DAP price for farmers: ₹1,350 per 50-kg bag"
+   ],
+   "sources": [
+    {
+     "name": "The Tribune",
+     "url": "https://www.tribuneindia.com/news/india/global-prices-bite-govt-hikes-rabi-fertiliser-subsidy-by-64/"
+    },
+    {
+     "name": "Business Standard",
+     "url": "https://business-standard.com/economy/news/cabinet-approves-62-370-crore-fertiliser-subsidy-for-rabi-2026-27-season-126111100867_1.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "stand-up-india-extended-2031-rs-4111-crore-guarantee-fund",
+   "tag": "Economy",
+   "color": "#D97706",
+   "img": "standup.jpg",
+   "credit": "Stand-Up India / via The Statesman",
+   "contain": false,
+   "head": "Stand-Up India extended to 2031 with a ₹4,111 crore guarantee fund to reach 2.5 lakh more entrepreneurs",
+   "dek": "The scheme backs bank loans for women, SC and ST entrepreneurs; the new fund guarantees 85% of each loan.",
+   "stat": [
+    "2.5 lakh",
+    "more entrepreneurs targeted by 2031"
+   ],
+   "sections": [
+    {
+     "title": "The decision",
+     "paras": [
+      "The Union Cabinet on 11 November extended Stand-Up India by five years, to 31 March 2031, and approved a ₹4,111 crore credit guarantee corpus. Minister Ashwini Vaishnaw said the guarantee covers 85% of the loan at a standard fee of 0.5%, with no extra risk premium."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Launched in April 2016, the scheme has helped more than 2.75 lakh people from women, SC and ST communities get bank loans to start businesses. A guarantee makes banks more willing to lend to first-time founders without collateral, which is the main hurdle for small entrepreneurs."
+     ]
+    }
+   ],
+   "facts": [
+    "Guarantee fund: ₹4,111 crore",
+    "Loan cover: 85%",
+    "Beneficiaries so far: 2.75 lakh+"
+   ],
+   "sources": [
+    {
+     "name": "The Tribune",
+     "url": "https://www.tribuneindia.com/news/ashwini-vaishnaw/cabinet-extends-stand-up-india-scheme-till-2031-approves-rs-4111-crore-corpus-to-support-2-5-lakh-more-entrepreneurs"
+    },
+    {
+     "name": "The Statesman",
+     "url": "https://www.thestatesman.com/india/cabinet-extends-stand-up-india-scheme-till-2031-targets-2-5-lakh-new-entrepreneurs-1503661239.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "rbi-domestic-money-transfer-rules-rs-50000-cash-neft",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "img": "rbi.jpg",
+   "credit": "RBI / via BusinessLine",
+   "contain": false,
+   "head": "New RBI money-transfer rules: walk-in customers can send up to ₹50,000 in cash by NEFT",
+   "dek": "The RBI has put all rules for small bank transfers into one document, with new limits and stronger checks against fraud.",
+   "stat": [
+    "₹50,000",
+    "cash NEFT limit for walk-in customers"
+   ],
+   "sections": [
+    {
+     "title": "The limits",
+     "paras": [
+      "Under the RBI's Domestic Money Transfer Directions, 2026, which take effect immediately, people without an account at a branch can send up to ₹50,000 in cash by NEFT. Cash pay-outs to someone without a bank account are capped at ₹10,000 per transaction and ₹25,000 per receiver a month. Through business correspondents or ATMs, the limit is ₹5,000 per transaction and ₹25,000 per sender a month."
+     ]
+    },
+    {
+     "title": "Safety checks",
+     "paras": [
+      "Senders must register with a verified mobile number and a self-attested ID document, and every transfer needs an extra layer of authentication. Banks must watch for unusual surges in money coming into an account. The rules apply to commercial, regional rural and co-operative banks and authorised payment operators."
+     ]
+    }
+   ],
+   "facts": [
+    "Walk-in cash NEFT: up to ₹50,000",
+    "Cash pay-out: ₹10,000 per transaction",
+    "Monthly cap per receiver: ₹25,000"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/industry/banking/rbi-consolidates-money-transfer-rules-allows-50-000-cash-neft-transfers-126111101533_1.html"
+    },
+    {
+     "name": "Hindu BusinessLine",
+     "url": "https://www.thehindubusinessline.com/money-and-banking/banks-can-offer-cash-pay-in-and-pay-out-services-under-revised-domestic-money-transfer-norms/article71690997.ece"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "129-betting-sites-blocked-fake-high-court-orders-reuters",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "betting.jpg",
+   "credit": "Court building / via Cyprus Mail",
+   "contain": false,
+   "head": "129 betting websites were blocked on the basis of two fake high court orders, Reuters finds",
+   "dek": "The telecom department told internet providers to block the sites after receiving orders attributed to the Rajasthan and Allahabad high courts that the courts never issued.",
+   "stat": [
+    "129",
+    "websites blocked on fake orders"
+   ],
+   "sections": [
+    {
+     "title": "What Reuters found",
+     "paras": [
+      "A Reuters investigation published on 11 November found that India's telecom department this year ordered internet providers to block 129 illegal betting sites based on two orders that appeared to come from the Rajasthan and Uttar Pradesh high courts. Neither order appears in the courts' records, and the Rajasthan High Court registrar said the document seemed fraudulent. The forged papers carried blue court seals."
+     ]
+    },
+    {
+     "title": "What happened next",
+     "paras": [
+      "After Reuters raised the issue, the Allahabad High Court confirmed its order was fake and filed a police complaint on 6 November. The telecom department did not respond to Reuters. It is not known who made the forgeries or why, but the case suggests fake orders can slip through India's website-blocking system."
+     ]
+    }
+   ],
+   "facts": [
+    "Sites blocked: 129",
+    "Fake orders: 2",
+    "Police complaint filed: 6 November"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard (Reuters)",
+     "url": "https://www.business-standard.com/india-news/govt-blocked-129-betting-sites-on-court-orders-that-turned-out-to-be-fake-126111101281_1.html"
+    },
+    {
+     "name": "Cyprus Mail",
+     "url": "https://cyprus-mail.com/2026/11/11/india-blocked-129-websites-using-fake-court-orders"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "storm-charles-portugal-shuts-8000-schools-flights-cancelled",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "storm.jpg",
+   "credit": "Lisbon / via Euronews",
+   "contain": false,
+   "head": "Storm Charles: Portugal shuts all of its roughly 8,000 schools and cancels 300+ flights",
+   "dek": "It was the first nationwide school closure for a forecast storm in living memory; the storm turned out weaker than feared.",
+   "stat": [
+    "~8,000",
+    "schools closed across Portugal"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "On Wednesday, Portugal closed all its schools and most non-essential public services as Storm Charles reached the mainland. People were told to stay indoors and emergency services were put on maximum alert. More than 300 flights were cancelled, according to Al Jazeera, and hundreds of shops closed."
+     ]
+    },
+    {
+     "title": "The outcome",
+     "paras": [
+      "Forecasters said the storm split into two centres and weakened, so damage was limited. Lisbon still saw flooding, and the second day of the Web Summit tech conference was cancelled. More rain is forecast across Spain and Portugal until Friday."
+     ]
+    }
+   ],
+   "facts": [
+    "Schools closed: ~8,000",
+    "Flights cancelled: 300+",
+    "Web Summit: day 2 cancelled"
+   ],
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/11/portugal-closes-all-schools-and-non-essential-services-over-storm-charles"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "abu-dhabi-talks-end-prisoner-swap-no-breakthrough-envoys-meet-putin",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Russia–Ukraine talks in Abu Dhabi end with a big prisoner swap but no peace breakthrough; US envoys meet Putin today",
+   "dek": "Zelenskyy says up to 1,000–1,200 prisoners each could be exchanged. Territory and security guarantees remain unresolved.",
+   "stat": [
+    "1,000+",
+    "prisoners each side, per Zelenskyy (not final)"
+   ],
+   "sections": [
+    {
+     "title": "How the talks ended",
+     "paras": [
+      "Two days of US-mediated talks between Russia and Ukraine, their first face-to-face meeting in nine months, ended in Abu Dhabi on Wednesday. Both sides confirmed a large prisoner exchange, which US envoy Jared Kushner called the biggest humanitarian release of prisoners, but he also said there is still no trust between the sides. Russia's chief negotiator Vladimir Medinsky said the swap was agreed in principle; President Zelenskyy said Kyiv was waiting for Moscow's answer on 1,000 for 1,000, possibly up to 1,200."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "Kushner and Steve Witkoff were due to meet President Putin in Moscow on Thursday, then fly to Dublin to brief Zelenskyy at a summit of about 50 European leaders. The big issues, including territory, security guarantees after the war and Europe's role, are still open."
+     ]
+    }
+   ],
+   "facts": [
+    "Talks: 2 days, first in 9 months",
+    "Swap discussed: 1,000–1,200 each (not final)",
+    "European summit in Dublin: ~50 leaders"
+   ],
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end"
+    },
+    {
+     "name": "PBS NewsHour (AP)",
+     "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "iran-denies-us-talks-hormuz-shut-seven-conditions",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Iran denies talks with the US and says the Strait of Hormuz stays shut until its 7 conditions are met",
+   "dek": "Security chief Mohsen Rezaei called reports of negotiations 'a pure lie'; the US says its economic pressure is working.",
+   "stat": [
+    "37",
+    "attacks on ships near Hormuz in October"
+   ],
+   "sections": [
+    {
+     "title": "Iran's position",
+     "paras": [
+      "Iran's security chief Mohsen Rezaei said reports of talks with Washington, or of a meeting in Qatar, were false. He said Tehran is still waiting for a clear US response to its seven conditions, and the Strait of Hormuz will remain closed until they are met. Officials say the conditions include lifting sanctions and the US naval blockade and ending fighting on all fronts. Foreign Minister Abbas Araghchi said the strait could reopen within two days if the demands are accepted."
+     ]
+    },
+    {
+     "title": "The US side",
+     "paras": [
+      "In Paris, Secretary of State Marco Rubio said the US is open to diplomacy but called Iran's terms absurd, adding that the economic pressure is so strong there is no need for major combat operations right now. October saw 37 attacks on ships in and near the strait, the most in any month of the nine-month war. Oil prices rose on the news (see Markets)."
+     ]
+    }
+   ],
+   "facts": [
+    "Iran's conditions: 7",
+    "Ship attacks in October: 37",
+    "Reopening time if met: 2 days (Araghchi)"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"
+    },
+    {
+     "name": "IranWire",
+     "url": "https://iranwire.com/en/news/160077-mohsen-rezaei-denies-iran-us-talks-demands-compliance-with-seven-conditions"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "guterres-cop31-climate-crisis-outrunning-us-g7-leaders-absent",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "'The climate crisis is outrunning us,' UN chief tells COP31 leaders, as most G7 heads stay away",
+   "dek": "António Guterres said fossil fuels must 'go the way of the dinosaurs'; the UK was the only G7 country to send its leader to Antalya.",
+   "stat": [
+    "35%",
+    "electricity share of energy goal by 2035"
+   ],
+   "sections": [
+    {
+     "title": "What Guterres said",
+     "paras": [
+      "Speaking at the COP31 leaders' summit in Antalya, Türkiye, on 11 November, UN Secretary-General António Guterres warned that the climate crisis is moving faster than the world's response. He blamed the fossil-fuel lobby for delays and pointed out that the last four years were the hottest on record and that emissions hit an all-time high in 2025."
+     ]
+    },
+    {
+     "title": "Who came, and what's on the table",
+     "paras": [
+      "UK Prime Minister Andy Burnham was the only G7 leader present; the US skipped the talks for a second year. Türkiye, co-hosting with Australia, is pushing a voluntary goal for electricity to make up 35% of global energy use by 2035. Negotiations run until 20 November."
+     ]
+    }
+   ],
+   "facts": [
+    "Hottest years on record: the last 4",
+    "Electricity goal: 35% of energy by 2035",
+    "Talks end: 20 November"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31"
+    },
+    {
+     "name": "UNFCCC",
+     "url": "https://unfccc.int/news/transcript-of-remarks-made-by-un-secretary-general-antonio-guterres-to-the-cop31-leaders-summit"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "openai-quarterly-revenue-crosses-10-billion-loss-widens",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "openai2.jpg",
+   "credit": "OpenAI / via Yahoo Finance",
+   "contain": false,
+   "head": "OpenAI's quarterly revenue crosses $10 billion for the first time, but its loss widens to $10.9 billion",
+   "dek": "Business customers buying AI coding tools overtook consumer subscriptions as the ChatGPT maker's biggest source of revenue, documents seen by the WSJ show.",
+   "stat": [
+    "$10B",
+    "OpenAI revenue, July–September"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "According to financial documents reviewed by the Wall Street Journal, OpenAI's revenue for July–September 2026 was about $10 billion, up nearly 50% from about $6.7 billion the quarter before. Its adjusted operating loss grew to about $10.9 billion from $10.1 billion."
+     ]
+    },
+    {
+     "title": "The good news inside",
+     "paras": [
+      "Because revenue grew faster than costs, OpenAI now loses about $1.09 for every dollar of revenue, down from about $1.50. Enterprise sales, driven by demand for AI coding tools, overtook consumer subscriptions as its biggest revenue source for the first time. OpenAI is private, so these figures come from reported documents, not a public earnings release."
+     ]
+    }
+   ],
+   "facts": [
+    "Q3 revenue: ~$10 billion (+~50%)",
+    "Adjusted operating loss: ~$10.9 billion",
+    "Loss per $1 of revenue: $1.09 (was $1.50)"
+   ],
+   "sources": [
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/technology/ai/articles/openai-hits-10-billion-quarterly-190211001.html"
+    },
+    {
+     "name": "Forbes",
+     "url": "https://www.forbes.com/sites/gabrielalinzainescu/2026/11/11/openai-revenue-hits-10-billion-as-losses-reach-109-billion/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "google-deepmind-gemini-robotics-2-5-mercedes-96-percent",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "robot.jpg",
+   "credit": "Gemini Robotics / via SiliconANGLE",
+   "contain": false,
+   "head": "Google DeepMind's Gemini Robotics 2.5 packs car parts with 96% success in a Mercedes-Benz trial",
+   "dek": "The new model lets robots see, follow instructions and act, and is 20–30% faster than the previous version.",
+   "stat": [
+    "96%",
+    "success packing parts at Mercedes-Benz"
+   ],
+   "sections": [
+    {
+     "title": "What's new",
+     "paras": [
+      "On 11 November Google DeepMind released Gemini Robotics 2.5, a model that controls robots using vision and language, built on its Gemini 4 Argon model. DeepMind says it was tested on more than 200 tasks and finishes them 20–30% faster than before, with success rates from 30% to 100% depending on the task. In a real-world trial at Mercedes-Benz, it packed automotive parts with 96% success."
+     ]
+    },
+    {
+     "title": "Who gets it",
+     "paras": [
+      "It works on different robot bodies, including Apptronik's Apollo 2 humanoid, and is rolling out through partners such as Apptronik, Agile Robots and Boston Dynamics. DeepMind also announced AlphaGenome 2, which predicts how DNA changes affect gene activity in specific cell types; it is a research tool, not approved for clinical use."
+     ]
+    }
+   ],
+   "facts": [
+    "Tasks tested: 200+",
+    "Speed gain: 20–30%",
+    "Mercedes-Benz packing success: 96%"
+   ],
+   "sources": [
+    {
+     "name": "SiliconANGLE",
+     "url": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "fiis-buy-rs-12563-crore-rupee-93-70-strongest-since-april",
+   "tag": "Finance",
+   "color": "#E0262F",
+   "img": "rupee.jpg",
+   "credit": "Rupee / via Business Today",
+   "contain": false,
+   "head": "Foreign investors buy ₹12,563 crore of Indian shares in a day; rupee firms to 93.70, its strongest since April",
+   "dek": "FPIs have bought about $6.4 billion of Indian equities so far in November, the most in a month since September 2024.",
+   "stat": [
+    "₹12,563 Cr",
+    "net FII buying on 11 November"
+   ],
+   "sections": [
+    {
+     "title": "The flows",
+     "paras": [
+      "Provisional data show foreign institutional investors bought a net ₹12,563 crore of Indian shares on 11 November, while domestic institutions sold a net ₹8,435 crore. Business Today says FPIs have bought about $6.4 billion of Indian equities this month up to 11 November."
+     ]
+    },
+    {
+     "title": "The rupee",
+     "paras": [
+      "The rupee rose 7 paise to a provisional 93.70 per dollar, its strongest close since April and more than 3% above its 20 May record low of 96.96. Lower oil prices earlier this week helped, though a strong dollar limited gains. Forecasts differ: GTRI expects 92–93, while Axis Bank sees 100 by June 2027."
+     ]
+    }
+   ],
+   "facts": [
+    "FII net buying (11 Nov): ₹12,563 crore",
+    "Rupee: 93.70 per dollar",
+    "Record low: 96.96 (20 May)"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/economy/story/bt-big-story-the-rupee-bounces-back-but-the-rs100-threat-isnt-gone-yet-566935-2026-11-12"
+    },
+    {
+     "name": "Deccan Herald (PTI)",
+     "url": "https://www.deccanherald.com/business/markets/rupee-rises-7-paise-to-close-at-9370-against-us-dollar-4214767"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "sensex-jumps-773-points-81879-nifty-25255-highest-since-february",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Sensex jumps 773 points to 81,879 after the Diwali break, its highest close since February; Nifty at 25,255",
+   "dek": "Banks and autos led the rally as crude cooled and foreign investors bought heavily.",
+   "stat": [
+    "+773",
+    "Sensex points on 11 November"
+   ],
+   "sections": [
+    {
+     "title": "The session",
+     "paras": [
+      "When markets reopened on 11 November, the Sensex rose 772.75 points (0.95%) to 81,879.40 and the Nifty 50 gained 210.40 points (0.84%) to 25,255.05. Both were their highest closes since late February. The Nifty opened near 25,338 and gave up some of its early gains."
+     ]
+    },
+    {
+     "title": "What moved",
+     "paras": [
+      "Banks and autos led: Nifty Bank rose 1.76% to 60,792.40 and the PSU bank index gained about 3%. IT and healthcare lagged. Lower crude prices, easing West Asia tensions and strong foreign buying lifted the mood."
+     ]
+    }
+   ],
+   "facts": [
+    "Sensex: 81,879.40 (+0.95%)",
+    "Nifty 50: 25,255.05 (+0.84%)",
+    "Nifty Bank: +1.76%"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html"
+    },
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/biz-tech/2026/11/11/nifty-rallies-210-points-sensex-up-772-points-as-banking-automobile-stocks-lead-the-gain.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "wall-street-rallies-sp500-brent-92-76-iran-uranium",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "oil.jpg",
+   "credit": "Oil field / via The Star",
+   "contain": false,
+   "head": "Wall Street rallies with the S&P 500 up 1.3%; Brent rises to $92.76 after Iran says its uranium stays home",
+   "dek": "Chip stocks led US gains on Wednesday before Nvidia slid after hours; oil climbed on Iran's hard line.",
+   "stat": [
+    "$92.76",
+    "Brent settlement, 11 November"
+   ],
+   "sections": [
+    {
+     "title": "US stocks",
+     "paras": [
+      "On 11 November the S&P 500 rose 1.31% to 7,619.38, the Nasdaq gained 1.60% to 25,466.19 and the Dow added 0.49% to 52,486.49. Chip stocks led after strong results from CoreWeave. After the close, Nvidia fell about 8.6% on reports about its CEO (see Startups & Brands)."
+     ]
+    },
+    {
+     "title": "Oil",
+     "paras": [
+      "Brent crude settled $1.27 (1.39%) higher at $92.76 a barrel after Iran said enriched uranium would not leave the country and that the Strait of Hormuz stays closed. Brent had settled at $91.49 the day before, its lowest since August."
+     ]
+    }
+   ],
+   "facts": [
+    "S&P 500: 7,619.38 (+1.31%)",
+    "Nasdaq: 25,466.19 (+1.60%)",
+    "Brent: $92.76 (+1.39%)"
+   ],
+   "sources": [
+    {
+     "name": "Yahoo Finance (AP)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-211834867.html"
+    },
+    {
+     "name": "The Star",
+     "url": "https://www.thestar.com.my/business/2026/11/12/oil-rises-1-as-iran-vows-to-retain-enriched-uranium"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "niraj-kumar-bronze-50m-rifle-3p-doha-la-2028-quota",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "shooting.jpg",
+   "credit": "Chris.sherlock2 / Wikimedia, CC BY-SA 4.0",
+   "contain": false,
+   "head": "Niraj Kumar wins 50m rifle 3P bronze in Doha and earns India's first rifle quota for LA 2028",
+   "dek": "It is his first individual World Championship medal and takes India's tally in Doha to 10.",
+   "stat": [
+    "346.5",
+    "Niraj Kumar's score in the final"
+   ],
+   "sections": [
+    {
+     "title": "The final",
+     "paras": [
+      "Niraj Kumar won bronze in the men's 50m rifle three positions at the ISSF World Championship in Doha on 11 November. He topped qualifying with 591, the only shooter above 590, and scored 346.5 in the final; a 9.4 on his last shot cost him a shot at silver. Dmitrii Pimenov won gold with a junior world record of 362.8, and Slovakia's Patrik Jany took silver. Aishwary Pratap Singh Tomar finished fifth."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The medal gives India its first rifle quota for the 2028 Los Angeles Olympics and its second shooting quota overall, after Jaypal Malviya's in air pistol. India now have 10 medals in Doha (2 gold, 5 silver, 3 bronze) and are second behind China. The championship ends on 14 November."
+     ]
+    }
+   ],
+   "facts": [
+    "Qualifying score: 591",
+    "India's medals in Doha: 10 (2G, 5S, 3B)",
+    "LA 2028 shooting quotas: 2"
+   ],
+   "sources": [
+    {
+     "name": "The Bridge",
+     "url": "https://thebridge.in/shooting/issf-world-cships-niraj-kumar-bronze-and-quota-la-olympics-58332"
+    },
+    {
+     "name": "The Tribune",
+     "url": "https://www.tribuneindia.com/news/50m-rifle/niraj-kumar-wins-bronze-at-issf-world-championship-secures-indias-first-rifle-quota-for-la-2028"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🥉"
+  },
+  {
+   "slug": "vaishali-beats-wesley-so-niemann-total-chess-blitz-carlsen",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Vaishali, the lowest-rated of 24 players, beats Wesley So and Hans Niemann as Carlsen wins the Total Chess blitz opener",
+   "dek": "Magnus Carlsen went unbeaten on 7/9 in Budapest; Arjun Erigaisi was the best-placed Indian.",
+   "stat": [
+    "7/9",
+    "Carlsen's unbeaten blitz score"
+   ],
+   "sections": [
+    {
+     "title": "The opener",
+     "paras": [
+      "The Total Chess World Championship Tour Pilot, a new $650,000 event mixing fast classical, rapid and blitz, opened in Budapest on 10 November with a nine-round blitz. Magnus Carlsen won with 7 out of 9 and no losses, ahead of Maxime Vachier-Lagrave and Levon Aronian."
+     ]
+    },
+    {
+     "title": "India's day",
+     "paras": [
+      "R Vaishali, who qualified by winning the Women's Candidates, was the lowest-rated player at 2345 but beat both Wesley So and Hans Niemann on her way to 4 points. Arjun Erigaisi tied for fourth on 5.5 and R Praggnanandhaa scored 4.5. The blitz sets pairings for the group stage that follows."
+     ]
+    }
+   ],
+   "facts": [
+    "Prize fund: $650,000",
+    "Vaishali's rating: 2345, score 4/9",
+    "Arjun Erigaisi: 5.5/9"
+   ],
+   "sources": [
+    {
+     "name": "The Bridge",
+     "url": "https://thebridge.in/chess/vaishali-carlsen-total-world-championship-tour-blitz-58330"
+    },
+    {
+     "name": "ChessBase India",
+     "url": "https://chessbase.in/news/magnus-carlsen-wins-total-chess-world-championship-pilot-2026-blitz"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "lakshya-sen-beats-chi-yu-jen-kumamoto-masters-second-round",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Lakshya Sen beats Chi Yu Jen 21-19, 21-18 to reach the Kumamoto Masters second round",
+   "dek": "The eighth seed came through a tight opener in Japan as he chases a place at the World Tour Finals.",
+   "stat": [
+    "21-19, 21-18",
+    "Lakshya's first-round win"
+   ],
+   "sections": [
+    {
+     "title": "The match",
+     "paras": [
+      "Lakshya Sen, the eighth seed and world No. 13, beat world No. 24 Chi Yu Jen of Chinese Taipei 21-19, 21-18 on 11 November at the Kumamoto Masters Japan, a Super 500 event running until 15 November. Sen had lost to Chi at last year's Malaysia Open before beating him at the Australian Open."
+     ]
+    },
+    {
+     "title": "Other Indians",
+     "paras": [
+      "Sen recently won the Hylo Open in Germany and is chasing a spot at the BWF World Tour Finals. In mixed doubles, Dhruv Rawat and K. Maneesha lost in three games to the fourth seeds, while Gayatri Gopichand and Treesa Jolly reached the women's doubles pre-quarter-finals."
+     ]
+    }
+   ],
+   "facts": [
+    "Score: 21-19, 21-18",
+    "Rankings: No. 13 vs No. 24",
+    "Event: Super 500, 10–15 Nov"
+   ],
+   "sources": [
+    {
+     "name": "The Bridge",
+     "url": "https://thebridge.in/badminton/lakshya-sen-kumamoto-masters-second-round-58334"
+    },
+    {
+     "name": "ThePrint",
+     "url": "https://theprint.in/sport/lakshya-sen-enters-second-round-of-kumamoto-masters-japan/3096428/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "india-vs-new-zealand-football-friendly-auckland-today",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "India's footballers take on New Zealand in Auckland today, only the third meeting between the sides",
+   "dek": "Khalid Jamil's team, ranked 138th, play the first of two friendlies; kick-off is around 11:30 am IST.",
+   "stat": [
+    "138",
+    "India's FIFA ranking"
+   ],
+   "sections": [
+    {
+     "title": "The game",
+     "paras": [
+      "India face New Zealand's All Whites at Go Media Stadium, Auckland, on 12 November, with kick-off at 7 pm local time, about 11:30 am IST. A second friendly follows in Christchurch on 15 November at 8:30 am IST. The teams drew 0-0 in 1981 and New Zealand won 2-1 in 2018."
+     ]
+    },
+    {
+     "title": "The squads",
+     "paras": [
+      "India arrive after defeats to Brazil and Uruguay. Coach Khalid Jamil named a 23-man squad and left out goalkeeper Gurpreet Singh Sandhu. For New Zealand, the series is coach Darren Bazeley's farewell."
+     ]
+    }
+   ],
+   "facts": [
+    "India's ranking: 138",
+    "Squad: 23 players",
+    "Second match: 15 Nov, Christchurch"
+   ],
+   "sources": [
+    {
+     "name": "Khel Now",
+     "url": "https://khelnow.com/football/indian-football-international-friendly-new-zealand-vs-india-preview"
+    },
+    {
+     "name": "Friends of Football NZ",
+     "url": "https://www.friendsoffootballnz.com/2026/11/11/all-whites-fans-to-farewell-coach-bazeley-with-two-match-series-against-india/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "ott-this-friday-ranabaali-netflix-soty-after-dark-jiohotstar",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "netflix.jpg",
+   "credit": "Netflix / Wikimedia, public domain",
+   "contain": true,
+   "head": "OTT this Friday: Ranabaali on Netflix in 5 languages, plus Student of the Year: After Dark and Parivarik ManuRanjan",
+   "dek": "Vijay Deverakonda and Rashmika Mandanna's period action film arrives on streaming four weeks after its cinema release.",
+   "stat": [
+    "5",
+    "languages for Ranabaali on Netflix"
+   ],
+   "sections": [
+    {
+     "title": "The big one",
+     "paras": [
+      "Ranabaali, the period action drama starring Vijay Deverakonda and Rashmika Mandanna, starts streaming on Netflix on 13 November in Telugu, Hindi, Tamil, Kannada and Malayalam, 28 days after it hit cinemas on 16 October."
+     ]
+    },
+    {
+     "title": "Also streaming",
+     "paras": [
+      "JioHotstar premieres Student of the Year: After Dark, a six-episode series from Dharmatic Entertainment. The Hindi romantic comedy Parivarik ManuRanjan comes to SonyLIV and the film Vibe to Prime Video. Platforms sometimes shift dates, so check the app on the day."
+     ]
+    }
+   ],
+   "facts": [
+    "Ranabaali: Netflix, 13 Nov",
+    "Languages: 5",
+    "SOTY: After Dark: 6 episodes"
+   ],
+   "sources": [
+    {
+     "name": "Pinkvilla",
+     "url": "https://www.pinkvilla.com/entertainment/south/ranabaali-ott-release-when-and-where-to-watch-vijay-deverakonda-rashmika-mandannas-period-action-drama-1406345"
+    },
+    {
+     "name": "FilmiBeat",
+     "url": "https://www.filmibeat.com/top-listing/new-ott-releases-this-week-in-bollywood-2026-2-1084.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "ramayana-part-1-crosses-rs-500-crore-net-india-week-one",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Ramayana: Part 1 crosses ₹500 crore net in India in its first week; worldwide gross near ₹935 crore",
+   "dek": "Trackers estimate ₹70 crore-plus net on its first Wednesday, as Nitesh Tiwari's epic keeps up a strong run.",
+   "stat": [
+    "₹511 Cr",
+    "India net in 7 days (Sacnilk)"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Sacnilk estimates Ramayana: Part 1, starring Ranbir Kapoor and Yash, collected about ₹70.65 crore net on day seven (11 November), taking its India total to ₹511.10 crore net (₹611 crore gross). With about ₹323 crore from overseas, its worldwide gross is around ₹934.55 crore. Other trackers have slightly different figures, so treat these as estimates."
+     ]
+    },
+    {
+     "title": "Records",
+     "paras": [
+      "Sacnilk says it is the first Hindi film to cross ₹100 crore net from its dubbed South Indian versions. It also posted the highest first-Monday gross for an Indian film in North America, at $1.37 million."
+     ]
+    }
+   ],
+   "facts": [
+    "India net, 7 days: ~₹511 crore",
+    "Day 7: ~₹70.65 crore net",
+    "Worldwide: ~₹934.55 crore gross"
+   ],
+   "sources": [
+    {
+     "name": "Sacnilk",
+     "url": "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_7"
+    },
+    {
+     "name": "Box Office Worldwide",
+     "url": "https://boxofficeworldwide.com/box-office/ramayana-part-one-rs-515-crore-india-rs-925-crore-worldwide-day-7/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "salman-khan-maatrubhumi-trailer-15-million-views-december-4",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Salman Khan's Galwan war film Maatrubhumi drops its trailer: about 15 million views in a day, in cinemas 4 December",
+   "dek": "The film, earlier titled Battle of Galwan, is inspired by the June 2020 clash between Indian and Chinese troops.",
+   "stat": [
+    "15M",
+    "trailer views in about a day (Koimoi)"
+   ],
+   "sections": [
+    {
+     "title": "The trailer",
+     "paras": [
+      "The trailer for Maatrubhumi: May War Rest in Peace was released on 10–11 November. Directed by Apoorva Lakhia and produced under Salman Khan Films, the film stars Salman Khan as Colonel B. Santosh Babu, commanding officer of 16 Bihar, with Chitrangda Singh."
+     ]
+    },
+    {
+     "title": "The response",
+     "paras": [
+      "Koimoi counted about 15 million views and 222,000 likes by the next afternoon, while calling the reaction mixed. The film was first planned for April and is now set for release on 4 December 2026."
+     ]
+    }
+   ],
+   "facts": [
+    "Views: ~15 million in a day",
+    "Likes: ~222,000",
+    "Release: 4 December 2026"
+   ],
+   "sources": [
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/entertainment/bollywood/salman-khans-maatrubhumi-trailer-out-a-war-story-of-courage-sacrifice-and-peace-1.500743104"
+    },
+    {
+     "name": "Koimoi",
+     "url": "https://www.koimoi.com/box-office/maatrubhumi-trailer-impact-at-box-office-day-1-salman-khans-much-talked-about-film-might-miss-bollywoods-top-5-openers-of-2026/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "kailadevi-tigers-raise-cubs-first-time-30-years",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "tiger.jpg",
+   "credit": "Tigers / via OdishaBytes",
+   "contain": false,
+   "head": "Tigers are raising cubs in Rajasthan's Kailadevi sanctuary for the first time in nearly 30 years: 8 cubs in 5 years",
+   "dek": "A WWF-India and Rajasthan Forest Department study confirms tigers are breeding beyond Ranthambore.",
+   "stat": [
+    "8",
+    "tiger cubs recorded in 5 years"
+   ],
+   "sections": [
+    {
+     "title": "The find",
+     "paras": [
+      "A study by WWF-India and the Rajasthan Forest Department recorded three adult tigers and eight cubs in Kailadevi Wildlife Sanctuary in Karauli over the past five years, the first confirmed successful cub-rearing there in almost three decades. The 674 sq km sanctuary is the northern extension of Ranthambore."
+     ]
+    },
+    {
+     "title": "More good signs",
+     "paras": [
+      "Camera traps at 186 locations recorded 27 mammal species and gave the first solid estimate of leopards: 29 adults. Researchers say the tiger population is not yet self-sustaining, but call Kailadevi an important emerging tiger landscape. The project has worked with about 8,000 people in 46 villages."
+     ]
+    }
+   ],
+   "facts": [
+    "Cubs: 8 in 5 years",
+    "Sanctuary size: ~674 sq km",
+    "Leopards: 29 adults"
+   ],
+   "sources": [
+    {
+     "name": "OdishaBytes",
+     "url": "https://odishabytes.com/eight-tiger-cubs-signal-new-hope-for-breeding-beyond-ranthambore/"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🐯"
+  },
+  {
+   "slug": "indian-navy-frees-20-crew-hijacked-iranian-boat-somalia",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "navy.jpg",
+   "credit": "Indian Navy / via StratNews Global",
+   "contain": false,
+   "head": "Indian Navy commandos free all 20 crew of a hijacked Iranian fishing boat off Somalia, with no injuries",
+   "dek": "INS Kolkata and Air Force-airlifted marine commandos ended the hijack more than 3,000 km from Mumbai.",
+   "stat": [
+    "20",
+    "crew freed safely"
+   ],
+   "sections": [
+    {
+     "title": "The rescue",
+     "paras": [
+      "Pirates seized the Iranian fishing vessel Azini off Somalia's Puntland coast on 29 October. The destroyer INS Kolkata was sent in, and marine commandos, flown in overnight by the Indian Air Force on a mission covering more than 6,000 km, boarded the boat on 2 November and freed all 20 crew without casualties, the Navy said."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The operation took place more than 3,000 km from Mumbai and shows India's growing role in keeping shipping lanes in the Arabian Sea and Gulf of Aden safe, regardless of the crew's nationality."
+     ]
+    }
+   ],
+   "facts": [
+    "Crew freed: 20 (per the Navy)",
+    "Air Force flying: 6,000+ km",
+    "Distance from Mumbai: 3,000+ km"
+   ],
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia"
+    },
+    {
+     "name": "StratNews Global",
+     "url": "https://stratnewsglobal.com/india/indian-navy-rescues-crew-as-somali-pirates-return/"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "⚓"
+  },
+  {
+   "slug": "ladakh-saffron-barren-land-first-harvest",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "saffron.jpg",
+   "credit": "Saffron in Leh / via The Better India",
+   "contain": false,
+   "head": "Ladakh grows saffron on restored barren land, harvesting 22 g in the first four days",
+   "dek": "Flowers bloomed in under 30 days in Leh, pointing to a new source of income in the cold desert.",
+   "stat": [
+    "22 g",
+    "saffron in the first 4 days"
+   ],
+   "sections": [
+    {
+     "title": "The project",
+     "paras": [
+      "Under Project Him Sarovar, Ladakh's Agriculture Department planted about 90,000 saffron corms on 4,000 sq m of restored land in Leh on 1 October. Flowers appeared in under 30 days, against the usual two months."
+     ]
+    },
+    {
+     "title": "The harvest",
+     "paras": [
+      "The first four days produced about 22 g of saffron. Blooms averaged 20–25 a day and peaked at 72 on 1 November. Officials hope saffron, one of the world's most expensive spices, can become a new livelihood for Ladakh's farmers."
+     ]
+    }
+   ],
+   "facts": [
+    "Corms planted: ~90,000",
+    "Area: 4,000 sq m",
+    "Peak blooms in a day: 72"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/farming/ladakh-saffron-farming-barren-land-fast-blooms-new-livelihood-opportunities-12775527"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🌸"
+  },
+  {
+   "slug": "barc-nisargruna-kitchen-waste-manure-bicholim-goa",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "A BARC scientist's Nisargruna plant turns a tonne of kitchen waste into about 150 kg of manure in 24–48 hours, now in Goa's Bicholim",
+   "dek": "The technology from the Bhabha Atomic Research Centre is set to spread to more Goa towns and villages.",
+   "stat": [
+    "150 kg",
+    "manure from 1 tonne of waste"
+   ],
+   "sections": [
+    {
+     "title": "How it works",
+     "paras": [
+      "Dr Sharad P Kale of the Bhabha Atomic Research Centre developed Nisargruna, which breaks down kitchen scraps into manure within 24–48 hours. One tonne of waste gives about 150 kg of manure."
+     ]
+    },
+    {
+     "title": "Where it's going",
+     "paras": [
+      "The town of Bicholim in Goa now uses the plant, and the plan is to extend it to other municipalities and village panchayats. India throws away about 78 million tonnes of food a year, so faster composting could keep a lot of it out of landfills."
+     ]
+    }
+   ],
+   "facts": [
+    "Time: 24–48 hours",
+    "Output: ~150 kg per tonne",
+    "India's food waste: ~78 million tonnes a year"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/technology/sharad-kale-nisargruna-kitchen-waste-composting-bicholim-goa-12800983"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "♻️"
+  },
+  {
+   "slug": "earthfokus-chennai-startup-saves-5-billion-litres-water",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Chennai startup EarthFokus has helped 130+ buildings save over 5 billion litres of water by catching hidden leaks",
+   "dek": "Born during Chennai's 2019 water crisis and incubated at IIT Madras, it uses smart meters and AI to spot waste.",
+   "stat": [
+    "5B+",
+    "litres of water saved"
+   ],
+   "sections": [
+    {
+     "title": "The idea",
+     "paras": [
+      "EarthFokus was founded in 2019, during Chennai's 'Day Zero' water crisis, and is incubated at IIT Madras. Its WaterOS system uses internet-connected meters and AI to flag unusual flows; a steady flow at 2 am, for example, can reveal a running toilet. Its fixtures can cut tap flow from 10–12 litres a minute to as little as 0.5."
+     ]
+    },
+    {
+     "title": "The results",
+     "paras": [
+      "More than 130 buildings use it. WeWork India cut water use from 45 to 29 litres per person per day, and Cognizant's Chennai campus reportedly cut daily demand by nearly 80%."
+     ]
+    }
+   ],
+   "facts": [
+    "Buildings: 130+",
+    "Water saved: 5 billion+ litres",
+    "Tap flow: down to 0.5 L/min"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/startup/smart-water-management-buildings-water-saving-earthfokus-startup-chennai-india-12789754"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "💧"
+  },
+  {
+   "slug": "gurugram-student-skyqi-light-pollution-app-63-countries",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "A Gurugram Class 12 student built SkyQi, a free site that rates light pollution from a phone photo; people in 63 countries use it",
+   "dek": "Suhani Gupta's tool has collected nearly 1,200 night-sky photos from more than 490 people.",
+   "stat": [
+    "63",
+    "countries using SkyQi"
+   ],
+   "sections": [
+    {
+     "title": "The tool",
+     "paras": [
+      "Suhani Gupta started building SkyQi in May 2025 and launched it that September. It estimates how dark the sky is from a phone photo using star counts, brightness and camera settings, and flags pictures where clouds may skew the result. It has received 1,198 photos from more than 490 people in 63 countries; India is the third-biggest contributor."
+     ]
+    },
+    {
+     "title": "What she found",
+     "paras": [
+      "Her analysis of NASA satellite data for 50 Indian cities found night-time brightness rose about 70% between 2015 and 2025. She says SkyQi has not yet been checked against a professional meter and plans to keep improving it."
+     ]
+    }
+   ],
+   "facts": [
+    "Photos: 1,198",
+    "Contributors: 490+ in 63 countries",
+    "Brightness rise in 50 cities: ~70%"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/young-achievers/skyqi-light-pollution-india-12780106"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "✨"
+  },
+  {
+   "slug": "fishermen-rescue-cruise-ship-pianist-nine-hours-pacific",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Two fishermen pull a cruise ship pianist from the Pacific after about nine hours treading water",
+   "dek": "The 37-year-old went overboard in the night; the fishing boat spotted him about 20 miles off California around noon.",
+   "stat": [
+    "9 hrs",
+    "in the water before rescue"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "A 37-year-old pianist on Royal Caribbean's Ovation of the Seas, sailing from Long Beach to Ensenada, is believed to have gone overboard at about 2:30 am on 6 November. Around noon, Sean Norton and Grant Garrett, returning from a fishing trip, saw him roughly 15–20 miles offshore."
+     ]
+    },
+    {
+     "title": "The outcome",
+     "paras": [
+      "They called for help, and Newport Beach lifeguards took him to hospital. The Coast Guard said he was expected to survive. Norton credited the warm 76°F water."
+     ]
+    }
+   ],
+   "facts": [
+    "Time in water: ~9 hours",
+    "Distance offshore: ~15–20 miles",
+    "Water temperature: 76°F"
+   ],
+   "sources": [
+    {
+     "name": "KY3 / CNN Newsource",
+     "url": "https://www.ky3.com/2026/11/09/cruise-ship-pianist-who-fell-overboard-rescued-middle-ocean-after-9-hours/"
+    },
+    {
+     "name": "Sunny Skyz",
+     "url": "https://www.sunnyskyz.com/good-news/6351/Two-Fishermen-Rescue-Cruise-Ship-Pianist-Who-Spent-Nine-Hours-Treading-Water-at-Sea"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🚤"
+  },
+  {
+   "slug": "flood-stranded-chimp-gets-food-by-drone-save-the-chimps",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "chimp.jpg",
+   "credit": "Save the Chimps / via Sunny Skyz",
+   "contain": false,
+   "head": "Floods strand a 38-year-old chimp on an island, so his sanctuary delivers bananas by drone",
+   "dek": "Staff at Florida's Save the Chimps made sure Kaleb didn't miss a meal until the water went down.",
+   "stat": [
+    "38",
+    "Kaleb's age"
+   ],
+   "sections": [
+    {
+     "title": "The rescue",
+     "paras": [
+      "Floodwater cut off Kaleb, a 38-year-old chimpanzee, on a small island at the 150-acre Save the Chimps sanctuary near Fort Pierce, Florida. Staff flew bananas and blankets to him by drone, and video shows him picking a banana out of a dropped paper bag."
+     ]
+    },
+    {
+     "title": "All safe",
+     "paras": [
+      "The sanctuary said every chimp was fed on time, and the water had largely receded by Saturday. Its chimps were rescued from research labs, entertainment and the pet trade."
+     ]
+    }
+   ],
+   "facts": [
+    "Kaleb's age: 38",
+    "Sanctuary: 150 acres",
+    "Delivery: bananas and blankets by drone"
+   ],
+   "sources": [
+    {
+     "name": "Sunny Skyz",
+     "url": "https://www.sunnyskyz.com/good-news/6353/Chimp-Gets-Food-Delivered-by-Drone-After-Floodwaters-Leave-Him-Stranded"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🐒"
+  },
+  {
+   "slug": "280-ice-age-engravings-found-catalan-show-cave",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "cave.jpg",
+   "credit": "Cova de la Font Major / via Good News Network",
+   "contain": false,
+   "head": "Researchers find 280 Ice Age engravings that tourists walked past for decades in a Catalan cave",
+   "dek": "The drawings include 55 animals; before this, only two such images were known in all of Catalonia.",
+   "stat": [
+    "280",
+    "engravings found"
+   ],
+   "sections": [
+    {
+     "title": "The discovery",
+     "paras": [
+      "A study in the journal Antiquity reports 280 engravings, including 55 animals such as horses, wild oxen, bears, goats and deer, deep inside Cova de la Font Major in Catalonia, Spain. The cave has been a tourist site for decades and a museum since 1993."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "It is now the third-largest collection of Ice Age engravings on Spain's Mediterranean side. Only two such animal images were previously known in Catalonia. People lived in the area as long ago as about 40,000 BCE."
+     ]
+    }
+   ],
+   "facts": [
+    "Engravings: 280",
+    "Animals depicted: 55",
+    "Previously known in Catalonia: 2"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/for-centuries-visitors-walked-right-by-280-unseen-ice-age-cave-paintings/"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🎨"
+  }
+ ],
+ "also": []
+}
