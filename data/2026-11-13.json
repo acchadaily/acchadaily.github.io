@@ -1,0 +1,1857 @@
+{
+ "date": "2026-11-13",
+ "day": "Friday",
+ "date_label": "13 November 2026",
+ "note": "",
+ "markets": {
+  "asof": "Sensex, Nifty and USD/INR (provisional): 12 Nov close; Brent: 12 Nov settlement; Gold 24K: Goodreturns retail rate for 13 Nov.",
+  "items": [
+   {
+    "n": "Sensex",
+    "v": "81,911",
+    "c": "+0.04%"
+   },
+   {
+    "n": "Nifty 50",
+    "v": "25,299",
+    "c": "+0.18%"
+   },
+   {
+    "n": "Gold 24K/10g",
+    "v": "₹1,39,790",
+    "c": "-0.01%"
+   },
+   {
+    "n": "Brent",
+    "v": "$95.82",
+    "c": "+3.3%"
+   },
+   {
+    "n": "USD/INR",
+    "v": "94.04",
+    "c": "+0.35%"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slug": "jensen-huang-resigns-nvidia-ceo-colette-kress-interim",
+   "tag": "Founders",
+   "color": "#0E9F5B",
+   "img": "nvidia.jpg",
+   "credit": "Will Buckner / Wikimedia, CC BY 2.0",
+   "contain": false,
+   "head": "Jensen Huang resigns as Nvidia CEO after 33 years; CFO Colette Kress named interim chief",
+   "dek": "The man who built the world's most valuable chip company has quit with immediate effect, days after Nvidia's board opened an independent probe.",
+   "stat": [
+    "33 yrs",
+    "leading the company he co-founded"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Nvidia said on Thursday, 12 November, that Jensen Huang has stepped down as president, chief executive and board member, effective immediately. According to the company's filing, the board accepted his resignation a day earlier. Huang co-founded Nvidia in 1993 and ran it for 33 years, turning a graphics-card maker into the company at the centre of the AI boom.",
+      "Chief financial officer Colette Kress will be interim CEO while also staying CFO. The board says it has \"full confidence\" in her and will look at both internal and external candidates for the permanent job. Harvey C. Jones becomes Nvidia's first-ever board chair."
+     ]
+    },
+    {
+     "title": "Why he left",
+     "paras": [
+      "Nvidia did not give a reason in its announcement. The exit comes days after the board launched an independent review on 8 November into reports that Huang had been targeted by a foreign intelligence effort. Media reports linked this to a woman US intelligence believes to be a Chinese spy, and Huang had publicly apologised for being unfaithful to his wife. Huang has agreed to testify before Congress."
+     ]
+    },
+    {
+     "title": "The market reaction",
+     "paras": [
+      "Nvidia shares fell more than 13% at Thursday's open and briefly took the company's value below $4 trillion, then recovered much of the drop to close about 4% lower. The stock was already well below its 6 October peak. Nvidia reports its quarterly results on 17 November, which will be Kress's first big test.",
+      "The change also matters for other AI companies: Nvidia had agreed to buy about $10 billion of Anthropic shares alongside the Claude maker's IPO, and Bloomberg reports that pledge is now under scrutiny."
+     ]
+    }
+   ],
+   "facts": [
+    "Huang's tenure: 33 years",
+    "Q3 results due: 17 November",
+    "Opening fall: more than 13%"
+   ],
+   "sources": [
+    {
+     "name": "NVIDIA Newsroom",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "lenskart-free-glasses-1-lakh-children-blue-light-lenses-standard",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "lenskart.jpg",
+   "credit": "Lenskart / via Upstox",
+   "contain": false,
+   "head": "Lenskart will give free glasses to 1 lakh children on Children's Day and makes blue-light lenses standard at no extra cost",
+   "dek": "On its first anniversary as a listed company, Lenskart's Peyush Bansal shared a 'confession': the problem the company was started to solve is still unsolved.",
+   "stat": [
+    "1 lakh",
+    "children aged 5–12 get free glasses"
+   ],
+   "sections": [
+    {
+     "title": "The two announcements",
+     "paras": [
+      "From 12 November, Lenskart is fitting blue-light filtering lenses as standard on its glasses in India, with no extra charge. Bansal admitted that the science on blue light is still debated, but said customers should not have to pay more for it.",
+      "On 14 November, Children's Day, the first 1,00,000 eligible children aged 5 to 12 can get prescription glasses, frames and lenses, free. Families pay ₹199 as a fitting fee."
+     ]
+    },
+    {
+     "title": "The 'confession'",
+     "paras": [
+      "Bansal made the announcements in a LinkedIn post and an open letter marking one year since Lenskart's stock market listing. \"We built a ten thousand crore company,\" he wrote, adding that the one thing they started it for \"is still unsolved\": millions of Indians who need glasses still don't have them."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Lenskart sells about 3.2 crore pairs of eyewear a year in India and says it wants to reach 10 crore. Free glasses for children is both a social move and a smart brand play: it builds trust with parents and brings a new generation into its stores. Making blue-light lenses standard also takes away a common upsell that rivals charge for."
+     ]
+    }
+   ],
+   "facts": [
+    "Free glasses: first 1,00,000 children",
+    "Fitting fee: ₹199",
+    "Eyewear sold a year: about 3.2 crore units"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/lenskart-completes-one-year-as-a-listed-company-peyush-bansal-announces-two-initiatives-114572.htm"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/what-we-have-done-is-not-enough-lenskart-ceo-a-year-after-ipo"
+    },
+    {
+     "name": "Upstox News",
+     "url": "https://upstox.com/news/business-news/latest-updates/lenskart-ceo-peyush-bansal-has-a-confession-to-make-on-ipo-anniversary-announces-2-initiatives/article-203375/"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "👓"
+  },
+  {
+   "slug": "adyar-ananda-bhavan-a2b-bodhi-tree-murdoch-uday-shankar-180-million",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "img": "a2b.jpg",
+   "credit": "Adyar Ananda Bhavan / via Business Standard",
+   "contain": false,
+   "head": "James Murdoch and Uday Shankar's Bodhi Tree buys a majority stake in Adyar Ananda Bhavan (A2B) for $180 million",
+   "dek": "The 50-year-old Chennai sweets and restaurant chain gets big-name backers and a plan to list on the stock market.",
+   "stat": [
+    "$180M",
+    "for a majority stake in A2B"
+   ],
+   "sections": [
+    {
+     "title": "The deal",
+     "paras": [
+      "Bodhi Tree Systems, the investment platform of James Murdoch's Lupa Systems and former Star India boss Uday Shankar, will buy a majority stake in Adyar Ananda Bhavan, better known as A2B, for $180 million. Business Standard called it one of the largest deals in India's food services sector.",
+      "Uday Shankar will become chairman of A2B's board, and the investors plan to prepare the company for a possible stock market listing."
+     ]
+    },
+    {
+     "title": "About A2B",
+     "paras": [
+      "A2B started 50 years ago as a family sweets business. It now has about 160 outlets in India and more than 30 abroad, in countries including Singapore, the US, Australia, Malaysia and the UK, and employs over 15,000 people. Co-founder K T Srinivasa Raja said the brand has become \"a part of everyday life for millions of families.\""
+     ]
+    },
+    {
+     "title": "Bodhi Tree's bets",
+     "paras": [
+      "This is Bodhi Tree's third major investment, after a 36% stake in coaching giant Allen for $600 million in 2022 and a strategic stake in JioStar. Indian sweets and snacks chains like Haldiram's have drawn strong investor interest, as branded, packaged Indian food grows fast at home and abroad."
+     ]
+    }
+   ],
+   "facts": [
+    "Deal size: $180 million",
+    "Outlets: ~160 in India, 30+ abroad",
+    "Employees: 15,000+"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/companies/news/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million-126111201795_1.html"
+    },
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797"
+    },
+    {
+     "name": "exchange4media",
+     "url": "https://www.exchange4media.com/industry-briefing-news/bodhi-tree-systems-makes-180-million-investment-in-adyar-ananda-bhavan-160176.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "ola-fined-rs-10-lakh-ccpa-advance-tip-dark-pattern",
+   "tag": "Viral",
+   "color": "#0891B2",
+   "img": "olatip.jpg",
+   "credit": "Ola app / via Business Standard",
+   "contain": false,
+   "head": "Ola fined ₹10 lakh by consumer watchdog CCPA for 'advance tip' prompts, told to remove the feature",
+   "dek": "The regulator called Ola's request to tip before a ride even starts a 'confirm shaming' dark pattern.",
+   "stat": [
+    "₹10L",
+    "fine on Ola for the tipping prompt"
+   ],
+   "sections": [
+    {
+     "title": "What the order says",
+     "paras": [
+      "The Central Consumer Protection Authority (CCPA) has fined ANI Technologies, which runs the Ola ride-hailing app, ₹10 lakh over a feature that asked riders to add a tip before their ride began. The order is dated 10 November and was reported on 12 November.",
+      "The CCPA said the prompt was a form of \"confirm shaming\", a design trick that makes users feel guilty for saying no. Ola has been told to remove it and file a compliance report within 15 days."
+     ]
+    },
+    {
+     "title": "Why riders cared",
+     "paras": [
+      "Advance-tip prompts in ride-hailing apps drew heavy criticism online in 2025, with many riders saying it felt like paying extra just to get a driver to accept the booking. Tipping is supposed to reward good service, which can only be judged after the trip."
+     ]
+    },
+    {
+     "title": "Bigger picture",
+     "paras": [
+      "India banned 13 kinds of dark patterns in 2023, and the CCPA has been stepping up action against apps. Rapido received a similar ₹10 lakh penalty in September. For app makers, the message is clear: nudges that push users to pay more can now cost real money."
+     ]
+    }
+   ],
+   "facts": [
+    "Fine: ₹10 lakh",
+    "Compliance report: within 15 days",
+    "Rapido's similar fine: September 2026"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/companies/news/ccpa-orders-ola-to-stop-advance-tipping-feature-imposes-10-lakh-fine-126111200184_1.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "retail-inflation-october-2026-6-09-percent-two-year-high",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "img": "cpi.jpg",
+   "credit": "Vegetables / via Business Today",
+   "contain": false,
+   "head": "Retail inflation hits a two-year high of 6.09% in October as food prices jump 8.94%, breaching RBI's 6% ceiling",
+   "dek": "Prices are rising faster than the RBI's comfort zone allows, and economists now expect another interest rate hike in December.",
+   "stat": [
+    "6.09%",
+    "retail inflation in October"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "India's consumer price inflation rose to 6.09% in October from 5.54% in September, government data released on 12 November showed. That is the highest in two years and above the RBI's upper tolerance limit of 6%. It is the first breach under the new CPI series, which uses 2024 as its base year.",
+      "Food inflation climbed to 8.94% from 7.74%. It was 9.09% in villages and 8.68% in cities. Overall inflation was higher in rural India (6.63%) than in urban India (5.41%). Eating out and hotel stays rose 10.06%."
+     ]
+    },
+    {
+     "title": "What's pushing prices up",
+     "paras": [
+      "Vegetables, especially onions, have become much costlier, and higher fuel costs linked to the West Asia war are feeding into transport and food. Milk is getting dearer too: Amul and Mother Dairy raised prices by ₹2–4 a litre this week."
+     ]
+    },
+    {
+     "title": "What it means for you",
+     "paras": [
+      "The RBI already raised its repo rate by 0.25 percentage points to 5.50% in October. DBS economist Radhika Rao expects a \"second successive rate hike\" at the 4 December policy meeting, and Axis Bank's Tanay Dalal says inflation could stay above 6% until June 2027. That means loan EMIs may rise further, while fixed deposit rates could improve. November's inflation number is due on 14 December."
+     ]
+    }
+   ],
+   "facts": [
+    "Retail inflation: 6.09% (Sept: 5.54%)",
+    "Food inflation: 8.94%",
+    "Next RBI decision: 4 December"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/economy/story/retail-inflation-hits-two-year-high-of-6-09-in-october-breaches-rbis-6-limit-december-rate-hike-likely-567161-2026-11-12"
+    },
+    {
+     "name": "ThePrint",
+     "url": "https://theprint.in/economy/indias-october-retail-inflation-breaches-rbis-6-ceiling-odds-of-december-repo-rate-hike-rise/3097181/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "modi-diesel-rs-43-litre-absorbed-rs-14000-crore-month",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "img": "diesel.jpg",
+   "credit": "Fuel pump / via The Hans India",
+   "contain": false,
+   "head": "PM Modi says the government absorbed ₹43 of a ₹50-a-litre diesel hike, costing ₹14,000 crore a month",
+   "dek": "Speaking in Delhi, the PM said diesel went up only ₹7 a litre even though the war in West Asia sent crude oil soaring.",
+   "stat": [
+    "₹43",
+    "per litre of diesel cost absorbed, says PM"
+   ],
+   "sections": [
+    {
+     "title": "What he said",
+     "paras": [
+      "At the India Today Kisan Conference in New Delhi on 12 November, PM Narendra Modi said crude oil rose from $70 to $122 a barrel within weeks after the West Asia war began. He said diesel needed a hike of at least ₹50 a litre, but prices went up by only ₹7, with the government absorbing the other ₹43. He put that extra burden at ₹14,000 crore a month, and said diesel became 40–50% costlier in several neighbouring countries."
+     ]
+    },
+    {
+     "title": "At the pump",
+     "paras": [
+      "Fuel prices were unchanged on 12 November. In Delhi, petrol costs ₹102.12 a litre and diesel ₹95.20. These under-recovery figures are the government's own; no independent breakdown has been published."
+     ]
+    }
+   ],
+   "facts": [
+    "Hike needed (PM): ₹50/litre",
+    "Actual hike: ₹7/litre",
+    "Delhi diesel: ₹95.20/litre"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://businesstoday.in/latest/economy/story/pm-modi-says-govt-absorbing-rs14000-crore-monthly-diesel-burden-limited-rs50litre-hike-to-just-rs7-567208-2026-11-12"
+    },
+    {
+     "name": "The Hans India",
+     "url": "https://thehansindia.com/business/petrol-and-diesel-prices-today-in-hyderabad-delhi-chennai-and-mumbai-on-12-november-2026-1141331"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "gold-price-falls-rs-2180-10-grams-november-12-2026",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "img": "gold.jpg",
+   "credit": "Gold jewellery / via Goodreturns",
+   "contain": false,
+   "head": "Gold falls ₹2,180 per 10 grams in a day to ₹1,39,800, then holds steady on Friday",
+   "dek": "A stronger dollar after hot US inflation data pushed gold down, a small relief for wedding-season buyers.",
+   "stat": [
+    "₹1.4L",
+    "24K gold per 10g on 13 Nov"
+   ],
+   "sections": [
+    {
+     "title": "Today's rates",
+     "paras": [
+      "On 12 November, 24-carat gold fell ₹2,180 to ₹1,39,800 per 10 grams and 22-carat dropped ₹2,000 to ₹1,28,150, according to Goodreturns. On Friday morning, 24K was nearly flat at ₹1,39,790 and 22K at ₹1,28,140. Silver was ₹1,99,900 a kg. These rates exclude GST."
+     ]
+    },
+    {
+     "title": "Why it fell",
+     "paras": [
+      "US prices rose faster than expected in October and Federal Reserve officials sounded tough on inflation, which lifted the dollar. A stronger dollar usually makes gold less attractive. International gold slipped below $4,000 an ounce. On MCX, December gold traded around ₹1,38,726."
+     ]
+    }
+   ],
+   "facts": [
+    "24K: ₹1,39,790/10g (13 Nov)",
+    "22K: ₹1,28,140/10g",
+    "Silver: ₹1,99,900/kg"
+   ],
+   "sources": [
+    {
+     "name": "Goodreturns",
+     "url": "https://www.goodreturns.in/news/big-gold-price-crash-gold-rate-today-in-india-loses-rs-21-800-in-a-day-on-november-12-check-fresh-1546483.html"
+    },
+    {
+     "name": "Goodreturns rates",
+     "url": "https://www.goodreturns.in/gold-rates/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "india-gulf-oil-imports-overtake-russia-november-2026",
+   "tag": "Economy",
+   "color": "#D97706",
+   "img": "oil.jpg",
+   "credit": "Oil tankers / via Rigzone",
+   "contain": false,
+   "head": "India now buys more oil from the Gulf than from Russia, for the first time since the Iran war began",
+   "dek": "Early November tanker data shows Gulf supplies back at about 2.1 million barrels a day as some Hormuz traffic resumes.",
+   "stat": [
+    "2.1M",
+    "barrels a day from the Gulf in Nov so far"
+   ],
+   "sections": [
+    {
+     "title": "The shift",
+     "paras": [
+      "Ship-tracking data from Kpler, reported by Bloomberg and Business Standard on 12 November, shows India importing about 2.1 million barrels a day from Persian Gulf producers so far this month, against about 1.8 million from Russia. In April, Gulf flows to India had crashed to about 2.47 lakh barrels a day, from roughly 2.8 million before the war."
+     ]
+    },
+    {
+     "title": "Why it is happening",
+     "paras": [
+      "Shuttle tanker runs have restored some flows through the Strait of Hormuz, and Gulf sellers are pricing more competitively. BPCL said it would cut Russian purchases for November, and Ukrainian strikes have hit Russian export facilities. This is an early-month snapshot, so the full-month picture could change."
+     ]
+    }
+   ],
+   "facts": [
+    "Gulf imports: ~2.1 mn barrels/day",
+    "Russia: ~1.8 mn barrels/day",
+    "Gulf in April: ~0.25 mn barrels/day"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/economy/news/india-s-gulf-oil-imports-surpass-russia-for-first-time-since-iran-war-126111200597_1.html"
+    },
+    {
+     "name": "Rigzone",
+     "url": "https://www.rigzone.com/news/wire/gulf_overtakes_russia_in_oil_sales_to_india-12-nov-2026-185063-article/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "npci-upi-vyapaar-saksham-scheme-small-merchants-qr-soundbox",
+   "tag": "Economy",
+   "color": "#D97706",
+   "img": "upi.jpg",
+   "credit": "UPI / via Inc42",
+   "contain": false,
+   "head": "NPCI's new 'UPI Vyapaar Saksham' scheme will pay banks ₹300 per QR code and ₹750 per soundbox to bring small-town shops onto UPI",
+   "dek": "The three-year plan targets shops with turnover up to ₹40 lakh in smaller towns, the Northeast, J&K and Ladakh.",
+   "stat": [
+    "₹750",
+    "per soundbox placed with a new shop"
+   ],
+   "sections": [
+    {
+     "title": "How it works",
+     "paras": [
+      "The National Payments Corporation of India announced the scheme in a circular on 11 November. Banks will get ₹300 for each QR code and ₹750 for each payment soundbox they set up with an eligible new merchant. It targets shops with annual turnover up to ₹40 lakh in Tier III to VI towns, the Northeast, Jammu & Kashmir and Ladakh. The yearly goal is 6 lakh to 1 crore new QR codes and 5–10 lakh soundboxes."
+     ]
+    },
+    {
+     "title": "Who pays",
+     "paras": [
+      "The money will not come from the government budget. It will come from the merchant fee (MDR) planned on UPI shop payments: banks and UPI apps will put 5% of their share into the fund. The scheme runs for three years from when that fee starts, which has not been notified yet. The proposed fee is 0.4% on payments above ₹2,000, capped at ₹300."
+     ]
+    }
+   ],
+   "facts": [
+    "QR code incentive: ₹300",
+    "Soundbox incentive: ₹750",
+    "Shop turnover limit: ₹40 lakh"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/npci-unveils-new-mdr-funded-scheme-to-promote-upi-among-small-merchants/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "putin-meets-witkoff-kushner-moscow-ukraine-talks-november-12",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "kremlin.jpg",
+   "credit": "Diego Delso / Wikimedia, CC BY-SA 4.0",
+   "contain": false,
+   "head": "Putin meets US envoys Witkoff and Kushner for over two hours; talks will continue, but no deal on territory",
+   "dek": "Direct US–Russia talks have resumed after a nine-month pause, and Europe is set to join the next round.",
+   "stat": [
+    "2 hrs+",
+    "Putin's meeting with the US envoys"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "US envoys Steve Witkoff and Jared Kushner met Vladimir Putin at the Kremlin on 12 November for more than two hours. The Kremlin called the talks \"useful\". The US backed Putin's idea of a joint humanitarian mission to a city in eastern Ukraine. \"We've restarted it. We've set a new meeting,\" Witkoff said, adding that European countries would join the next round."
+     ]
+    },
+    {
+     "title": "Where they still disagree",
+     "paras": [
+      "Putin rejected any foreign or European troops in Ukraine and Kyiv's idea of 'gray zones', insisting on a clear state border as the dividing line. Kushner said \"significant differences remain\". Kremlin aide Yuri Ushakov said Putin will pick up the talks with Donald Trump at the APEC summit in China later this month. The envoys then briefed Ukraine's President Zelensky in Dublin, who called the agreed prisoner swap the biggest of the war."
+     ]
+    }
+   ],
+   "facts": [
+    "Meeting length: 2+ hours",
+    "Pause in direct talks: 9 months",
+    "Next step: APEC summit, China"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl"
+    },
+    {
+     "name": "Washington Post",
+     "url": "https://www.washingtonpost.com/world/2026/11/12/after-meeting-putin-us-envoys-say-europe-join-talks-ending-ukraine-war/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "houthis-claim-strike-saudi-east-west-pipeline-yanbu-brent-95",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Houthis claim attacks on a Saudi oil pipeline and Yanbu; Brent jumps 3.3% to $95.82",
+   "dek": "Saudi Arabia has been sending about 4 million barrels a day through this pipeline to avoid the Strait of Hormuz.",
+   "stat": [
+    "$95.82",
+    "Brent crude, up $3.06 on 12 Nov"
+   ],
+   "sections": [
+    {
+     "title": "The claims",
+     "paras": [
+      "Yemen's Houthis said on 12 November they hit pumping station No. 7 on Saudi Arabia's East-West pipeline with a drone, fired a ballistic missile at the Yanbu oil facility and attacked an Aramco building in Riyadh. The Saudi-led coalition said it shot down two drones, over the Riyadh region and the Eastern Province. Aramco did not comment, and there were no immediate reports of damage."
+     ]
+    },
+    {
+     "title": "Why oil jumped",
+     "paras": [
+      "With Hormuz traffic disrupted, Saudi Arabia has rerouted about 4 million barrels a day, roughly 4% of world supply, through the East-West pipeline to the Red Sea port of Yanbu. Any threat to that route worries traders. Brent settled at $95.82 a barrel, up $3.06, and WTI at $88.74, Reuters reported, though both are still lower for the week."
+     ]
+    }
+   ],
+   "facts": [
+    "Brent: $95.82 (+3.3%)",
+    "WTI: $88.74",
+    "Rerouted via pipeline: ~4 mn barrels/day"
+   ],
+   "sources": [
+    {
+     "name": "Reuters via Investing.com",
+     "url": "https://www.investing.com/news/commodities-news/oil-prices-drop-more-than-1-as-hopes-for-iran-ukraine-peace-talks-pressure-markets-5020171"
+    },
+    {
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/yemens-houthis-say-targeted-saudi-east-west-pipeline-yanbu"
+    }
+   ],
+   "also": [],
+   "emoji": "🛢️"
+  },
+  {
+   "slug": "xi-jinping-taiwan-reunification-speech-sun-yat-sen-160",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "beijing.jpg",
+   "credit": "Philip Nalangan / Wikimedia, CC BY 4.0",
+   "contain": false,
+   "head": "Xi Jinping says Taiwan's 'complete reunification' will 'certainly be realised', a week before meeting Trump",
+   "dek": "Taiwan said the wording was nothing new, as it tracked 29 Chinese military aircraft and ships near the island.",
+   "stat": [
+    "29",
+    "Chinese aircraft and ships tracked by Taiwan"
+   ],
+   "sections": [
+    {
+     "title": "The speech",
+     "paras": [
+      "Speaking at Beijing's Great Hall of the People on 12 November to mark the 160th birth anniversary of Sun Yat-sen, Xi said \"the tide of history cannot be stopped\" and called reunification with Taiwan an \"unwavering historical mission\". He urged a peaceful path under the 'one country, two systems' model and did not mention the use of force."
+     ]
+    },
+    {
+     "title": "Taiwan's response",
+     "paras": [
+      "Taiwan's Mainland Affairs Council said the language was \"not much different from the past\" and repeated that Taiwan rejects 'one country, two systems'. Taiwan reported 29 Chinese military aircraft and warships on a 'joint combat readiness patrol'. The speech comes ahead of the APEC summit in Shenzhen on 18–19 November, where Xi is due to meet Trump."
+     ]
+    }
+   ],
+   "facts": [
+    "Occasion: Sun Yat-sen's 160th birth anniversary",
+    "Chinese aircraft/ships near Taiwan: 29",
+    "APEC summit: 18–19 November"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/world/asia/china-xi-says-taiwan-reunification-must-happen-history-cannot-stopped-rcna608935"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "cop31-antalya-35-by-35-electrification-pledge-leaders-summit",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "cop31.jpg",
+   "credit": "COP31 Antalya / via ThePrint",
+   "contain": false,
+   "head": "COP31 leaders' summit ends in Antalya; the '35 by 35' electrification pledge gets backing from at least 14 countries",
+   "dek": "The voluntary target aims to raise electricity's share of energy use to 35% by 2035, but the EU and UK have not signed yet.",
+   "stat": [
+    "35%",
+    "electricity share of energy use targeted by 2035"
+   ],
+   "sections": [
+    {
+     "title": "The pledge",
+     "paras": [
+      "Host Türkiye's flagship idea at COP31 is to raise electricity's share of the world's final energy use to 35% by 2035, from about 20–23% today. At least 14 countries have backed it, including Australia, Germany, Norway, Finland, Pakistan, Ethiopia and several island nations. The EU and the UK welcomed it but have not signed; critics say it does not require the extra power to be clean."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "The two-day leaders' summit on 11–12 November drew about 102 leaders, and negotiations continue until 20 November. President Erdogan called it \"a COP of implementation\" and backed a 'Climate Implementation Bridge' to help countries access finance. India has traditionally not signed such voluntary COP pledges."
+     ]
+    }
+   ],
+   "facts": [
+    "Target: 35% electricity share by 2035",
+    "Backers so far: at least 14 countries",
+    "COP31 ends: 20 November"
+   ],
+   "sources": [
+    {
+     "name": "ThePrint",
+     "url": "https://theprint.in/environment/cop31-turkey-raise-electricity-global-energy-35/3095456/"
+    },
+    {
+     "name": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/cop31-summit-leaders-urge-world-move-faster-climate"
+    },
+    {
+     "name": "ABC News Australia",
+     "url": "https://www.abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "ola-electric-q2-fy27-revenue-falls-39-percent-rs-421-crore-loss-362-crore",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "olaelec.jpg",
+   "credit": "Ola Electric / via Storyboard18",
+   "contain": true,
+   "head": "Ola Electric's Q2 revenue falls 39% to ₹421 crore; it shuts company-run stores and moves to dealers",
+   "dek": "The loss narrowed to ₹362 crore from a year ago, and the company says supply, not demand, is now its problem.",
+   "stat": [
+    "-39%",
+    "drop in quarterly revenue to ₹421 crore"
+   ],
+   "sections": [
+    {
+     "title": "The results",
+     "paras": [
+      "Ola Electric's revenue for July–September 2026 was ₹421 crore, down 39% from ₹690 crore a year earlier and below ₹455 crore in the previous quarter. Its net loss was ₹362 crore, smaller than ₹418 crore a year ago but wider than ₹336 crore in April–June. \"Demand is no longer our constraint; supply is,\" the company said."
+     ]
+    },
+    {
+     "title": "A new sales model",
+     "paras": [
+      "Ola stopped taking orders at its company-owned stores from 1 November and expects most of them to close by December. All new scooters will now be sold through dealers: 255 partners running 319 stores as of 8 November. Separately, the consumer regulator fined the Ola cab app (a different company, ANI Technologies) ₹10 lakh over its tipping prompt."
+     ]
+    }
+   ],
+   "facts": [
+    "Q2 revenue: ₹421 crore",
+    "Q2 net loss: ₹362 crore",
+    "Dealer stores: 319"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/ola-electric-q2-loss-down-13-to-%E2%82%B9362-cr-revenue-dips-39/"
+    },
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/ola-electric-q2-revenue-drops-39-percent-to-rs-421-crore-ws-l-114612.htm"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "spotify-audiobooks-india-launch-rs-199-15-hours",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "spotify.jpg",
+   "credit": "Spotify / via India TV News",
+   "contain": false,
+   "head": "Spotify launches audiobooks in India: ₹199 a month for 15 hours of listening, with 3.5 lakh English titles",
+   "dek": "A new 'Page Match' feature scans a printed book's barcode and starts the audiobook from the same page.",
+   "stat": [
+    "₹199",
+    "a month for 15 hours of audiobooks"
+   ],
+   "sections": [
+    {
+     "title": "What you get",
+     "paras": [
+      "Spotify launched audiobooks in India on 12 November through an add-on called Audiobooks+. It costs ₹199 a month for 15 hours of listening and is open to both free and Premium users. Listeners can top up hours or buy single titles. The catalogue has more than 3.5 lakh English titles and nearly 7,000 in Hindi, Tamil, Bengali, Marathi, Telugu, Kannada and Malayalam."
+     ]
+    },
+    {
+     "title": "The clever bit",
+     "paras": [
+      "'Page Match' lets you scan the ISBN barcode on a physical book and jump to the same spot in the audiobook, so you can switch between reading and listening. Spotify is also bringing its Spotify for Authors tools to India, putting it head-to-head with Amazon's Audible and local players like Pocket FM and Kuku FM."
+     ]
+    }
+   ],
+   "facts": [
+    "Price: ₹199/month for 15 hours",
+    "English titles: 3.5 lakh+",
+    "Indian-language titles: ~7,000"
+   ],
+   "sources": [
+    {
+     "name": "India TV News",
+     "url": "https://www.indiatvnews.com/technology/news/spotify-launches-audiobooks-in-india-with-rs-199-monthly-plan-15-hours-of-listening-2026-11-12-1059292"
+    },
+    {
+     "name": "StartupTalky",
+     "url": "https://startuptalky.com/news/spotify-expands-in-india-with-audiobook/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "zupee-lays-off-entire-staff-ai-pivot-shutdown",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Gaming startup Zupee lays off its entire staff; its 'AI pivot' was a cover for shutting down, Inc42 reports",
+   "dek": "The Ludo game maker had raised over $120 million and once employed close to 500 people.",
+   "stat": [
+    "$120M+",
+    "raised by Zupee from investors"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Zupee has let go of its whole workforce and is close to shutting down, Inc42 reported on 12 November. On 16 October the company had said it was leaving real-money gaming for \"AI-led ventures\". A source told Inc42: \"There was no AI plan. It was a damage control exercise.\" Severance reportedly covers pay until January 2027. Zupee did not respond to Inc42."
+     ]
+    },
+    {
+     "title": "How it got here",
+     "paras": [
+      "Founded in 2018, Zupee made skill-based Ludo and Carrom games and raised more than $120 million from investors including Z47 and Orios. After India's ban on real-money online games, it cut about 200 and then about 170 jobs, shut its astrology app NeoAstro and its microdrama studio, and a planned purchase of Vertical TV fell through."
+     ]
+    }
+   ],
+   "facts": [
+    "Peak staff: close to 500",
+    "Funding raised: $120M+",
+    "Founded: 2018"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/why-zupees-ai-pivot-was-a-smokescreen-for-its-shutdown/"
+    }
+   ],
+   "also": [],
+   "emoji": "🎲"
+  },
+  {
+   "slug": "decathlon-india-fy26-profit-rs-63-crore-ad-spend-cut-26-percent",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "decathlon.jpg",
+   "credit": "Decathlon / via Storyboard18",
+   "contain": true,
+   "head": "Decathlon India swings to a ₹63 crore profit in FY26 after cutting ad spend by 26%; revenue at ₹4,478 crore",
+   "dek": "The sports retailer grew sales 8% while spending less on advertising, and plans 200 stores by 2030.",
+   "stat": [
+    "₹63 cr",
+    "FY26 profit, from a ₹65 crore loss"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Decathlon's Indian business made a net profit of ₹63.23 crore in FY26 against a loss of ₹65.03 crore a year earlier, according to filings accessed via Tofler and reported by Storyboard18. Revenue rose 8.35% to ₹4,478 crore. It spent ₹66.11 crore on advertising and promotion, 25.8% less than the ₹89.05 crore it spent in FY25."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Decathlon entered India in 2009 and now runs 132 stores, with a target of 200 by 2030. Its return to profit shows a big-box retailer growing sales while spending less on ads, at a time when competition in sportswear is heating up."
+     ]
+    }
+   ],
+   "facts": [
+    "Revenue: ₹4,478 crore (+8.35%)",
+    "Ad spend: ₹66 crore (-25.8%)",
+    "Stores: 132"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/decathlon-india-cuts-ad-spends-as-revenue-rises-ws-l-114545.htm"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "kia-india-second-plant-anantapur-2-billion-investment",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "img": "kia.jpg",
+   "credit": "Kia India / via DriveSpark",
+   "contain": false,
+   "head": "Kia plans a second Indian plant in Anantapur, a $2 billion investment with its suppliers",
+   "dek": "The new factory will add 2 lakh cars a year and build both fuel and electric vehicles for India and export.",
+   "stat": [
+    "$2B",
+    "Kia and suppliers' planned investment"
+   ],
+   "sections": [
+    {
+     "title": "The plan",
+     "paras": [
+      "Kia signed an agreement with the Andhra Pradesh government on 12 November for a second plant next to its existing factory in Anantapur. Kia and its suppliers together plan to invest about $2 billion. The new plant adds 2 lakh units of capacity, taking Kia's total in India to 6.3 lakh vehicles a year. Most reports say production will begin in early 2030."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The plant will make petrol, diesel and electric cars for India and for export. Kia's total investment in India will reach about $5 billion. It is an MoU for now, not a final investment decision."
+     ]
+    }
+   ],
+   "facts": [
+    "Investment: ~$2 billion",
+    "New capacity: 2 lakh units a year",
+    "Total capacity: 6.3 lakh a year"
+   ],
+   "sources": [
+    {
+     "name": "Rushlane",
+     "url": "https://www.rushlane.com/kia-india-announces-second-plant-in-anantapur-usd-2-billion-12560976.html"
+    },
+    {
+     "name": "DriveSpark",
+     "url": "https://www.drivespark.com/four-wheelers/2026/kia-india-to-open-second-plant-in-andhra-pradesh-usd-2-billion-investment-088527.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "meta-india-quick-commerce-microdramas-ad-growth-arun-srinivas",
+   "tag": "Marketing",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Meta India's Arun Srinivas names quick commerce and microdramas as its next big ad drivers; 2 lakh creators joined its festive programme",
+   "dek": "Over 2 lakh creators made shoppable content for Flipkart and Myntra on Meta's platforms this festive season.",
+   "stat": [
+    "2 lakh+",
+    "creators in Meta's festive affiliate push"
+   ],
+   "sections": [
+    {
+     "title": "What Meta sees",
+     "paras": [
+      "Meta's India head Arun Srinivas told Moneycontrol, as reported by Storyboard18 on 12 November, that quick commerce and short-form drama apps are two fast-growing ad categories in India. More than 2 lakh creators made content for Meta's affiliate commerce programme with Flipkart and Myntra during the festive season. Meta's AI dubbing with lip-sync now works in 6 Indian languages."
+     ]
+    },
+    {
+     "title": "WhatsApp Pay's struggle",
+     "paras": [
+      "WhatsApp Pay handled just 0.8% of UPI volume in September 2026, while PhonePe and Google Pay together had nearly 78%. Srinivas said WhatsApp \"was curbed in terms of user acquisition in the past\". This comes as Kunal Shah takes charge of WhatsApp."
+     ]
+    }
+   ],
+   "facts": [
+    "Festive creators: 2 lakh+",
+    "WhatsApp Pay UPI share: 0.8%",
+    "AI dubbing: 6 Indian languages"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-makers/meta-sees-quick-commerce-short-form-dramas-emerging-as-key-ad-growth-drivers-in-india-114588.htm"
+    }
+   ],
+   "also": [],
+   "emoji": "📣"
+  },
+  {
+   "slug": "anthropic-ipo-six-times-oversubscribed-tsmc-invests-500-million",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "tsmc.jpg",
+   "credit": "TSMC Fab 18 / via Ars Technica",
+   "contain": false,
+   "head": "Anthropic's IPO is about six times oversubscribed; TSMC will put $500 million each into Anthropic and OpenAI",
+   "dek": "The Claude maker plans to raise up to $64.4 billion and start trading on Nasdaq on 19 November under the ticker 'ANT'.",
+   "stat": [
+    "6x",
+    "orders vs shares on offer"
+   ],
+   "sections": [
+    {
+     "title": "The IPO",
+     "paras": [
+      "Investors have put in orders for about six times the shares Anthropic is selling, Bloomberg reported on 12 November. The company is offering 825 million shares at $70–78 each, raising up to $64.4 billion and valuing it at up to $1.4 trillion. Pricing is set for 18 November, with trading on Nasdaq from 19 November. CNBC says about 20% of shares are aimed at retail investors."
+     ]
+    },
+    {
+     "title": "Chipmakers buy in",
+     "paras": [
+      "Taiwan's TSMC approved up to $1 billion: $500 million in OpenAI preferred stock and $500 million in Anthropic shares at the IPO price. Nvidia had agreed to buy about $10 billion of Anthropic shares in a private placement alongside the listing; Bloomberg says that pledge is under scrutiny after Jensen Huang's exit."
+     ]
+    }
+   ],
+   "facts": [
+    "Shares offered: 825 million at $70–78",
+    "Max raise: $64.4 billion",
+    "Trading starts: 19 November"
+   ],
+   "sources": [
+    {
+     "name": "Reuters via Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/anthropics-ipo-is-about-six-times-oversubscribed-bloomberg-news-reports-5023345"
+    },
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "openai-india-data-residency-api-gpt-6-luna",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "openai.jpg",
+   "credit": "ChatGPT / via Inc42",
+   "contain": false,
+   "head": "OpenAI will now run its AI models on servers inside India for business customers, starting with GPT-6 Luna",
+   "dek": "India joins Australia and Japan as markets where OpenAI keeps API processing and data in the country.",
+   "stat": [
+    "10 cr+",
+    "people in India use ChatGPT weekly"
+   ],
+   "sections": [
+    {
+     "title": "What's new",
+     "paras": [
+      "From 12 November, OpenAI processes API requests and stores supported customer data inside India. At first this covers only the GPT-6 Luna model through its Responses and Chat Completions APIs. India joins Australia and Japan with this option."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Banks, insurers and government-linked firms often must keep data in India. OpenAI's Nitin Bawankule said some firms \"have not fully deployed AI for important work\" for that reason. More than 10 crore Indians use ChatGPT every week. Anthropic began offering in-country Claude processing via Amazon Bedrock in August, and Inc42 says the move may narrow the edge of Indian players like Sarvam AI."
+     ]
+    }
+   ],
+   "facts": [
+    "First model: GPT-6 Luna",
+    "Other markets: Australia, Japan",
+    "Weekly ChatGPT users in India: 10 crore+"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/openai-brings-api-inference-residency-to-india-to-deepen-enterprise-ai-adoption/"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "google-deepmind-alphagenome-2-single-cell-dna",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Google DeepMind's AlphaGenome 2 reads DNA cell by cell and finds disease-causing variants twice as often",
+   "dek": "Trained on more than 107 million single-cell profiles, it predicts how a DNA change affects genes in a specific tissue.",
+   "stat": [
+    "107M+",
+    "single-cell profiles used in training"
+   ],
+   "sections": [
+    {
+     "title": "What it does",
+     "paras": [
+      "AlphaGenome 2, announced on 11 November, predicts how changes in DNA affect gene activity in one particular cell type or tissue at a time. On an immune-cell test, it found the variants behind effects in 30% of cases, up from 16% for the first version, and got the direction of the effect right in 43% of cases versus 23%. It can also predict DNA methylation, a chemical tag that switches genes on or off."
+     ]
+    },
+    {
+     "title": "Who can use it",
+     "paras": [
+      "It reproduced a known finding linking a variant in the ETS2 gene to inflammatory bowel disease. It is free for non-commercial research through the AlphaGenome API, with commercial use in private preview. DeepMind says it is not validated for clinical or diagnostic use."
+     ]
+    }
+   ],
+   "facts": [
+    "Training data: 107M+ cell profiles",
+    "Variants found: 30% (was 16%)",
+    "Direction correct: 43% (was 23%)"
+   ],
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    }
+   ],
+   "also": [],
+   "emoji": "🧬"
+  },
+  {
+   "slug": "sensex-nifty-close-november-12-2026-81911-realty",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "sensex.jpg",
+   "credit": "BSE / via The Statesman",
+   "contain": false,
+   "head": "Sensex ends 32 points higher at 81,911, Nifty at 25,299, for a third straight gain; realty stocks jump nearly 4%",
+   "dek": "Foreign buying held the market up in a choppy session, while smaller stocks did better than the big names.",
+   "stat": [
+    "81,911",
+    "Sensex close on 12 Nov (+0.04%)"
+   ],
+   "sections": [
+    {
+     "title": "How the day went",
+     "paras": [
+      "The Sensex closed at 81,911.01 on 12 November, up 31.61 points, after swinging between 81,576 and 82,325. The Nifty 50 rose 44.30 points, or 0.18%, to 25,299.35. The Nifty Realty index jumped nearly 4%, while autos were the weakest. Midcaps rose about 0.9% and smallcaps about 1.1%."
+     ]
+    },
+    {
+     "title": "Winners and losers",
+     "paras": [
+      "Bajaj Finance, SBI, BEL, Bajaj Finserv, ICICI Bank and Eternal were among the top gainers; HUL, Maruti, Power Grid and TCS fell. \"Strong foreign inflows remained the key support,\" said Geojit's Vinod Nair, while Religare's Ajit Mishra said markets were \"taking a breather\"."
+     ]
+    }
+   ],
+   "facts": [
+    "Sensex: 81,911 (+31.6)",
+    "Nifty 50: 25,299 (+44.3)",
+    "Realty index: up nearly 4%"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://business-standard.com/amp/markets/news/stock-market-live-november-12-gift-nifty-nse-bse-sensex-today-nifty50-crude-oil-prices-q2-results-today-126111200066_1.html"
+    },
+    {
+     "name": "The Statesman",
+     "url": "https://www.thestatesman.com/business/stock-markets-end-with-marginal-gains-realty-banking-stocks-lead-buying-1503661804.html"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "rupee-falls-33-paise-94-04-dollar-hawkish-fed",
+   "tag": "Finance",
+   "color": "#E0262F",
+   "img": "rupee.jpg",
+   "credit": "Rupee vs dollar / via HDFC Sky",
+   "contain": true,
+   "head": "Rupee slips 33 paise to 94.04 against the dollar as US rate-hike bets grow, despite strong foreign buying",
+   "dek": "A day after hitting its strongest level since April, the rupee gave up ground to a firmer dollar.",
+   "stat": [
+    "94.04",
+    "rupee per dollar on 12 Nov"
+   ],
+   "sections": [
+    {
+     "title": "What moved it",
+     "paras": [
+      "The rupee closed at a provisional 94.04 per US dollar on 12 November, down 33 paise from 93.71, after opening at 93.73, PTI reported. Traders said a hawkish speech by a US Federal Reserve official and rising odds of a December US rate hike lifted the dollar; the dollar index was at 103.03."
+     ]
+    },
+    {
+     "title": "The other side",
+     "paras": [
+      "Foreign investors have been big buyers of Indian shares this month, about $6.4 billion so far in November according to PTI, which normally supports the rupee. Higher oil prices after the Houthi attacks work the other way, since India imports most of its crude."
+     ]
+    }
+   ],
+   "facts": [
+    "USD/INR: 94.04 (provisional)",
+    "Change: -33 paise",
+    "Foreign buying in Nov: ~$6.4 billion"
+   ],
+   "sources": [
+    {
+     "name": "HDFC Sky (PTI)",
+     "url": "https://hdfcsky.com/news/rupee-falls-33-paise-to-close-at-94-04-against-us-dollar"
+    }
+   ],
+   "also": []
+  },
+  {
+   "slug": "wall-street-falls-nvidia-ceo-exit-november-12-2026",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Wall Street slips 0.4% as Nvidia's CEO quits and oil jumps; small caps fall 1.7%",
+   "dek": "All three main US indexes ended lower on Thursday as bond yields rose and investors priced in more Fed tightening.",
+   "stat": [
+    "-0.4%",
+    "S&P 500 on 12 Nov"
+   ],
+   "sections": [
+    {
+     "title": "The close",
+     "paras": [
+      "The S&P 500 fell 26.98 points, or 0.4%, to 7,592.40 on 12 November, the AP reported. The Dow lost 189.40 points to 52,297.09, and the Nasdaq fell 100.10 points to 25,366.09. The Russell 2000 index of smaller companies dropped 1.7% to 2,799.06."
+     ]
+    },
+    {
+     "title": "Why",
+     "paras": [
+      "Nvidia recovered from a steep opening slide after Jensen Huang's resignation but still ended about 4% lower. Treasury yields climbed as traders bet on a December Fed rate hike, and Brent crude rose 3.3% to $95.82 after the Houthi attack claims."
+     ]
+    }
+   ],
+   "facts": [
+    "S&P 500: 7,592.40",
+    "Dow: 52,297.09",
+    "Nasdaq: 25,366.09"
+   ],
+   "sources": [
+    {
+     "name": "AP via KRMG",
+     "url": "https://krmg.com/2026/11/12/how-major-us-stock-indexes-fared-thursday-11-12-2026/"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
+    }
+   ],
+   "also": [],
+   "emoji": "📉"
+  },
+  {
+   "slug": "new-zealand-beat-india-5-0-football-friendly-auckland",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "football.jpg",
+   "credit": "Indian football team / via Footy Times",
+   "contain": false,
+   "head": "India lose 5-0 to New Zealand in Auckland; goalkeeper Vishal Kaith saves a penalty",
+   "dek": "India have now scored 2 and conceded 16 in four friendlies; the teams meet again in Christchurch on Sunday.",
+   "stat": [
+    "0-5",
+    "India vs New Zealand, Auckland"
+   ],
+   "sections": [
+    {
+     "title": "The match",
+     "paras": [
+      "New Zealand beat India 5-0 at Go Media Stadium on 12 November, India's first match on New Zealand soil. An own goal in the 5th minute set the tone; Jesse Randall scored twice and Chris Wood and Lachlan Bayliss added one each. Vishal Kaith saved a second-half penalty and several other shots. Anirudh Thapa captained India, and two players made debuts."
+     ]
+    },
+    {
+     "title": "Where India stand",
+     "paras": [
+      "Across friendlies against Panama, Brazil, Uruguay and New Zealand, India have scored 2 and let in 16. They are ranked 138th, against New Zealand's 88th. Coach Khalid Jamil said \"many mistakes were there\". The second match is on Sunday, 15 November, in Christchurch at 8:30 am IST."
+     ]
+    }
+   ],
+   "facts": [
+    "Score: 0-5",
+    "Rankings: India 138, NZ 88",
+    "Next match: 15 Nov, 8:30 am IST"
+   ],
+   "sources": [
+    {
+     "name": "ANI",
+     "url": "https://www.aninews.in/news/sports/football/blue-tigers-go-down-0-5-against-new-zealand-in-auckland-friendly20261112154457/"
+    },
+    {
+     "name": "National Herald",
+     "url": "https://www.nationalheraldindia.com/sports/india-football-team-5-0-defeat-new-zealand-fifa-friendly"
+    }
+   ],
+   "also": [],
+   "emoji": "⚽"
+  },
+  {
+   "slug": "vivaan-kapoor-trap-silver-shooting-world-championship-la-2028-quota",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Vivaan Kapoor wins trap silver at the shooting World Championships and India's first shotgun quota for LA 2028",
+   "dek": "In his first senior World Championship final, the 24-year-old from Jaipur lost gold only in a shoot-off.",
+   "stat": [
+    "29/30",
+    "Kapoor's score in the final"
+   ],
+   "sections": [
+    {
+     "title": "The final",
+     "paras": [
+      "Vivaan Kapoor qualified sixth with 120/125 in Doha on 12 November, then hit 29/30 in the final to tie with Kuwait's Abdulrahman Alfaihan. Alfaihan won the shoot-off 3–2 to take gold, and China's Qi Ying got bronze. \"I just gave my best. I focused on my job like always,\" Kapoor said."
+     ]
+    },
+    {
+     "title": "Quota for LA 2028",
+     "paras": [
+      "The silver earns India its first shotgun quota for the 2028 Los Angeles Olympics; Kapoor is India's third shooter with an LA quota after Jaypal Malviya and Niraj Kumar. Udaivir Singh Jaiji finished sixth, and India's men's trap team came fourth with 354, missing bronze on a count-back."
+     ]
+    }
+   ],
+   "facts": [
+    "Final score: 29/30",
+    "Qualification: 120/125",
+    "India's LA 2028 shooting quotas: 3"
+   ],
+   "sources": [
+    {
+     "name": "The Bridge",
+     "url": "https://thebridge.in/shooting/issf-world-cships-vivaan-kapoor-trap-silver-olympics-quota-58345"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🥈"
+  },
+  {
+   "slug": "ambekar-meetei-india-first-youth-olympics-boxing-gold",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Manipur's Ambekar Meetei wins India's first-ever Youth Olympic Games boxing gold",
+   "dek": "He beat Ireland's Kristian Jubani on a 3-2 split decision in the men's 50kg final.",
+   "stat": [
+    "1st",
+    "Indian Youth Olympics boxing gold"
+   ],
+   "sections": [
+    {
+     "title": "The road to gold",
+     "paras": [
+      "Ambekar Meetei won the men's 50kg final on 12 November against Ireland's Kristian Jubani on a 3-2 split decision. Earlier, he stopped Namibia's Abraham Kalenga in the first round of the quarter-final and beat Colombia's Izzon Jeffrey Galea Arevalo 5-0 in the semi-final."
+     ]
+    },
+    {
+     "title": "Why it is special",
+     "paras": [
+      "India's best Youth Olympics boxing result until now was Shiva Thapa's 60kg silver in 2010. Ambekar's win adds to a strong Games for Indian teenagers and continues Manipur's long tradition of producing top boxers."
+     ]
+    }
+   ],
+   "facts": [
+    "Weight class: 50kg",
+    "Final score: 3-2 split decision",
+    "Previous best: silver (2010)"
+   ],
+   "sources": [
+    {
+     "name": "The Bridge",
+     "url": "https://thebridge.in/boxing/ambekar-meetei-india-first-youth-olympics-58346"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🥊"
+  },
+  {
+   "slug": "kidambi-srikanth-beats-naraoka-lakshya-sen-kumamoto-masters-quarterfinals",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Kidambi Srikanth stuns world No. 8 Kodai Naraoka; he and Lakshya Sen reach the Kumamoto Masters quarter-finals",
+   "dek": "Srikanth won a 60-minute three-setter, while Lakshya needed just two games to go through.",
+   "stat": [
+    "21-18",
+    "Srikanth's deciding game vs Naraoka"
+   ],
+   "sections": [
+    {
+     "title": "The wins",
+     "paras": [
+      "Srikanth beat Japan's fifth seed Kodai Naraoka 21-15, 11-21, 21-18 in 60 minutes on 12 November, pulling away from 7-all in the decider. Eighth seed Lakshya Sen beat China's Dong Tian Yao 21-8, 21-14."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "Lakshya faces Japan's Yushi Tanaka in the quarter-finals today; he has won both their earlier meetings, including the 2025 Australian Open final. He is chasing a top-8 spot in the race for the World Tour Finals. In women's doubles, Treesa Jolly and Gayatri Gopichand lost 21-14, 21-14 to third seeds Iwanaga and Nakanishi."
+     ]
+    }
+   ],
+   "facts": [
+    "Srikanth: 21-15, 11-21, 21-18",
+    "Lakshya: 21-8, 21-14",
+    "Lakshya vs Tanaka head-to-head: 2-0"
+   ],
+   "sources": [
+    {
+     "name": "The Bridge",
+     "url": "https://thebridge.in/badminton/kumamoto-maters-kidambi-srikanth-lakshya-sen-move-to-quarters-58338"
+    },
+    {
+     "name": "Olympics.com",
+     "url": "https://www.olympics.com/en/news/kumamoto-masters-japan-2026-badminton-india-day-3-results"
+    }
+   ],
+   "also": [],
+   "emoji": "🏸"
+  },
+  {
+   "slug": "jailer-2-prime-video-streaming-ott-releases-this-weekend",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "prime.jpg",
+   "credit": "Ajay Suresh / Wikimedia, CC BY 2.0",
+   "contain": false,
+   "head": "Jailer 2 now streams on Prime Video in 5 languages; Vibe, Mrigaya 1.5 and Bandra also land this weekend",
+   "dek": "Rajinikanth's record-breaking film came to OTT exactly four weeks after its cinema release.",
+   "stat": [
+    "5",
+    "languages Jailer 2 streams in"
+   ],
+   "sections": [
+    {
+     "title": "Jailer 2",
+     "paras": [
+      "Rajinikanth's Jailer 2 began streaming on Prime Video on 12 November in Tamil, Telugu, Hindi, Kannada and Malayalam, four weeks after hitting theatres. Reports say it is the 2 hour 43 minute theatrical cut. It is the highest-grossing Tamil film ever in Tamil Nadu."
+     ]
+    },
+    {
+     "title": "Also new this weekend",
+     "paras": [
+      "Vibe arrives on Prime Video, and the Bengali thriller Mrigaya 1.5 and Bandra stream on Zee5 from 13 November. Next week, Dhanush and Mammootty's OM: Chapter 1 hits cinemas on 20 November, with its trailer out today."
+     ]
+    }
+   ],
+   "facts": [
+    "Streaming from: 12 November",
+    "Runtime: 2 hr 43 min",
+    "OM: Chapter 1 release: 20 November"
+   ],
+   "sources": [
+    {
+     "name": "OTTRelease",
+     "url": "https://www.ottrelease.com/news/jailer-2-ott-release-tonight-rajinikanths-action-entertainer-arrives-on-prime-video-in-5-languages-same-theatrical-cut.html"
+    },
+    {
+     "name": "Daily Jagran",
+     "url": "https://www.thedailyjagran.com/entertainment/ott/ott-releases-this-week-nov-9-to-15-2026-top-new-movies-series-on-netflix-prime-video-jiohotstar-and-others-10335682"
+    }
+   ],
+   "also": [],
+   "emoji": "🍿"
+  },
+  {
+   "slug": "ramayana-part-1-box-office-day-8-crosses-rs-1000-crore-worldwide",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Ramayana: Part 1 crosses ₹1,000 crore worldwide in 8 days, according to Sacnilk",
+   "dek": "Ranbir Kapoor and Yash's epic made ₹53.5 crore net in India on its eighth day alone.",
+   "stat": [
+    "₹1,034 cr",
+    "worldwide gross in 8 days (Sacnilk)"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Tracker Sacnilk puts Ramayana: Part 1's worldwide gross at ₹1,033.55 crore after eight days, with ₹675 crore gross from India and about ₹358.5 crore from overseas (an estimate). India net collections stand at ₹564.6 crore. On Thursday, Day 8, it earned ₹53.5 crore net, ₹43 crore of it from the Hindi version."
+     ]
+    },
+    {
+     "title": "A note on numbers",
+     "paras": [
+      "Box office trackers differ: Box Office Worldwide says over ₹1,025 crore, while some others are lower, and the makers have not released official worldwide figures. Either way, it is one of the fastest Indian films to reach the ₹1,000 crore mark."
+     ]
+    }
+   ],
+   "facts": [
+    "Worldwide gross: ₹1,033.55 crore",
+    "India net: ₹564.6 crore",
+    "Day 8 India net: ₹53.5 crore"
+   ],
+   "sources": [
+    {
+     "name": "Sacnilk",
+     "url": "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_8"
+    },
+    {
+     "name": "Box Office Worldwide",
+     "url": "https://boxofficeworldwide.com/box-office/ramayana-part-one-rs-1025-crore-worldwide-8-days/"
+    }
+   ],
+   "also": [],
+   "emoji": "🏹"
+  },
+  {
+   "slug": "suriya-scene-200-crore-worldwide-three-films-one-year",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Suriya's Scene crosses ₹200 crore worldwide; he becomes the first Tamil actor with three ₹200-crore films in a year",
+   "dek": "The film joins Karuppu and Vishwanathan & Sons, though Ramayana is now taking away screens.",
+   "stat": [
+    "₹200.6 cr",
+    "Scene's worldwide gross in 7 days"
+   ],
+   "sections": [
+    {
+     "title": "The record",
+     "paras": [
+      "Scene has grossed ₹200.60 crore worldwide in seven days, The Week reported on 12 November, with ₹111.55 crore net in India and ₹71 crore overseas. That makes Suriya the first Tamil star with three ₹200-crore films in one year, after Karuppu and Vishwanathan & Sons."
+     ]
+    },
+    {
+     "title": "Slowing down",
+     "paras": [
+      "Daily collections are dropping: ₹6.1 crore net on Day 7 against ₹23.65 crore on its first Sunday, as Ramayana grabs screens. Directed by Jithu Madhavan with Naslen and Nazriya, it is Suriya's best-ever earner in Kerala."
+     ]
+    }
+   ],
+   "facts": [
+    "Worldwide: ₹200.60 crore",
+    "India net: ₹111.55 crore",
+    "Day 7: ₹6.1 crore net"
+   ],
+   "sources": [
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/entertainment/2026/11/12/box-office-record-scene-joining-karuppu-vishwanathan-and-sons-suriya-set-kollywood-record.html"
+    }
+   ],
+   "also": [],
+   "emoji": "🎬"
+  },
+  {
+   "slug": "five-new-horned-frog-species-arunachal-snail-eating-frog",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "frog.jpg",
+   "credit": "Jingophrys frog / via NE Now",
+   "contain": false,
+   "head": "Five new tiny horned frog species found in Arunachal, including India's first snail-eating frog",
+   "dek": "Scans revealed whole snail shells inside one species, the first known snail-eater in its frog family.",
+   "stat": [
+    "5",
+    "new frog species named"
+   ],
+   "sections": [
+    {
+     "title": "The discovery",
+     "paras": [
+      "After five years of fieldwork, scientists have described five new species of tiny horned frogs from Arunachal Pradesh, published in Royal Society Open Science on 11 November. One of them, Jingophrys tanogogo, swallows land snails whole; micro-CT scans found the shells in its gut. It is the first frog in India, and in the Asian horned frog family, known to do this. 'Tanogogo' is the Apatani word for snails."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The study more than doubled the known species in the genus and raised the number of these frogs recorded in India seven-fold. It was led by Sonali Garg of Harvard with SD Biju of Delhi University and local researchers including Tage Tajo, a reminder of how much of the Northeast's wildlife is still undiscovered."
+     ]
+    }
+   ],
+   "facts": [
+    "New species: 5",
+    "Fieldwork: 5 years",
+    "India's first snail-eating frog"
+   ],
+   "sources": [
+    {
+     "name": "NorthEast Now",
+     "url": "https://nenow.in/environment/indias-first-snail-eating-frog-discovered-in-arunachal-pradesh.html"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🐸"
+  },
+  {
+   "slug": "assam-bans-drones-amur-falcon-roosts-1-lakh-birds",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "falcon.jpg",
+   "credit": "Amur falcons / via The Better India",
+   "contain": false,
+   "head": "Assam bans drones over Amur falcon roosts as more than 1 lakh of the tiny raptors arrive",
+   "dek": "The birds stop in the Northeast on one of the longest migrations of any bird of prey.",
+   "stat": [
+    "1 lakh+",
+    "Amur falcons now in Assam"
+   ],
+   "sections": [
+    {
+     "title": "The protection",
+     "paras": [
+      "Assam's Forest Department has banned recreational, commercial and other non-essential drone flights around Amur falcon roosts at Umrangso in Dima Hasao and Dharamtul in Morigaon, The Better India reported on 12 November. The ban lasts while the birds are present, and officers can mark temporary no-drone zones. An earlier roost at Habang was abandoned after people disturbed it."
+     ]
+    },
+    {
+     "title": "A long journey",
+     "paras": [
+      "More than 1 lakh falcons have arrived; Umrangso once counted over 2 lakh. In October, two satellite-tagged falcons, Apapang and Alang, returned to Manipur's Tamenglong after flying through 23 countries."
+     ]
+    }
+   ],
+   "facts": [
+    "Falcons in Assam: 1 lakh+",
+    "Protected roosts: 2",
+    "Tagged birds' route: 23 countries"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/wildlife/assam-amur-falcon-roosts-drone-restrictions-migratory-birds-12803487"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🦅"
+  },
+  {
+   "slug": "tamil-nadu-tb-triage-programme-cuts-deaths-38-percent",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "tb.jpg",
+   "credit": "TB / via DT Next",
+   "contain": false,
+   "head": "Tamil Nadu's simple TB check cut deaths by at least 38%, and by 56% in the latest group",
+   "dek": "Five quick checks at diagnosis send the sickest patients straight to hospital.",
+   "stat": [
+    "-56%",
+    "TB deaths in the latest patient group"
+   ],
+   "sections": [
+    {
+     "title": "How it works",
+     "paras": [
+      "Under Tamil Nadu's TNKET programme, every adult diagnosed with drug-sensitive TB is checked for five warning signs: body mass index, swollen feet, breathing rate, oxygen level and whether they can stand on their own. The most severely ill are admitted to hospital right away. About 60,000 such adults are diagnosed every year in the state's public health system."
+     ]
+    },
+    {
+     "title": "The results",
+     "paras": [
+      "A study by ICMR's National Institute of Epidemiology in BMJ Global Health found deaths fell from 6.3% to 3.9% (38% lower) and then to 2.8% (56% lower) for patients diagnosed in July–September 2025. The researchers say follow-up of the sickest patients still needs work."
+     ]
+    }
+   ],
+   "facts": [
+    "Death rate: 6.3% → 2.8%",
+    "Patients a year: ~60,000",
+    "Checks: 5 simple signs"
+   ],
+   "sources": [
+    {
+     "name": "DT Next (PTI)",
+     "url": "https://www.dtnext.in/news/tamilnadu/tamil-nadus-tb-care-initiative-records-at-least-38-reduction-in-deaths"
+    },
+    {
+     "name": "The Week (PTI)",
+     "url": "https://www.theweek.in/wire-updates/national/2026/11/08/tamil-nadu-s-tb-care-initiative-records-at-least-38-reduction-in-deaths.html"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🏥"
+  },
+  {
+   "slug": "delhi-head-constable-chanchal-traces-119-missing-children",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Delhi head constable traces 119 missing children in a year and reunites them with their families",
+   "dek": "Head Constable Chanchal of Jaitpur police station also found 16 missing adults.",
+   "stat": [
+    "119",
+    "missing children traced in 12 months"
+   ],
+   "sections": [
+    {
+     "title": "Her work",
+     "paras": [
+      "Between November 2025 and October 2026, Head Constable Chanchal of Jaitpur police station in southeast Delhi traced 119 missing children, PTI reported: 41 under 14 and 78 aged 14 to 18. Including 16 adults, she found 135 people in total."
+     ]
+    },
+    {
+     "title": "How she did it",
+     "paras": [
+      "The children were found across Delhi-NCR and other states. She relied on tip-offs, technical tracking and repeated follow-ups, working with child care homes, NGOs and Child Welfare Committees to bring them home safely."
+     ]
+    }
+   ],
+   "facts": [
+    "Children traced: 119",
+    "Under 14: 41",
+    "Total people found: 135"
+   ],
+   "sources": [
+    {
+     "name": "The Week (PTI)",
+     "url": "https://www.theweek.in/wire-updates/national/2026/11/04/one-cop-12-months-119-children-delhi-woman-head-constable-reunites-missing-kids-with-families.html"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "💛"
+  },
+  {
+   "slug": "moradabad-engineer-ramganga-cleanup-1-2-lakh-kg-waste",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "An engineer's Sunday clean-ups have pulled over 1.2 lakh kg of waste out of the Ramganga in Moradabad",
+   "dek": "Over 218 drives, more than 5,000 volunteers have joined Kapil Kumar to clean the river.",
+   "stat": [
+    "1.2L kg",
+    "waste removed from the Ramganga"
+   ],
+   "sections": [
+    {
+     "title": "The campaign",
+     "paras": [
+      "Kapil Kumar, a 35-year-old mechanical engineer, leads the 'Clean Up Ram Ganga' campaign of the NGO Parivartan in Moradabad, mainly at Lalbagh Ghat. Since 2018 it has run more than 218 drives with over 5,000 participants, removing more than 1.2 lakh kg of waste. A single Sunday can bring in 300–700 kg."
+     ]
+    },
+    {
+     "title": "Beyond clean-ups",
+     "paras": [
+      "The group has collected 11,000 signatures and sent a 10-point action plan to the National and State Missions for Clean Ganga, pushing for lasting fixes so the river stays clean."
+     ]
+    }
+   ],
+   "facts": [
+    "Waste removed: 1.2 lakh kg+",
+    "Drives: 218+",
+    "Volunteers: 5,000+"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/sustainability/kapil-kumar-clean-up-ram-ganga-moradabad-river-cleanup-volunteers-parivartan-12804326"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "♻️"
+  },
+  {
+   "slug": "antarctic-blue-whales-recover-418-to-4018",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "whale.jpg",
+   "credit": "NMFS / Wikimedia, public domain",
+   "contain": false,
+   "head": "Antarctic blue whales have grown from about 418 to over 4,000 since whaling ended",
+   "dek": "The population of the largest animal ever is growing about 4.5% a year, though it is still critically endangered.",
+   "stat": [
+    "10x",
+    "growth since 1973"
+   ],
+   "sections": [
+    {
+     "title": "The comeback",
+     "paras": [
+      "A University of Washington study in Endangered Species Research estimates there are now about 4,018 Antarctic blue whales, up from roughly 418 in 1973, and growing 4.5% a year. Commercial whaling killed 99.8% of them; the hunt was banned in 1964, but illegal whaling went on into the 1970s."
+     ]
+    },
+    {
+     "title": "Still a long way to go",
+     "paras": [
+      "Before whaling there were an estimated 2 lakh of these giants, so today's number is under 2% of that. But steady growth shows that protection works, even for animals that weigh more than 180 tonnes."
+     ]
+    }
+   ],
+   "facts": [
+    "Now: ~4,018 whales",
+    "1973: ~418",
+    "Growth: 4.5% a year"
+   ],
+   "sources": [
+    {
+     "name": "Phys.org (University of Washington)",
+     "url": "https://phys.org/news/2026-11-antarctic-blue-whales-advance-road.html"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🐋"
+  },
+  {
+   "slug": "spain-cantabrian-brown-bears-rebound-140-to-370",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "bear.jpg",
+   "credit": "Cantabrian brown bear / via Good News Network",
+   "contain": false,
+   "head": "Spain's Cantabrian brown bears have bounced back from about 140 to 370",
+   "dek": "Bigger protected areas and tough fines helped two long-separated bear groups meet again.",
+   "stat": [
+    "370",
+    "bears counted in 2023"
+   ],
+   "sections": [
+    {
+     "title": "The recovery",
+     "paras": [
+      "In the early 2000s, as few as 140 brown bears were left in Spain's Cantabrian Mountains. A 2023 census counted 370, and they now roam over 17,000 sq km across Asturias, León, Galicia, Palencia and Cantabria, Good News Network reported on 11 November."
+     ]
+    },
+    {
+     "title": "What worked",
+     "paras": [
+      "Protected areas grew by 688 sq km and fines for illegal killing can reach about $350,000. Two bear populations that had been cut off from each other for decades now overlap, which helps keep the species genetically healthy."
+     ]
+    }
+   ],
+   "facts": [
+    "Early 2000s: ~140 bears",
+    "2023: 370 bears",
+    "Range: 17,000+ sq km"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🐻"
+  },
+  {
+   "slug": "china-qinghai-worlds-largest-liquid-air-energy-storage",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "liquidair.jpg",
+   "credit": "Qinghai plant / via Good News Network",
+   "contain": false,
+   "head": "China switches on the world's largest liquid-air energy storage plant, storing 10 hours of power",
+   "dek": "It freezes air into liquid with spare solar power and turns it back into electricity when needed.",
+   "stat": [
+    "600 MWh",
+    "storage capacity"
+   ],
+   "sections": [
+    {
+     "title": "The plant",
+     "paras": [
+      "The 60 MW / 600 MWh plant in Qinghai, on the Tibetan Plateau, can supply power for about 10 hours, and sits next to a new 250 MW solar farm. ESS News calls it the world's largest grid-connected liquid-air storage plant. It was built by China Green Development Investment Group with the Chinese Academy of Sciences."
+     ]
+    },
+    {
+     "title": "How it works",
+     "paras": [
+      "Extra solar power cools air to about -190°C until it turns liquid. When power is needed, the liquid is warmed, expands rapidly and spins a turbine. Unlike batteries, it uses no lithium, which could help store clean energy for longer at lower cost."
+     ]
+    }
+   ],
+   "facts": [
+    "Power: 60 MW",
+    "Capacity: 600 MWh (~10 hours)",
+    "Solar farm alongside: 250 MW"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🔋"
+  },
+  {
+   "slug": "kazakhstan-north-aral-sea-water-volume-up-24-percent",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "aral.jpg",
+   "credit": "Aral Sea / via AnewZ",
+   "contain": false,
+   "head": "Kazakhstan's North Aral Sea is filling up again: water volume is up 24% since 2022 and fish have returned",
+   "dek": "A dam and replanting have helped revive part of a sea once called one of the worst environmental disasters.",
+   "stat": [
+    "+24%",
+    "water volume since 2022"
+   ],
+   "sections": [
+    {
+     "title": "The revival",
+     "paras": [
+      "Kazakhstan told COP31 on 10 November that the North Aral Sea now holds 23.4 billion cubic metres of water, up 24% since 2022. The Kokaral Dam has halved salinity and fish have returned. From 2021 to 2025, more than 1.1 million hectares were planted or restored, including over 5.6 crore saxaul seedlings."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "The next target is 34 billion cubic metres, with dam upgrades from 2027 and more than 160 irrigation projects. These figures come from the government; Kazakhstan and Uzbekistan signed a water-sharing deal in 2025."
+     ]
+    }
+   ],
+   "facts": [
+    "Water volume: 23.4 bn cubic metres",
+    "Salinity: down ~50%",
+    "Land restored: 1.1 mn hectares"
+   ],
+   "sources": [
+    {
+     "name": "AnewZ",
+     "url": "https://anewz.tv/region/central-asia/26529/kazakhstans-north-aral-sea-recovery-gains-momentum/news"
+    }
+   ],
+   "also": [],
+   "good": true,
+   "emoji": "🌊"
+  }
+ ],
+ "also": []
+}
