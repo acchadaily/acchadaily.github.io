@@ -1,0 +1,1747 @@
+{
+ "date": "2026-11-15",
+ "day": "Sunday",
+ "date_label": "15 November 2026",
+ "note": "",
+ "markets": {
+  "asof": "Sensex, Nifty, Brent and USD/INR: Friday 13 Nov close/settlement (markets shut for the weekend).",
+  "items": [
+   {
+    "n": "Sensex",
+    "v": "81,592",
+    "c": "-0.39%"
+   },
+   {
+    "n": "Nifty 50",
+    "v": "25,144",
+    "c": "-0.61%"
+   },
+   {
+    "n": "Brent",
+    "v": "$95.84",
+    "c": "+0.02%"
+   },
+   {
+    "n": "USD/INR",
+    "v": "94.24",
+    "c": "+0.22%"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slug": "raj-shamani-figuring-out-worlds-most-subscribed-youtube-podcast-22-million",
+   "tag": "Viral",
+   "color": "#0891B2",
+   "img": "shamani.jpg",
+   "credit": "Myotus / Wikimedia, CC BY 4.0",
+   "contain": false,
+   "head": "Raj Shamani's 'Figuring Out' becomes the world's most-subscribed YouTube podcast with 22 million subscribers",
+   "dek": "The show that started in a small room in Indore has moved past The Diary of a CEO and The Joe Rogan Experience.",
+   "stat": [
+    "22M",
+    "YouTube subscribers, more than any other podcast"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Figuring Out with Raj Shamani has crossed 22 million subscribers on YouTube, making it the most-subscribed podcast channel on the platform, according to Storyboard18.",
+      "That puts the Indian show ahead of two global giants: Steven Bartlett's The Diary of a CEO, at about 21.9 million, and The Joe Rogan Experience, at about 21.2 million."
+     ]
+    },
+    {
+     "title": "From Indore to the top",
+     "paras": [
+      "Shamani started the podcast in 2021 from a small room in Indore. The growth has sped up sharply: the channel added about 8 million subscribers in 2026 alone.",
+      "The show now pulls about 1.4 billion views a month across platforms, and roughly 22% of its YouTube subscribers live outside India, a sign that Indian long-form interviews are finding a global audience."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Podcasts have become one of the most powerful marketing channels in India. Founders, ministers, actors and creators now use long-form conversations to reach young audiences directly, and brands follow that attention with sponsorships.",
+      "Shamani says he wants to turn Figuring Out into a \"global media institution\", adding that where you come from shouldn't decide what you get to learn."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "The race at the top is close: the gap to The Diary of a CEO is only around 100,000 subscribers, so expect the rivals and their fans to keep an eye on the counter."
+     ]
+    }
+   ],
+   "facts": [
+    "Started: 2021, in Indore",
+    "Added in 2026: about 8 million subscribers",
+    "Overseas share: about 22% of subscribers"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/raj-shamanis-figuring-out-becomes-worlds-most-subscribed-youtube-podcast-with-22-million-subscribers-114736.htm"
+    }
+   ]
+  },
+  {
+   "slug": "sunil-mittal-mobile-tariffs-should-rise-to-rs-350-arpu",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "img": "airtel.jpg",
+   "credit": "Sahil Dhiman / Wikimedia, CC BY-SA 4.0",
+   "contain": false,
+   "head": "Airtel's Sunil Mittal says mobile bills should rise to ₹350 a month per user, about 29% above Airtel's ₹271 today",
+   "dek": "The Bharti chairman says India would 'still be by far the cheapest in the world', a strong hint that another round of tariff hikes is coming at some point.",
+   "stat": [
+    "₹350",
+    "per user a month, Mittal's 'right' ARPU"
+   ],
+   "sections": [
+    {
+     "title": "What he said",
+     "paras": [
+      "In an interview with PTI marking 50 years of Bharti Enterprises, Sunil Bharti Mittal said the right average revenue per user (ARPU) for India's telecom industry is about ₹350 a month.",
+      "He said the ₹300 he had argued for a decade ago is no longer enough, because electricity, fuel, salaries and admin costs have all gone up. Asked when bills would reach that level, he said he didn't know."
+     ]
+    },
+    {
+     "title": "What it means for your bill",
+     "paras": [
+      "Airtel's ARPU was ₹271 in the July–September quarter, up from ₹256 a year earlier. Getting to ₹350 would mean roughly 29% more per user.",
+      "Business Today worked out that ₹350 a month is about ₹10–12 a day. It suggests entry packs could stay above ₹200 while premium plans could cost ₹500–800 or more."
+     ]
+    },
+    {
+     "title": "The bigger picture",
+     "paras": [
+      "Mittal said 5G has not yet brought the new revenue the industry hoped for, and that India needs to at least double its network: the country has about 3.5 lakh mobile towers, against more than 10 lakh in China.",
+      "Telcos have raised prices several times in recent years, and Jio and Airtel have been competing with offers such as buy-one-get-one recharges. Any new hike would hit hundreds of millions of users."
+     ]
+    }
+   ],
+   "facts": [
+    "Airtel ARPU (Q2): ₹271",
+    "A year ago: ₹256",
+    "India's towers: about 3.5 lakh"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/corporate/story/still-by-far-the-cheapest-in-the-world-sunil-bharti-mittal-says-mobile-tariffs-should-rise-to-rs-350-a-month-567240-2026-11-13"
+    }
+   ]
+  },
+  {
+   "slug": "shantanu-deshpande-best-founders-not-on-instagram",
+   "tag": "Founders",
+   "color": "#0E9F5B",
+   "img": "instagram.jpg",
+   "credit": "Yuri Samoilov / Wikimedia, CC BY 2.0",
+   "contain": false,
+   "head": "'The best founders are not on Instagram': Bombay Shaving Company's Shantanu Deshpande calls himself a 'mediocre founder'",
+   "dek": "One of India's most visible founders told other founders to stop copying reel-making CEOs, and pointed to the leaders of Meesho, Groww, Ather and Lenskart instead.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What he said",
+     "paras": [
+      "Shantanu Deshpande, founder of Bombay Shaving Company, posted a video questioning the trend of founders building personal brands on Instagram, from dance reels to lifestyle content.",
+      "He said some founders see how much he posts and assume they must do the same. He apologised if his content had given that impression and called himself a \"mediocre founder\"."
+     ]
+    },
+    {
+     "title": "Who he pointed to",
+     "paras": [
+      "His examples of top founders who don't need to be on Instagram: Vidit Aatrey of Meesho, Lalit Keshre of Groww, Tarun Mehta of Ather Energy and Peyush Bansal of Lenskart.",
+      "He applied the same logic to investors, saying that sounding smart online is not the same as good judgement on deals."
+     ]
+    },
+    {
+     "title": "Why it's trending",
+     "paras": [
+      "Founder-led content has become a marketing playbook in Indian startups, with CEOs posting daily on Instagram and LinkedIn. Deshpande, who is himself one of the most active founder-creators, is now arguing that online visibility and validation don't automatically turn into business success.",
+      "The clip has reopened a familiar debate: is a founder's personal brand a cheap growth channel, or a distraction from building the company?"
+     ]
+    }
+   ],
+   "facts": [
+    "Examples named: 4 founders",
+    "Companies: Meesho, Groww, Ather, Lenskart",
+    "His brand: Bombay Shaving Company"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-makers/the-best-founders-are-not-on-instagram-shantanu-deshpande-slams-founders-creating-content-for-personal-branding-114707.htm"
+    }
+   ]
+  },
+  {
+   "slug": "brands-roast-microsoft-outlook-outage-zomato-kitkat-air-india-canva",
+   "tag": "Marketing",
+   "color": "#0E9F5B",
+   "img": "outlook.jpg",
+   "credit": "Microsoft / via Storyboard18",
+   "contain": false,
+   "head": "Outlook outage turns into a meme fest: Zomato, KitKat, Air India, Canva and Myntra roast Microsoft",
+   "dek": "While Outlook and Teams were down for a second workday, brands raced to turn the outage into topical posts.",
+   "stat": [
+    "6+",
+    "big brands joined in with outage jokes"
+   ],
+   "sections": [
+    {
+     "title": "The posts",
+     "paras": [
+      "KitKat played on its \"Have a break\" line with a mock office memo announcing an \"Unscheduled Global Break\" that had been \"reviewed and approved\".",
+      "Air India posted a view from a window seat, suggesting a \"change of Outlook\". Myntra told users that if their inbox wouldn't refresh, they could refresh their wardrobe instead."
+     ]
+    },
+    {
+     "title": "Rivals had fun too",
+     "paras": [
+      "Canva posted a Microsoft-style error screen saying it was still up and running, and pushed Canva Docs as a way to open .docx files. Zomato told whoever was fixing the outage to first decide on lunch and dinner, with \"no need to rush\".",
+      "Yahoo joked that with work email down, it was finally time to read thousands of unread personal emails."
+     ]
+    },
+    {
+     "title": "Why brands do this",
+     "paras": [
+      "Moment marketing is a staple for Indian brands: a big shared event, from a cricket match to a server crash, is a cheap way to get attention with a single clever post. The risk is looking like you're mocking people stuck at work, so most brands kept the tone light.",
+      "The Microsoft 365 outage hit Outlook, Teams and Copilot in dozens of countries."
+     ]
+    }
+   ],
+   "facts": [
+    "Brands: KitKat, Air India, Myntra, Canva, Zomato, Yahoo",
+    "Services hit: Outlook, Teams, Copilot",
+    "Format: topical social posts"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/photos/brand-marketing/outlook-outage-how-brands-jumped-on-microsofts-global-disruption-114724.htm"
+    }
+   ]
+  },
+  {
+   "slug": "trump-xi-putin-first-three-way-meeting-shenzhen-19-november",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "shenzhen.jpg",
+   "credit": "Fumikas Sagisavas / Wikimedia, CC0",
+   "contain": false,
+   "head": "Trump, Xi and Putin will hold their first-ever three-way meeting in Shenzhen on 19 November",
+   "dek": "The Kremlin confirmed the meeting on the sidelines of APEC; nuclear weapons and the Iran war are on the agenda, Ukraine is not.",
+   "stat": [
+    "1st",
+    "ever meeting of the three leaders together"
+   ],
+   "sections": [
+    {
+     "title": "What's confirmed",
+     "paras": [
+      "Kremlin spokesman Dmitry Peskov told the state news agency TASS on Saturday that Vladimir Putin, Xi Jinping and Donald Trump will meet on 19 November in Shenzhen, China. The White House had announced it a day earlier.",
+      "The meeting will take place on the sidelines of the APEC summit in Shenzhen, which runs on 18 and 19 November. The White House says it will be the first three-way meeting between the leaders of the US, Russia and China."
+     ]
+    },
+    {
+     "title": "What they'll discuss",
+     "paras": [
+      "Trump wants to talk about cutting nuclear arsenals; a White House spokeswoman said he considers nuclear proliferation \"very dangerous\". A senior US official said he will also raise the Iran war.",
+      "US officials say Ukraine is not expected to be on the table, because peace talks with Kyiv and Moscow run on a separate track. Chip export controls are also not part of it."
+     ]
+    },
+    {
+     "title": "The trip",
+     "paras": [
+      "Trump leaves Washington on Monday for an ASEAN summit in the Philippines, then heads to Shenzhen, where he will also hold a working lunch and meeting with Xi.",
+      "Some commentators have compared the plan to the 1945 Yalta conference. Peskov rejected that, saying any agreements reached in Shenzhen could not be imposed on other countries."
+     ]
+    }
+   ],
+   "facts": [
+    "Date: 19 November",
+    "Venue: APEC summit, Shenzhen",
+    "Topics: nuclear arms, Iran"
+   ],
+   "sources": [
+    {
+     "name": "Anadolu Agency",
+     "url": "https://aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week-us-says"
+    }
+   ]
+  },
+  {
+   "slug": "mumbai-cng-price-hike-rs-91-50-per-kg",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "img": "cng.jpg",
+   "credit": "CNG station / via Free Press Journal",
+   "contain": false,
+   "head": "Mumbai CNG goes up ₹1.50 to ₹91.50 a kg from today, the second hike this month",
+   "dek": "Mahanagar Gas blamed costlier imported gas; autos, taxis and private cars across the Mumbai region will feel it.",
+   "stat": [
+    "₹91.50",
+    "per kg of CNG in Mumbai from 15 Nov"
+   ],
+   "sections": [
+    {
+     "title": "The hike",
+     "paras": [
+      "Mahanagar Gas Ltd (MGL) has raised the price of CNG by ₹1.50 per kg in Mumbai and nearby areas, taking it to ₹91.50 a kg from Sunday 15 November.",
+      "It comes just two weeks after a ₹1 hike on 1 November that took the price to ₹90."
+     ]
+    },
+    {
+     "title": "Why, and who pays",
+     "paras": [
+      "MGL said it is paying more for gas during the Middle East crisis, is getting less cheap domestic gas, and has to rely more on expensive imported LNG.",
+      "About 12.93 lakh CNG vehicles in the region are affected, including roughly 4.7 lakh autos and 2 lakh taxis, according to the Times of India. Auto unions want the minimum fare raised from ₹27 to ₹29."
+     ]
+    }
+   ],
+   "facts": [
+    "New price: ₹91.50/kg",
+    "Hike: ₹1.50/kg",
+    "Vehicles affected: ~12.93 lakh"
+   ],
+   "sources": [
+    {
+     "name": "Free Press Journal",
+     "url": "https://www.freepressjournal.in/mumbai/mumbai-cng-price-hike-mgl-raises-rates-by-150-per-kg-new-price-to-be-9150-from-nov-15"
+    },
+    {
+     "name": "Indian Opinion",
+     "url": "https://indianopinion.org/mumbai-cng-price-hiked-by-rs-1-50-to-rs-91-50-per-kg/"
+    }
+   ]
+  },
+  {
+   "slug": "rice-stock-portal-live-omss-target-doubled-50-lakh-tonnes",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "img": "rice.jpg",
+   "credit": "Rice sacks / via BW Businessworld",
+   "contain": false,
+   "head": "Centre cracks down on rice hoarding: traders must report stocks every Friday, and govt doubles cheap rice sales to 50 lakh tonnes",
+   "dek": "With rice prices up about 12% in a year, the food ministry is pushing more grain into the market and watching who holds it.",
+   "stat": [
+    "8.25%",
+    "retail rice inflation in September"
+   ],
+   "sections": [
+    {
+     "title": "The new rules",
+     "paras": [
+      "The food ministry said on Saturday that its online portal for declaring rice and paddy stocks is now working. Traders, wholesalers, retailers, big retail chains and millers in every state must report their stocks on it every Friday.",
+      "Units that don't register or that break stock limits can face action under the Essential Commodities Act."
+     ]
+    },
+    {
+     "title": "More rice for the market",
+     "paras": [
+      "The Centre has also doubled its target for selling government rice through open-market e-auctions this year, from 25 lakh tonnes to 50 lakh tonnes. More rice is being given to NAFED, NCCF and Kendriya Bhandar to sell as 'Bharat Rice'.",
+      "Retail rice inflation rose to 8.25% in September from 5.89% in August, with the average retail price around ₹48 a kg. The kharif paddy area fell about 4% this year."
+     ]
+    }
+   ],
+   "facts": [
+    "Reporting: every Friday",
+    "OMSS target: 50 lakh tonnes",
+    "Avg retail price: ~₹48/kg"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/industry/news/centre-operationalises-portal-for-online-declaration-of-rice-paddy-stock-126111401050_1.html"
+    },
+    {
+     "name": "BW Businessworld",
+     "url": "https://www.businessworld.in/article/govt-doubles-rice-sale-target-to-50-lmt-under-omss-for-fy27-632536"
+    }
+   ]
+  },
+  {
+   "slug": "modi-manila-asean-east-asia-summit-quad-meeting-likely",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "manila.jpg",
+   "credit": "Patrickroque01 / Wikimedia, CC BY-SA 4.0",
+   "contain": false,
+   "head": "PM Modi heads to Manila on Monday for the ASEAN-India and East Asia summits; a Quad leaders' meeting is likely on 17 November",
+   "dek": "It would be the first Quad leaders' summit in about two years; a Modi–Trump meeting is being discussed but isn't confirmed.",
+   "stat": [
+    "$122B",
+    "India–ASEAN trade, says MEA"
+   ],
+   "sections": [
+    {
+     "title": "The trip",
+     "paras": [
+      "Prime Minister Narendra Modi will travel to Manila, Philippines, on 16 November for three days. He will attend the 23rd ASEAN-India Summit and the 21st East Asia Summit, returning on 18 November.",
+      "A Quad leaders' meeting of India, the US, Japan and Australia is likely in Manila on Tuesday 17 November, though India has not officially confirmed it."
+     ]
+    },
+    {
+     "title": "What's on the table",
+     "paras": [
+      "Expected topics include freedom of navigation, attacks on merchant ships, critical minerals and supply chains. A bilateral meeting between Modi and Donald Trump has been discussed; an MEA official said it was \"all up in the air\" for now.",
+      "The MEA puts India's trade with ASEAN at about $122 billion."
+     ]
+    }
+   ],
+   "facts": [
+    "Dates: 16–18 November",
+    "Summits: ASEAN-India, East Asia",
+    "Quad: likely 17 Nov"
+   ],
+   "sources": [
+    {
+     "name": "ThePrint",
+     "url": "https://theprint.in/diplomacy/modi-to-visit-philippines-next-week-to-attend-asean-india-summit-quad-leaders-meet-also-likely/3097204/"
+    },
+    {
+     "name": "Deccan Chronicle",
+     "url": "https://www.deccanchronicle.com/nation/quad-leaders-likely-to-meet-in-manila-on-nov-17-2004457"
+    }
+   ]
+  },
+  {
+   "slug": "us-assures-india-tariff-edge-trade-deal-dairy-gm-off-table",
+   "tag": "Economy",
+   "color": "#D97706",
+   "img": "ustrade.jpg",
+   "credit": "India–US flags / via Madhyamam",
+   "contain": false,
+   "head": "US assures India of a tariff edge over rivals in the trade deal; dairy and GM foods stay off the table",
+   "dek": "A senior official says Washington promised India a 'comparative advantage over our competitors', but the final US tariff structure isn't settled.",
+   "stat": [
+    "18%",
+    "US tariff on Indian goods since February's interim deal"
+   ],
+   "sections": [
+    {
+     "title": "The assurance",
+     "paras": [
+      "A senior Indian official said US negotiators have assured India of a \"comparative advantage over our competitors\" under the planned trade deal, while adding that India will have to see how the US tariff structure unfolds.",
+      "India keeps the right to change its own concessions if the US later puts tariffs above what it commits to. The first part of the deal will not cover services."
+     ]
+    },
+    {
+     "title": "Red lines",
+     "paras": [
+      "India has again ruled out opening its dairy sector or allowing genetically modified imports. The February interim deal cut US tariffs on Indian goods from 50% to 18%.",
+      "The final US structure should get clearer after the US trade office publishes findings from an investigation into industrial overcapacity."
+     ]
+    }
+   ],
+   "facts": [
+    "Interim tariff: 18% (from 50%)",
+    "Services: not in first tranche",
+    "Dairy and GM: excluded"
+   ],
+   "sources": [
+    {
+     "name": "Madhyamam (PTI)",
+     "url": "https://madhyamamonline.com/india/us-assures-india-of-comparative-advantage-under-proposed-trade-deal-1572039"
+    }
+   ]
+  },
+  {
+   "slug": "iran-says-three-tankers-hit-mines-strait-of-hormuz",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "tanker.jpg",
+   "credit": "ITookSomePhotos / Wikimedia, CC BY-SA 4.0",
+   "contain": false,
+   "head": "Iran says at least three oil tankers, including a supertanker, hit mines in the Strait of Hormuz",
+   "dek": "Iran says the ships had switched off their tracking and used unauthorised routes; the US says it has cleared the main lanes of mines.",
+   "stat": [
+    "3+",
+    "tankers hit mines, according to Iran"
+   ],
+   "sections": [
+    {
+     "title": "What Iran says",
+     "paras": [
+      "Iran's Revolutionary Guards navy said two oil tankers caught fire after hitting a naval mine in the south of the strait, claiming both had turned off their radar and positioning systems. Iran's regular navy said a third tanker in a \"prohibited zone\" east of the strait also struck a mine and stopped.",
+      "Iran said one of the ships was a supertanker but did not name the vessels. Counts differ between outlets, and some reports put the number of ships hit higher."
+     ]
+    },
+    {
+     "title": "The backdrop",
+     "paras": [
+      "Since the war with the US began in February, Iran has demanded that ships seek its permission to cross the strait. The US is blockading Iranian ports and escorting tankers, and says it has cleared the main shipping lanes of mines. Brent crude settled at $95.84 a barrel on Friday."
+     ]
+    }
+   ],
+   "facts": [
+    "Ships hit: at least 3",
+    "One: a supertanker",
+    "Brent (Fri): $95.84"
+   ],
+   "sources": [
+    {
+     "name": "Manila Times (AFP)",
+     "url": "https://manilatimes.net/2026/11/15/world/americas-emea/iran-3-oil-tankers-hit-naval-mines-in-strait-of-hormuz/2470080"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal"
+    }
+   ]
+  },
+  {
+   "slug": "us-loses-measles-free-status-5400-cases",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "measles.jpg",
+   "credit": "Graphic / via Contagion Live",
+   "contain": false,
+   "head": "The US reportedly loses its measles-free status after 26 years, with more than 5,400 cases this year",
+   "dek": "A regional health commission has revoked the status the US had held since 2000, according to the Wall Street Journal.",
+   "stat": [
+    "5,400+",
+    "US measles cases in 2026"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The Pan American Health Organization's measles commission has reportedly revoked the United States' elimination status at the end of a meeting from 10 to 13 November. The US had been counted as measles-free since 2000. A final report still has to confirm it.",
+      "A country loses the status when the same strain spreads continuously for 12 months or more; this outbreak began in January 2025."
+     ]
+    },
+    {
+     "title": "The numbers",
+     "paras": [
+      "The CDC has confirmed more than 5,400 cases in 2026, over twice the 2,289 in all of 2025. State health departments report 10 measles-linked deaths this year.",
+      "MMR vaccination among kindergarteners fell from 95.2% in 2019–20 to 92.4% in 2025–26, below the 95% target. Canada lost its status in 2025."
+     ]
+    }
+   ],
+   "facts": [
+    "Measles-free since: 2000",
+    "2025 cases: 2,289",
+    "Kindergarten MMR rate: 92.4%"
+   ],
+   "sources": [
+    {
+     "name": "Contagion Live",
+     "url": "https://www.contagionlive.com/view/reports-say-us-loses-measles-elimination-status-after-26-years"
+    },
+    {
+     "name": "aNews",
+     "url": "https://www.anews.com.tr/world/2026/11/14/regional-health-agency-revokes-us-measles-elimination-status-as-cases-surge-report"
+    }
+   ]
+  },
+  {
+   "slug": "zelensky-us-floated-nato-membership-for-donbas-withdrawal",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Zelensky says the US floated NATO membership if Ukraine pulls out of Donbas; he says Ukraine isn't ready to give up land",
+   "dek": "He called it 'an extremely difficult conversation' and said any final package would have to go to a referendum.",
+   "stat": [
+    "1,000+",
+    "prisoners in an agreed swap"
+   ],
+   "sections": [
+    {
+     "title": "What Zelensky said",
+     "paras": [
+      "Ukraine's President Volodymyr Zelensky said US negotiators raised the idea of Ukraine leaving the eastern Donbas region in exchange for joining NATO. He described it as an extremely difficult conversation and said NATO was \"back on the agenda\".",
+      "He said Ukraine is not ready to give up territory. If partners confirm concrete security guarantees, a funded army and money for rebuilding, he said he would put the full package to a national referendum, as he has no right to decide alone."
+     ]
+    },
+    {
+     "title": "Where talks stand",
+     "paras": [
+      "He met US envoys Steve Witkoff and Jared Kushner in Ireland on Thursday, after the Abu Dhabi round ended without a breakthrough. A swap involving more than 1,000 prisoners has been agreed, with final numbers still being worked out. The US and Russia have not publicly confirmed his account of the NATO idea."
+     ]
+    }
+   ],
+   "facts": [
+    "Swap: 1,000+ prisoners",
+    "Proposed: NATO for Donbas",
+    "His condition: referendum"
+   ],
+   "sources": [
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/europe/2026/1114/1599202-us-ukraine-russia/"
+    },
+    {
+     "name": "CNN",
+     "url": "https://edition.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl"
+    }
+   ]
+  },
+  {
+   "slug": "carlsberg-india-ipo-600-million-4-billion-valuation",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "img": "carlsberg.jpg",
+   "credit": "Carlsberg / via Storyboard18",
+   "contain": false,
+   "head": "Carlsberg plans a $600 million India IPO at a $4 billion valuation; the brewer could list as early as January",
+   "dek": "India's second-largest brewer is lining up investor meetings, Bloomberg reports, with the parent selling a 15% stake.",
+   "stat": [
+    "$600M",
+    "IPO size, all an offer for sale"
+   ],
+   "sections": [
+    {
+     "title": "The IPO",
+     "paras": [
+      "Danish brewer Carlsberg may start investor meetings as early as next week for the IPO of Carlsberg India, according to a Bloomberg report carried by Storyboard18. It could raise up to $600 million at a valuation of about $4 billion and list as early as January.",
+      "It is entirely an offer for sale: subsidiary South Asian Breweries would sell up to 86.42 million shares, about 15% of the company. Kotak, Citi and JPMorgan are the bankers."
+     ]
+    },
+    {
+     "title": "The business",
+     "paras": [
+      "Carlsberg India runs 7 breweries of its own plus 9 third-party plants and had a 21.9% market share across 16 key states and union territories in FY26, when revenue was ₹8,709 crore.",
+      "In the June quarter, revenue rose 21.5% to ₹1,366 crore while profit slipped 3.9% to ₹158 crore."
+     ]
+    }
+   ],
+   "facts": [
+    "Valuation: ~$4 billion",
+    "FY26 revenue: ₹8,709 crore",
+    "Market share: 21.9%"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/carlsberg-india-ipo-danish-parent-eyes-600-million-stake-sale-at-4-billion-valuation-114643.htm"
+    }
+   ]
+  },
+  {
+   "slug": "aamir-khan-productions-excel-entertainment-microdrama-app",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Aamir Khan Productions and Excel Entertainment team up to build a microdrama app",
+   "dek": "Two big Bollywood studios are entering India's crowded short-video drama race with professionally made shows.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The plan",
+     "paras": [
+      "Aamir Khan Productions and Excel Entertainment, the studio run by Farhan Akhtar and Ritesh Sidhwani, are building a mobile-first microdrama platform together, afaqs reports.",
+      "It will use both studios' film libraries plus new stories written for short, vertical episodes, and will stick to professionally produced content rather than user uploads. The studios are reportedly close to a distribution deal with a large telecom operator."
+     ]
+    },
+    {
+     "title": "A crowded field",
+     "paras": [
+      "Microdramas, bite-sized serial shows watched on phones, are one of the fastest-growing formats in Indian entertainment. Rivals include JioHotstar's Tadka, Zee's BULLET, MX Player, Amazon miniTV, Kuku TV and Story TV. The app's name, price and launch date haven't been announced."
+     ]
+    }
+   ],
+   "facts": [
+    "Partners: AKP + Excel",
+    "Format: vertical microdramas",
+    "Money: ads + streaming"
+   ],
+   "sources": [
+    {
+     "name": "afaqs!",
+     "url": "https://www.afaqs.com/news/media/aamir-khan-productions-teams-up-with-excel-entertainment-for-microdramas-12805225"
+    }
+   ]
+  },
+  {
+   "slug": "indian-startup-funding-drops-90-percent-week-greenjoules",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "funding.jpg",
+   "credit": "Weekly report graphic / via Entrackr",
+   "contain": false,
+   "head": "Indian startup funding falls about 90% in a week to $25–31 million; Greenjoules' ₹150 crore round is the biggest",
+   "dek": "A Diwali-shortened week made for one of the quietest funding stretches in months.",
+   "stat": [
+    "-90%",
+    "weekly startup funding, per Inc42"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Inc42 counts $25.2 million raised across 9 deals from 9 to 13 November, down 90.1% from $255 million the week before. Entrackr, which counts through 14 November, puts it at $31.3 million across 12 startups, down nearly 88%.",
+      "Bengaluru had the most deals, with six."
+     ]
+    },
+    {
+     "title": "Who raised",
+     "paras": [
+      "The biggest round went to Pune clean-fuel startup Greenjoules, which raised ₹150 crore in a Series B co-led by Amazon's Smbhav Venture Fund and Climate Pledge Fund. Salad brand Olyv raised ₹57.62 crore, and Desible.ai raised ₹32 crore led by Prime Venture Partners.",
+      "Separately, Norwest closed a $4 billion fund."
+     ]
+    }
+   ],
+   "facts": [
+    "Deals (Inc42): 9",
+    "Biggest: Greenjoules, ₹150 crore",
+    "Previous week: ~$255 million"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/"
+    },
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/report/funding-and-acquisitions-in-indian-startups-this-week-nov-09-nov-14-12808553"
+    }
+   ]
+  },
+  {
+   "slug": "noel-tata-listing-tata-sons-profit-over-philanthropy",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "img": "tata.jpg",
+   "credit": "AroundTheGlobe / Wikimedia, CC BY-SA 3.0",
+   "contain": false,
+   "head": "Noel Tata warns a Tata Sons listing could put 'profit ahead of philanthropy' as friction in the group widens",
+   "dek": "The Tata Trusts chairman spoke out as a Voltas chairman change reportedly went ahead without Chandrasekaran being told first.",
+   "stat": [
+    "66%",
+    "of Tata Sons owned by Tata Trusts"
+   ],
+   "sections": [
+    {
+     "title": "What he said",
+     "paras": [
+      "Speaking at the HT Leadership Summit, Tata Trusts chairman Noel Tata said his worry is that listing Tata Sons, as some people are proposing, \"will change the Tata way\". With tens of thousands of shareholders, he said, profit could one day take precedence over philanthropy.",
+      "He said he doesn't question the group's direction, but sometimes questions \"the delivery\", and called for discipline in executing big bets like chips and EV batteries."
+     ]
+    },
+    {
+     "title": "Growing friction",
+     "paras": [
+      "Business Today, citing Business Standard, reports Tata Consumer CEO Sunil D'Souza replaced Noel Tata as Voltas chairman, reportedly without N Chandrasekaran being told in advance. Tata Sons also turned down Noel's request for a recording of the September board meeting. The next Tata Sons board meeting is on 26 November."
+     ]
+    }
+   ],
+   "facts": [
+    "Trusts' stake: 66%",
+    "Next board meet: 26 Nov",
+    "New Voltas chair: Sunil D'Souza"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/corporate/story/my-worry-is-that-listing-will-change-the-tata-way-noel-tata-fears-profit-over-philanthropy-567483-2026-11-14"
+    },
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/corporate/story/tata-group-friction-spills-into-operating-firms-as-voltas-chairman-pick-bypasses-chandrasekarans-nod-567450-2026-11-14"
+    }
+   ]
+  },
+  {
+   "slug": "firstcry-q2-loss-narrows-75-percent-revenue-2396-crore",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "FirstCry's Q2 loss shrinks 75% to ₹12.6 crore as revenue rises 14% to ₹2,396 crore",
+   "dek": "The kids' products platform is closing in on profit, though rising raw-material costs squeezed its India margins.",
+   "stat": [
+    "-75%",
+    "drop in quarterly loss"
+   ],
+   "sections": [
+    {
+     "title": "The results",
+     "paras": [
+      "Brainbees Solutions, which runs FirstCry, posted a consolidated loss of ₹12.6 crore for July–September, down from ₹50.5 crore a year ago. Operating revenue rose 14.1% to ₹2,395.8 crore.",
+      "India revenue grew 18.6% to ₹1,637.9 crore, but India adjusted EBITDA fell 10.5% to ₹112.2 crore, which the company blamed on crude-linked raw-material inflation."
+     ]
+    },
+    {
+     "title": "The rest",
+     "paras": [
+      "The international business grew 5.8% to ₹249.3 crore, and house-of-brands GlobalBees grew 7.7% to ₹530.6 crore. The shares closed 1.84% lower at ₹160.40."
+     ]
+    }
+   ],
+   "facts": [
+    "Q2 loss: ₹12.6 crore",
+    "Revenue: ₹2,395.8 crore",
+    "Share price: ₹160.40"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/firstcry-q2-net-loss-narrows-75-yoy-to-%e2%82%b912-6-cr-revenue-up-14/"
+    },
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/fintrackr/firstcry-nears-rs-2400-cr-revenue-in-q2-fy27-losses-narrow-75-12809625"
+    }
+   ]
+  },
+  {
+   "slug": "ajinkya-rahane-invests-in-cookware-brand-ember",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Ajinkya Rahane invests in Italian-made cookware brand Ember, the latest cricketer to back a startup",
+   "dek": "The D2C brand sells ceramic and steel cookware made in Italy, and is on quick-commerce apps in four big cities.",
+   "stat": [
+    "$3.2M",
+    "Ember's seed round last year"
+   ],
+   "sections": [
+    {
+     "title": "The deal",
+     "paras": [
+      "Cricketer Ajinkya Rahane has picked up an undisclosed stake in Ember, a direct-to-consumer cookware brand founded in 2024 by Siddharth Gadodia, Himanshi Tandon and Bret Recor.",
+      "Ember sells ceramic cookware, stainless steel pans, cast-iron pots and Dutch ovens made in Italy. It sells online and on quick-commerce apps in Delhi NCR, Mumbai, Bengaluru and Hyderabad, and raised a $3.2 million seed round last year."
+     ]
+    },
+    {
+     "title": "Cricketers as investors",
+     "paras": [
+      "Rahane has also backed Chupps, Hudle, Proxgy and Oatey. He joins a growing list of cricketers putting money into startups, after Sachin Tendulkar backed Recykal and KL Rahul joined PlayBlue."
+     ]
+    }
+   ],
+   "facts": [
+    "Founded: 2024",
+    "Made in: Italy",
+    "Stake: undisclosed"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/ajinkya-rahane-picks-up-stake-in-d2c-cookware-brand-ember/"
+    }
+   ]
+  },
+  {
+   "slug": "nvidia-approaches-arm-ceo-rene-haas-to-replace-jensen-huang",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "nvidia.jpg",
+   "credit": "Will Buckner / Wikimedia, CC BY 2.0",
+   "contain": false,
+   "head": "Nvidia reportedly approaches Arm CEO Rene Haas to succeed Jensen Huang, after losing about $573 billion in value in a week",
+   "dek": "The Financial Times says the board has made contact; Nvidia says it hasn't formally engaged any candidate.",
+   "stat": [
+    "$573B",
+    "Nvidia value lost over the week"
+   ],
+   "sections": [
+    {
+     "title": "The report",
+     "paras": [
+      "The Financial Times reported that Nvidia's board has approached Arm CEO Rene Haas as a possible successor to Jensen Huang, who resigned this week. Nvidia says it has not formally engaged with any candidate and is still picking a search firm. Arm declined to comment.",
+      "Haas worked at Nvidia for seven years before joining Arm in 2013, and has led Arm since 2022. Analysts have also floated interim CEO Colette Kress and CUDA pioneer Ian Buck."
+     ]
+    },
+    {
+     "title": "Inside Nvidia",
+     "paras": [
+      "Wired reported that an internal post asking the board to weigh staff sentiment drew more than 1,600 comments, several calling for Huang's return. Nvidia's shares fell about 2% on Friday, and Nvidia reports quarterly earnings on 17 November."
+     ]
+    }
+   ],
+   "facts": [
+    "Earnings: 17 November",
+    "Staff post: 1,600+ comments",
+    "Haas at Arm since: 2013"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/world-news/nvidia-approaches-arm-ceo-rene-haas-as-employees-seek-huang-s-return-126111400075_1.html"
+    },
+    {
+     "name": "Analytics Insight",
+     "url": "https://www.analyticsinsight.net/news/nvidia-eyes-arm-ceo-as-employees-push-for-jensen-huangs-return"
+    }
+   ]
+  },
+  {
+   "slug": "openai-launches-chatgpt-wallet-ai-agents-shopping",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "wallet.jpg",
+   "credit": "OpenAI / via TechCrunch",
+   "contain": true,
+   "head": "OpenAI launches ChatGPT Wallet so its AI agents can shop and check out for you",
+   "dek": "It starts with some US Pro users, works with Visa, Mastercard and Amex, and needs your approval for every purchase.",
+   "stat": [
+    "3",
+    "card networks on board: Visa, Mastercard, Amex"
+   ],
+   "sections": [
+    {
+     "title": "How it works",
+     "paras": [
+      "ChatGPT Wallet lets OpenAI's AI agents, called \"dots\", pick products and complete checkout. Users add a card once, review the items and total, and approve each purchase with Face ID or a fingerprint.",
+      "Payments use a token rather than the real card number, so neither the agent nor the shop sees card details. Card rewards and dispute rights still apply."
+     ]
+    },
+    {
+     "title": "Who gets it",
+     "paras": [
+      "The first rollout is limited to some US ChatGPT Pro subscribers aged 18+ with US-issued cards. Spending limits and pre-approved purchases are planned, with no timeline for other countries. Some retailers block AI agents; Amazon is the biggest."
+     ]
+    }
+   ],
+   "facts": [
+    "Launch: US Pro users",
+    "Approval: every purchase",
+    "Card details: tokenised"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    },
+    {
+     "name": "9to5Mac",
+     "url": "https://9to5mac.com/2026/11/13/openai-launches-chatgpt-wallet-enabling-dot-agents-to-make-purchases/"
+    }
+   ]
+  },
+  {
+   "slug": "tesla-cybercab-preorders-29990-personal-use",
+   "tag": "Tech",
+   "color": "#7C3AED",
+   "img": "cybercab.jpg",
+   "credit": "Daniel Lu / Wikimedia, CC BY-SA 4.0",
+   "contain": false,
+   "head": "Tesla opens Cybercab pre-orders for personal use at $29,990, plus $299 a month",
+   "dek": "Deliveries start in December, but only in a handful of Texas cities, and the car drives only inside mapped zones.",
+   "stat": [
+    "$29,990",
+    "Cybercab price, plus $299 a month"
+   ],
+   "sections": [
+    {
+     "title": "The offer",
+     "paras": [
+      "Tesla is letting select customers pre-order its steering-wheel-free Cybercab for personal use at $29,990, plus $299 a month to operate it. Elon Musk said the fee is \"too high\" and should match what Tesla charges for self-driving on its other cars.",
+      "Estimated delivery is December 2026, with buyers taking delivery in a few Texas cities."
+     ]
+    },
+    {
+     "title": "The catch",
+     "paras": [
+      "The car only works inside geofenced areas, the same zones as Tesla's robotaxi service, and Musk said wider availability depends on regulators. Tesla plans to stop making the Cybertruck in 2027 and use that space for more Cybercabs."
+     ]
+    }
+   ],
+   "facts": [
+    "Monthly fee: $299",
+    "Delivery: from Dec 2026",
+    "Where: Texas only for now"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+    }
+   ]
+  },
+  {
+   "slug": "anthropic-ipo-demand-beats-spacex-pace-investors-question-ai-lead",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Anthropic's IPO draws orders faster than SpaceX's did, but some investors question how long its AI lead will last",
+   "dek": "Reuters says the $64 billion offering was about six times covered by day three, ahead of pricing on 18 November.",
+   "stat": [
+    "6x",
+    "oversubscribed by the end of Thursday"
+   ],
+   "sections": [
+    {
+     "title": "The demand",
+     "paras": [
+      "Reuters reports Anthropic's roughly $64 billion IPO had orders for about twice the shares on offer by the end of its first day, and about six times by Thursday. SpaceX was about 2x covered after two days of its roadshow.",
+      "Pricing is expected on 18 November, with trading on Nasdaq under the ticker \"ANT\" set for 19 November."
+     ]
+    },
+    {
+     "title": "The doubts",
+     "paras": [
+      "Sell-side analysts forecast 2026 revenue of $52–53 billion. One investor who passed expects 2028 revenue about 30% below bank estimates, and others asked whether Claude can stay ahead of rivals such as Google beyond coding and keep charging premium prices. Anthropic declined to comment."
+     ]
+    }
+   ],
+   "facts": [
+    "Pricing: 18 Nov",
+    "Listing: 19 Nov, Nasdaq",
+    "Ticker: ANT"
+   ],
+   "sources": [
+    {
+     "name": "Reuters via The Star",
+     "url": "https://www.thestar.com.my/tech/tech-news/2026/11/14/exclusive-investors-flock-to-anthropic-ipo-but-question-durability-of-ai-lead"
+    }
+   ]
+  },
+  {
+   "slug": "sensex-third-weekly-gain-bank-nifty-sbi-week-nov-13",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "markets.jpg",
+   "credit": "Market graphic / via Goodreturns",
+   "contain": false,
+   "head": "Sensex logs a third straight weekly gain, up 564 points, as Bank Nifty jumps 3.7% and SBI rallies 6.3%",
+   "dek": "Despite Friday's fall on high inflation, the Diwali-shortened week ended in the green, led by banks.",
+   "stat": [
+    "+0.7%",
+    "Sensex for the week"
+   ],
+   "sections": [
+    {
+     "title": "The week",
+     "paras": [
+      "The Sensex rose 564 points, or about 0.7%, over the week to close at 81,592 on Friday, while the Nifty 50 gained about 0.5% to 25,144. It was the markets' third weekly gain in a row.",
+      "Bank Nifty did much better, rising 3.71% to 61,034. SBI was the top Nifty gainer at 6.3%, while Grasim, HCL Tech and ONGC fell the most."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "Foreign investors were big buyers through the four sessions. Next week, traders will watch Nvidia's results, US retail sales and Fed minutes; analysts see Nifty support around 24,750–25,000."
+     ]
+    }
+   ],
+   "facts": [
+    "Sensex: 81,592",
+    "Nifty 50: 25,144",
+    "Bank Nifty: +3.71%"
+   ],
+   "sources": [
+    {
+     "name": "Liquide",
+     "url": "https://blog.liquide.life/weekly-review-indian-stock-market-prediction-nov-16th-nov-20th-2026/"
+    },
+    {
+     "name": "Goodreturns",
+     "url": "https://www.goodreturns.in/news/indian-stock-market-outlook-next-week-16-to-20-november-2026-sensex-nifty-targets-key-levels-crude-1547059.html"
+    }
+   ]
+  },
+  {
+   "slug": "fpi-inflows-76189-crore-november",
+   "tag": "Finance",
+   "color": "#E0262F",
+   "img": "fpi.jpg",
+   "credit": "Graphic / via Outlook Money",
+   "contain": false,
+   "head": "Foreign investors have poured ₹76,189 crore into Indian shares in November so far, after two months of selling",
+   "dek": "The buying spree comes as investors shift money away from AI-heavy markets like the US, Korea and Taiwan.",
+   "stat": [
+    "₹76,189 cr",
+    "FPI equity buying, 3–13 Nov"
+   ],
+   "sections": [
+    {
+     "title": "The flows",
+     "paras": [
+      "Foreign portfolio investors bought a net ₹76,189 crore of Indian equities between 3 and 13 November, according to NSDL data reported by the Free Press Journal. That follows outflows of ₹35,861 crore in September and ₹34,843 crore in October.",
+      "Analysts say a sell-off in AI-linked stocks abroad has made India, with fewer AI-heavy companies, look attractive, alongside an earnings recovery and cheaper large caps."
+     ]
+    },
+    {
+     "title": "The effect",
+     "paras": [
+      "Large caps have gained the most: Outlook Money says the Nifty 50 is up about 11% over the past month, far ahead of mid and small caps."
+     ]
+    }
+   ],
+   "facts": [
+    "September: -₹35,861 crore",
+    "October: -₹34,843 crore",
+    "Nifty, past month: ~+11%"
+   ],
+   "sources": [
+    {
+     "name": "Free Press Journal",
+     "url": "https://www.freepressjournal.in/business/fpi-inflows-surge-to-76189-crore-in-november-as-foreign-investors-return-after-two-months-of-selling"
+    },
+    {
+     "name": "Outlook Money",
+     "url": "https://www.outlookmoney.com/invest/fpi-investment-november-2026-large-cap-vs-mid-small-cap-stocks"
+    }
+   ]
+  },
+  {
+   "slug": "crystal-crop-protection-ipo-455-crore-price-band-mahanadi-coalfields",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "IPO week: Crystal Crop Protection's ₹455 crore issue opens Wednesday at ₹259–272; Coal India's Mahanadi Coalfields is lined up",
+   "dek": "It's the first mainboard IPO after a gap of more than two weeks.",
+   "stat": [
+    "₹259–272",
+    "Crystal Crop price band"
+   ],
+   "sections": [
+    {
+     "title": "Crystal Crop",
+     "paras": [
+      "Agrochemicals and seeds maker Crystal Crop Protection opens its ₹455.48 crore IPO from 18 to 20 November, with a price band of ₹259–272. It is a ₹354.77 crore fresh issue plus a ₹100.71 crore offer for sale by the promoter.",
+      "A lot is 55 shares. Fresh money will mainly repay debt. Listing is expected on 26 November."
+     ]
+    },
+    {
+     "title": "Mahanadi Coalfields",
+     "paras": [
+      "Coal India's subsidiary Mahanadi Coalfields, India's largest coal producer, has filed its red herring prospectus for a pure offer for sale of about 10% of its shares, tentatively open from 19 to 23 November. The price band isn't out yet."
+     ]
+    }
+   ],
+   "facts": [
+    "Issue size: ₹455.48 crore",
+    "Lot: 55 shares",
+    "Listing: 26 Nov (expected)"
+   ],
+   "sources": [
+    {
+     "name": "Upstox",
+     "url": "https://upstox.com/news/market-news/ipo/crystal-crop-protection-ipo-opens-nov-18-check-price-band-lot-size-and-key-dates/article-203398/"
+    },
+    {
+     "name": "Chittorgarh",
+     "url": "https://www.chittorgarh.com/ipo/mahanadi-coalfields-ipo/3247/"
+    }
+   ]
+  },
+  {
+   "slug": "lakshya-sen-kumamoto-masters-final-beats-alwi-farhan",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "shuttle.jpg",
+   "credit": "Tim Reckmann / Wikimedia, CC BY 2.0",
+   "contain": false,
+   "head": "Lakshya Sen beats Alwi Farhan 21-12, 15-21, 21-11 to become the first Indian in a Kumamoto Masters final",
+   "dek": "It's his second final in a row; he faces Japan's Koki Watanabe in the title match today.",
+   "stat": [
+    "2nd",
+    "straight final for Lakshya"
+   ],
+   "sections": [
+    {
+     "title": "The semi-final",
+     "paras": [
+      "Eighth seed Lakshya Sen beat Indonesia's world No. 10 Alwi Farhan 21-12, 15-21, 21-11 in about 70 minutes in Kumamoto, Japan. It was his first win over Farhan, who had beaten him twice before.",
+      "He is the first Indian to reach the final of this Super 500 event, and it's his second final in a row after winning the Hylo Open earlier this month."
+     ]
+    },
+    {
+     "title": "Today's final",
+     "paras": [
+      "He plays home favourite Koki Watanabe, who knocked out second seed Kunlavut Vitidsarn. Either result should lift Lakshya into the top 8 who qualify for the season-ending World Tour Finals, according to PTI."
+     ]
+    }
+   ],
+   "facts": [
+    "Score: 21-12, 15-21, 21-11",
+    "Duration: ~70 minutes",
+    "Final: vs Koki Watanabe"
+   ],
+   "sources": [
+    {
+     "name": "The Bridge",
+     "url": "https://thebridge.in/badminton/kumamoto-masters-lakshya-sen-into-final-58370"
+    },
+    {
+     "name": "ThePrint (PTI)",
+     "url": "https://theprint.in/sport/lakshya-storms-into-kumamoto-masters-japan-final/3098501/"
+    }
+   ],
+   "good": true,
+   "emoji": "🏸"
+  },
+  {
+   "slug": "suryakumar-yadav-15-ball-fifty-mumbai-syed-mushtaq-ali",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Suryakumar Yadav smashes a 15-ball fifty as Mumbai chase 173 in 13.1 overs in the Syed Mushtaq Ali opener",
+   "dek": "Out of the India T20 side, the Mumbai captain answered with 60 not out off 21 balls in Kolkata.",
+   "stat": [
+    "60*",
+    "off 21 balls, with 5 sixes"
+   ],
+   "sections": [
+    {
+     "title": "The match",
+     "paras": [
+      "Mumbai beat Hyderabad by 7 wickets with 41 balls to spare at Kolkata's Jadavpur University ground. Hyderabad made 172, and Mumbai raced to 174/3.",
+      "Suryakumar came in at No. 4 with Mumbai on 90/2, reached his fifty in 15 balls and finished on 60 not out off 21, with 6 fours and 5 sixes. He was Player of the Match."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "He was named Mumbai captain for the tournament on 9 November and hasn't played for India's T20 side since the 2026 T20 World Cup."
+     ]
+    }
+   ],
+   "facts": [
+    "Target: 173",
+    "Chased in: 13.1 overs",
+    "Fifty: 15 balls"
+   ],
+   "sources": [
+    {
+     "name": "CricTracker",
+     "url": "https://www.crictracker.com/cricket-news/suryakumar-yadav-slams-15-ball-fifty-as-mumbai-beat-hyderabad-in-smat-2026-opener-9350/"
+    },
+    {
+     "name": "Free Press Journal",
+     "url": "https://www.freepressjournal.in/sports/mumbai-captain-suryakumar-yadav-hits-back-at-selectors-with-15-ball-fifty-after-india-snub"
+    }
+   ]
+  },
+  {
+   "slug": "portugal-lose-4-1-to-denmark-first-game-after-ronaldo",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "braga.jpg",
+   "credit": "Joseolgon / Wikimedia, CC BY-SA 4.0",
+   "contain": false,
+   "head": "Portugal lose 4-1 to Denmark in their first game since Cristiano Ronaldo quit international football",
+   "dek": "Rasmus Højlund scored twice in Braga on a night that began with tributes to Ronaldo.",
+   "stat": [
+    "4-1",
+    "Denmark's win in Braga"
+   ],
+   "sections": [
+    {
+     "title": "The match",
+     "paras": [
+      "Denmark beat Portugal 4-1 in the Nations League in Braga, with goals from Pierre-Emile Højbjerg (penalty), Rasmus Højlund (two) and Joachim Andersen. Bernardo Silva scored a late consolation.",
+      "Before kick-off, Portugal's players and mascots wore Ronaldo's No. 7 and fans held up a \"Thank you, captain\" banner. Ronaldo, 41, retired with a record 146 goals in 234 games."
+     ]
+    },
+    {
+     "title": "Elsewhere",
+     "paras": [
+      "Portugal had already qualified for the quarter-finals. Norway beat Wales 3-1 with a late Erling Haaland penalty, while Sweden and Austria won promotion to League A."
+     ]
+    }
+   ],
+   "facts": [
+    "Ronaldo's record: 146 goals",
+    "Caps: 234",
+    "Højlund: 2 goals"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league"
+    },
+    {
+     "name": "Sofascore",
+     "url": "https://www.sofascore.com/news/portugal-1-4-denmark-hojlunds-brace-powers-big-away-win"
+    }
+   ]
+  },
+  {
+   "slug": "ramayana-part-1-day-10-box-office-record-second-saturday",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "cinema.jpg",
+   "credit": "Joe Mabel / Wikimedia, CC BY-SA 3.0",
+   "contain": false,
+   "head": "Ramayana: Part 1 earns ₹72.90 crore on its second Saturday, a record, and reaches ₹1,228 crore worldwide in 10 days",
+   "dek": "The epic's collections jumped about 52% from Friday, according to Sacnilk.",
+   "stat": [
+    "₹1,228 cr",
+    "worldwide gross in 10 days (Sacnilk)"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "According to Sacnilk, Ramayana: Part 1 made ₹72.90 crore net in India on Day 10 (Saturday), up 51.6% from ₹48.10 crore on Friday. Hindi brought in ₹53.75 crore of that.",
+      "Its 10-day total stands at ₹685.60 crore net in India and about ₹1,228 crore gross worldwide, with ₹408.50 crore from overseas."
+     ]
+    },
+    {
+     "title": "Records",
+     "paras": [
+      "Bollywood Hungama calls it the biggest second Saturday ever for a film in India, ahead of Dhurandhar The Revenge. Advance bookings for Sunday were strong too. The film will also open the new BRICS section at IFFI Goa."
+     ]
+    }
+   ],
+   "facts": [
+    "Day 10 net: ₹72.90 crore",
+    "India net: ₹685.60 crore",
+    "Overseas: ₹408.50 crore"
+   ],
+   "sources": [
+    {
+     "name": "Sacnilk",
+     "url": "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_10"
+    },
+    {
+     "name": "Bollywood Hungama",
+     "url": "https://www.bollywoodhungama.com/news/box-office-special-features/ranbir-kapoor-yashs-ramayana-creates-history-beats-dhurandhar-2-to-record-biggest-second-saturday-ever/"
+    }
+   ],
+   "good": true,
+   "emoji": "🏹"
+  },
+  {
+   "slug": "iffi-goa-2026-dhurandhar-opens-indian-panorama-76-films",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "iffi.jpg",
+   "credit": "Ministry of Information and Broadcasting / Wikimedia, GODL-India",
+   "contain": false,
+   "head": "IFFI Goa 2026: Dhurandhar opens the Indian Panorama of 76 films in 18 languages; Ramayana opens a new BRICS section",
+   "dek": "The 57th film festival runs from 20 to 28 November with films from 86 countries.",
+   "stat": [
+    "76",
+    "Indian Panorama films in 18 languages"
+   ],
+   "sections": [
+    {
+     "title": "The line-up",
+     "paras": [
+      "The 57th International Film Festival of India runs in Goa from 20 to 28 November under the theme \"Stories Without Borders\". It received more than 1,900 submissions from 137 countries and will show over 150 international films.",
+      "Dhurandhar opens the Indian Panorama, and Ramayana: Part 1 opens a new section for films from BRICS countries. Paweł Pawlikowski's Fatherland is the festival's opening film."
+     ]
+    },
+    {
+     "title": "Also at IFFI",
+     "paras": [
+      "Spain is the country of honour and Russia the partner country. Nana Patekar's Natsamrat will be screened open-air at Miramar Beach."
+     ]
+    }
+   ],
+   "facts": [
+    "Dates: 20–28 November",
+    "Submissions: 1,900+",
+    "Countries: 86"
+   ],
+   "sources": [
+    {
+     "name": "Bollywood Hungama",
+     "url": "https://www.bollywoodhungama.com/news/bollywood/breaking-dhurandhar-to-open-indian-panorama-at-57th-iffi-goa-2026-while-ramayana-to-open-brics-segment-the-kerala-story-2-enters-prestigious-international-competition/"
+    }
+   ]
+  },
+  {
+   "slug": "godzilla-minus-zero-ua-16-certificate-india",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Godzilla Minus Zero gets a U/A 16+ certificate in India despite an R rating abroad; it opens on 20 November",
+   "dek": "The censor board passed the 137-minute monster film without an adults-only rating.",
+   "stat": [
+    "U/A 16+",
+    "CBFC rating in India"
+   ],
+   "sections": [
+    {
+     "title": "The rating",
+     "paras": [
+      "The CBFC has given Godzilla Minus Zero a U/A 16+ certificate rather than an 'A' rating, Bollywood Hungama reports, even though it carries an R rating overseas. Its runtime is about 137 minutes.",
+      "The film releases in Indian cinemas, including IMAX screens, on 20 November."
+     ]
+    }
+   ],
+   "facts": [
+    "Release: 20 November",
+    "Runtime: ~137 minutes",
+    "Abroad: R-rated"
+   ],
+   "sources": [
+    {
+     "name": "Bollywood Hungama",
+     "url": "https://www.bollywoodhungama.com/news/bollywood/breaking-most-violent-godzilla-film-ever-godzilla-minus-zero-not-rated-a-in-india-despite-r-rating-overseas-cbfc-grants-u-a-16-certificate/"
+    }
+   ]
+  },
+  {
+   "slug": "aiims-delhi-india-first-open-foetal-spine-surgery",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "aiims.jpg",
+   "credit": "AIIMS Delhi / via Daily Excelsior",
+   "contain": false,
+   "head": "AIIMS Delhi performs India's first open surgery on an unborn baby's spine, at 25 weeks of pregnancy",
+   "dek": "A team of 30+ doctors and nurses repaired a severe spinal defect while the baby was still in the womb.",
+   "stat": [
+    "6 hrs",
+    "surgery, after 5+ weeks of planning"
+   ],
+   "sections": [
+    {
+     "title": "What they did",
+     "paras": [
+      "Doctors at AIIMS Delhi repaired a severe form of spina bifida, where the spinal cord is exposed, in a baby at 25 weeks of pregnancy. AIIMS says it is India's first open foetal surgery of this kind.",
+      "The six-hour operation involved more than 30 specialists from obstetrics, neurosurgery, anaesthesia, plastic surgery and neonatology, after more than five weeks of planning and rehearsal."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Repairing the defect before birth can protect the spinal cord from further damage. In an international trial, 40% of babies operated on before birth needed a brain-fluid shunt by 12 months, against 82% of those treated after birth. Doctors stress it isn't a cure, and mother and baby will need long-term care."
+     ]
+    }
+   ],
+   "facts": [
+    "Team: 30+ clinicians",
+    "Pregnancy: 25 weeks",
+    "Shunt need: 40% vs 82%"
+   ],
+   "sources": [
+    {
+     "name": "Daily Excelsior (PTI)",
+     "url": "https://www.dailyexcelsior.com/aiims-delhi-performs-indias-first-open-foetal-surgery-to-repair-severe-spinal-defect/"
+    }
+   ],
+   "good": true,
+   "emoji": "🏥"
+  },
+  {
+   "slug": "kaziranga-tigress-two-cubs-rare-sighting",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "kaziranga.jpg",
+   "credit": "Kaziranga tigers / via The Sentinel Assam",
+   "contain": false,
+   "head": "A tigress and her two cubs stroll out in the open in Kaziranga, where tiger numbers have passed 140",
+   "dek": "Safari visitors filmed the rare sight in the park's Kohora range.",
+   "stat": [
+    "140+",
+    "tigers in Kaziranga"
+   ],
+   "sections": [
+    {
+     "title": "The sighting",
+     "paras": [
+      "A safari group filmed a tigress leading two small cubs along a foggy forest trail in the Kohora range of Kaziranga National Park, The Sentinel reports. One cub stopped to stare at the vehicle.",
+      "Kaziranga has one of India's highest tiger densities, but its tall elephant grass makes it rare to see a tiger family out in the open."
+     ]
+    },
+    {
+     "title": "Conservation win",
+     "paras": [
+      "Officials say conservation work has pushed the park's tiger count past 140. Forest guards have stepped up patrols around the family as tourist season begins."
+     ]
+    }
+   ],
+   "facts": [
+    "Cubs: 2",
+    "Range: Kohora",
+    "Park's tigers: 140+"
+   ],
+   "sources": [
+    {
+     "name": "The Sentinel Assam",
+     "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/rare-sighting-of-tigress-with-cubs-signals-conservation-success-in-kaziranga"
+    }
+   ],
+   "good": true,
+   "emoji": "🐯"
+  },
+  {
+   "slug": "indian-bramble-shark-new-species-echinorhinus-roinee",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "shark.jpg",
+   "credit": "ZSI / via PIB",
+   "contain": true,
+   "head": "A deep-sea shark mistaken for decades for an Atlantic species is a new one: meet the Indian Bramble Shark",
+   "dek": "Indian scientists studied sharks landed in Kollam, Kerala, and found a separate Indian Ocean species.",
+   "stat": [
+    "3 m",
+    "how long the new shark can grow"
+   ],
+   "sections": [
+    {
+     "title": "The discovery",
+     "paras": [
+      "Scientists from the Zoological Survey of India and ICAR-CMFRI have named the shark Echinorhinus roinee. For decades it had been mistaken for the Atlantic bramble shark.",
+      "They studied sharks caught by accident by deep-sea shrimp trawlers at Sakthikulangara harbour in Kollam. The shark lives at about 350–450 m depth, is dark brown to black and covered in thorn-like skin."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "DNA tests show it is a separate Indian Ocean lineage that may also live off Oman, Sri Lanka and Thailand. Getting the species right makes fishery data and conservation decisions more accurate."
+     ]
+    }
+   ],
+   "facts": [
+    "Depth: 350–450 m",
+    "Found at: Kollam, Kerala",
+    "Funded by: Deep Ocean Mission"
+   ],
+   "sources": [
+    {
+     "name": "PIB",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334975&reg=48&lang=2"
+    }
+   ],
+   "good": true,
+   "emoji": "🦈"
+  },
+  {
+   "slug": "begonia-siangensis-new-flower-arunachal-upper-siang",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "begonia.jpg",
+   "credit": "Begonia siangensis / via Northeast Now",
+   "contain": false,
+   "head": "A new pink-flowered begonia has been found beside a mountain stream in Arunachal's Upper Siang",
+   "dek": "Named Begonia siangensis, it is known from just one spot so far.",
+   "stat": [
+    "600 m",
+    "altitude where it grows"
+   ],
+   "sections": [
+    {
+     "title": "The find",
+     "paras": [
+      "Researchers from the Mumbai-based Thackeray Wildlife Foundation found the plant in a shaded, damp stream valley between Bomdo and Jengging during a survey. It is a creeping herb with pale pink flowers and dark green leaves.",
+      "The study was published in the Edinburgh Journal of Botany."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "Because it is known from a single site, it has been provisionally listed as 'Data Deficient'. The team wants more surveys of shaded streams between 500 and 1,000 m."
+     ]
+    }
+   ],
+   "facts": [
+    "Name: Begonia siangensis",
+    "Altitude: ~600 m",
+    "Status: Data Deficient"
+   ],
+   "sources": [
+    {
+     "name": "ThePrint (PTI)",
+     "url": "https://theprint.in/india/new-flowering-plant-species-discovered-in-arunachal-pradeshs-upper-siang/3098057/"
+    },
+    {
+     "name": "Northeast Now",
+     "url": "https://nenow.in/?p=548199"
+    }
+   ],
+   "good": true,
+   "emoji": "🌸"
+  },
+  {
+   "slug": "infosys-prize-2026-six-researchers-100000",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Infosys Prize 2026: six researchers under 40 win $100,000 each, from quantum machines to mitochondrial disease",
+   "dek": "The winners work in India and abroad, across six fields.",
+   "stat": [
+    "$100K",
+    "prize for each winner"
+   ],
+   "sections": [
+    {
+     "title": "The winners",
+     "paras": [
+      "The Infosys Science Foundation named six winners: economist Karthik Sastry (Princeton), mathematician Riddhipratim Basu (ICTS-TIFR, Bengaluru), physicist Manoj Kumar Joshi (Singapore University of Technology and Design), engineer Swarun Kumar (Carnegie Mellon), legal scholar Gautam Bhatia and life scientist Isha Jain (Gladstone Institutes and UCSF).",
+      "Each gets a gold medal, a citation and $100,000."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Basu solved a long-standing problem in probability, Joshi builds programmable quantum machines from trapped ions, and Jain studies mitochondrial disease. The prize has been honouring young researchers since 2009."
+     ]
+    }
+   ],
+   "facts": [
+    "Winners: 6",
+    "Edition: 18th",
+    "Since: 2009"
+   ],
+   "sources": [
+    {
+     "name": "ThePrint",
+     "url": "https://theprint.in/science/6-researchers-win-infosys-prize-2026-climate-change-economist-quantum-physicist/3097033/"
+    }
+   ],
+   "good": true,
+   "emoji": "🏅"
+  },
+  {
+   "slug": "right-whale-surprise-calf-24-births-most-since-2009",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "whale.jpg",
+   "credit": "Mingan Island Cetacean Study / via Bangor Daily News",
+   "contain": false,
+   "head": "A surprise right whale calf takes this season's births to 24, the most since 2009 for a species of about 380",
+   "dek": "Researchers spotted the unknown calf swimming beside its mother off Quebec.",
+   "stat": [
+    "24",
+    "calves this season"
+   ],
+   "sections": [
+    {
+     "title": "The surprise",
+     "paras": [
+      "Researchers photographed an unknown North Atlantic right whale calf next to its mother, Silt, near Anticosti Island in Quebec. The New England Aquarium confirmed it was a new calf that had been missed in winter surveys.",
+      "That makes 24 calves this season, the most since 2009."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Only about 380 North Atlantic right whales are left, with about 70 breeding-age females, so every calf counts. Silt is 38 and has had six known calves."
+     ]
+    }
+   ],
+   "facts": [
+    "Whales left: ~380",
+    "Breeding females: ~70",
+    "Mother's calves: 6"
+   ],
+   "sources": [
+    {
+     "name": "Bangor Daily News (AP)",
+     "url": "https://www.bangordailynews.com/2026/11/06/state/state-environment/canada-right-whale-unidentified-baby/"
+    },
+    {
+     "name": "Phys.org",
+     "url": "https://phys.org/news/2026-11-scientists-unknown-baby-whale-canada.html"
+    }
+   ],
+   "good": true,
+   "emoji": "🐋"
+  },
+  {
+   "slug": "coyote-first-animal-wallis-annenberg-wildlife-crossing",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "coyote.jpg",
+   "credit": "NPS / via Nautilus",
+   "contain": false,
+   "head": "A coyote is the first animal to cross the world's largest wildlife bridge in Los Angeles, before it even opens",
+   "dek": "Trail cameras caught it walking over 10 lanes of the 101 Freeway on the $114 million crossing.",
+   "stat": [
+    "$114M",
+    "cost of the wildlife crossing"
+   ],
+   "sections": [
+    {
+     "title": "The first crossing",
+     "paras": [
+      "Trail cameras filmed a coyote walking across the unfinished Wallis Annenberg Wildlife Crossing near Agoura Hills, and a second coyote crossed days later. The bridge spans 10 lanes of the 101 Freeway.",
+      "It officially opens to wildlife on 2 December."
+     ]
+    },
+    {
+     "title": "Why it was built",
+     "paras": [
+      "The crossing links the Simi Hills with the Santa Monica Mountains. Since 2002, at least a dozen mountain lions have been killed on the 101, and lions cut off by the highway have become inbred."
+     ]
+    }
+   ],
+   "facts": [
+    "Opens: 2 December",
+    "Lanes crossed: 10",
+    "Habitat restored: 13 acres"
+   ],
+   "sources": [
+    {
+     "name": "Nautilus",
+     "url": "https://nautil.us/trail-cameras-show-coyotes-using-the-worlds-largest-wildlife-crossing-1286599"
+    },
+    {
+     "name": "MyNewsLA",
+     "url": "https://mynewsla.com/life/2026/11/05/coyote-caught-on-camera-crossing-101-wildlife-bridge/"
+    }
+   ],
+   "good": true,
+   "emoji": "🦊"
+  },
+  {
+   "slug": "bikar-bokak-atolls-marshall-islands-untouched-ecosystems",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "bikar.jpg",
+   "credit": "Manu San Félix / via Good News Network",
+   "contain": false,
+   "head": "Two remote Marshall Islands atolls are among the last untouched ecosystems on Earth, and their waters are now protected",
+   "dek": "Scientists found sea life never recorded in the country before, including two groups that may be new to science.",
+   "stat": [
+    "14",
+    "groups of sea life new to the Marshall Islands"
+   ],
+   "sections": [
+    {
+     "title": "The study",
+     "paras": [
+      "A study in Frontiers in Marine Science calls Bikar and Bokak, the northernmost atolls of the Marshall Islands, some of the most intact ecosystems left. Divers, deep-sea cameras and a submarine recorded more than a dozen seabird colonies, 266 groups of reef fish and 15 groups of open-water predators, including sharks.",
+      "Fourteen groups had never been recorded in the Marshall Islands, and two may be new to science."
+     ]
+    },
+    {
+     "title": "Protection",
+     "paras": [
+      "The surrounding waters are now part of the country's first National Marine Sanctuary, about 18,500 square miles. The lead author credits the Utirik Atoll community, which has guarded the atolls for decades."
+     ]
+    }
+   ],
+   "facts": [
+    "Sanctuary: ~18,500 sq miles",
+    "Reef fish groups: 266",
+    "Possibly new: 2"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/two-of-last-wild-ecosystems-untouched-by-humans-declared-new-sanctuaries/"
+    }
+   ],
+   "good": true,
+   "emoji": "🪸"
+  }
+ ],
+ "also": []
+}
