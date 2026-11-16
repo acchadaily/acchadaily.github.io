@@ -1,0 +1,1744 @@
+{
+ "date": "2026-11-16",
+ "day": "Monday",
+ "date_label": "16 November 2026",
+ "note": "Happy National Press Day 📰",
+ "markets": {
+  "asof": "Sensex and Nifty: Friday 13 Nov close. Brent: early Asian trade, Monday 16 Nov. Gold: 24K per 10g in Delhi, Monday 16 Nov (Goodreturns).",
+  "items": [
+   {
+    "n": "Sensex",
+    "v": "81,592",
+    "c": "-0.39%"
+   },
+   {
+    "n": "Nifty 50",
+    "v": "25,144",
+    "c": "-0.61%"
+   },
+   {
+    "n": "Brent",
+    "v": "$95.45",
+    "c": "-0.4%"
+   },
+   {
+    "n": "Gold 24K",
+    "v": "₹1,37,760",
+    "c": "-0.01%"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slug": "eternal-zomato-blinkit-100-percent-ev-fleet-2030-not-feasible-12-lakh-riders",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "blinkit-ev.jpg",
+   "credit": "Syced / Wikimedia, CC0",
+   "contain": false,
+   "head": "Eternal says its 100% EV delivery fleet by 2030 'doesn't look feasible' now that Zomato and Blinkit have 12 lakh riders",
+   "dek": "The parent of Zomato and Blinkit is redrawing its electric-fleet promise. 2035 is being discussed, but no new date is final.",
+   "stat": [
+    "12 lakh",
+    "monthly delivery partners, up from about 1.5 lakh"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Eternal, the company behind Zomato and Blinkit, is reworking its goal of running a fully electric delivery fleet by 2030. Its chief sustainability officer, Anjalli Ravi Kumar, told PTI the old deadline \"doesn't look feasible\", while stressing the company is still committed to going electric.",
+      "A revised timeline is being prepared. 2035 is one option on the table, but Eternal says nothing has been finalised yet."
+     ]
+    },
+    {
+     "title": "Why the target slipped",
+     "paras": [
+      "When the 2030 goal was set, Zomato had roughly 1.5 lakh monthly active delivery partners. Today Zomato and Blinkit together have about 12 lakh across some 900 cities, an eightfold jump driven largely by quick commerce.",
+      "Churn makes it harder still: Eternal says it has to bring on about 30 lakh people a year just to keep that 12 lakh base steady. Most partners buy or arrange their own vehicles, so the company can nudge them towards EVs but can't simply swap the fleet."
+     ]
+    },
+    {
+     "title": "Where things stand",
+     "paras": [
+      "About 12–13% of Eternal's delivery partners already ride EVs, roughly double the 6–7% seen in the wider market. The company uses incentives, rentals inside the partner app and an 'EV Bazaar' guide rather than mandates, and EV riders earn the same as petrol riders.",
+      "The new target will also have to cover Hyperpure, Eternal's restaurant-supply arm, which runs trucks and small commercial vehicles."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Climate pledges made in 2020–21 are colliding with the explosive growth of 10-minute delivery. Eternal's rethink is an honest admission of that gap, and rivals with similar promises will be watched closely. Eternal says how fast it gets there will depend on EV supply and on how widely government EV policies are rolled out."
+     ]
+    }
+   ],
+   "facts": [
+    "Riders then: ~1.5 lakh a month",
+    "EV share in fleet: 12–13%",
+    "Hiring needed: ~30 lakh a year"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18 (PTI)",
+     "url": "https://www.storyboard18.com/brand-marketing/it-doesnt-look-feasible-eternal-rethinks-2030-electric-delivery-fleet-goal-114779.htm"
+    },
+    {
+     "name": "Business Standard",
+     "url": "https://business-standard.com/amp/companies/news/zomato-parent-eternal-reworks-2030-ev-delivery-target-amid-fleet-expansion-126111500167_1.html"
+    }
+   ]
+  },
+  {
+   "slug": "nvidia-jensen-huang-comeback-petition-160000-signatures-bessent",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "nvidia.jpg",
+   "credit": "Will Buckner / Wikimedia, CC BY 2.0",
+   "contain": false,
+   "head": "'Stand with Jensen': 160,000+ sign a petition to bring Jensen Huang back to Nvidia, as Musk backs it and Bessent says hire an outsider",
+   "dek": "Four days after he quit, Silicon Valley is split over whether Nvidia's founder should return, a day before the chipmaker's results.",
+   "stat": [
+    "160K+",
+    "signatures on the 'Stand with Jensen' petition"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "An online petition asking Nvidia's board to reinstate Jensen Huang has passed 160,000 signatures, CNBC reports. Elon Musk posted that he is \"signing it too\", and Epic Games' Tim Sweeney and Y Combinator's Garry Tan have also backed it.",
+      "More than 7,500 signers say they work at Nvidia, though names and employers on the petition are self-reported and unverified. The petition site says neither Nvidia nor Huang endorses it."
+     ]
+    },
+    {
+     "title": "A comeback push",
+     "paras": [
+      "The Financial Times reports Huang has talked to confidants about returning, and allies are said to have set up a 'war room' to lobby the board. Investors Brad Gerstner and Gavin Baker signed an open letter asking the board to keep every option open, including his return.",
+      "Not everyone agrees. US Treasury Secretary Scott Bessent said on Sunday that Nvidia should look outside for its next chief, and analyst Dan Ives said he sees \"no chance\" Huang comes back as CEO."
+     ]
+    },
+    {
+     "title": "Where Nvidia stands",
+     "paras": [
+      "Huang resigned on 12 November. CFO Colette Kress is interim CEO, and the board says it will consider internal and external candidates while an independent investigation continues. Business Today reports the stock has fallen more than 23% since the allegations surfaced."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "Nvidia reports quarterly results after the US market closes on Tuesday, its first under an interim boss. Analysts expect revenue of roughly $109 billion, and options markets are pricing a move of about 9% either way."
+     ]
+    }
+   ],
+   "facts": [
+    "Huang resigned: 12 Nov",
+    "Results: Tue 17 Nov",
+    "Expected revenue: ~$109B"
+   ],
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html"
+    },
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/world/story/jensen-huang-eyes-nvidia-comeback-as-silicon-valley-allies-launch-war-room-report-567532-2026-11-16"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-along-baggage-top-053700154.html"
+    }
+   ]
+  },
+  {
+   "slug": "ola-fined-rs-10-lakh-ccpa-dark-pattern-pre-ride-tip",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "ola.jpg",
+   "credit": "Ola / via Business Today",
+   "contain": false,
+   "head": "Ola fined ₹10 lakh by consumer watchdog CCPA for pushing riders to 'tip' before a driver accepts the ride",
+   "dek": "The regulator called Ola's pre-ride 'tip' and 'add-on' prompts a dark pattern and ordered the feature switched off immediately.",
+   "stat": [
+    "₹10 lakh",
+    "penalty on Ola for pre-ride tipping prompts"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The Central Consumer Protection Authority (CCPA) has fined ANI Technologies, which runs Ola, ₹10 lakh and ordered it to stop asking riders for a 'tip' or 'add-on' before a booking is accepted.",
+      "Consumer Affairs Minister Pralhad Joshi called it \"a firm step against dark patterns\"."
+     ]
+    },
+    {
+     "title": "What Ola was doing",
+     "paras": [
+      "Before a driver took the trip, the app nudged riders to add extra money to get a cab faster. The CCPA found that rides without the extra payment had lower acceptance rates, and passengers weren't told that.",
+      "The regulator classed the prompts as 'confirm shaming', a design trick that makes users feel bad for saying no. Renaming 'tip' to 'add-on' didn't change its view."
+     ]
+    },
+    {
+     "title": "The rule it broke",
+     "paras": [
+      "India's Motor Vehicles Aggregators Guidelines 2025 allow tips only after a ride is over. The CCPA says Ola kept the pre-ride prompt even after a transport ministry clarification on 11 August."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Pay-more-to-get-a-cab buttons have become common across ride-hailing apps. This order makes clear that regulators see them as pressure tactics, and other platforms with similar features are likely to review them."
+     ]
+    }
+   ],
+   "facts": [
+    "Tips allowed: only after the ride",
+    "Law: Aggregator Guidelines 2025, clause 14.15",
+    "Ministry clarification: 11 Aug"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/corporate/story/ccpa-fines-ola-rs10-lakh-over-pre-ride-tipping-prompts-calls-practice-misleading-and-unfair-567481-2026-11-14"
+    },
+    {
+     "name": "Indian Startup News",
+     "url": "https://indianstartupnews.com/news/ccpa-slaps-rs-10-lakh-fine-on-ola-for-pressuring-users-to-pay-extra-before-drivers-accept-bookings-12803441"
+    }
+   ]
+  },
+  {
+   "slug": "india-beat-new-zealand-5th-odi-22-runs-win-series-3-1-arshdeep",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "bayoval.jpg",
+   "credit": "NZDF / Wikimedia, CC BY 4.0",
+   "contain": false,
+   "head": "India defend just 209 to beat New Zealand by 22 runs and win the ODI series 3-1; Arshdeep takes 3 for 30",
+   "dek": "It is New Zealand's first home ODI series defeat in seven years.",
+   "stat": [
+    "3-1",
+    "India's ODI series win in New Zealand"
+   ],
+   "sections": [
+    {
+     "title": "The match",
+     "paras": [
+      "At Bay Oval in Mount Maunganui, India were bowled out for 209 in 42.1 overs. Axar Patel and Ishan Kishan made 46 each, while Jacob Duffy and Mitchell Santner took three wickets apiece for New Zealand.",
+      "The chase looked comfortable at 64 for 1, but New Zealand slid to 119 for 6 and were all out for 187 in 48.1 overs. Dean Foxcroft top-scored with 31."
+     ]
+    },
+    {
+     "title": "The bowlers did it",
+     "paras": [
+      "Arshdeep Singh was Player of the Match with figures of 10-2-30-3. Mohammed Siraj and Axar picked up two wickets each, and Yash Thakur took his first ODI wicket. Gurnoor Brar was named Player of the Series.",
+      "Stand-in captain Shreyas Iyer admitted the batting wasn't great but said the bowlers all \"bowled with the same direction\"."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The win bounces India back from the heavy defeat in the fourth ODI and hands New Zealand their first home ODI series loss in seven years. ESPNcricinfo notes it is also India's first away ODI series win under coach Gautam Gambhir."
+     ]
+    }
+   ],
+   "facts": [
+    "Margin: 22 runs",
+    "India: 209 all out",
+    "NZ: 187 all out"
+   ],
+   "sources": [
+    {
+     "name": "Dawn",
+     "url": "https://www.dawn.com/news/2044856/arshdeep-leads-india-to-odi-series-win-over-new-zealand"
+    },
+    {
+     "name": "ESPNcricinfo",
+     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-5th-odi-1539441/match-report"
+    },
+    {
+     "name": "Outlook",
+     "url": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-5th-odi-2026-bilateral-win-streak-end"
+    }
+   ],
+   "good": true,
+   "emoji": "🏏"
+  },
+  {
+   "slug": "spacex-catches-starship-tower-after-orbital-flight-first-time",
+   "tag": "Space",
+   "color": "#7C3AED",
+   "img": "starship.jpg",
+   "credit": "SpaceX / via Via Satellite",
+   "contain": false,
+   "head": "SpaceX catches a Starship with its launch tower after an orbital flight for the first time; the ship deployed 26 Starlink satellites",
+   "dek": "The 'chopsticks' caught the upper stage, but the Super Heavy booster was lost in the Gulf.",
+   "stat": [
+    "21 hrs",
+    "the ship spent in orbit before the catch"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "SpaceX's Starship Flight 15 launched from Starbase, Texas, on Friday afternoon local time. After more than 21 hours in orbit, the ship flew back and was caught by the arms of the launch tower on Saturday, the first time a Starship upper stage has been caught after an orbital flight.",
+      "\"Mechzilla has caught the Starship,\" SpaceX host Dan Huot announced."
+     ]
+    },
+    {
+     "title": "The mission",
+     "paras": [
+      "The ship deployed 26 next-generation Starlink V3 satellites. This was Starship's second trip to orbit, after a milestone flight in September."
+     ]
+    },
+    {
+     "title": "Not a perfect day",
+     "paras": [
+      "The Super Heavy booster's boostback burn ended early and it exploded on hitting the Gulf of Mexico, so there was no double catch. Boosters have been caught three times before."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Catching the ship, not just the booster, is the key to making the whole rocket reusable, which is how SpaceX plans to cut launch costs sharply and fly Starship far more often."
+     ]
+    }
+   ],
+   "facts": [
+    "Starlink satellites: 26",
+    "Booster catches so far: 3",
+    "Starship orbital flights: 2"
+   ],
+   "sources": [
+    {
+     "name": "Via Satellite",
+     "url": "https://www.satellitetoday.com/launch/2026/11/15/spacex-catches-starship-in-landing-after-orbital-flight-for-first-time/"
+    },
+    {
+     "name": "Phys.org",
+     "url": "https://phys.org/news/2026-11-spacex-starship-orbit-captured-pad.html"
+    }
+   ]
+  },
+  {
+   "slug": "anthropic-ipo-1-4-trillion-901-billion-compute-commitments",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "anthropic.jpg",
+   "credit": "Anthropic / via Business Today",
+   "contain": false,
+   "head": "Anthropic's $1.4 trillion IPO comes with a $901 billion question: about $452 billion of compute bills fall due by 2030",
+   "dek": "Revenue is soaring, but the Claude maker's spending commitments are just as eye-watering.",
+   "stat": [
+    "$901B",
+    "in compute and infrastructure commitments"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Anthropic is pricing its listing at $70–78 a share under the ticker ANT, valuing the Claude maker at about $1.4 trillion, below the roughly $2 trillion talked about earlier this year. At the top of the range the raise could reach $64.4 billion.",
+      "Revenue for January–September 2026 was $33.24 billion, up 1,206% from a year earlier. The third quarter alone brought in about $17 billion."
+     ]
+    },
+    {
+     "title": "The catch",
+     "paras": [
+      "Business Today points to about $901 billion of compute and infrastructure commitments, of which roughly $452 billion is due by the end of 2030. The question for investors is whether AI revenue can keep growing fast enough to pay for it.",
+      "For now the company is in the black on an adjusted basis: $4.1 billion of operating income and $5.6 billion of free cash flow over nine months. Indians can buy the shares on Nasdaq through international brokers under the RBI's Liberalised Remittance Scheme."
+     ]
+    }
+   ],
+   "facts": [
+    "Price band: $70–78",
+    "9-month revenue: $33.24B",
+    "Due by 2030: ~$452B"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/markets/ipo-corner/story/anthropics-1-4-trillion-ipo-faces-a-901-billion-question-can-ai-revenues-justify-its-compute-bill-567485-2026-11-15"
+    }
+   ]
+  },
+  {
+   "slug": "lakshya-sen-wins-kumamoto-masters-beats-watanabe-first-indian",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "shuttle.jpg",
+   "credit": "Stanislas Perrin / Wikimedia, public domain",
+   "contain": false,
+   "head": "Lakshya Sen comes from a game down to beat Koki Watanabe and become the first Indian to win the Kumamoto Masters",
+   "dek": "It is his second Super 500 title in a row and boosts his bid for the World Tour Finals.",
+   "stat": [
+    "13-21, 21-18, 21-14",
+    "Sen's win in the final"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Lakshya Sen lost the first game to home favourite Koki Watanabe but fought back to win 13-21, 21-18, 21-14 in 1 hour 4 minutes on Sunday. He is the first Indian to win, and to even reach the final of, the Kumamoto Masters in Japan.",
+      "\"It feels really good to have won a title here,\" Sen said, recalling that he made the semi-finals last year."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "It follows his Hylo Open win, making it back-to-back Super 500 titles and his first season with two World Tour crowns. The title is worth 9,200 ranking points.",
+      "Sen needs a top-eight finish in the race to the World Tour Finals in Hangzhou (9–13 December). The Hong Kong Open, starting Tuesday, is the last qualifier."
+     ]
+    }
+   ],
+   "facts": [
+    "Match time: 1 hr 4 min",
+    "Ranking points: 9,200",
+    "Head-to-head vs Watanabe: 4-2"
+   ],
+   "sources": [
+    {
+     "name": "Gulf News (IANS)",
+     "url": "https://gulfnews.com/sport/indias-lakshya-sen-makes-history-with-maiden-kumamoto-masters-title-1.500747883"
+    },
+    {
+     "name": "The Tribune",
+     "url": "https://www.tribuneindia.com/news/sports/after-japan-masters-title-lakshya-sen-eyes-hong-kong-open-success-to-solidify-spot-in-bwf-world-tour-finals"
+    },
+    {
+     "name": "The Bridge",
+     "url": "https://thebridge.in/badminton/kumamoto-masters-lakshya-sen-upsets-watanabe-in-final-58382"
+    }
+   ],
+   "good": true,
+   "emoji": "🏸"
+  },
+  {
+   "slug": "bay-of-bengal-depression-cyclone-andhra-odisha-pre-cyclone-watch",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "cyclone.jpg",
+   "credit": "Satellite image / via Dainik Jagran",
+   "contain": false,
+   "head": "Bay of Bengal depression set to become a cyclone today and a severe cyclonic storm by 17 November; pre-cyclone watch for Andhra and south Odisha",
+   "dek": "The IMD has warned of heavy rain and told fishermen to stay off the sea through the week.",
+   "stat": [
+    "17 Nov",
+    "when IMD expects a severe cyclonic storm"
+   ],
+   "sections": [
+    {
+     "title": "The forecast",
+     "paras": [
+      "A depression over the southeast Bay of Bengal, moving north at about 10 km/h, is expected to strengthen into a cyclonic storm on 16 November and a severe cyclonic storm over the west-central Bay on 17 November, according to the India Meteorological Department.",
+      "A pre-cyclone watch is in place for the coasts of Andhra Pradesh and south Odisha. Heavy rain is forecast for coastal Andhra, Yanam and the Andaman and Nicobar Islands."
+     ]
+    },
+    {
+     "title": "Stay safe",
+     "paras": [
+      "Winds of around 60 km/h could rise to about 80 km/h over the central Bay from 17 November. Fishermen have been told to avoid the southwest Bay until 19 November and the central Bay until 20 November. If you live on the east coast, follow IMD and state disaster-management updates."
+     ]
+    }
+   ],
+   "facts": [
+    "Moving at: ~10 km/h",
+    "Winds: up to ~80 km/h",
+    "Sea warning: till 20 Nov"
+   ],
+   "sources": [
+    {
+     "name": "Swarajya",
+     "url": "https://swarajyamag.com/news-brief/bay-of-bengal-depression-set-to-intensify-into-severe-cyclonic-storm-by-17th-november-imd-warns"
+    },
+    {
+     "name": "Dainik Jagran",
+     "url": "https://english.dainikjagranmpcg.com/national/bay-of-bengal-depression-may-become-severe-cyclonic-storm/article-44335"
+    }
+   ]
+  },
+  {
+   "slug": "bodhi-tree-buys-majority-adyar-ananda-bhavan-a2b-180-million",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "img": "a2b.jpg",
+   "credit": "Adyar Ananda Bhavan / via Indian Startup News",
+   "contain": false,
+   "head": "James Murdoch and Uday Shankar's Bodhi Tree buys a majority of sweets chain Adyar Ananda Bhavan (A2B) for $180 million",
+   "dek": "The deal values the Chennai chain, which started as a sweet shop in 1979, at about $350 million.",
+   "stat": [
+    "$180M",
+    "for a majority stake in A2B"
+   ],
+   "sections": [
+    {
+     "title": "The deal",
+     "paras": [
+      "Bodhi Tree Systems, backed by James Murdoch and Uday Shankar, is buying a majority stake in Adyar Ananda Bhavan for $180 million. Reuters puts the valuation at about $350 million, a little over twice A2B's FY25 sales. It is Bodhi Tree's first food investment, and Uday Shankar will chair the board.",
+      "A2B began as a Chennai sweet shop in 1979 and now has about 160 stores in India, 30+ abroad and over 15,000 staff. FY25 revenue rose 7% to ₹1,487.5 crore, while profit slipped 7% to ₹36.2 crore."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "The plan is to expand into western India and Europe, and to make the company \"fit for the public markets\", as co-founder K.T. Srinivasa Raja put it, a hint at a future IPO."
+     ]
+    }
+   ],
+   "facts": [
+    "Founded: 1979, Chennai",
+    "Stores: ~160 in India",
+    "FY25 revenue: ₹1,487.5 cr"
+   ],
+   "sources": [
+    {
+     "name": "Indian Startup News",
+     "url": "https://indianstartupnews.com/news/bodhi-tree-buys-majority-stake-in-chennai-restaurant-chain-adyar-ananda-bhavan-for-180-million-12805915"
+    },
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797"
+    }
+   ]
+  },
+  {
+   "slug": "easemytrip-q2-loss-narrows-98-percent-cmo-resigns",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "EaseMyTrip's Q2 loss shrinks 98% to ₹57 lakh as hotel revenue nearly triples; its CMO resigns a year after joining",
+   "dek": "Hotels and holidays are carrying the travel platform as air-ticket revenue falls.",
+   "stat": [
+    "+189%",
+    "jump in hotel and package revenue"
+   ],
+   "sections": [
+    {
+     "title": "The results",
+     "paras": [
+      "EaseMyTrip's net loss for July–September narrowed to about ₹57 lakh from roughly ₹36 crore a year earlier. Operating revenue rose 33.5% to ₹157.9 crore and gross bookings grew 25.5% to ₹2,458.4 crore.",
+      "Hotel and package revenue jumped 189% to ₹92 crore, while air-ticket revenue fell 21.9% to ₹56.3 crore. Ad spend dropped 12% to ₹19.5 crore."
+     ]
+    },
+    {
+     "title": "Leadership change",
+     "paras": [
+      "Chief marketing officer Manmeet Ahluwalia has resigned for personal reasons, effective 30 November. He joined in November 2025 after about 11 years at Expedia."
+     ]
+    }
+   ],
+   "facts": [
+    "Revenue: ₹157.9 cr (+33.5%)",
+    "Bookings: ₹2,458.4 cr",
+    "Air revenue: −21.9%"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/easemytrip-q2-loss-narrows-98-yoy-to-%e2%82%b957-lakh-revenue-up-34/"
+    },
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-makers/easemytrip-cmo-manmeet-ahluwalia-resigns-to-step-down-on-november-30-114773.htm"
+    }
+   ],
+   "emoji": "✈️"
+  },
+  {
+   "slug": "aretto-growing-shoes-kids-rs-100-crore-run-rate",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "img": "aretto.jpg",
+   "credit": "Aretto / via afaqs!",
+   "contain": false,
+   "head": "Kids' brand Aretto's 'growing shoes' fit three sizes in one pair; it now targets a ₹100 crore run rate by mid-2027",
+   "dek": "The Pune brand has sold over 4 lakh pairs and gets about 40% of its discovery from Instagram.",
+   "stat": [
+    "4 lakh+",
+    "pairs of expandable kids' shoes sold"
+   ],
+   "sections": [
+    {
+     "title": "The idea",
+     "paras": [
+      "Aretto makes children's shoes with an expandable sole, so one pair grows through three sizes. That lets it cut its range from about 16 sizes to 6, a big saving on stock for a kids' brand.",
+      "The Pune company has 80 stores, aims for 100 by March 2027, and says its annual run rate is about ₹60 crore today. It is growing nearly threefold a year, says CEO Satyajit Mittal."
+     ]
+    },
+    {
+     "title": "The marketing",
+     "paras": [
+      "Instagram drives about 40% of discovery. Half its digital budget goes to Meta, 30% to Google and 20% to influencers. It is chasing a premium kids' footwear segment (₹2,500 and up) worth about ₹2,500 crore, within a ₹13,000 crore kids' footwear market."
+     ]
+    }
+   ],
+   "facts": [
+    "Stores: 80",
+    "Run rate now: ~₹60 cr",
+    "Target: ₹100 cr by mid-2027"
+   ],
+   "sources": [
+    {
+     "name": "afaqs!",
+     "url": "https://www.afaqs.com/news/mktg/how-aretto-plans-to-turn-growing-shoes-into-a-rs-100-crore-business-12811752"
+    }
+   ]
+  },
+  {
+   "slug": "kl-rahul-invests-playblue-sports-retail-bengaluru-flagship",
+   "tag": "Founders",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "KL Rahul invests in sports retail startup PlayBlue as it opens a 20,000 sq ft flagship store in Bengaluru",
+   "dek": "The cricketer is also the brand's ambassador; PlayBlue plans 100+ stores in five years.",
+   "stat": [
+    "20,000 sq ft",
+    "PlayBlue's first flagship store"
+   ],
+   "sections": [
+    {
+     "title": "The deal",
+     "paras": [
+      "India batter KL Rahul has invested in PlayBlue and become its brand ambassador. The startup's Koramangala flagship carries 75+ brands and has a café and a rooftop play area called The Playground.",
+      "PlayBlue was founded in 2025 by Satyam Trivedi, former CEO of GMR Sports, and Fitternity co-founder Jayam Vora. It raised a $2.7 million seed round in July."
+     ]
+    },
+    {
+     "title": "The plan",
+     "paras": [
+      "It wants 100+ stores across 25 cities over five years and ₹100 crore in revenue before its next raise. \"India is moving from a nation that watches sport to one that plays it,\" Trivedi said. Rahul has also backed XYXX, Boldfit and Flam."
+     ]
+    }
+   ],
+   "facts": [
+    "Brands in store: 75+",
+    "Seed round: $2.7M",
+    "Target: 100+ stores"
+   ],
+   "sources": [
+    {
+     "name": "Indian Startup News",
+     "url": "https://indianstartupnews.com/funding/cricketer-kl-rahul-invests-in-sports-retail-startup-playblue-says-building-a-stronger-sporting-culture-12808920"
+    }
+   ],
+   "emoji": "🏟️"
+  },
+  {
+   "slug": "bharat-semi-raises-24-million-seed-ai-image-sensors",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Delhi chip startup Bharat Semi raises a $24 million seed round to build AI image sensors for global customers",
+   "dek": "Info Edge, South Park Commons and Indus Bridge Ventures led the all-equity round.",
+   "stat": [
+    "$24M",
+    "seed round for Bharat Semi"
+   ],
+   "sections": [
+    {
+     "title": "The round",
+     "paras": [
+      "Bharat Semi's all-equity round was led by Info Edge, South Park Commons and Indus Bridge Ventures, with Valour Capital, Micromax and Gaingels joining. The New Delhi startup, founded in late 2021, is pre-revenue and has about 75 staff, 10–12 of them in Santa Clara.",
+      "It builds single-chip, programmable AI image sensors and claims they can cut system costs by at least 70%."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "It has design wins with General Atomics in the US and Kaynes Semicon in India, and is aiming for first commercial production in 2027. \"It's a story of can we build a global technology company out of India,\" co-founder Vrinda Kapoor told TechCrunch."
+     ]
+    }
+   ],
+   "facts": [
+    "Founded: 2021",
+    "Team: ~75",
+    "Production target: 2027"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+    },
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/companies/start-ups/bharat-semi-raises-24-million-to-develop-intelligent-sensors-for-ai-126111500449_1.html"
+    }
+   ],
+   "emoji": "🔬"
+  },
+  {
+   "slug": "apple-health-ai-study-app-openevidence-200000-participants",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "img": "apple.jpg",
+   "credit": "Apple / via TechCrunch",
+   "contain": true,
+   "head": "Apple launches a research app to study how people use AI for health questions",
+   "dek": "The year-long study, built with OpenEvidence, gives answers grounded in medical journals.",
+   "stat": [
+    "12 months+",
+    "length of Apple's health AI study"
+   ],
+   "sections": [
+    {
+     "title": "What it is",
+     "paras": [
+      "The Apple Health AI study app lets participants ask health questions and get answers grounded in sources such as NEJM, JAMA and Nature, built with clinical AI firm OpenEvidence. Users rate the answers, fill in monthly surveys and can use it to prepare for doctor visits.",
+      "It is open to US adults over 21 with a recent iPhone and Apple Intelligence switched on."
+     ]
+    },
+    {
+     "title": "Privacy",
+     "paras": [
+      "Participants can choose to share HealthKit data such as resting heart rate, sleep and lab results. Apple says data is anonymised and won't train its models, and OpenEvidence deletes queries after 24 hours. \"Responsible innovation starts with scientific rigor,\" said Apple health VP Sumbul Desai."
+     ]
+    }
+   ],
+   "facts": [
+    "Partner: OpenEvidence",
+    "Open to: US, age 21+",
+    "Queries deleted: after 24 hrs"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+    },
+    {
+     "name": "Fierce Healthcare",
+     "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-apple-kicks-new-study-examine-use-ai-chatbots-health"
+    }
+   ]
+  },
+  {
+   "slug": "italy-fines-meta-805-million-facebook-photo-access",
+   "tag": "Tech",
+   "color": "#7C3AED",
+   "img": "meta.jpg",
+   "credit": "Meta / via Security Affairs",
+   "contain": true,
+   "head": "Italy fines Meta a record €805 million for letting Facebook's Android app reach users' photos without specific consent",
+   "dek": "It is the biggest fine ever issued by Italy's privacy regulator; about 20 million users were affected.",
+   "stat": [
+    "€805M",
+    "Italy's largest-ever privacy fine"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Italy's data protection authority, the Garante, said a gallery-suggestion feature in Facebook's Android app was switched on by default and accessed users' photos and videos without specific consent. About 20 million Italian users were affected.",
+      "The probe began in July 2025 after a complaint from a consumer group in Bolzano."
+     ]
+    },
+    {
+     "title": "What Meta must do",
+     "paras": [
+      "Meta has 60 days to turn the feature off by default, and must report back to the regulator within 30 and 90 days."
+     ]
+    }
+   ],
+   "facts": [
+    "Users affected: ~20 million",
+    "Deadline: 60 days",
+    "Probe began: July 2025"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy"
+    },
+    {
+     "name": "Security Affairs",
+     "url": "https://securityaffairs.com/203174/laws-and-regulations/meta-fined-e805-million-in-italy-over-facebooks-default-photo-gallery-access.html"
+    }
+   ]
+  },
+  {
+   "slug": "parliament-winter-session-december-women-quota-delimitation-bill-361-votes",
+   "tag": "Politics",
+   "color": "#2563EB",
+   "img": "parliament.jpg",
+   "credit": "Lok Sabha / via India TV",
+   "contain": false,
+   "head": "Parliament's Winter Session likely in the first week of December; the women's quota–delimitation bill would need about 361 votes",
+   "dek": "The government is weighing a fresh session or reconvening the Monsoon Session, which was never formally closed.",
+   "stat": [
+    "361",
+    "votes needed for the constitutional amendment"
+   ],
+   "sections": [
+    {
+     "title": "What's expected",
+     "paras": [
+      "Government sources say the Winter Session is likely to start in the first week of December, IANS reports. One option is to recall the Monsoon Session, which was adjourned on 13 August but not prorogued. That needs just two days' notice, compared with 14 days for a fresh session."
+     ]
+    },
+    {
+     "title": "The big bill",
+     "paras": [
+      "The government plans a constitutional amendment linking 33% reservation for women to delimitation by expanding the Lok Sabha. It needs a two-thirds majority, roughly 361 of 540 sitting MPs, while the NDA has about 320.",
+      "Under the model outlined by Home Minister Amit Shah, Lok Sabha seats would rise from 543 to 816 and southern states' seats from 129 to 195, keeping their share near 24%. An earlier version was defeated 298–230 in April. Opposition parties have raised their own demands, including over the electoral roll revision."
+     ]
+    }
+   ],
+   "facts": [
+    "NDA strength: ~320 MPs",
+    "Proposed seats: 543 → 816",
+    "April vote: 298–230"
+   ],
+   "sources": [
+    {
+     "name": "The Hans India (IANS)",
+     "url": "https://www.thehansindia.com/news/cities/new-delhi/winter-session-of-parliament-likely-to-start-in-first-week-of-dec-1142472"
+    },
+    {
+     "name": "India TV",
+     "url": "https://www.indiatvnews.com/news/india/parliament-winter-session-likely-in-december-s-first-week-delimitation-bill-tops-agenda-2026-11-15-1059520"
+    }
+   ]
+  },
+  {
+   "slug": "pm-modi-246-tribal-projects-rs-3000-crore-janjatiya-gaurav-divas",
+   "tag": "India",
+   "color": "#2563EB",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "PM Modi launches 246 tribal development projects worth ₹3,000 crore on Janjatiya Gaurav Divas",
+   "dek": "The projects, marking Birsa Munda's birth anniversary, include 38 new Eklavya model residential schools.",
+   "stat": [
+    "₹3,000 cr",
+    "worth of tribal projects"
+   ],
+   "sections": [
+    {
+     "title": "What was announced",
+     "paras": [
+      "Joining a programme in Gadchiroli, Maharashtra, by video link on 15 November, PM Narendra Modi inaugurated 173 projects and laid foundation stones for 73 more, together worth about ₹3,000 crore. The day marks the birth anniversary of tribal icon Birsa Munda.",
+      "Inaugurations included 38 Eklavya Model Residential Schools and 100 multi-purpose centres under the PM-JANMAN scheme. Foundation stones were laid for 19 more EMRS schools and 12 tribal marketing centres."
+     ]
+    },
+    {
+     "title": "Also mentioned",
+     "paras": [
+      "Modi spoke about tribal communities' rights over bamboo and listed new institutions, including a museum in Mizoram and a Tribal Research Institute building in Arunachal Pradesh. The day closed a fortnight of events held from 1 to 15 November."
+     ]
+    }
+   ],
+   "facts": [
+    "Projects: 246",
+    "New EMRS schools opened: 38",
+    "Venue: Gadchiroli (virtual)"
+   ],
+   "sources": [
+    {
+     "name": "Telangana Today (IANS)",
+     "url": "https://telanganatoday.com/maharashtra-pm-modi-inaugurates-projects-worth-rs-3000-crore-in-gadchiroli"
+    }
+   ],
+   "emoji": "🏫"
+  },
+  {
+   "slug": "houthis-advance-60-km-aden-yemen-government-defences",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "aden.jpg",
+   "credit": "T3n60 / Wikimedia, CC BY-SA 3.0",
+   "contain": false,
+   "head": "Yemen's Houthis advance to within 60 km of Aden as the government fortifies the city; 600 detainees freed",
+   "dek": "Military sources say the rebels have taken two districts in Lahj province.",
+   "stat": [
+    "60 km",
+    "Houthi front line's distance from Aden"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Houthi forces have captured the Al-Maqatirah and Al-Madaribah districts in Lahj province and hold the Al-Kharaz camp, about 60 km from Aden, military and government sources told AFP. Government troops have pulled back from areas near the Bab el-Mandeb strait and are building sandbag defences and tunnels around Aden.",
+      "The Saudi-led coalition said it intercepted missiles and drones aimed at Riyadh."
+     ]
+    },
+    {
+     "title": "A small humanitarian step",
+     "paras": [
+      "The ICRC said the Houthis released 600 detained government personnel held since fighting resumed in July. The Houthis tried and failed to take Aden early in the war in 2015."
+     ]
+    }
+   ],
+   "facts": [
+    "Detainees freed: 600",
+    "Districts taken: 2",
+    "Fighting resumed: July"
+   ],
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh"
+    }
+   ]
+  },
+  {
+   "slug": "third-us-carrier-middle-east-bahrain-intercepts-iranian-drones",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "carrier.jpg",
+   "credit": "US Navy / Wikimedia, public domain",
+   "contain": false,
+   "head": "A third US aircraft carrier arrives in the Middle East as Bahrain says it intercepted Iranian drones",
+   "dek": "Iran also rejected Germany's demand to halt uranium enrichment.",
+   "stat": [
+    "3",
+    "US carriers now in the region"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "A US official confirmed USS Theodore Roosevelt has joined USS George H.W. Bush and USS George Washington in the Middle East, a three-carrier presence described as temporary. Bahrain said it intercepted attacks after Iran's Revolutionary Guard claimed six drones targeted a US air-defence radar at a base there. Bahrain issued two threat alerts, its first since September.",
+      "Iran's foreign ministry spokesman Esmail Baghaei rejected Germany's call to stop enrichment, citing Iran's rights under the nuclear treaty."
+     ]
+    },
+    {
+     "title": "Oil check",
+     "paras": [
+      "Despite the tension, Brent crude slipped about 0.4% to $95.45 a barrel in early Asian trade on Monday, as the IEA now expects a supply surplus this quarter."
+     ]
+    }
+   ],
+   "facts": [
+    "Drones claimed by IRGC: 6",
+    "Brent: $95.45 (−0.4%)",
+    "Bahrain alerts: first since Sept"
+   ],
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://investing.com/news/commodities-news/oil-prices-dip-as-markets-look-to-recovering-supplies-meast-tensions-5028198"
+    }
+   ]
+  },
+  {
+   "slug": "trump-xi-putin-shenzhen-meeting-nuclear-arms-no-agreement-expected",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "img": "shenzhen.jpg",
+   "credit": "Andreas Bunen / Wikimedia, CC BY 3.0",
+   "contain": false,
+   "head": "Trump, Xi and Putin's first three-way meeting in Shenzhen will focus on nuclear arms; the US says it expects no deal",
+   "dek": "The leaders meet on the sidelines of APEC this week; Ukraine is not on Trump's list.",
+   "stat": [
+    "1st",
+    "ever three-way US–China–Russia leaders' meeting"
+   ],
+   "sections": [
+    {
+     "title": "What to expect",
+     "paras": [
+      "The White House has confirmed the meeting on the sidelines of the APEC summit in Shenzhen. Nuclear weapons are the stated focus, after the New START arms treaty between the US and Russia lapsed in February.",
+      "A US official said: \"We do not expect to get any kind of agreement.\" An administration official said Trump will not raise Ukraine, and no separate Trump–Putin meeting is planned. The Kremlin called the meeting \"extremely significant\"."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "It is the first time the leaders of the world's three biggest nuclear powers will sit down together, at a time of war in the Gulf and tension over trade and chips."
+     ]
+    }
+   ],
+   "facts": [
+    "Venue: Shenzhen, China",
+    "Date: 19 Nov",
+    "New START lapsed: Feb"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2026/11/13/politics/trump-putin-xi-meeting"
+    }
+   ]
+  },
+  {
+   "slug": "cape-verde-president-neves-re-elected-63-8-percent",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "praia.jpg",
+   "credit": "Cayambe / Wikimedia, CC BY-SA 3.0",
+   "contain": false,
+   "head": "Cape Verde re-elects President José Maria Neves with 63.8% of the vote, provisional results show",
+   "dek": "His main challenger, Joana Rosa Amado, was the country's first woman presidential candidate.",
+   "stat": [
+    "63.8%",
+    "Neves' provisional vote share"
+   ],
+   "sections": [
+    {
+     "title": "The result",
+     "paras": [
+      "Provisional results give Neves 63.8% against 31.6% for former justice minister Joana Rosa Amado, enough to avoid a 29 November run-off. With about 96% of polling tables counted, he had 79,945 votes to her 39,544. Four other candidates each got under 2%.",
+      "Turnout appeared low, at around a third of the nearly 420,000 eligible voters, though that figure is provisional."
+     ]
+    },
+    {
+     "title": "Context",
+     "paras": [
+      "Neves, prime minister from 2001 to 2016, was first elected president in 2021. The island nation ranks third out of 54 on the Mo Ibrahim governance index and was moved up to upper-middle-income status by the World Bank in July."
+     ]
+    }
+   ],
+   "facts": [
+    "Runner-up: 31.6%",
+    "Eligible voters: ~420,000",
+    "Observers: ~150"
+   ],
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261115-cape-verde-s-president-jose-maria-neves-re-elected-provisional-election-results"
+    },
+    {
+     "name": "Anadolu Agency",
+     "url": "https://aa.com.tr/en/africa/cape-verdes-president-leads-reelection-bid-with-nearly-64-of-vote/4126078"
+    }
+   ]
+  },
+  {
+   "slug": "pope-leo-pucallpa-amazon-mass-100000-peru",
+   "tag": "World",
+   "color": "#0891B2",
+   "img": "pucallpa.jpg",
+   "credit": "AgainErick / Wikimedia, CC BY-SA 3.0",
+   "contain": false,
+   "head": "Pope Leo draws about 100,000 to a Mass in Peru's Amazon city of Pucallpa, calling for protection of the forest and its people",
+   "dek": "He wraps up his South America tour in Lima and flies back to Rome on 17 November.",
+   "stat": [
+    "~100,000",
+    "people at the Pucallpa Mass"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Local authorities estimated about 100,000 people at the Pope's Mass in Pucallpa, in Peru's Ucayali region. Speaking about the Amazon, he said \"very little has been done, and very slowly\", and that violence against people is also violence against the land.",
+      "Earlier, the Vatican counted 1.5 million at his Mass in Chiclayo, where he once served as a bishop."
+     ]
+    },
+    {
+     "title": "The tour",
+     "paras": [
+      "The trip, which began on 6 November, has taken him through Uruguay, Argentina and Peru, about a month after lung-cancer surgery in October. Reuters estimates about 10 million people attended events across the tour."
+     ]
+    }
+   ],
+   "facts": [
+    "Chiclayo Mass: 1.5 million",
+    "Tour: 6–17 Nov",
+    "Countries: 3"
+   ],
+   "sources": [
+    {
+     "name": "EWTN News",
+     "url": "https://www.ewtnnews.com/vatican/live-updates-pope-leo-xiv-in-south-america"
+    },
+    {
+     "name": "Khaleej Times (Reuters)",
+     "url": "https://www.khaleejtimes.com/world/americas/vatican-pope-leo-peru-chiclayo-mass-south-america-tour"
+    }
+   ]
+  },
+  {
+   "slug": "market-week-ahead-fpi-84290-crore-nvidia-results-wpi-gift-nifty",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "markets.jpg",
+   "credit": "Upstox",
+   "contain": false,
+   "head": "Markets this week: FPIs have bought ₹84,290 crore of Indian shares in November; WPI inflation, Nvidia results and Nifty expiry ahead",
+   "dek": "GIFT Nifty pointed to a slightly higher open on Monday after three straight weekly gains.",
+   "stat": [
+    "₹84,290 cr",
+    "FPI buying in Indian equities, 2–13 Nov"
+   ],
+   "sections": [
+    {
+     "title": "Money is coming back",
+     "paras": [
+      "Foreign portfolio investors bought a net ₹84,290 crore of Indian equities over the nine sessions from 2 to 13 November, PTI data show, after pulling out about ₹34,843 crore in October and ₹35,861 crore in September.",
+      "The Sensex ended Friday at 81,592 and the Nifty at 25,144, a third straight weekly gain. Early on Monday, GIFT Nifty indicated an opening about 58 points higher, while most Asian markets were slightly lower."
+     ]
+    },
+    {
+     "title": "What to watch",
+     "paras": [
+      "October's wholesale (WPI) inflation is due at noon today; September's 11.39% was a series high and some economists expect October above 12%. Retail inflation for October was 6.09%, above the RBI's tolerance band.",
+      "Nifty's weekly expiry is on Tuesday, and Nvidia's results after the US close the same day could sway tech stocks worldwide."
+     ]
+    }
+   ],
+   "facts": [
+    "Sept WPI: 11.39%",
+    "Oct CPI: 6.09%",
+    "Nifty Friday: 25,144"
+   ],
+   "sources": [
+    {
+     "name": "The Federal (PTI)",
+     "url": "https://thefederal.com/category/business/fpis-pump-rs-84290-crore-into-indian-equities-in-first-half-of-november-262975"
+    },
+    {
+     "name": "Upstox",
+     "url": "https://upstox.com/news/market-news/stocks/gift-nifty-signals-positive-start-for-indian-markets-on-nov-16-key-things-to-know-before-the-opening-bell/article-203473/"
+    },
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/markets/news/wpi-inflation-oil-fii-trading-activity-may-guide-stock-markets-this-week-126111500300_1.html"
+    }
+   ]
+  },
+  {
+   "slug": "ipo-week-crystal-crop-mahanadi-coalfields-watrana-rentals",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "IPO week: Crystal Crop opens Wednesday at ₹259–272, and Coal India's Mahanadi Coalfields arm follows on Thursday",
+   "dek": "Three issues open this week, including Coal India's sale of about 10% of Mahanadi Coalfields.",
+   "stat": [
+    "₹455 cr",
+    "Crystal Crop Protection's IPO size"
+   ],
+   "sections": [
+    {
+     "title": "The line-up",
+     "paras": [
+      "Crystal Crop Protection (18–20 November): price band ₹259–272, lot of 55 shares (₹14,960 at the top end). The ₹455.49 crore issue mixes ₹354.77 crore of new shares with a ₹100.71 crore sale by the promoter; money will go towards repaying debt and acquisitions.",
+      "Mahanadi Coalfields (19–23 November): a pure offer for sale of up to 66.18 crore shares by Coal India, about 10% of the company. The price band had not been announced at the time of writing."
+     ]
+    },
+    {
+     "title": "SME pick",
+     "paras": [
+      "Watrana Rentals (19–23 November), an SME issue of about ₹120 crore, all fresh shares, with a lot of 600 shares."
+     ]
+    }
+   ],
+   "facts": [
+    "Crystal Crop lot: 55 shares",
+    "MCL OFS: 66.18 crore shares",
+    "Watrana: ~₹120 cr"
+   ],
+   "sources": [
+    {
+     "name": "Upstox",
+     "url": "https://upstox.com/news/market-news/ipo/upcoming-ipos-mahanadi-coalfields-crystal-crop-protection-and-watrana-rentals-issues-to-open-this-week/article-203462/"
+    },
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/markets/stocks/story/crystal-crop-protection-ipo-price-band-fixed-at-rs-259-272-aims-to-raise-rs-456-crore-567241-2026-11-13"
+    }
+   ],
+   "emoji": "📈"
+  },
+  {
+   "slug": "gold-price-rs-1-38-lakh-10-gram-down-week-bitcoin-64500",
+   "tag": "Finance",
+   "color": "#E0262F",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Gold steadies near ₹1.38 lakh per 10 grams after falling about 5% in a week; bitcoin slips to about $64,500",
+   "dek": "24-carat gold in Delhi is down roughly ₹7,000 per 10 grams since 9 November.",
+   "stat": [
+    "₹1,37,760",
+    "24K gold per 10g in Delhi"
+   ],
+   "sections": [
+    {
+     "title": "Gold",
+     "paras": [
+      "24-carat gold was ₹13,776 a gram (₹1,37,760 per 10 grams) in Delhi on Monday, per Goodreturns, down ₹10 on the day. 22-carat was ₹12,629 a gram. On 9 November 24-carat was ₹14,475 a gram, so prices have fallen about 4.8% in a week."
+     ]
+    },
+    {
+     "title": "Bitcoin",
+     "paras": [
+      "Bitcoin was trading near $64,560 on Monday, about 15% lower over seven days, after slipping below $70,000 on Friday. US spot bitcoin ETFs saw net outflows of $185.4 million on 13 November."
+     ]
+    }
+   ],
+   "facts": [
+    "22K gold: ₹12,629/g",
+    "Gold, 1-week: ~−4.8%",
+    "Bitcoin, 7 days: ~−15%"
+   ],
+   "sources": [
+    {
+     "name": "Goodreturns",
+     "url": "https://www.goodreturns.in/gold-rates/delhi.html"
+    },
+    {
+     "name": "crypto.news",
+     "url": "https://crypto.news/bitcoin-price-falls-62000-etf-outflows-liquidations/"
+    }
+   ],
+   "emoji": "🪙"
+  },
+  {
+   "slug": "saff-championship-final-india-vs-pakistan-dhaka-10th-title",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "India face Pakistan in the SAFF Championship final on Tuesday, chasing a record 10th title",
+   "dek": "It is Pakistan's first-ever SAFF final; India beat them 3-2 in the group stage.",
+   "stat": [
+    "10th",
+    "SAFF title India are chasing"
+   ],
+   "sections": [
+    {
+     "title": "Road to the final",
+     "paras": [
+      "India beat Bhutan 2-1 in the semi-final, with goals from Vishnu PV and Chinglensana Singh. Pakistan stunned hosts Bangladesh 1-0 with a late Abdul Samad goal to reach their first SAFF final.",
+      "The teams met on 5 November, when India won 3-2 with two goals from Suhail Ahmad Bhat."
+     ]
+    },
+    {
+     "title": "Watch it",
+     "paras": [
+      "Defending champions India are in their 10th straight final and have won nine titles. Kick-off is 7:30 pm IST on Tuesday at the National Stadium in Dhaka, streaming free on VETO."
+     ]
+    }
+   ],
+   "facts": [
+    "Semi: India 2-1 Bhutan",
+    "Group game: India 3-2 Pakistan",
+    "Kick-off: 7:30 pm IST, Tue"
+   ],
+   "sources": [
+    {
+     "name": "AFC",
+     "url": "https://www.the-afc.com/en/more/saff_championship.html/news/india-pakistan-set-up-final-showdown"
+    },
+    {
+     "name": "India TV",
+     "url": "https://www.indiatvnews.com/sports/football/india-target-10th-saff-championship-title-in-historic-final-against-pakistan-watch-live-for-free-on-veto-2026-11-15-1059536"
+    }
+   ],
+   "emoji": "⚽"
+  },
+  {
+   "slug": "womens-asian-champions-trophy-hockey-bhopal-india-defending-champions",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "Women's Asian Champions Trophy hockey starts in Bhopal on 19 November; defending champions India open against Malaysia",
+   "dek": "Salima Tete leads a 20-member squad chasing a fourth title.",
+   "stat": [
+    "4th",
+    "title India are chasing"
+   ],
+   "sections": [
+    {
+     "title": "The tournament",
+     "paras": [
+      "Six teams, India, Japan, China, Malaysia, Thailand and Korea, play from 19 to 28 November at the International Sports Complex in Nathu Barkheda, Bhopal.",
+      "India won the title in 2016, 2023 and 2024. Captain Salima Tete says she is confident the team can carry its Asian Games form into the event."
+     ]
+    }
+   ],
+   "facts": [
+    "Teams: 6",
+    "Dates: 19–28 Nov",
+    "India's titles: 2016, 2023, 2024"
+   ],
+   "sources": [
+    {
+     "name": "The Bridge",
+     "url": "https://thebridge.in/hockey/womens-asian-champions-trophy-india-squad-58325"
+    },
+    {
+     "name": "Outlook",
+     "url": "https://www.outlookindia.com/sports/hockey/womens-asian-champions-trophy-bhopal-2026-preview-india-match-schedule"
+    }
+   ],
+   "emoji": "🏑"
+  },
+  {
+   "slug": "ramayana-part-1-box-office-day-11-rs-75-crore-second-sunday",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "cinema.jpg",
+   "credit": "Wolfmann / Wikimedia, CC BY-SA 4.0",
+   "contain": false,
+   "head": "Ramayana: Part 1 earns ₹75 crore on its second Sunday, taking its India net total to ₹760.60 crore in 11 days",
+   "dek": "It will also release in China, Russia, Japan and South Korea in early 2027.",
+   "stat": [
+    "₹75 cr",
+    "net on Day 11 (second Sunday)"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Ramayana: Part 1 collected about ₹75 crore net in India on Sunday, slightly up on Saturday's ₹72.90 crore, according to Sacnilk's early estimates. That takes its India net total to about ₹760.60 crore in 11 days.",
+      "Hindi shows brought in about ₹55 crore of Sunday's total, with the rest from the Kannada, Malayalam, Tamil and Telugu versions."
+     ]
+    },
+    {
+     "title": "Going global",
+     "paras": [
+      "Bollywood Hungama reports the film will release in China, Russia, Japan and South Korea in the first quarter of 2027, and has already been sent for censor clearance in China."
+     ]
+    }
+   ],
+   "facts": [
+    "Day 10: ₹72.90 cr",
+    "Hindi share Day 11: ~₹55 cr",
+    "New markets: 4"
+   ],
+   "sources": [
+    {
+     "name": "Sacnilk",
+     "url": "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_11"
+    },
+    {
+     "name": "Bollywood Hungama",
+     "url": "https://www.bollywoodhungama.com/news/bollywood/ramayana-to-release-in-china-russia-japan-and-south-korea-in-q1-2027-film-already-submitted-for-censor-clearance-in-china/"
+    }
+   ],
+   "emoji": "🎬"
+  },
+  {
+   "slug": "cbfc-new-rules-release-dates-after-certification-dil-raju",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "New CBFC rules mean films can't announce release dates before certification, says producer Dil Raju",
+   "dek": "Final cuts now have to reach the censor board about a month before release.",
+   "stat": [
+    "1 month",
+    "before release a film's final cut is due"
+   ],
+   "sections": [
+    {
+     "title": "What changed",
+     "paras": [
+      "Under guidelines issued in September and a detailed advisory in October, producers must submit a film's final version, with titles, graphics and sound, about a month before release, and can announce a release date only after certification. The board also gets the final say on titles.",
+      "\"Releasing a film became quite problematic,\" said Dil Raju, who chairs the Telangana Film Development Corporation. He says the Telugu industry is preparing a representation, and Kerala film bodies have called the title rule an unnecessary expansion of the board's powers."
+     ]
+    }
+   ],
+   "facts": [
+    "Guidelines: Sept",
+    "Advisory: Oct",
+    "Final cut due: ~1 month early"
+   ],
+   "sources": [
+    {
+     "name": "Bollywood Hungama",
+     "url": "https://www.bollywoodhungama.com/news/features/dil-raju-on-challenges-posed-by-new-cbfc-advisory-says-we-cannot-announce-dates-beforehand/"
+    }
+   ],
+   "emoji": "🎞️"
+  },
+  {
+   "slug": "airbnb-brian-chesky-100-million-san-francisco-parks",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "sfparks.jpg",
+   "credit": "Davidyuweb / via Good News Network",
+   "contain": false,
+   "head": "Airbnb's Brian Chesky gives San Francisco $100 million for parks, the biggest single-donor gift in the city's history",
+   "dek": "A new 10-acre waterfront park with a beach is among the first projects.",
+   "stat": [
+    "$100M",
+    "for San Francisco's public parks"
+   ],
+   "sections": [
+    {
+     "title": "The gift",
+     "paras": [
+      "Airbnb co-founder and CEO Brian Chesky is giving $100 million to San Francisco's parks. $39 million goes straight to five projects, and the other $61 million will fund projects the city's parks department picks over the next year.",
+      "Chesky called it \"giving back to the city that made Airbnb possible\"."
+     ]
+    },
+    {
+     "title": "What gets built",
+     "paras": [
+      "India Basin Waterfront Park in Bayview-Hunters Point gets a 10-acre coastal park with a gravel beach and boathouse, closing a gap in the Bay Trail. A new half-acre park opens three years early, and two downtown waterfront spaces will be joined into one 5-acre park."
+     ]
+    }
+   ],
+   "facts": [
+    "Immediate funding: $39M",
+    "New coastal park: 10 acres",
+    "Joined waterfront park: 5 acres"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/san-francisco-gets-100m-gift-for-public-parks-from-airbnb-ceo/"
+    }
+   ],
+   "good": true,
+   "emoji": "🌳"
+  },
+  {
+   "slug": "deceased-donor-bone-marrow-transplant-cures-aplastic-anaemia-world-first",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "head": "World first: bone marrow from a deceased organ donor cures a woman's aplastic anaemia",
+   "dek": "Six months on, the 40-year-old no longer needs blood or platelet transfusions.",
+   "stat": [
+    "6 months",
+    "transfusion-free after the transplant"
+   ],
+   "sections": [
+    {
+     "title": "The breakthrough",
+     "paras": [
+      "Doctors at Franciscan Health in the US used bone marrow banked from a deceased organ donor by Ossium Health to treat a 40-year-old woman with a 10-year history of aplastic anaemia, a condition where the marrow stops making enough blood cells. It is the first reported use of deceased-donor marrow for a non-cancer disease.",
+      "Her disease had stopped responding to several treatments."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Six months after the April transplant her blood counts are restored, she needs no transfusions, and no complications have been reported. Banked marrow could widen the pool of donors for patients who can't find a living match."
+     ]
+    }
+   ],
+   "facts": [
+    "Patient age: 40",
+    "Illness: 10 years",
+    "Complications: none reported"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/world-first-bone-marrow-transplant-successfully-treats-non-malignant-disease/"
+    },
+    {
+     "name": "Ossium Health",
+     "url": "https://ossiumhealth.com/franciscan-health-and-ossium-health-perform-worlds-first-organ-donor-bone-marrow-transplant-for-non-malignant-disease/"
+    }
+   ],
+   "good": true,
+   "emoji": "🩸"
+  },
+  {
+   "slug": "sunfox-spandan-pocket-ecg-dehradun-5-million-screened",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "ecg.jpg",
+   "credit": "Sunfox Technologies / via The Better India",
+   "contain": false,
+   "head": "A pocket ECG made in Dehradun gives a heart test in minutes and has screened about 5 million people",
+   "dek": "Sunfox's Spandan runs off a smartphone, needs no battery or internet, and is used in 20,000+ villages.",
+   "stat": [
+    "60,000+",
+    "Spandan devices in use"
+   ],
+   "sections": [
+    {
+     "title": "The device",
+     "paras": [
+      "Sunfox Technologies, founded in 2016, makes Spandan, a 12-lead ECG that plugs into a smartphone and works without a battery or internet. It costs between ₹6,900 and ₹75,000 depending on the model.",
+      "More than 60,000 devices have screened about 5 million people across 20,000+ villages in 28 states, and 400+ are in use in Africa."
+     ]
+    },
+    {
+     "title": "Real impact",
+     "paras": [
+      "On the Char Dham Yatra route it screened over 13,100 pilgrims and flagged 463 critical cases. In Haryana it is in 597+ health centres, where 60,000 people have been tested since June and 2,000 critical cases found."
+     ]
+    }
+   ],
+   "facts": [
+    "Villages: 20,000+",
+    "States: 28",
+    "Char Dham critical cases flagged: 463"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/health-care/sunfox-spandan-portable-ecg-device-rural-india-12804214"
+    }
+   ],
+   "good": true,
+   "emoji": "❤️"
+  },
+  {
+   "slug": "assam-bans-drones-amur-falcon-roosts-umrangso",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "falcons.jpg",
+   "credit": "The Better India",
+   "contain": false,
+   "head": "Assam bans drones near Amur falcon roosts as lakhs of the migratory birds stop over",
+   "dek": "Forest officers can now declare temporary no-drone zones while the falcons rest.",
+   "stat": [
+    "2 lakh+",
+    "falcons once counted at one Assam roost"
+   ],
+   "sections": [
+    {
+     "title": "The order",
+     "paras": [
+      "Assam's Forest Department has banned non-essential drone flights near the Amur falcon roosts at Umrangso in Dima Hasao and Dharamtul in Morigaon, and lets officers declare temporary no-drone zones while the birds are present. Conservation group Aaranyak welcomed the move."
+     ]
+    },
+    {
+     "title": "The birds",
+     "paras": [
+      "Amur falcons breed in Siberia and northern China and fly on to southern Africa, stopping in northeast India each autumn. A 2022 count found more than 2 lakh at the Umrangso roost. Two tagged falcons, Apapang and Alang, returned to Manipur on 23 October after a yearly circuit through 23 countries."
+     ]
+    }
+   ],
+   "facts": [
+    "Order issued: 6 Nov",
+    "Roosts covered: 2",
+    "Countries on tagged birds' route: 23"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/wildlife/assam-amur-falcon-roosts-drone-restrictions-migratory-birds-12803487"
+    }
+   ],
+   "good": true,
+   "emoji": "🦅"
+  },
+  {
+   "slug": "spoon-billed-sandpiper-russia-tag-bengal-bakkhali-8000-km",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "sandpiper.jpg",
+   "credit": "The Better India",
+   "contain": false,
+   "head": "A critically endangered spoon-billed sandpiper tagged in Russia turns up on Bengal's coast, about 8,000 km away",
+   "dek": "Fewer than 500 of these tiny shorebirds are thought to be left in the wild.",
+   "stat": [
+    "<500",
+    "spoon-billed sandpipers left in the wild"
+   ],
+   "sections": [
+    {
+     "title": "The sighting",
+     "paras": [
+      "A spoon-billed sandpiper wearing the lime-green tag '2K', fitted in Chukotka, Russia, in July 2025, was photographed at Bakkhali in South 24 Parganas on 24 and 25 October. Only three of these birds have ever been photo-recorded in Bengal."
+     ]
+    },
+    {
+     "title": "A rescue story",
+     "paras": [
+      "The species is critically endangered. A head-starting programme in Russia has released 236 birds, and 19 have come back to breed, so every sighting along the route helps scientists protect its wintering sites."
+     ]
+    }
+   ],
+   "facts": [
+    "Tagged: 6 July 2025",
+    "Birds released by programme: 236",
+    "Returned to breed: 19"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/wildlife/spoon-billed-sandpiper-bengal-russia-migration-coastal-wetlands-12805610"
+    }
+   ],
+   "good": true,
+   "emoji": "🐦"
+  },
+  {
+   "slug": "moradabad-engineer-ramganga-cleanup-1-2-lakh-kg-waste",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "ramganga.jpg",
+   "credit": "Parivartan / via The Better India",
+   "contain": false,
+   "head": "Sunday clean-ups led by a Moradabad engineer have pulled over 1.2 lakh kg of waste from the Ramganga river",
+   "dek": "What started on Earth Day 2018 has grown into 218+ drives with thousands of volunteers.",
+   "stat": [
+    "1.2 lakh kg",
+    "of waste removed from the river"
+   ],
+   "sections": [
+    {
+     "title": "The campaign",
+     "paras": [
+      "Kapil Kumar, 35, a mechanical engineer, started cleaning the Ramganga through his NGO Parivartan on Earth Day 2018. Since then there have been 218+ drives with 5,000+ volunteers, and a typical Sunday clears 300–700 kg."
+     ]
+    },
+    {
+     "title": "Recognition",
+     "paras": [
+      "The India Book of Records lists it as the longest riverbank cleanliness drive by an NGO, and the group has sent a 10-point plan to the national and state Clean Ganga missions."
+     ]
+    }
+   ],
+   "facts": [
+    "Drives: 218+",
+    "Volunteers: 5,000+",
+    "Started: 22 April 2018"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/sustainability/kapil-kumar-clean-up-ram-ganga-moradabad-river-cleanup-volunteers-parivartan-12804326"
+    }
+   ],
+   "good": true,
+   "emoji": "🏞️"
+  },
+  {
+   "slug": "earthfokus-iit-madras-startup-saves-5-billion-litres-water",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "water.jpg",
+   "credit": "EarthFokus / via The Better India",
+   "contain": false,
+   "head": "An IIT Madras-incubated startup has helped 130+ buildings save 5 billion litres of water by finding hidden leaks",
+   "dek": "Chennai's EarthFokus cut one big office campus's daily water demand by nearly 80%.",
+   "stat": [
+    "5 billion",
+    "litres of water saved"
+   ],
+   "sections": [
+    {
+     "title": "How it works",
+     "paras": [
+      "EarthFokus, founded in 2019, uses sensors and software to track water use and spot leaks, recovers about 30% of water lost from cooling towers, and fits low-flow taps that run at as little as 0.5 litres a minute, against 10–12 litres for a normal tap."
+     ]
+    },
+    {
+     "title": "Results",
+     "paras": [
+      "WeWork India's use fell from 45 to 29 litres per person a day, with a target of 20 by FY28, and Cognizant's Chennai campus cut daily demand by nearly 80%."
+     ]
+    }
+   ],
+   "facts": [
+    "Buildings: 130+",
+    "Founded: 2019, Chennai",
+    "Low-flow tap: 0.5 L/min"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/startup/smart-water-management-buildings-water-saving-earthfokus-startup-chennai-india-12789754"
+    }
+   ],
+   "good": true,
+   "emoji": "💧"
+  },
+  {
+   "slug": "maternal-drape-80-cents-cuts-childbirth-bleeding-deaths-two-thirds",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "drape.jpg",
+   "credit": "Shutterstock / via Reasons to be Cheerful",
+   "contain": false,
+   "head": "A cheap plastic drape that measures blood loss is cutting deaths from childbirth bleeding by about two-thirds",
+   "dek": "Maternity wards across Africa are adopting the simple pouch.",
+   "stat": [
+    "~2/3",
+    "fewer deaths from postpartum bleeding"
+   ],
+   "sections": [
+    {
+     "title": "The idea",
+     "paras": [
+      "Heavy bleeding after birth is a leading killer of mothers. A plastic pouch-like drape placed under the mother collects and measures blood loss, so staff know quickly when to act. Used with the right treatments, it has cut deaths from postpartum haemorrhage by about two-thirds."
+     ]
+    },
+    {
+     "title": "Spreading fast",
+     "paras": [
+      "Hospitals across Africa are now using it. Nigerian doctor Hadiza Galadanci called it \"a simple, simple intervention that can solve our problems\"."
+     ]
+    }
+   ],
+   "facts": [
+    "Cost: under $1 (per RTBC)",
+    "Used in: maternity wards across Africa",
+    "Reported first by: NYT, 3 Nov"
+   ],
+   "sources": [
+    {
+     "name": "Reasons to be Cheerful",
+     "url": "https://reasonstobecheerful.world/what-were-reading-an-80-cent-plastic-bag-is-saving-mothers-lives/"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html"
+    }
+   ],
+   "good": true,
+   "emoji": "🤱"
+  },
+  {
+   "slug": "drone-delivers-food-to-chimp-stranded-by-floods-save-the-chimps",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "img": "chimp.jpg",
+   "credit": "Save the Chimps / via Sunny Skyz",
+   "contain": false,
+   "head": "A drone flies food and blankets to a 38-year-old chimp stranded by floods at a Florida sanctuary",
+   "dek": "Kaleb was filmed happily pulling a banana out of the paper bag.",
+   "stat": [
+    "38",
+    "Kaleb's age"
+   ],
+   "sections": [
+    {
+     "title": "The rescue",
+     "paras": [
+      "Floodwaters left Kaleb, a 38-year-old chimpanzee, stuck on a small island at Save the Chimps, a 150-acre sanctuary near Fort Pierce, Florida. Staff flew food and blankets to him by drone until the water went down.",
+      "All the animals stayed safe, and the water had receded a lot by Saturday. The chimps there were rescued from labs, entertainment and the pet trade."
+     ]
+    }
+   ],
+   "facts": [
+    "Sanctuary: 150 acres",
+    "Location: Fort Pierce, Florida",
+    "All animals: safe"
+   ],
+   "sources": [
+    {
+     "name": "Sunny Skyz",
+     "url": "https://www.sunnyskyz.com/good-news/6353/Chimp-Gets-Food-Delivered-by-Drone-After-Floodwaters-Leave-Him-Stranded"
+    }
+   ],
+   "good": true,
+   "emoji": "🐒"
+  }
+ ],
+ "also": []
+}
