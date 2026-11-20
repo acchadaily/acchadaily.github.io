@@ -24,7 +24,7 @@ IG = 'https://instagram.com/accha.daily'
 # show app.convertkit.com; either is fine, paste whichever yours shows).
 # While this is empty no signup box is rendered anywhere and the site is
 # unchanged, so it is safe to ship before the form exists.
-KIT_FORM_ACTION = ''
+KIT_FORM_ACTION = 'https://app.kit.com/forms/10218211/subscriptions'
 e = html.escape
 
 try:
