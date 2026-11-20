@@ -29,7 +29,7 @@ KIT_FORM_ACTION = 'https://app.kit.com/forms/10218211/subscriptions'
 # email and the subscriber is inactive until they click it. Flip to False if
 # you turn double opt-in off, so the success message stops telling people to
 # go and check their inbox.
-KIT_DOUBLE_OPTIN = True
+KIT_DOUBLE_OPTIN = False
 e = html.escape
 
 try:
