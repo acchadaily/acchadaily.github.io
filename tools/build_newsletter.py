@@ -237,9 +237,9 @@ def build_html(data, date, n):
                        f'font-size:4px;">&nbsp;</div></td></tr>')
 
     mk = markets_block(data)
-    mk_row = f'<tr><td style="padding:34px 24px 0;">{mk}</td></tr>' if mk else ''
+    mk_row = f'<tr><td class="pad" style="padding:34px 24px 0;">{mk}</td></tr>' if mk else ''
     gd = good_block(date, good)
-    gd_row = f'<tr><td style="padding:30px 24px 0;">{gd}</td></tr>' if gd else ''
+    gd_row = f'<tr><td class="pad" style="padding:30px 24px 0;">{gd}</td></tr>' if gd else ''
 
     return f'''<!doctype html>
 <html lang="en"><head>
@@ -251,6 +251,10 @@ def build_html(data, date, n):
 <style>
   /* Phones. Clients that ignore <style> simply keep the inline sizes. */
   @media only screen and (max-width:480px) {{
+    /* the grey outer gutter plus 24px inner padding left only ~300px of a
+       375px phone, which reads as a narrow column. Reclaim both. */
+    .outer {{ padding-left:0 !important; padding-right:0 !important; }}
+    .pad {{ padding-left:14px !important; padding-right:14px !important; }}
     .hl {{ font-size:25px !important; }}
     .hs {{ font-size:21px !important; }}
     .wordmark {{ font-size:32px !important; }}
@@ -262,13 +266,13 @@ def build_html(data, date, n):
 <div style="display:none;max-height:0;overflow:hidden;opacity:0;">{e(preheader)}</div>
 <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"
  bgcolor="#E9EAEC" style="width:100%;background:#E9EAEC;border-collapse:collapse;">
-<tr><td align="center" style="padding:24px 12px 36px;">
+<tr><td class="outer" align="center" style="padding:24px 12px 36px;">
 
 <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"
  bgcolor="{WHITE}" style="width:100%;max-width:600px;background:{WHITE};border-collapse:collapse;">
 
 <!-- masthead -->
-<tr><td bgcolor="{INK}" style="background:{INK};padding:26px 24px 22px;">
+<tr><td class="pad" bgcolor="{INK}" style="background:{INK};padding:26px 24px 22px;">
   <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
   <tr><td class="wordmark" style="font:900 40px/1 {DISP};letter-spacing:-1.4px;padding:0 0 10px;">
       <a href="{SITE}/" style="text-decoration:none;">
@@ -287,7 +291,7 @@ def build_html(data, date, n):
 </td></tr>
 
 <!-- stories -->
-<tr><td style="padding:32px 24px 0;">
+<tr><td class="pad" style="padding:32px 24px 0;">
   <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"
    style="width:100%;border-collapse:collapse;">
   {blocks}
@@ -298,10 +302,10 @@ def build_html(data, date, n):
 {gd_row}
 
 <!-- full edition -->
-<tr><td style="padding:34px 24px 0;">
+<tr><td class="pad" style="padding:34px 24px 0;">
   <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"
    bgcolor="{INK}" style="width:100%;background:{INK};">
-  <tr><td align="center" style="padding:30px 24px;">
+  <tr><td class="pad" align="center" style="padding:30px 24px;">
     <div class="bignum" style="font:900 32px/1.05 {DISP};color:{YEL};letter-spacing:-.8px;padding:0 0 8px;">
       {more} MORE<br />STORIES TODAY</div>
     <div style="font:400 14px/1.55 {SANS};color:#B9BDC4;padding:0 0 20px;">
@@ -316,7 +320,7 @@ def build_html(data, date, n):
 </td></tr>
 
 <!-- links -->
-<tr><td style="padding:24px;" align="center">
+<tr><td class="pad" style="padding:24px;" align="center">
   <a href="{SITE}/{date}/60/" style="font:900 12px/1.8 {DISP};color:{INK};text-decoration:none;text-transform:uppercase;">60-second scroll</a>
   <span style="color:{YEL};font-weight:900;">&nbsp;&nbsp;/&nbsp;&nbsp;</span>
   <a href="{SITE}/{date}/good/" style="font:900 12px/1.8 {DISP};color:{INK};text-decoration:none;text-transform:uppercase;">Good news</a>
@@ -325,7 +329,7 @@ def build_html(data, date, n):
 </td></tr>
 
 <!-- footer -->
-<tr><td bgcolor="{INK}" style="background:{INK};padding:26px 24px;" align="center">
+<tr><td class="pad" bgcolor="{INK}" style="background:{INK};padding:26px 24px;" align="center">
   <div style="font:900 15px/1 {DISP};color:{YEL};padding:0 0 10px;letter-spacing:-.2px;">accha? daily</div>
   <div style="font:400 12px/1.7 {SANS};color:#9AA0AA;">
     You get this because you subscribed to accha? daily.<br />
