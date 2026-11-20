@@ -25,6 +25,11 @@ IG = 'https://instagram.com/accha.daily'
 # While this is empty no signup box is rendered anywhere and the site is
 # unchanged, so it is safe to ship before the form exists.
 KIT_FORM_ACTION = 'https://app.kit.com/forms/10218211/subscriptions'
+# Mirrors the form's opt-in setting in Kit. True = Kit sends a confirmation
+# email and the subscriber is inactive until they click it. Flip to False if
+# you turn double opt-in off, so the success message stops telling people to
+# go and check their inbox.
+KIT_DOUBLE_OPTIN = True
 e = html.escape
 
 try:
@@ -256,8 +261,8 @@ def subscribe():
         '<section class="sub"><div class="wrap"><div class="sub-box">'
         '<h2>Get <b>accha?</b> daily in your inbox</h2>'
         '<p>The day\u2019s 5 biggest stories, every morning. Free.</p>'
-        f'<form class="sub-f" action="{e(KIT_FORM_ACTION)}" '
-        'method="post" target="_blank">'
+        f'<form class="sub-f" action="{e(KIT_FORM_ACTION)}" method="post" '
+        f'data-confirm="{"1" if KIT_DOUBLE_OPTIN else "0"}">'
         '<label class="skip" for="sub-email">Your email address</label>'
         '<input id="sub-email" type="email" name="email_address" required '
         'autocomplete="email" placeholder="you@email.com">'

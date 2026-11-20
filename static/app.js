@@ -82,3 +82,54 @@
   });
   w.focus();
 })();
+
+/* Newsletter signup — submit in place.
+   Kit's plain form POST navigates the reader off to app.kit.com, which is a
+   bad way to end a visit. This posts the same body with fetch and swaps in
+   our own message. Kit allows the cross-origin POST (access-control-allow-
+   origin: *) and returns JSON on 200. Without JS the form still works as an
+   ordinary POST, so this is pure progressive enhancement. */
+(function () {
+  var f = document.querySelector('.sub-f');
+  if (!f || !window.fetch) return;
+  var box = f.closest('.sub-box');
+  var input = f.querySelector('input[name="email_address"]');
+  var btn = f.querySelector('button');
+
+  function note(text, bad) {
+    var n = box.querySelector('.sub-note') || document.createElement('p');
+    n.className = 'sub-note' + (bad ? ' bad' : '');
+    n.textContent = text;
+    /* append to the box, not relative to the form: on success the form is
+       already detached, and inserting next to a detached node is a no-op. */
+    if (!n.parentNode) box.insertBefore(n, box.querySelector('small'));
+  }
+
+  f.addEventListener('submit', function (ev) {
+    ev.preventDefault();
+    if (!input.value || !f.checkValidity()) return;
+    btn.disabled = true;
+    var label = btn.textContent;
+    btn.textContent = 'Sending…';
+
+    fetch(f.action, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'Accept': 'application/json'
+      },
+      body: 'email_address=' + encodeURIComponent(input.value)
+    }).then(function (r) {
+      if (!r.ok) throw new Error(r.status);
+      var confirm = f.getAttribute('data-confirm') === '1';
+      f.remove();
+      note(confirm
+        ? 'Almost there — check your inbox and click the confirmation link.'
+        : "You're in. The next edition lands in your inbox tomorrow morning.");
+    }).catch(function () {
+      btn.disabled = false;
+      btn.textContent = label;
+      note('That didn’t go through. Please try again in a moment.', true);
+    });
+  });
+})();
