@@ -407,3 +407,26 @@ body.papermode{color:#111}
 .xp-go{display:inline-block;margin-top:10px;font-size:14px;font-weight:750}
 .art .xp{margin-top:28px}
 @media (min-width:800px){.xps{grid-template-columns:repeat(auto-fit,minmax(320px,1fr))}}
+
+/* newsletter signup — brand yellow on black, matches the email */
+.sub{padding:0 0 42px}
+.sub-box{background:var(--ink);color:#fff;border-radius:16px;padding:34px 26px;text-align:center}
+.sub-box h2{font-size:30px;font-weight:900;letter-spacing:-1px;line-height:1.1;color:#fff}
+.sub-box h2 b{color:var(--yel)}
+.sub-box p{margin-top:8px;font-size:16px;color:#B9BDC4}
+.sub-f{display:flex;gap:10px;max-width:430px;margin:20px auto 0;flex-wrap:wrap}
+.sub-f input{flex:1 1 210px;min-width:0;padding:14px 16px;font:inherit;font-size:16px;
+  border:2px solid transparent;border-radius:10px;background:#fff;color:var(--ink)}
+.sub-f input:focus-visible{outline:none;border-color:var(--yel)}
+.sub-f button{flex:0 0 auto;padding:14px 24px;font:inherit;font-size:15px;font-weight:900;
+  letter-spacing:.02em;text-transform:uppercase;border:0;border-radius:10px;
+  background:var(--yel);color:var(--ink);cursor:pointer}
+.sub-f button:hover{filter:brightness(1.08)}
+.sub-box small{display:block;margin-top:14px;font-size:13px;color:#8B8F98}
+@media (max-width:520px){
+  .sub-box{padding:26px 18px;border-radius:14px}
+  .sub-box h2{font-size:24px}
+  /* stacked: flex-basis would set HEIGHT here, so pin it back to auto */
+  .sub-f{flex-direction:column}
+  .sub-f input,.sub-f button{flex:0 0 auto;width:100%}
+}

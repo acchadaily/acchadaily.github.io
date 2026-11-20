@@ -1,0 +1,4 @@
+# generated each run by tools/build_newsletter.py; the email is sent, not stored
+newsletter/
+.DS_Store
+tools/__pycache__/

@@ -18,6 +18,13 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 SITE = 'https://acchadaily.github.io'
 IG = 'https://instagram.com/accha.daily'
+# Kit (kit.com) newsletter signup. In Kit: Grow > Landing Pages & Forms > your
+# form > Embed > HTML, and copy the form's `action` URL verbatim -- it looks
+# like https://app.kit.com/forms/1234567/subscriptions (some accounts still
+# show app.convertkit.com; either is fine, paste whichever yours shows).
+# While this is empty no signup box is rendered anywhere and the site is
+# unchanged, so it is safe to ship before the form exists.
+KIT_FORM_ACTION = ''
 e = html.escape
 
 try:
@@ -241,6 +248,26 @@ def iso(d):
 ICON_SEARCH = '<svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>'
 
 
+def subscribe():
+    """Newsletter signup box. Renders nothing until KIT_FORM_ACTION is set."""
+    if not KIT_FORM_ACTION:
+        return ''
+    return (
+        '<section class="sub"><div class="wrap"><div class="sub-box">'
+        '<h2>Get <b>accha?</b> daily in your inbox</h2>'
+        '<p>The day\u2019s 5 biggest stories, every morning. Free.</p>'
+        f'<form class="sub-f" action="{e(KIT_FORM_ACTION)}" '
+        'method="post" target="_blank">'
+        '<label class="skip" for="sub-email">Your email address</label>'
+        '<input id="sub-email" type="email" name="email_address" required '
+        'autocomplete="email" placeholder="you@email.com">'
+        '<button type="submit">Subscribe</button>'
+        '</form>'
+        '<small>No spam. One email a day. Unsubscribe anytime.</small>'
+        '</div></div></section>'
+    )
+
+
 def shell(title, desc, path, img=None, body='', kind='website', extra='', active='', bar=False):
     og = SITE + (img or '/static/og.png')
     nav = ''.join(f'<a href="{h}"{" aria-current=page" if active == k else ""}{c}>{t}</a>' for k, h, t, c in (
@@ -265,7 +292,7 @@ def shell(title, desc, path, img=None, body='', kind='website', extra='', active
 </head><body>{'<div id="bar"></div>' if bar else ''}<a class="skip" href="#main">Skip to content</a>
 <header><div class="wrap"><a class="logo" href="/" aria-label="accha? daily home">accha<b>?</b> <span>daily</span></a>
 <nav>{nav}<a class="ig hide-s" href="{IG}" target="_blank" rel="noopener">Follow</a></nav></div></header>
-<main id="main">{body}</main>
+<main id="main">{body}</main>{subscribe()}
 <footer><div class="wrap"><p>accha? daily explains the day's news in its own words and links to the original reporting. Photos are credited to their sources. Not investment advice.</p>
 <nav><a href="/archive/">Archive</a><a href="/feed.xml">RSS</a><a href="{IG}" target="_blank" rel="noopener">Instagram</a></nav></div></footer>
 <script src="{JS}" defer></script></body></html>'''

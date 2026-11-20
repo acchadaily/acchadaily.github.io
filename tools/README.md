@@ -15,3 +15,10 @@
 
 Edit the design in `tools/site.css` and `tools/app.js` (copied to `/static/` with a cache-busting version on every build).
 No Instagram carousels — dropped on 2026-11-20 and the renderer was deleted. The site and the daily JSON are the only deliverables; don't re-add it.
+
+## Newsletter (Kit)
+After the site is pushed, the same edition goes out as an email to Kit subscribers:
+`python3 tools/build_newsletter.py` writes newsletter/newsletter-YYYY-MM-DD.html/.txt/.subject.txt from the day's JSON — the top 5 stories, the markets strip and three good-news lines, in the brand's yellow and black. `-n 4` for four stories instead of five.
+`KIT_API_KEY=... python3 tools/send_newsletter.py` then creates the Kit broadcast and schedules it ~3 minutes out; `--draft` leaves it unsent, `--check` just tests the key. A non-zero exit means the email did NOT go out — say so rather than reporting success.
+The newsletter/ folder is generated and git-ignored; don't commit it.
+Signup box: set `KIT_FORM_ACTION` at the top of tools/build_site.py to the form `action` URL from Kit (Grow > Landing Pages & Forms > Embed > HTML). While it's empty no box is rendered.
