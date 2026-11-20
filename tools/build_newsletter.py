@@ -23,7 +23,7 @@ import json
 import os
 import re
 
-SITE = 'https://acchadaily.github.io'
+SITE = 'https://acchadaily.in'
 INSTAGRAM = 'https://instagram.com/accha.daily'
 
 YEL = '#F2B705'      # brand yellow

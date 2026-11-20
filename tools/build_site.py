@@ -16,7 +16,8 @@ from urllib.parse import quote
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
-SITE = 'https://acchadaily.github.io'
+SITE = 'https://acchadaily.in'
+HOST = SITE.split('//', 1)[1]  # bare domain, for share cards and the paper footer
 IG = 'https://instagram.com/accha.daily'
 # Kit (kit.com) newsletter signup. In Kit: Grow > Landing Pages & Forms > your
 # form > Embed > HTML, and copy the form's `action` URL verbatim -- it looks
@@ -223,7 +224,7 @@ def card(d, s=None):
     _draw(dr, X, y, f, 600, 26, (200, 204, 212))
     # yellow bar + url
     dr.rectangle((0, H - 10, W, H), fill=(242, 183, 5))
-    u = 'acchadaily.github.io'
+    u = HOST
     _draw(dr, W - X - _len(u, 800, 22), 58, u, 800, 22, (200, 204, 212))
     im.save(out, 'JPEG', quality=84, optimize=True, progressive=True)
     return f'/{out}'
@@ -497,7 +498,7 @@ def paper_page(d):
             f'<p class="np-dek">{e(lead["dek"])}</p>{lead_img}<figcaption>{e(lead.get("credit", ""))}</figcaption><div class="np-body">{lead_paras}</div>'
             f'<a class="np-more" href="{url(d, lead)}">Continue reading →</a></article>'
             f'<aside class="np-side"><div class="np-h">Also on the front page</div>{side}</aside></div>{secs}'
-            f'<div class="np-foot"><a href="{url(d)}">← Back to the modern view</a><span>accha? daily · acchadaily.github.io</span></div></div></div>')
+            f'<div class="np-foot"><a href="{url(d)}">← Back to the modern view</a><span>accha? daily · {HOST}</span></div></div></div>')
     extra = '\n<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">'
     o = opt(d['date'], lead.get('img', ''))
     h = shell(f"Newspaper — accha? daily, {d['date_label']}", f"{d['date_label']}: today's stories as a clean front page.",
