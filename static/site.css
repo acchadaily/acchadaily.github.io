@@ -408,21 +408,27 @@ body.papermode{color:#111}
 .art .xp{margin-top:28px}
 @media (min-width:800px){.xps{grid-template-columns:repeat(auto-fit,minmax(320px,1fr))}}
 
-/* newsletter signup — brand yellow on black, matches the email */
+/* newsletter signup — brand yellow on black, matches the email.
+   Deliberately uses literal colours, not --ink/--card: those flip in dark
+   mode, which turned this block white-on-white. It is a brand block and
+   stays black in both themes, like the email does. */
 .sub{padding:0 0 42px}
-.sub-box{background:var(--ink);color:#fff;border-radius:16px;padding:34px 26px;text-align:center}
+.sub-box{background:#0F1115;color:#fff;border-radius:16px;padding:34px 26px;text-align:center}
 .sub-box h2{font-size:30px;font-weight:900;letter-spacing:-1px;line-height:1.1;color:#fff}
-.sub-box h2 b{color:var(--yel)}
+.sub-box h2 b{color:#F2B705}
 .sub-box p{margin-top:8px;font-size:16px;color:#B9BDC4}
 .sub-f{display:flex;gap:10px;max-width:430px;margin:20px auto 0;flex-wrap:wrap}
 .sub-f input{flex:1 1 210px;min-width:0;padding:14px 16px;font:inherit;font-size:16px;
-  border:2px solid transparent;border-radius:10px;background:#fff;color:var(--ink)}
-.sub-f input:focus-visible{outline:none;border-color:var(--yel)}
+  border:2px solid transparent;border-radius:10px;background:#fff;color:#0F1115}
+.sub-f input::placeholder{color:#8B8F98;opacity:1}
+.sub-f input:focus-visible{outline:none;border-color:#F2B705}
 .sub-f button{flex:0 0 auto;padding:14px 24px;font:inherit;font-size:15px;font-weight:900;
   letter-spacing:.02em;text-transform:uppercase;border:0;border-radius:10px;
-  background:var(--yel);color:var(--ink);cursor:pointer}
+  background:#F2B705;color:#0F1115;cursor:pointer}
 .sub-f button:hover{filter:brightness(1.08)}
 .sub-box small{display:block;margin-top:14px;font-size:13px;color:#8B8F98}
+/* on a near-black page the black box loses its edge, so outline it */
+@media (prefers-color-scheme:dark){.sub-box{box-shadow:inset 0 0 0 1px #2B2F36}}
 @media (max-width:520px){
   .sub-box{padding:26px 18px;border-radius:14px}
   .sub-box h2{font-size:24px}
