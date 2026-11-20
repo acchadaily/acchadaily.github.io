@@ -100,9 +100,13 @@ def main():
     body_html, subject, date = find_files(a.date)
 
     send_at = None
+    when_ist = None
     if not a.draft:
         when = dt.datetime.now(dt.timezone.utc) + dt.timedelta(minutes=LEAD_MINUTES)
         send_at = when.replace(microsecond=0).isoformat().replace('+00:00', 'Z')
+        # the API takes UTC, but this runs for an Indian paper and is read by a
+        # human in Kolkata, so report IST too. Fixed offset: India has no DST.
+        when_ist = (when + dt.timedelta(hours=5, minutes=30)).strftime('%H:%M IST')
 
     payload = {
         'subject': subject,
@@ -123,8 +127,8 @@ def main():
     if a.draft:
         print(f'Draft created for {date} (id {bid}). Review and send it in Kit.')
     else:
-        print(f'Scheduled for {date} (id {bid}), sending at {send_at} '
-              f'(~{LEAD_MINUTES} min). Cancel in Kit before then if needed.')
+        print(f'Scheduled for {date} (id {bid}), sending at {when_ist} '
+              f'({send_at}), in ~{LEAD_MINUTES} min. Cancel in Kit before then if needed.')
     print(f'Subject: {subject}')
     return 0
 
