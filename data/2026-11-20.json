@@ -1,0 +1,1615 @@
+{
+ "date": "2026-11-20",
+ "day": "Friday",
+ "date_label": "20 November 2026",
+ "note": "",
+ "markets": {
+  "asof": "Sensex and Nifty 50: Thu 19 Nov 2026 close (HDFC Sky / Business Standard)",
+  "items": [
+   {
+    "n": "Sensex",
+    "v": "83,022",
+    "c": "+1.21%"
+   },
+   {
+    "n": "Nifty 50",
+    "v": "25,514",
+    "c": "+1.14%"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slug": "airbnb-recreates-k3g-raichand-house-mumbai",
+   "tag": "Marketing",
+   "color": "#0E9F5B",
+   "head": "Airbnb and Dharma recreate K3G's Raichand house in Mumbai for 25 years of the film; 180 fans can visit free from 1–6 December",
+   "dek": "Airbnb is turning the most famous mansion in Hindi cinema into a free two-hour experience. Bookings open on 23 November at noon.",
+   "stat": [
+    "180",
+    "free guest spots at the Raichand house"
+   ],
+   "sections": [
+    {
+     "title": "What fans get",
+     "paras": [
+      "Airbnb has teamed up with Karan Johar's Dharma Productions to rebuild the Raichand family home from Kabhi Khushi Kabhie Gham, which turns 25 this year. The set in Mumbai recreates the grand staircase, the living room, the study and, of course, Poo's wardrobe.",
+      "Visits run from 1 to 6 December and last about two hours. Guests get a traditional welcome into the house, an audio tour packed with film references, a tongue-twister challenge, a chance to write a note in the house and a keepsake to take home."
+     ]
+    },
+    {
+     "title": "How to book",
+     "paras": [
+      "There are 180 spots, and each booking covers one guest plus a companion. Bookings open on 23 November at 12 pm IST on Airbnb's special page. The visit itself costs nothing, but guests pay their own way to Mumbai.",
+      "You need an active Airbnb profile with good reviews and a government ID. Airbnb says it is first come, first served, not a contest."
+     ]
+    },
+    {
+     "title": "Why brands love nostalgia",
+     "paras": [
+      "Karan Johar, Kareena Kapoor and Hrithik Roshan are promoting the experience online, though Airbnb says none of them will be there in person. Johar called the film a world that felt 'larger than life'.",
+      "It is part of Airbnb's 'Only on Airbnb' series of one-off stays and experiences. For the brand, it is a cheap way to get millions of K3G fans talking about Airbnb in India, using a film many families still rewatch every festive season."
+     ]
+    }
+   ],
+   "facts": [
+    "Visits: 1–6 December 2026, about 2 hours each",
+    "Bookings open 23 November, 12 pm IST",
+    "180 spots; each booking covers 2 people"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/advertising/airbnb-taps-into-bollywood-nostalgia-partners-with-dharma-productions-to-recreate-k3gs-raichand-mansion-115108.htm"
+    }
+   ],
+   "img": "airbnb.jpg",
+   "credit": "Airbnb office / Raysonho, Wikimedia, CC0",
+   "contain": false
+  },
+  {
+   "slug": "anthropic-shares-close-17-percent-up-nasdaq-debut",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "Anthropic opens at $111.50 on Nasdaq and closes at $97.17, 17% above its IPO price, after the biggest IPO ever at $81.3 billion",
+   "dek": "The Claude maker's stock jumped as much as 34% in its first trade under the ticker 'ANT' before giving back some of the gain on a weak day for tech stocks.",
+   "stat": [
+    "+17%",
+    "first-day gain over the $83 IPO price"
+   ],
+   "sections": [
+    {
+     "title": "A record first day",
+     "paras": [
+      "Anthropic sold 980 million shares at $83 each, above its planned $70–78 range, raising $81.3 billion. It raised another $26 billion through a private placement. That makes it the largest IPO in history, ahead of SpaceX's $75 billion listing in June.",
+      "The shares started trading just before noon in New York at $111.50, about 34% above the offer price. They then slipped back and closed at $97.17, about 17% higher, on a day when the Nasdaq 100 fell more than 2%. Around 830 million shares changed hands."
+     ]
+    },
+    {
+     "title": "The numbers behind it",
+     "paras": [
+      "At the IPO price, Anthropic was valued at about $1.5 trillion on a fully diluted basis. Its revenue in the first nine months of 2026 was $33.2 billion, up more than 12 times from a year earlier, according to its filings."
+     ]
+    },
+    {
+     "title": "The India angle",
+     "paras": [
+      "India is the second-biggest market for Claude.ai, with about 7.2% of global usage. Anthropic opened a Bengaluru office in February, named Irina Ghose as India managing director and, in October, started letting Indian organisations run its models on servers inside India.",
+      "In India, the listing has restarted a debate about why the country still has no frontier AI lab of its own, Inc42 notes."
+     ]
+    }
+   ],
+   "facts": [
+    "IPO price: $83; opening trade: $111.50; close: $97.17",
+    "Raised $81.3 billion, plus $26 billion in a private placement",
+    "Revenue Jan–Sep 2026: $33.2 billion"
+   ],
+   "sources": [
+    {
+     "name": "Fox Business",
+     "url": "https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo"
+    },
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/digital/anthropic-india-expansion-anthropic-ipo-2026-anthropic-india-revenue-claude-ai-india-irina-ghose-anthropic-anthropic-bengaluru-office-claude-local-inference-india-amazon-bedrock-claude-anthrop-115111.htm"
+    },
+    {
+     "name": "Stock Titan",
+     "url": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026"
+    }
+   ],
+   "img": "anthropic.jpg",
+   "credit": "Anthropic / via Storyboard18",
+   "contain": true
+  },
+  {
+   "slug": "sarvam-token-factory-chinese-models-backlash",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Sarvam faces backlash for selling DeepSeek and other Chinese AI models on its new Token Factory; it says no subsidy was used",
+   "dek": "India's best-known 'sovereign AI' startup launched a platform to run AI models on its GPUs in India. Critics noticed most of the catalogue is Chinese.",
+   "stat": [
+    "₹14",
+    "per million input tokens, launch price"
+   ],
+   "sections": [
+    {
+     "title": "What Sarvam launched",
+     "paras": [
+      "Sarvam opened Token Factory on 18 November. It lets developers and companies use many AI models through one API, running on Sarvam's GPUs in India, with prices in rupees. Launch pricing is ₹14 per million input tokens and ₹55 per million output tokens.",
+      "The list of 12 models includes Sarvam's own 105B models alongside DeepSeek V4.1 Flash, DeepSeek V4 Pro, Moonshot's Kimi K3.1 Pro, Z.ai's GLM 5.3 and Alibaba's Qwen, plus Google's Gemma."
+     ]
+    },
+    {
+     "title": "Why people are upset",
+     "paras": [
+      "Sarvam was picked by the government in April 2025 to build India's own foundation model, and it got a ₹98.68 crore GPU subsidy. Critics such as RunAnywhere CEO Sanchit Monga said the company is now 'mostly serving Chinese models' instead of shipping frontier research. Bloomberg reported an online backlash."
+     ]
+    },
+    {
+     "title": "Sarvam's answer",
+     "paras": [
+      "Co-founder Pratyush Kumar says Token Factory runs on GPUs Sarvam bought itself, and that its discounted GPU access under the IndiaAI Mission ended in March 2026. Requests are not sent to the model makers' servers abroad, it says.",
+      "Some disagree with the critics. MediaNama founder Nikhil Pahwa sees nothing wrong with hosting Chinese models, and Sarvam investor Lightspeed's Hemant Mohapatra called it a timely business during a global GPU shortage."
+     ]
+    }
+   ],
+   "facts": [
+    "Launched 18 November 2026",
+    "12 models listed; prices from ₹14 per million input tokens",
+    "₹98.68 crore GPU subsidy received for model training"
+   ],
+   "sources": [
+    {
+     "name": "MediaNama",
+     "url": "https://www.medianama.com/2026/11/223-sarvam-token-factory-india-sovereign-ai/"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-19/india-startup-sells-deepseek-access-while-pursuing-sovereign-ai"
+    }
+   ],
+   "img": "sarvam.jpg",
+   "credit": "Illustration / via Startup Fortune",
+   "contain": false
+  },
+  {
+   "slug": "mcdonalds-home-alone-kevin-holiday-ad",
+   "tag": "Viral",
+   "color": "#0891B2",
+   "head": "McDonald's brings back Home Alone's Kevin, now grown up, locked inside a McDonald's for its global holiday ad",
+   "dek": "Macaulay Culkin returns as Kevin McCallister in a 60-second film where he runs the drive-thru and builds a 'Big McCallister'. A Home Alone Meal arrives on 24 November.",
+   "stat": [
+    "60 sec",
+    "anchor ad, made in Canada for the world"
+   ],
+   "sections": [
+    {
+     "title": "The ad",
+     "paras": [
+      "In the new film, a storm traps a grown-up Kevin inside a McDonald's, alone again. He makes his own McFlurry, works the drive-thru and stacks a burger he calls the 'Big McCallister'. 'I made everyone disappear. Again,' he says.",
+      "It is set to Chuck Berry's 1958 song 'Run Rudolph Run', which also plays early in the 1990 film. Wieden+Kennedy Toronto made it, with Ramy Youssef and Amir Farhang directing."
+     ]
+    },
+    {
+     "title": "The meal and merch",
+     "paras": [
+      "From 24 November, a Home Alone Meal comes with an entrée, fries, a drink and collectible socks, one pair with McDonaldland characters and one with Kevin's famous hands-on-cheeks scream.",
+      "There are also pizza-flavoured shaker fries, a nod to the film's Little Nero's pizza, and an 'Everything Sundae' McFlurry inspired by Kevin's sundae."
+     ]
+    },
+    {
+     "title": "Why it works",
+     "paras": [
+      "The campaign runs on TV, billboards, TikTok and YouTube, with creators worldwide and a fan event in Toronto on 20–21 November. Nostalgia ads keep getting shared, and Home Alone is one of the most rewatched Christmas films."
+     ]
+    }
+   ],
+   "facts": [
+    "Home Alone Meal from 24 November",
+    "Ad by Wieden+Kennedy Toronto",
+    "Fan event in Toronto: 20–21 November"
+   ],
+   "sources": [
+    {
+     "name": "Campaign India",
+     "url": "https://www.campaignindia.in/article/mcdonald-s-brings-back-kevin-from-home-alone-in-global-holiday-ad/47awffe7w7bzx3ag4cggvde1xr"
+    }
+   ],
+   "img": "mcdonalds.jpg",
+   "credit": "McDonald's / Steffen Mokosch, Wikimedia, CC BY-SA 3.0",
+   "contain": false
+  },
+  {
+   "slug": "paytm-mobikwik-pine-labs-fall-upi-mdr-delay",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "head": "Paytm closes 8.5% lower and MobiKwik and Pine Labs fall up to 7% on reports that the UPI merchant fee may wait until after 2027 polls",
+   "dek": "A planned 0.4% fee on some big UPI payments to merchants was meant to start in October. Now it could slip again, hurting the payment companies counting on it.",
+   "stat": [
+    "−8.5%",
+    "Paytm's fall on BSE on Thursday"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Shares of payment companies fell sharply on Thursday after reports said the government may hold off on charging a merchant discount rate (MDR) on UPI until after the 2027 state elections in Uttar Pradesh, Punjab, Uttarakhand, Goa and Manipur.",
+      "Paytm closed 8.51% lower at ₹1,727.70 on BSE. MobiKwik and Pine Labs fell as much as about 7% and 6% in early trade. The government has not officially confirmed a new delay."
+     ]
+    },
+    {
+     "title": "What the fee is",
+     "paras": [
+      "The proposal is a 0.4% MDR on certain UPI payments to merchants above ₹2,000. Ordinary person-to-person UPI stays free. It was supposed to start on 15 October, then was pushed to after Diwali.",
+      "Fintechs have been waiting for it because UPI is free today and costly to run. NPCI has already notified a scheme to fund QR codes and soundboxes for small shops out of MDR money."
+     ]
+    },
+    {
+     "title": "Why it matters to these firms",
+     "paras": [
+      "Pine Labs says more than 70% of its digital checkout payments are UPI, worth about ₹20,000 crore a month, and over 65% of that value comes from payments above ₹2,000. Razorpay has also said it is exploring the fee.",
+      "For shoppers, nothing changes yet: paying by UPI stays free."
+     ]
+    }
+   ],
+   "facts": [
+    "Proposed fee: 0.4% on UPI merchant payments above ₹2,000",
+    "Paytm closed at ₹1,727.70, down 8.51%",
+    "Original start date was 15 October 2026"
+   ],
+   "sources": [
+    {
+     "name": "Kotak Neo",
+     "url": "https://www.kotakneo.com/news/stocks/paytm-mobikwik-pine-labs-shares-fall-on-upi-mdr-rollout-delay/"
+    },
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/paytm-lines-up-%e2%82%b9200-cr-investment-in-singapores-funding-societies/"
+    },
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/all-article/paytm-pine-labs-mobikwik-shares-tank-over-7-amid-reports-of-further-upi-mdr-delay-12823081"
+    }
+   ],
+   "img": "upi_fintech.jpg",
+   "credit": "Illustration / via Entrackr",
+   "contain": false
+  },
+  {
+   "slug": "cyclone-akvan-landfall-gopalpur-odisha",
+   "tag": "India",
+   "color": "#2563EB",
+   "head": "Cyclone Akvan weakens before landfall near Gopalpur today; Odisha moves over 3 lakh people and 1,317 evacuated women give birth in shelters",
+   "dek": "The storm is crossing the north Andhra–south Odisha coast this morning with winds of 70–80 km/h, gusting to 90 km/h.",
+   "stat": [
+    "3 lakh+",
+    "people evacuated in Odisha"
+   ],
+   "sections": [
+    {
+     "title": "Where the storm is",
+     "paras": [
+      "Akvan weakened overnight from a severe cyclonic storm to a cyclonic storm. Early on Friday it was about 170 km south of Gopalpur and moving north-northwest at about 21 km/h. The India Meteorological Department said land interaction had begun and expected it to cross near Gopalpur in Ganjam district by the forenoon.",
+      "A storm surge of 0.5–1 metre is possible in low-lying parts of Ganjam and Puri. Srikakulam and Vizianagaram in Andhra Pradesh may get extremely heavy rain."
+     ]
+    },
+    {
+     "title": "How Odisha prepared",
+     "paras": [
+      "Odisha has moved more than 3 lakh people across 20 districts. Of 4,170 pregnant women shifted to safe places, 1,317 have already delivered their babies. 9,341 cyclone shelters are ready, and 418 rescue and tree-cutting teams, including 14 NDRF teams, are on the ground. Several trains have been cancelled or rescheduled."
+     ]
+    }
+   ],
+   "facts": [
+    "Winds: 70–80 km/h, gusting to 90 km/h",
+    "3 lakh+ evacuated across 20 Odisha districts",
+    "418 response teams deployed"
+   ],
+   "sources": [
+    {
+     "name": "ETV Bharat",
+     "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-akvan-live-updates-november-20-landfall-odisha-andhra-pradesh-wind-speed-rainfall-ndrf-evacuation-rescue-enn26112000397"
+    },
+    {
+     "name": "Deccan Chronicle",
+     "url": "https://www.deccanchronicle.com/nation/current-affairs/live-cyclone-akvan-to-cross-ap-odisha-coasts-today-red-alert-issued-2005764"
+    }
+   ],
+   "img": "cyclone.jpg",
+   "credit": "Rescue teams on the coast / via India TV",
+   "contain": false
+  },
+  {
+   "slug": "gadkari-urges-states-allow-bike-taxis",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "head": "Nitin Gadkari asks states to allow private bikes as app taxis, saying 15–20 crore people could benefit",
+   "dek": "Only a few states have adopted the Centre's aggregator rules that permit bike taxis, and some, like Karnataka, are cracking down.",
+   "stat": [
+    "15–20 cr",
+    "people who could benefit, says Gadkari"
+   ],
+   "sections": [
+    {
+     "title": "What he said",
+     "paras": [
+      "Road Transport Minister Nitin Gadkari urged state governments to let ordinary (non-commercial) motorcycles carry passengers through apps like Rapido, Uber and Ola, as allowed under the Motor Vehicle Aggregator Guidelines 2025. He said letters have gone to the states and asked transport commissioners to act.",
+      "He estimated that 15–20 crore people could benefit if every state allowed it."
+     ]
+    },
+    {
+     "title": "Where things stand",
+     "paras": [
+      "The rules have existed since July, but uptake has been slow. Reports say Rajasthan has fully adopted them, while Haryana and Uttar Pradesh are partly there. Karnataka banned bike taxis in June after a High Court ruling, and its transport unions say the Centre's guidelines are only advisory. In Kolhapur, officials recently seized 10 bikes allegedly used as Rapido taxis."
+     ]
+    }
+   ],
+   "facts": [
+    "Rules: Motor Vehicle Aggregator Guidelines 2025",
+    "Karnataka bike-taxi ban since 16 June",
+    "Gadkari: 15–20 crore potential users"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/nitin-gadkari-urges-states-to-adopt-aggregator-guidelines-amid-bike-taxi-crackdowns/"
+    },
+    {
+     "name": "India TV",
+     "url": "https://www.indiatvnews.com/business/news/nitin-gadkari-urges-states-to-permit-private-bikes-for-rides-through-aggregator-platforms-2026-11-19-1059814"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "india-japan-2-plus-2-tokyo-defence-ai",
+   "tag": "Politics",
+   "color": "#2563EB",
+   "head": "India and Japan agree to boost defence manufacturing, AI and cyber cooperation at their 2+2 talks in Tokyo",
+   "dek": "Rajnath Singh and S Jaishankar met Japan's defence and foreign ministers for the fourth round of the dialogue.",
+   "stat": [
+    "4th",
+    "India–Japan 2+2 ministerial dialogue"
+   ],
+   "sections": [
+    {
+     "title": "What was agreed",
+     "paras": [
+      "Defence Minister Rajnath Singh and External Affairs Minister S Jaishankar met Japan's Shinjiro Koizumi and Toshimitsu Motegi in Tokyo on 19 November. Reports say both sides agreed to do more together on defence manufacturing, military exercises, maritime security, unmanned systems, AI, cybersecurity and economic security.",
+      "They plan to renew their cybersecurity agreement and hold the next cyber dialogue soon."
+     ]
+    },
+    {
+     "title": "The bigger picture",
+     "paras": [
+      "The ministers welcomed a new India–Japan–Philippines dialogue held in October and a three-way naval exercise with Indonesia from February. The talks come a day after the Quad leaders' summit, and amid concern in both countries about China's growing military reach."
+     ]
+    }
+   ],
+   "facts": [
+    "Held in Tokyo on 19 November 2026",
+    "Fourth 2+2 round between the two countries",
+    "Focus: defence industry, AI, cyber, maritime security"
+   ],
+   "sources": [
+    {
+     "name": "Defence Watch",
+     "url": "https://www.defencewatch.in/defence-news/geopolitics/india-and-japan-hold-4th-22-ministerial-dialogue-in-tokyo-focus-on-defence-technology-and-maritime-security"
+    },
+    {
+     "name": "Newsd Defence",
+     "url": "https://defence.newsd.in/india/india-and-japan-agree-to-boost-defence-and-ai-cooperation-at-fourth-22-dialogue"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "icj-rules-myanmar-committed-genocide-rohingya",
+   "tag": "World",
+   "color": "#0891B2",
+   "head": "UN's top court rules 9–6 that Myanmar committed genocide against the Rohingya, the first time it has found a state guilty of genocide",
+   "dek": "The International Court of Justice ordered Myanmar to prosecute those responsible and allow displaced Rohingya to return safely.",
+   "stat": [
+    "9–6",
+    "judges' vote in The Gambia v. Myanmar"
+   ],
+   "sections": [
+    {
+     "title": "The ruling",
+     "paras": [
+      "In a case brought by The Gambia in 2019, the International Court of Justice found that the only reasonable conclusion from Myanmar's actions was an intent to destroy the Rohingya in northern Rakhine State. It also found Myanmar failed to prevent and punish genocide. It rejected a separate claim that Myanmar publicly incited genocide.",
+      "It is the first time the court has held a country responsible for genocide."
+     ]
+    },
+    {
+     "title": "What Myanmar must do",
+     "paras": [
+      "Myanmar must investigate and prosecute those responsible, including military commanders, pass laws banning genocide, and allow Rohingya to return safely. Compensation will be decided later, and Myanmar must report back within two years. The ruling is binding, but the court has no way to enforce it."
+     ]
+    }
+   ],
+   "facts": [
+    "Vote: 9–6",
+    "Case filed by The Gambia in 2019",
+    "Myanmar must report to the court within 2 years"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+    },
+    {
+     "name": "Mail & Guardian",
+     "url": "https://mg.co.za/news/international/2026-11-19-icj-finds-myanmar-committed-genocide-against-rohingya/"
+    }
+   ],
+   "img": "peace_palace.jpg",
+   "credit": "Peace Palace, The Hague / Iamthestig, Wikimedia, CC BY-SA 3.0",
+   "contain": false
+  },
+  {
+   "slug": "trump-xi-putin-shenzhen-summit-takeaways",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "head": "Trump, Xi and Putin end their first three-way summit with a 'nuclear war must never be fought' statement but no concrete deals",
+   "dek": "The Shenzhen meeting on the sidelines of APEC was historic, but most analysts say it changed little on Ukraine or Iran.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What came out",
+     "paras": [
+      "The three leaders met on 19 November in Shenzhen, where China is hosting APEC. Their joint statement, published by China's Xinhua news agency, said a nuclear war 'cannot be won and must never be fought' and criticised the International Criminal Court.",
+      "CBS News and RFE/RL reported no concrete commitments. Trump said the three were well placed to talk about cutting nuclear weapons, and said he and Xi agree Iran must not get a nuclear bomb."
+     ]
+    },
+    {
+     "title": "Who gained",
+     "paras": [
+      "Putin ruled out direct talks with Ukraine after the meeting. RFE/RL's analysis said Putin gained the most: it was his first APEC appearance since 2017, and he was treated as an honoured guest. Trump is due to brief reporters on Friday as he flies home."
+     ]
+    }
+   ],
+   "facts": [
+    "First-ever Trump–Xi–Putin three-way meeting",
+    "Held in Shenzhen during APEC, 19 November",
+    "Putin's first APEC since 2017"
+   ],
+   "sources": [
+    {
+     "name": "RFE/RL",
+     "url": "https://www.rferl.org/a/trump-xi-putin-summit-four-key-takeaways/33902100.html"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "houthi-attack-damages-pif-tower-riyadh",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "head": "A Houthi missile attack damages Saudi wealth fund PIF's tower, the tallest in Riyadh; no injuries reported",
+   "dek": "It is the second strike on Riyadh's financial district this month, after an Aramco building was hit on 8 November.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Saudi civil defence said an attack on Thursday damaged several floors of a building and nearby buildings in Riyadh's King Abdullah Financial District, with no injuries. A photo released by the Saudi Press Agency showed the Public Investment Fund (PIF) Tower, the capital's tallest building and a symbol of the Vision 2030 plan.",
+      "Reuters, citing three sources, said it was hit by a Houthi missile; it was not yet clear whether it was a direct hit or debris from an interception."
+     ]
+    },
+    {
+     "title": "The context",
+     "paras": [
+      "The Houthis did not claim this specific strike, but their spokesman said they had targeted Riyadh's airport and financial centre. The attack comes as President Trump weighs another offensive against Iran, which backs the group."
+     ]
+    }
+   ],
+   "facts": [
+    "Second strike on the district in November",
+    "No injuries reported",
+    "An Aramco building was damaged on 8 November"
+   ],
+   "sources": [
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/11/19/saudi-sovereign-wealth-fund-tower-in-riyadh-damaged-in-houthi-strike/"
+    },
+    {
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/riyadh-tower-damaged-houthi-missile-attack"
+    }
+   ],
+   "img": "pif_tower.jpg",
+   "credit": "PIF Tower / via The National",
+   "contain": false
+  },
+  {
+   "slug": "denmark-approves-greenland-us-security-deal",
+   "tag": "World",
+   "color": "#0891B2",
+   "head": "Denmark's parliament approves a security deal with Greenland and the US 109–0, hoping to end the row over Trump's Greenland threats",
+   "dek": "The pact lets the US expand its military presence on the island, but only NATO members can set up bases there.",
+   "stat": [
+    "109–0",
+    "vote in Denmark's parliament"
+   ],
+   "sections": [
+    {
+     "title": "What's in the deal",
+     "paras": [
+      "The agreement, signed by the three governments in September, builds on a 1951 defence pact. It lets the US 'modernize and expand' its work at the Pituffik Space Base in northwest Greenland and says only NATO members can set up military installations on the island.",
+      "Greenland's own parliament backed it earlier this month by 16 votes, with seven abstentions."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The deal is meant to end tensions after Trump repeatedly talked about taking control of the mineral-rich island. It does not need a US Senate vote, and it would still apply if Greenland one day becomes independent. It takes effect once the US is formally notified."
+     ]
+    }
+   ],
+   "facts": [
+    "Danish vote: 109–0",
+    "Greenland vote: passed by 16, with 7 abstentions",
+    "Builds on a 1951 defence pact"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/International/wireStory/danish-lawmakers-approve-security-deal-greenland-us-hoping-138281209"
+    }
+   ],
+   "img": "pituffik.jpg",
+   "credit": "Pituffik Space Base / U.S. Space Force, Paul Honnick, Wikimedia, Public domain",
+   "contain": false
+  },
+  {
+   "slug": "cashify-turns-profitable-fy26",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "head": "Cashify turns profitable with ₹6.49 crore in FY26 as revenue from buying and reselling used phones jumps 50% to ₹1,641 crore",
+   "dek": "The Gurugram recommerce company swung from a ₹10.56 crore loss a year earlier.",
+   "stat": [
+    "+50%",
+    "revenue growth in FY26"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Cashify's revenue from operations rose 50% to ₹1,641 crore in FY26 from ₹1,094 crore. It made a net profit of ₹6.49 crore against a loss of ₹10.56 crore in FY25, and EBITDA rose to ₹22.7 crore from under ₹2 crore. Costs grew more slowly than sales, at 45.7%."
+     ]
+    },
+    {
+     "title": "What it does",
+     "paras": [
+      "Founded in 2013, Cashify buys used phones and gadgets, refurbishes the good ones and sells them again, through an app and over 250 stores in 95 cities. Its data shows 5G phones made up 54.6% of the phones it bought back in 2025, up from 36%, and laptops, tablets and wearables now make up 16.7% of refurbished sales."
+     ]
+    }
+   ],
+   "facts": [
+    "FY26 revenue: ₹1,641 crore",
+    "FY26 profit: ₹6.49 crore (FY25: ₹10.56 crore loss)",
+    "250+ stores in 95 cities"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/cashify-swings-to-%e2%82%b96-49-crore-profit-in-fy26-ws-l-115070.htm"
+    }
+   ],
+   "img": "cashify.jpg",
+   "credit": "Cashify / via Storyboard18",
+   "contain": true
+  },
+  {
+   "slug": "razorpay-udrhp-ipo-february-2027",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Razorpay may file updated IPO papers as early as next week and list by February 2027 at about a $5 billion valuation",
+   "dek": "The ₹6,000 crore IPO would value the payments firm about a third below its 2021 private valuation, Bloomberg reports.",
+   "stat": [
+    "₹6,000 cr",
+    "planned IPO size"
+   ],
+   "sections": [
+    {
+     "title": "The plan",
+     "paras": [
+      "Razorpay is preparing to publicly file its updated draft papers (UDRHP) as early as the week of 23 November, after SEBI cleared its confidential filing on 3 November, Bloomberg reported. Roadshows would follow, with a listing possible in February 2027.",
+      "The IPO of about ₹6,000 crore ($600 million) would include new shares and some sold by existing investors. It could value Razorpay at about $5 billion, roughly 33% below the $7.5 billion it was valued at in 2021."
+     ]
+    },
+    {
+     "title": "The business",
+     "paras": [
+      "Founded in 2014 by Harshil Mathur and Shashank Kumar, Razorpay has raised over $800 million from investors such as Tiger Global, Y Combinator, Ribbit Capital and Lightspeed. Its FY25 operating revenue rose 65% to ₹3,783 crore, but it posted a loss due to ₹1,209 crore of ESOP costs and its move from the US back to India."
+     ]
+    }
+   ],
+   "facts": [
+    "SEBI observations: 3 November 2026",
+    "Target valuation: about $5 billion",
+    "FY25 revenue: ₹3,783 crore, up 65%"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/razorpay-to-file-udrhp-by-next-week-eyes-ipo-by-february-2027-report/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "physicswallah-digital-university-punjab",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "PhysicsWallah will start a digital university in Punjab offering 16 courses like BCA, B.Com and MBA, with admissions from July 2027",
+   "dek": "The listed edtech also set a target of ₹9,000–10,000 crore revenue by FY30 at its first investor day.",
+   "stat": [
+    "16",
+    "degree, diploma and certificate courses planned"
+   ],
+   "sections": [
+    {
+     "title": "The university",
+     "paras": [
+      "PW has received approval under Punjab's private digital open universities policy, and the state has notified the new university. It plans 16 undergraduate, postgraduate, diploma and certificate programmes, including BCA, BBA, B.Com, BA, M.Com, MCA and MBA.",
+      "A twist: degrees will be combined with exam coaching, such as a B.Com with CA preparation or a BA with UPSC preparation. Admissions are set to start in July 2027."
+     ]
+    },
+    {
+     "title": "Big targets",
+     "paras": [
+      "At its first investor day in Mumbai, PW said it wants revenue of ₹9,000–10,000 crore by FY30, about 2.5 times the ₹3,900 crore of FY26, with online bringing in two-thirds. In the September quarter, its profit doubled to ₹143.6 crore and revenue rose 18% to ₹1,242 crore."
+     ]
+    }
+   ],
+   "facts": [
+    "Admissions from July 2027",
+    "FY30 revenue goal: ₹9,000–10,000 crore",
+    "Q2 FY27 profit: ₹143.6 crore, up 106%"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/pw-to-set-up-digital-university-to-offer-ug-pg-courses/"
+    },
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/physicswallah-targets-%e2%82%b910000-crore-revenue-by-fy30-online-to-contribute-two-thirds-ws-l-115051.htm"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "paytm-invests-cardup-singapore",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "head": "Paytm will invest up to ₹200 crore in Singapore's Funding Societies group, starting with a 19.1% stake in payments firm CardUp",
+   "dek": "It is part of Paytm's 'partner operated' plan to grow abroad without spending heavily on its own teams.",
+   "stat": [
+    "₹162 cr",
+    "for 19.1% of CardUp"
+   ],
+   "sections": [
+    {
+     "title": "The deal",
+     "paras": [
+      "Paytm's board approved up to ₹200 crore for companies in Singapore's Funding Societies group, through its Singapore subsidiary. About ₹162 crore (SGD 21.8 million) buys a 19.1% stake in CardUp, which lets people and businesses pay big bills like rent or tuition by credit card. The rest may go to another affiliate. Paytm expects to close by May 2027.",
+      "CardUp's turnover rose 53.9% to ₹299 crore in 2025."
+     ]
+    },
+    {
+     "title": "Why",
+     "paras": [
+      "Paytm will also sign a five-year tech partnership with CardUp, earning fees and a revenue share for providing payments and lending technology. Paytm's September-quarter profit rose 10.7 times to ₹225 crore."
+     ]
+    }
+   ],
+   "facts": [
+    "Up to ₹200 crore total",
+    "CardUp 2025 turnover: ₹299 crore",
+    "Deal expected to close by May 2027"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/paytm-lines-up-%e2%82%b9200-cr-investment-in-singapores-funding-societies/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "disseqt-ai-raises-8-million-rahul-dravid",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "AI agent-testing startup Disseqt AI raises $8 million, with Rahul Dravid among its angel investors",
+   "dek": "Founded in late 2025, the Ireland-headquartered startup has its engineering team in Bengaluru.",
+   "stat": [
+    "$8M",
+    "raised, led by Gresham House Ventures"
+   ],
+   "sections": [
+    {
+     "title": "What it does",
+     "paras": [
+      "Disseqt AI builds a safety and compliance layer for companies using AI agents. It tests agents for security holes and data leaks before launch, blocks rule-breaking answers in real time and keeps audit records that work across AI model providers.",
+      "It works with IT services firms Infosys, Cognizant, HCLTech, Mphasis and Tata Technologies to bring the platform to their clients."
+     ]
+    },
+    {
+     "title": "The round",
+     "paras": [
+      "Gresham House Ventures led the $8 million (about ₹75 crore) round, with Sure Valley Ventures, Delta Partners and Enterprise Ireland. Angels include former India captain Rahul Dravid and executives from OpenAI, Palo Alto Networks, Salesforce and Meta. The money will grow its customer base in the UK and other markets."
+     ]
+    }
+   ],
+   "facts": [
+    "Raised $8 million (about ₹75 crore)",
+    "Founded late 2025 by Apoorva Kumar, Manish Atri and Cyril Treacy",
+    "Engineering team in Bengaluru"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/"
+    },
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "us-polo-assn-india-4000-crore-target",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "head": "U.S. Polo Assn. targets ₹4,000 crore of sales in India this year; India is now its fastest-growing market",
+   "dek": "India already makes up about 20% of the brand's global sales, through its partnership with Arvind Fashions.",
+   "stat": [
+    "₹4,000 cr",
+    "India consumer sales target, FY27"
+   ],
+   "sections": [
+    {
+     "title": "The target",
+     "paras": [
+      "U.S. Polo Assn. aims for ₹4,000 crore in consumer sales in India in FY27, after high-teens growth. India is its third-largest market after the US and Turkey, its fastest-growing, and about 20% of global sales. Worldwide, the brand sold $2.7 billion at retail in 2025 across 190 countries."
+     ]
+    },
+    {
+     "title": "How it plans to grow",
+     "paras": [
+      "The brand is run in India by Arvind Fashions, which now gets 53% of its sales from its own stores and website and wants 65%. It started in menswear but now sells womenswear, kidswear, footwear and innerwear, and is using brand ambassador Padmanabh Singh, the polo-playing Jaipur royal, to reach younger shoppers."
+     ]
+    }
+   ],
+   "facts": [
+    "India: ~20% of global sales",
+    "Global retail sales 2025: $2.7 billion",
+    "Operates in 190 countries"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/u-s-polo-assn-targets-%e2%82%b94000-crore-consumer-sales-in-india-in-fy27-ws-l-115083.htm"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "nepra-raises-110-crore-plastic-recycling",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Ahmedabad's NEPRA raises ₹110 crore to triple its plastic recycling to 18,000 tonnes a year",
+   "dek": "London-based PIDG led the round, its first equity bet on waste and recycling in Asia.",
+   "stat": [
+    "3x",
+    "planned jump in plastic recycling capacity"
+   ],
+   "sections": [
+    {
+     "title": "The round",
+     "paras": [
+      "NEPRA, which runs the 'Let's Recycle' brand, raised ₹110 crore led by PIDG through its InfraCo arm, with existing investors Aavishkaar Capital, Circulate Capital, Blue Earth Capital and Asha Impact. It will build new sorting centres and raise working capital."
+     ]
+    },
+    {
+     "title": "The plan",
+     "paras": [
+      "NEPRA wants to raise waste processing from about 900 to 1,880 tonnes a day, and plastic recycling from 6,200 to 18,000 tonnes a year. Founded in 2006, it has facilities in Ahmedabad, Indore, Pune and Bengaluru, works with over 1,500 registered waste pickers, and helps brands meet their plastic-recycling obligations."
+     ]
+    }
+   ],
+   "facts": [
+    "Raised ₹110 crore",
+    "Waste processing: 900 → 1,880 tonnes/day",
+    "1,500+ registered waste pickers"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/nepra-raises-%e2%82%b9110-cr-to-expand-plastic-recycling-capacity/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "meta-muse-read-signal-messages-reuters",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "Meta's Muse AI assistant could read encrypted Signal messages on Android and Mac in Reuters tests; it was blocked on iPhone",
+   "dek": "Muse did not break Signal's encryption. It read message previews through phone permissions users granted during setup.",
+   "stat": [
+    "2 of 3",
+    "devices where Muse reached Signal texts"
+   ],
+   "sections": [
+    {
+     "title": "What Reuters found",
+     "paras": [
+      "In tests with Signal staff, Meta's Muse agent read the text of Signal chats that were never linked to it. On Android, it used a permission to read notifications from other apps, which show message previews. On a Mac, it used accessibility and screen access. On an iPhone, the same requests were blocked.",
+      "Internal chats seen by Reuters show some Meta employees had flagged it, one calling it an 'extreme privacy violation'."
+     ]
+    },
+    {
+     "title": "The responses",
+     "paras": [
+      "Meta said many reported mix-ups were hallucinations and called them isolated incidents. Signal president Meredith Whittaker criticised Meta and called for technical ways for apps to keep AI agents out. Tip: you can limit which apps can read your notifications in your phone's settings."
+     ]
+    }
+   ],
+   "facts": [
+    "Tests on 3 devices; Signal text reached on 2",
+    "Android: via notification access",
+    "iPhone: requests blocked"
+   ],
+   "sources": [
+    {
+     "name": "AllAboutCookies (summarising Reuters)",
+     "url": "https://allaboutcookies.org/meta-muse-ai-signal-message-privacy"
+    },
+    {
+     "name": "Business Upturn",
+     "url": "https://businessupturn.com/technology/metas-muse-read-signal-messages-through-device-permissions-in-reuters-tests/"
+    }
+   ],
+   "img": "meta_hq.jpg",
+   "credit": "Meta headquarters / LPS.1, Wikimedia, CC0",
+   "contain": false
+  },
+  {
+   "slug": "intuit-sells-mailchimp-bending-spoons",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "Intuit sells Mailchimp to Bending Spoons for about $3.68 billion, five years after buying it for about $12 billion",
+   "dek": "Intuit will use the cash to buy back its own shares once the deal closes in early 2027.",
+   "stat": [
+    "$3.68B",
+    "sale price, vs ~$12B paid in 2021"
+   ],
+   "sections": [
+    {
+     "title": "The deal",
+     "paras": [
+      "Intuit, the maker of TurboTax and QuickBooks, signed a deal on 19 November to sell Mailchimp to Bending Spoons for about $3.68 billion: roughly $3.31 billion in cash and $368 million in Bending Spoons shares, its filing says. It expects to close in early 2027 after approvals and to use the cash to buy back its own shares."
+     ]
+    },
+    {
+     "title": "A big markdown",
+     "paras": [
+      "Intuit bought Mailchimp in 2021 for about $12 billion in cash and stock, so it is selling for under a third of that price. Mailchimp is one of the best-known email marketing tools for small businesses."
+     ]
+    }
+   ],
+   "facts": [
+    "Sale price: about $3.68 billion",
+    "2021 purchase price: about $12 billion",
+    "Closing expected early 2027"
+   ],
+   "sources": [
+    {
+     "name": "Intuit 8-K (SEC)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0000896878/000119312526468834/d182669d8k.htm"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "lenovo-ai-revenue-jumps-79-percent",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "Lenovo's quarterly revenue hits a record $30.2 billion as AI sales jump 79% to $10.8 billion",
+   "dek": "AI now makes up 36% of the PC maker's revenue, and its AI server sales more than quadrupled.",
+   "stat": [
+    "$10.8B",
+    "AI-related revenue, up 79%"
+   ],
+   "sections": [
+    {
+     "title": "The quarter",
+     "paras": [
+      "Lenovo's revenue rose 48% to a record $30.2 billion in the July–September quarter, and adjusted net income jumped 166% to $1.36 billion. AI-related revenue reached $10.8 billion, 36% of the total."
+     ]
+    },
+    {
+     "title": "Servers lead the way",
+     "paras": [
+      "Its infrastructure business, which sells servers, grew 178% to $11.3 billion, with AI server revenue up over 300%. PC and phone revenue rose 15% to $17.4 billion, and Lenovo says it holds 25.2% of the world's AI PC market. It reported an $80 billion AI server pipeline."
+     ]
+    }
+   ],
+   "facts": [
+    "Revenue: $30.2 billion, up 48%",
+    "AI revenue: $10.8 billion (36% of total)",
+    "Infrastructure revenue: $11.3 billion, up 178%"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/lenovo-reports-record-revenue-driven-by-ai-boom-ws-l-115100.htm"
+    }
+   ],
+   "img": "lenovo.jpg",
+   "credit": "Lenovo / via Storyboard18",
+   "contain": true
+  },
+  {
+   "slug": "salesforce-fresh-layoffs-india-garden-leave",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "head": "Salesforce starts a fresh round of layoffs; India employees say they've been put on garden leave until February",
+   "dek": "The company has not confirmed how many people are affected. Posts on Blind describe packages worth about 21 weeks of pay in India.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What we know",
+     "paras": [
+      "Salesforce has reportedly begun another round of job cuts, Storyboard18 and Business Insider report, citing employee posts and internal Slack chats. Managers are among those affected. The company has not confirmed the number of jobs, the teams or the countries involved.",
+      "One person who said they work at Salesforce India wrote on Blind that they were told in a meeting and will stay on garden leave until 1 February 2027."
+     ]
+    },
+    {
+     "title": "Pay-outs",
+     "paras": [
+      "Unverified Blind posts describe India packages of about two months of garden leave plus extra weeks based on tenure, adding up to about 21 weeks. In the US, Business Insider says some staff could get up to 30 weeks of base pay. The cuts are linked to the company's push into AI and cost control."
+     ]
+    }
+   ],
+   "facts": [
+    "Number of job cuts: not disclosed",
+    "India garden leave reported until 1 Feb 2027",
+    "US severance: up to 30 weeks' base pay"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-makers/salesforce-begins-fresh-layoffs-india-employees-claim-job-cuts-extended-garden-leave-ws-l-115057.htm"
+    }
+   ],
+   "img": "salesforce.jpg",
+   "credit": "Salesforce / via Storyboard18",
+   "contain": true
+  },
+  {
+   "slug": "sensex-jumps-990-points-nifty-25514",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "head": "Sensex jumps 990 points to 83,022 and Nifty reclaims 25,500 as Maruti leads a 4.4% rally in auto stocks",
+   "dek": "Foreign investors have bought a record $11.28 billion of Indian shares so far in November, after two years of heavy selling.",
+   "stat": [
+    "+1.21%",
+    "Sensex on Thursday"
+   ],
+   "sections": [
+    {
+     "title": "The day",
+     "paras": [
+      "The Sensex rose 989.94 points, or 1.21%, to 83,021.75 on Thursday, and the Nifty 50 gained 286.35 points, or 1.14%, to 25,514.30, recovering from an early dip. 15 of 16 sector indices rose. Nifty Auto jumped 4.4% on strong festive vehicle demand, with Maruti Suzuki up about 7.6%.",
+      "IT was the exception, down 1.1%, after minutes from the US Fed's last meeting showed worry about stubborn inflation. Tech Mahindra, Infosys and TCS fell."
+     ]
+    },
+    {
+     "title": "The month so far",
+     "paras": [
+      "Foreign investors bought ₹5,867 crore of shares on Wednesday, taking November's buying to a record $11.28 billion. The Nifty is up about 10.7% this month and the Sensex about 11.5%."
+     ]
+    }
+   ],
+   "facts": [
+    "Sensex: 83,021.75 (+989.94)",
+    "Nifty 50: 25,514.30 (+286.35)",
+    "Nifty Auto +4.4%; Nifty IT −1.1%"
+   ],
+   "sources": [
+    {
+     "name": "HDFC Sky",
+     "url": "https://hdfcsky.com/news/market-close-report-today-november-19-2026-nifty-sensex-stage-sharp-recovery-as-fed-fails-to-scare-stocks"
+    },
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-ipo-today-126111900101_1.html"
+    }
+   ],
+   "img": "sensex.jpg",
+   "credit": "Illustration / via Kotak Neo",
+   "contain": false
+  },
+  {
+   "slug": "mahanadi-coalfields-ipo-day-1-subscription",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "head": "Mahanadi Coalfields' IPO is subscribed 0.38 times on day one; big institutions bid 1.26 times their share, retail just 0.14 times",
+   "dek": "The Coal India arm's issue, priced at ₹129–136 a share, stays open until 23 November.",
+   "stat": [
+    "0.38x",
+    "subscription after day 1"
+   ],
+   "sections": [
+    {
+     "title": "Day one",
+     "paras": [
+      "By the end of Thursday, the IPO had received bids for 0.38 times the shares on offer. Qualified institutional buyers bid 1.26 times their portion, while non-institutional investors were at 0.08 times and retail investors at 0.14 times. The company raised ₹2,295 crore from anchor investors including ADIA and LIC before the issue opened."
+     ]
+    },
+    {
+     "title": "Key details",
+     "paras": [
+      "The price band is ₹129–136, and one lot is 110 shares, or ₹14,960 at the top end. Bidding closes on 23 November, and the shares are due to list on 27 November. IPOs often see most retail bids on the last day."
+     ]
+    }
+   ],
+   "facts": [
+    "Price band: ₹129–136; lot of 110 shares",
+    "Anchor book: ₹2,295 crore",
+    "Closes 23 Nov; listing 27 Nov"
+   ],
+   "sources": [
+    {
+     "name": "IPO Premium",
+     "url": "https://www.ipopremium.in/view/ipo/1434/mahanadi-coalfields"
+    },
+    {
+     "name": "India IPO",
+     "url": "https://www.indiaipo.in/daily-reporter/india-ipo-daily-market-ipo-updates-19th-november-2026"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "nicholls-phillips-tons-nz-317-6-india-wellington",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "Nicholls and Phillips hit centuries as New Zealand recover from 70 for 5 to 317 for 6 against India in Wellington",
+   "dek": "Their 216-run stand took the game away from India on day two of the first Test, after Bumrah's early burst.",
+   "stat": [
+    "216",
+    "Nicholls–Phillips stand for the 6th wicket"
+   ],
+   "sections": [
+    {
+     "title": "The fightback",
+     "paras": [
+      "New Zealand were in trouble at 70 for 5 on the first day at the Basin Reserve after India chose to bowl. Henry Nicholls and Glenn Phillips then put on 216, taking the score to 243 for 5 at stumps on day one.",
+      "Nicholls reached his 12th Test hundred, his fifth at the Basin Reserve, and was 146 not out at lunch on day two. Phillips made 118, his second Test century, before Akash Deep ended the partnership."
+     ]
+    },
+    {
+     "title": "India's bowling",
+     "paras": [
+      "At lunch on Friday, New Zealand were 317 for 6. Jasprit Bumrah, in his comeback Test, had 3 for 75 and Akash Deep 2 for 45."
+     ]
+    }
+   ],
+   "facts": [
+    "NZ at lunch, day 2: 317/6",
+    "Nicholls 146*; Phillips 118",
+    "Bumrah 3/75, Akash Deep 2/45"
+   ],
+   "sources": [
+    {
+     "name": "IANS",
+     "url": "https://ianslive.in/1st-test-nicholls-unbeaten-on-146-phillips-hits-118-as-nz-reach-3176-against-india--20261120062615"
+    },
+    {
+     "name": "ANI",
+     "url": "https://www.aninews.in/news/sports/cricket/1st-test-nicholls-phillips-tons-power-new-zealand-to-3176-against-india-at-lunch-on-day-220261120055309/"
+    }
+   ],
+   "img": "basin_reserve.jpg",
+   "credit": "Basin Reserve / itravelNZ, Wikimedia, CC BY 2.0",
+   "contain": false
+  },
+  {
+   "slug": "india-women-beat-malaysia-4-1-asian-champions-trophy",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "India's women come from behind to beat Malaysia 4–1 at the Asian Champions Trophy in Bhopal",
+   "dek": "The defending champions trailed after 19 minutes but scored four times, with captain Salima Tete among the scorers.",
+   "stat": [
+    "4–1",
+    "India's opening win in Bhopal"
+   ],
+   "sections": [
+    {
+     "title": "The match",
+     "paras": [
+      "Malaysia's Nuramirah Zulkifli scored in the 19th minute, but Mumtaz Khan equalised a minute later and it was 1–1 at half-time. Captain Salima Tete then put India ahead, Puja Sahoo scored from a penalty corner, and Lalremsiami made it 4–1 in the 49th minute. Puja Sahoo was named player of the match."
+     ]
+    },
+    {
+     "title": "Next up",
+     "paras": [
+      "India play South Korea on 21 November in the six-team tournament at Bhopal's International Sports Complex in Nathu Barkheda. Entry is free."
+     ]
+    }
+   ],
+   "facts": [
+    "Score: India 4–1 Malaysia",
+    "Scorers: Mumtaz, Salima, Puja, Lalremsiami",
+    "Next: vs South Korea, 21 November"
+   ],
+   "sources": [
+    {
+     "name": "IANS",
+     "url": "https://ianslive.in/womens-asian-champions-trophy-india-rally-past-malaysia-4-1-begin-title-defence-with-win--20261119204232"
+    },
+    {
+     "name": "India.com",
+     "url": "https://www.india.com/sports/hockey/india-beat-malaysia-4-1-defending-champions-make-strong-start-to-womens-asian-champions-trophy-2026-8546330/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "good": true,
+   "emoji": "🏑"
+  },
+  {
+   "slug": "lakshya-sen-qualifies-bwf-world-tour-finals",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "Lakshya Sen qualifies for the BWF World Tour Finals in Hangzhou, five years after his semi-final debut",
+   "dek": "He edged Japan's Koki Watanabe by just 560 points in the race, after Kidambi Srikanth knocked Watanabe out in Hong Kong.",
+   "stat": [
+    "560",
+    "points between Sen and Watanabe in the race"
+   ],
+   "sections": [
+    {
+     "title": "How he got in",
+     "paras": [
+      "Sen had 74,180 points in the Race to Finals standings to Watanabe's 73,620. When Srikanth beat Watanabe in the first round of the Hong Kong Open, the last qualifying event, Sen's place was sealed. He had won back-to-back titles at the Hylo Open and Kumamoto Masters to climb into contention."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "The Finals run from 9 to 13 December in Hangzhou, China. Sen joins PV Sindhu as India's second qualifier. In 2021, he reached the semi-finals on debut."
+     ]
+    }
+   ],
+   "facts": [
+    "Finals: 9–13 December, Hangzhou",
+    "Sen 74,180 vs Watanabe 73,620 points",
+    "PV Sindhu also qualified"
+   ],
+   "sources": [
+    {
+     "name": "Khel Now",
+     "url": "https://khelnow.com/badminton/lakshya-sen-qualifies-bwf-finals-202611"
+    },
+    {
+     "name": "myKhel",
+     "url": "https://www.mykhel.com/badminton/bwf-world-tour-finals-2026-lakshya-sen-qualifies-for-sowpiece-event-after-srikanths-hong-kong-open-459431.html"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "good": true,
+   "emoji": "🏸"
+  },
+  {
+   "slug": "gta-6-7-9-million-concurrent-viewers-record",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "head": "GTA 6 breaks the all-time streaming record with 7.9 million people watching live at once, within three hours of launch",
+   "dek": "That is more than four times the old record for a game launch, set by Valorant's beta in 2020.",
+   "stat": [
+    "7.9M",
+    "peak live viewers across Twitch, YouTube, Kick"
+   ],
+   "sections": [
+    {
+     "title": "The record",
+     "paras": [
+      "Streams Charts' early estimates show GTA VI peaked at 7,886,176 concurrent viewers across Twitch, YouTube and Kick within three hours of release. The previous game-launch record was about 1.74 million for Valorant's closed beta in April 2020. Hogwarts Legacy peaked at about 1.36 million and Cyberpunk 2077 at about 1.32 million."
+     ]
+    },
+    {
+     "title": "Twitch alone",
+     "paras": [
+      "On Twitch, GTA VI hit about 3.29 million viewers, beating the roughly 3.11 million who watched League of Legends' 2022 world final, a record that stood for nearly four years. Rockstar's game launched in stages, with New Zealand players getting in first on 18 November."
+     ]
+    }
+   ],
+   "facts": [
+    "Peak: 7,886,176 viewers",
+    "Old record: ~1.74 million (Valorant, 2020)",
+    "Twitch peak: ~3.29 million"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/gta-6-smashes-gaming-livestream-viewership-records-ws-l-115097.htm"
+    }
+   ],
+   "img": "gta6.jpg",
+   "credit": "Rockstar Games / via Storyboard18",
+   "contain": true
+  },
+  {
+   "slug": "ramayana-part-1-day-15-box-office",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "head": "Ramayana: Part 1 earns ₹19.35 crore on day 15; its worldwide total crosses ₹1,547 crore",
+   "dek": "The Ranbir Kapoor–Yash epic's Hindi version alone has now passed ₹650 crore net in India.",
+   "stat": [
+    "₹1,547 cr",
+    "worldwide gross in 15 days"
+   ],
+   "sections": [
+    {
+     "title": "Day 15",
+     "paras": [
+      "On its second Thursday, Ramayana: Part 1 earned about ₹19.35 crore net in India, down 16.6% from Wednesday's ₹23.2 crore, according to Sacnilk's figures. Its worldwide gross is now about ₹1,547 crore.",
+      "The Hindi version has collected about ₹657.5 crore net, making it only the fourth film to pass ₹650 crore in Hindi, The Week reports."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "Nitesh Tiwari's film faces new weekend releases from today, but its second-week total of nearly ₹294 crore net suggests it will keep a big share of screens."
+     ]
+    }
+   ],
+   "facts": [
+    "Day 15 India net: ~₹19.35 crore",
+    "Hindi net: ~₹657.5 crore",
+    "Worldwide gross: ~₹1,547 crore"
+   ],
+   "sources": [
+    {
+     "name": "Sacnilk",
+     "url": "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_15"
+    },
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/entertainment/2026/11/19/ramayana-day-15-box-office-collection-650-crore-hindi-net.html"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "devan-ekambaram-varuvaaiy-first-tamil-grammy-nomination",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "Varuvaaiy becomes the first Tamil song ever nominated for a Grammy, a Subramania Bharati poem set to music",
+   "dek": "Chennai composer Devan Ekambaram and singer Susha are up for Best Global Music Performance against Rosalía, Shakira and Burna Boy.",
+   "stat": [
+    "1st",
+    "Tamil song nominated for a Grammy"
+   ],
+   "sections": [
+    {
+     "title": "The song",
+     "paras": [
+      "Varuvaaiy is a 3-minute-26-second independent track released in August. It sets a poem by Subramania Bharati in raga Desh, mixing Carnatic singing with piano, slide guitar, bass and tabla. Singer Subhiksha Rangarajan, known as Susha, recorded it in two to three hours.",
+      "It was picked from 526 entries for the 69th Grammys' Best Global Music Performance category. The awards are in Los Angeles in February 2027."
+     ]
+    },
+    {
+     "title": "The man behind it",
+     "paras": [
+      "Devan Ekambaram quit an engineering degree in the US at 21 and moved to Chennai 'with no support and no direction'. He has since sung on over 500 film soundtracks. Views of the song jumped from about 300 to 35,000 after the nomination. 'I was too nervous to watch,' he says."
+     ]
+    }
+   ],
+   "facts": [
+    "Category: Best Global Music Performance",
+    "526 submissions in the category",
+    "Ceremony: February 2027"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/culture/devan-ekambaram-varuvaaiy-susha-grammy-nomination-12823356"
+    }
+   ],
+   "img": "grammy.jpg",
+   "credit": "Grammy trophy / Thank You (23 Millions+) views, Wikimedia, CC BY 2.0",
+   "contain": false,
+   "good": true,
+   "emoji": "🎵"
+  },
+  {
+   "slug": "neighbour-helps-87-year-old-carole-gofundme",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "She went upstairs to complain about the noise and found an 87-year-old with Parkinson's living alone; strangers have now given over $109,000",
+   "dek": "Heidi Widmer's videos about her neighbour Carole in Los Angeles have been watched nearly 30 million times.",
+   "stat": [
+    "$109K+",
+    "raised for Carole's care"
+   ],
+   "sections": [
+    {
+     "title": "From annoyed to 'grandma'",
+     "paras": [
+      "Heidi Widmer was losing sleep over the thumping from the flat above hers in Culver City. Then she met the cause: Carole, 87, who has Parkinson's, lives alone and takes about 20 minutes to get down the stairs with a walker.",
+      "Widmer started taking out Carole's trash twice a week, cooking for her and sorting her medical paperwork, and got the landlord to replace her AC, carpet, stove and fridge. 'Now I got a grandma,' she says."
+     ]
+    },
+    {
+     "title": "Where the money goes",
+     "paras": [
+      "After her posts went viral, a GoFundMe raised more than $109,000. It will pay for a stair lift so Carole can stay in her home, and for private care after her rehab from a broken wrist. Widmer's advice: 'Lead with kindness.'"
+     ]
+    }
+   ],
+   "facts": [
+    "Carole is 87 and has Parkinson's",
+    "Nearly 30 million views",
+    "Over $109,000 raised"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/loud-neighbor-parkinsons-gofundme/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "good": true,
+   "emoji": "💛"
+  },
+  {
+   "slug": "students-save-santa-clara-dudleya-poached-plant",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "Students are breeding a rare, much-poached succulent that grows only near their California campus, to bring it back to the wild",
+   "dek": "Santa Clara University scientists also want to flood nurseries with legal plants so poaching stops paying.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The plant",
+     "paras": [
+      "The Santa Clara Valley dudleya, nicknamed 'liveforever', is a pale-yellow flowering succulent found only in Coyote Valley near Silicon Valley. It is federally endangered and one of the most poached wild plants in California, and it also faces climate change and habitat loss."
+     ]
+    },
+    {
+     "title": "The rescue",
+     "paras": [
+      "Dr Justen Whittall and his students collect tiny seeds, test their genetic diversity and breed the most diverse plants for release into the wild. They are also studying which pollinators visit the flowers. Professor Stephen McCabe has bred colourful varieties for nurseries, hoping cheap legal plants will cut demand for stolen ones."
+     ]
+    }
+   ],
+   "facts": [
+    "Found only in Coyote Valley, California",
+    "Federally endangered",
+    "Team: Santa Clara University"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/"
+    }
+   ],
+   "img": "dudleya.jpg",
+   "credit": "Santa Clara Valley Habitat Agency / via Good News Network",
+   "contain": false,
+   "good": true,
+   "emoji": "🌸"
+  },
+  {
+   "slug": "moradabad-ramganga-sunday-cleanups-1-2-lakh-kg",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "An engineer's Sunday clean-ups have pulled over 1.2 lakh kg of waste out of Moradabad's Ramganga river",
+   "dek": "More than 5,000 volunteers have joined Kapil Kumar's 218-plus drives since 2018.",
+   "stat": [
+    "1.2 lakh kg",
+    "waste removed from the Ramganga"
+   ],
+   "sections": [
+    {
+     "title": "Every Sunday",
+     "paras": [
+      "Kapil Kumar, a 35-year-old mechanical engineer, started the Clean Up Ram Ganga campaign at Lalbagh Ghat on Earth Day 2018 with his group Parivartan. Since June 2021, volunteers have shown up every Sunday morning. A typical drive collects 300–700 kg.",
+      "Flowers and offerings go to a compost pit, idols are kept out of the river and other waste goes to the city or to recyclers."
+     ]
+    },
+    {
+     "title": "Changing habits",
+     "paras": [
+      "More than 5,000 people have taken part, and Parivartan has over 3,000 registered volunteers. The group pays its way by selling donated old newspapers, books and plastic. 'The greatest achievement has never been the kilograms of waste removed,' Kumar says; it is getting people to change how they dispose of things."
+     ]
+    }
+   ],
+   "facts": [
+    "Started 22 April 2018",
+    "218+ clean-up drives",
+    "5,000+ volunteers"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/sustainability/kapil-kumar-clean-up-ram-ganga-moradabad-river-cleanup-volunteers-parivartan-12804326"
+    }
+   ],
+   "img": "ramganga.jpg",
+   "credit": "Ramganga river / via The Better India",
+   "contain": false,
+   "good": true,
+   "emoji": "♻️"
+  },
+  {
+   "slug": "spandan-pocket-ecg-20000-villages",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "A pocket-sized ECG built in Dehradun has reached over 20,000 villages, giving heart reports in about two minutes",
+   "dek": "Sunfox's Spandan plugs into a smartphone and needs no internet or extra battery.",
+   "stat": [
+    "60,000+",
+    "Spandan devices in use"
+   ],
+   "sections": [
+    {
+     "title": "The device",
+     "paras": [
+      "Rajat Jain started Sunfox Technologies after a close friend died of a heart attack. With four co-founders, he built Spandan, a 12-lead ECG that runs off a smartphone and gives a report in about two minutes. Prices range from ₹6,900 to ₹75,000; small clinics pay about ₹16,000–17,000."
+     ]
+    },
+    {
+     "title": "The reach",
+     "paras": [
+      "More than 60,000 devices are deployed across 28 states and over 20,000 villages, and about 60% of users are in rural or small-town India, the company says. On Uttarakhand's Char Dham route, it screened over 13,100 pilgrims and flagged 463 critical cases. More than 400 devices are also used in Africa. Sunfox raised a $7 million Series A in September."
+     ]
+    }
+   ],
+   "facts": [
+    "Report in about 2 minutes",
+    "20,000+ villages in 28 states",
+    "Price from ₹6,900"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/health-care/sunfox-spandan-portable-ecg-device-rural-india-12804214"
+    }
+   ],
+   "img": "spandan.jpg",
+   "credit": "Sunfox Spandan / via The Better India",
+   "contain": false,
+   "good": true,
+   "emoji": "🫀"
+  },
+  {
+   "slug": "smartphone-tool-spots-fake-malaria-tablets",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "A student builds a phone app that spots fake malaria tablets from a photo, correctly identifying 94% of real ones in trials",
+   "dek": "Falsified antimalarial drugs are linked to an estimated 267,000 deaths a year.",
+   "stat": [
+    "94%",
+    "genuine tablets correctly identified"
+   ],
+   "sections": [
+    {
+     "title": "How it works",
+     "paras": [
+      "Jean D'Amour Kwizera, a student at the University of Buckingham in the UK, wrote software that checks a smartphone photo of a tablet to tell whether it is genuine. In a trial, it correctly identified 94% of real tablets. It is still a proof of concept."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Fake and substandard malaria medicines are a big problem in parts of Africa and Asia, and are linked to an estimated 267,000 deaths. A cheap phone check could help pharmacies and health workers catch them. The project won the UK's Overt STEM Impact Award."
+     ]
+    }
+   ],
+   "facts": [
+    "Trial accuracy on genuine tablets: 94%",
+    "Linked deaths from fake antimalarials: ~267,000",
+    "Won the Overt STEM Impact Award"
+   ],
+   "sources": [
+    {
+     "name": "Positive News",
+     "url": "https://www.positive.news/society/good-news-stories-from-week-46-of-2026/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "good": true,
+   "emoji": "💊"
+  },
+  {
+   "slug": "tusk-conservation-awards-2026-africa",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "Tusk Conservation Awards honour Africans who cut poaching, beat bottom trawlers in court and brought back black rhinos",
+   "dek": "This year's winners come from Kenya and Mozambique.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The winners",
+     "paras": [
+      "Raabia Hawa of Kenya's Ulinzi Africa Foundation was honoured for court wins, including a case against destructive bottom trawlers. Daniel Yiankere of Kenya's Loisaba Conservancy was recognised for a big fall in poaching and for helping bring eastern black rhinos back in 2024."
+     ]
+    },
+    {
+     "title": "Smart solutions",
+     "paras": [
+      "Dr Colleen Begg of the Niassa Carnivore Project in Mozambique was honoured for reviving traditional stilt houses, which have cut animal attacks on families living near lions and other big cats."
+     ]
+    }
+   ],
+   "facts": [
+    "3 honourees from Kenya and Mozambique",
+    "Eastern black rhinos returned to Loisaba in 2024",
+    "Stilt houses reduce wildlife attacks"
+   ],
+   "sources": [
+    {
+     "name": "Positive News",
+     "url": "https://www.positive.news/society/good-news-stories-from-week-46-of-2026/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "good": true,
+   "emoji": "🦏"
+  }
+ ],
+ "also": []
+}
