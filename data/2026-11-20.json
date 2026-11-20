@@ -1611,5 +1611,17 @@
    "emoji": "🦏"
   }
  ],
- "also": []
+ "also": [],
+ "explainers": [
+  {
+   "q": "What is MDR, and why does it matter to Paytm?",
+   "a": "MDR (merchant discount rate) is a small fee a shop pays on each digital payment it receives. Card payments already carry it, but UPI is free today. The government has proposed a 0.4% MDR only on certain UPI payments to merchants above ₹2,000. Payment apps like Paytm, MobiKwik and Pine Labs would earn from it, so any delay hits their revenue plans. You, the customer, still pay nothing extra.",
+   "slug": "paytm-mobikwik-pine-labs-fall-upi-mdr-delay"
+  },
+  {
+   "q": "What is a UDRHP, which Razorpay plans to file?",
+   "a": "Before an IPO, a company files a draft prospectus (DRHP) with SEBI. Razorpay used the confidential route, so its draft was private. Once SEBI approves, the company must publish an updated draft (UDRHP) for the public to read for at least 21 days, with its financials and risks, before it can launch the IPO.",
+   "slug": "razorpay-udrhp-ipo-february-2027"
+  }
+ ]
 }

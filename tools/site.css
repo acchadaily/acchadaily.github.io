@@ -397,3 +397,13 @@ body.papermode{color:#111}
 @media (max-width:900px){.np-front{grid-template-columns:1fr}.np-side{border-left:0;padding-left:0;border-top:1px solid #111;padding-top:14px}.np-cols{column-count:2}}
 @media (max-width:600px){.np-cols,.np-body{column-count:1}.np-top{font-size:10.5px;letter-spacing:1px}.np-dek{font-size:18px}}
 @media print{header,footer,.np-foot{display:none}.np-wrap{padding:0}}
+
+/* explainers */
+.xps{display:grid;gap:14px;margin:18px 0 6px}
+.xp{background:var(--card);border-radius:20px;padding:20px 22px;border-left:5px solid var(--yel)}
+.xp-k{font-size:12px;font-weight:800;letter-spacing:2.5px;text-transform:uppercase;color:var(--soft)}
+.xp h3{font-size:21px;font-weight:850;letter-spacing:-.5px;margin-top:8px;line-height:1.25}
+.xp p{font-size:16px;color:var(--mut);margin-top:8px;line-height:1.55}
+.xp-go{display:inline-block;margin-top:10px;font-size:14px;font-weight:750}
+.art .xp{margin-top:28px}
+@media (min-width:800px){.xps{grid-template-columns:repeat(auto-fit,minmax(320px,1fr))}}

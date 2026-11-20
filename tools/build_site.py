@@ -276,7 +276,10 @@ SECTIONS = [  # (name, tags)
     ('India', {'India', 'Politics', 'Your Wallet', 'Economy'}),
     ('World', {'World', 'Geopolitics'}),
     ('Startups & Brands', {'Startups', 'Founders', 'Brands', 'Marketing', 'Viral', 'Business'}),
-    ('Tech & AI', {'AI & Tech', 'Tech', 'Science', 'Space'}),
+    ('Tech & AI', {'AI & Tech', 'Tech'}),
+    ('Auto & Gadgets', {'Auto', 'Gadgets'}),
+    ('Health & Science', {'Health', 'Science', 'Space'}),
+    ('Climate', {'Climate'}),
     ('Markets & Money', {'Markets', 'Finance'}),
     ('Sports', {'Sports'}),
     ('Entertainment', {'Entertainment', 'Movies', 'Culture'}),
@@ -306,6 +309,19 @@ def markets(d):
         return ''
     cells = ''.join(f'''<div class="mk"><span>{e(x['n'])}</span><b>{e(x['v'])}</b><em class="{'up' if str(x.get('c','')).startswith('+') else 'dn' if str(x.get('c','')).startswith(('-','−')) else ''}">{e(x.get('c',''))}</em></div>''' for x in m['items'])
     return f'<div class="mkts"><div class="wrap"><div class="mk-row">{cells}</div><div class="mk-as">{e(m.get("asof",""))}</div></div></div>'
+
+
+def explainers(d, slug=None, link=True):
+    X = [x for x in d.get('explainers', []) if slug is None or x.get('slug') == slug]
+    if not X:
+        return ''
+    S = {s['slug']: s for s in d['stories']}
+    out = ''
+    for x in X:
+        s = S.get(x.get('slug'))
+        more = f'<a class="xp-go" href="{url(d, s)}">Read the story →</a>' if (s and link) else ''
+        out += f'<div class="xp"><div class="xp-k">💡 Explained</div><h3>{e(x["q"])}</h3><p>{e(x["a"])}</p>{more}</div>'
+    return f'<div class="xps">{out}</div>'
 
 
 def edition(d, home):
@@ -354,6 +370,7 @@ def edition(d, home):
 <h1>{"Today's" if home else e(d['day']) + "'s"} biggest stories<b>.</b></h1>
 <p>India and the world — brands, startups, tech, sports, money and more. Explained simply, in our own words.</p></div>
 {lead_h}{top_h}{brief}
+{explainers(d)}
 <div class="modes"><a class="mode good" href="{url(d)}good/"><span class="me">☀️</span><span><b>Only good news</b><small>{sum(1 for x in S if x.get('good'))} stories of things going right</small></span><span class="mg">→</span></a>
 <a class="mode paper" href="{url(d)}paper/"><span class="me">📰</span><span><b>Newspaper view</b><small>Today as a clean front page</small></span><span class="mg">→</span></a></div>
 <nav class="jump" aria-label="Sections">{nav}</nav>
@@ -484,7 +501,7 @@ def story(d, i):
 <div style="margin-top:18px">{tag(s)}</div>
 <h1>{e(s['head'])}</h1><p class="dek">{e(s['dek'])}</p>
 <div class="meta"><div class="by"><b>accha? daily</b> · <time datetime="{d['date']}">{e(d['date_label'])}</time> · {rt(s)}</div>{share}</div>
-{fig}{short}<div class="body">{secs}</div>
+{fig}{short}<div class="body">{secs}</div>{explainers(d, s['slug'], link=False)}
 {f'<div class="src"><div class="bt">Read the original reporting</div>{srcs}</div>' if srcs else ''}
 </article>
 <a class="next st" href="{url(d, nxt)}"><div><small>Next story →</small><h3>{e(nxt['head'])}</h3></div>{pic(d, nxt, '120px') if nxt.get('img') else ''}</a>
