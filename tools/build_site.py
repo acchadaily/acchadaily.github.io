@@ -31,6 +31,10 @@ KIT_FORM_ACTION = 'https://app.kit.com/forms/10218211/subscriptions'
 # you turn double opt-in off, so the success message stops telling people to
 # go and check their inbox.
 KIT_DOUBLE_OPTIN = False
+# The address subscribers should allow-list. Shown after they sign up: a brand
+# new sending domain gets filtered for weeks, and adding the sender to contacts
+# is the one thing a reader can do about it.
+SENDER = 'daily@acchadaily.in'
 e = html.escape
 
 try:
@@ -263,7 +267,8 @@ def subscribe():
         '<h2>Get <b>accha?</b> daily in your inbox</h2>'
         '<p>The day\u2019s 5 biggest stories, every morning. Free.</p>'
         f'<form class="sub-f" action="{e(KIT_FORM_ACTION)}" method="post" '
-        f'data-confirm="{"1" if KIT_DOUBLE_OPTIN else "0"}">'
+        f'data-confirm="{"1" if KIT_DOUBLE_OPTIN else "0"}" '
+        f'data-sender="{e(SENDER)}">'
         '<label class="skip" for="sub-email">Your email address</label>'
         '<input id="sub-email" type="email" name="email_address" required '
         'autocomplete="email" placeholder="you@email.com">'

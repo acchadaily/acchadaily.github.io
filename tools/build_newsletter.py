@@ -332,6 +332,7 @@ def build_html(data, date, n):
 <tr><td class="pad" bgcolor="{INK}" style="background:{INK};padding:26px 24px;" align="center">
   <div style="font:900 15px/1 {DISP};color:{YEL};padding:0 0 10px;letter-spacing:-.2px;">accha? daily</div>
   <div style="font:400 12px/1.7 {SANS};color:#9AA0AA;">
+    Landing in spam? Add <span style="color:#FFFFFF;">daily@acchadaily.in</span> to your contacts.<br />
     You get this because you subscribed to accha? daily.<br />
     The day&rsquo;s biggest stories on brands, startups, tech and your wallet &mdash; explained simply.
     <div style="padding:12px 0 0;">{{$unsubscribe}}</div>

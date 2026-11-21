@@ -122,10 +122,24 @@
     }).then(function (r) {
       if (!r.ok) throw new Error(r.status);
       var confirm = f.getAttribute('data-confirm') === '1';
+      var sender = f.getAttribute('data-sender') || '';
       f.remove();
       note(confirm
         ? 'Almost there — check your inbox and click the confirmation link.'
         : "You're in. The next edition lands in your inbox tomorrow morning.");
+      /* A sending domain this new gets filtered for weeks. Allow-listing is the
+         one thing the reader can actually do about it, and this is the only
+         moment we have to ask: with single opt-in there is no welcome email. */
+      if (sender) {
+        var tip = document.createElement('div');
+        tip.className = 'sub-tip';
+        tip.innerHTML =
+          '<b>One quick thing</b> — add <code>' + sender + '</code> to your contacts, ' +
+          'or the first few may land in spam.' +
+          '<span>Gmail: open the email \u2192 tap the \u22ee \u2192 <em>Add to contacts</em>. ' +
+          'If it went to Spam, tap <em>Report not spam</em> first.</span>';
+        box.insertBefore(tip, box.querySelector('small'));
+      }
     }).catch(function () {
       btn.disabled = false;
       btn.textContent = label;

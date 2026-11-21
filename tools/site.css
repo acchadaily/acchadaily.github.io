@@ -431,6 +431,13 @@ body.papermode{color:#111}
 @media (prefers-color-scheme:dark){.sub-box{box-shadow:inset 0 0 0 1px #2B2F36}}
 .sub-note{max-width:430px;margin:20px auto 0;font-size:17px;font-weight:700;color:#F2B705;line-height:1.45}
 .sub-note.bad{color:#FF9A8B;font-weight:600;font-size:15px}
+.sub-tip{max-width:430px;margin:16px auto 0;padding:14px 16px;text-align:left;
+  background:rgba(242,183,5,.12);border-left:3px solid #F2B705;border-radius:0 8px 8px 0;
+  font-size:14px;line-height:1.5;color:#E8E9EB}
+.sub-tip b{color:#F2B705}
+.sub-tip code{font:inherit;font-weight:700;color:#fff;word-break:break-all}
+.sub-tip span{display:block;margin-top:7px;font-size:13px;color:#9AA0AA}
+.sub-tip em{font-style:normal;font-weight:700;color:#C9CDD4}
 @media (max-width:520px){
   .sub-box{padding:26px 18px;border-radius:14px}
   .sub-box h2{font-size:24px}
