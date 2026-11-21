@@ -1,0 +1,1802 @@
+{
+ "date": "2026-11-21",
+ "day": "Saturday",
+ "date_label": "21 November 2026",
+ "note": "",
+ "markets": {
+  "asof": "Fri 20 Nov 2026 close (HDFC Sky, Kotak Neo, Business Standard)",
+  "items": [
+   {
+    "n": "Sensex",
+    "v": "83,920",
+    "c": "+1.08%"
+   },
+   {
+    "n": "Nifty 50",
+    "v": "25,801",
+    "c": "+1.12%"
+   },
+   {
+    "n": "USD/INR",
+    "v": "92.67",
+    "c": "₹ +62 paise"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slug": "kantar-brandz-india-2026-airtel-blinkit-meesho",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "head": "Airtel is India's most valuable brand at $43.2 billion in Kantar BrandZ 2026; Blinkit enters at No. 27 and Meesho grows fastest, up 64%",
+   "dek": "Kantar's yearly list of India's 100 most valuable brands is out. Telecom and banks still rule the top, but quick commerce and value shopping are climbing fast.",
+   "stat": [
+    "$43.2B",
+    "Airtel's brand value, No. 1 in India"
+   ],
+   "sections": [
+    {
+     "title": "Who is on top",
+     "paras": [
+      "Bharti Airtel keeps the No. 1 spot in the Kantar BrandZ India 2026 ranking with a brand value of $43.2 billion. That is 5% more than last year and about 210% more than in 2020, Kantar says.",
+      "The rest of the top five is a wall of banks and IT: HDFC Bank ($35.6 billion), TCS ($24.1 billion), SBI ($23.6 billion) and ICICI Bank ($20.1 billion). Financial services brands together make up 29% of the value of the whole list."
+     ]
+    },
+    {
+     "title": "The fast risers",
+     "paras": [
+      "Meesho is the fastest-growing brand, with its value up 64% to $1.9 billion (rank 59). Royal Enfield is close behind, up 60% to $3.8 billion (rank 30).",
+      "Other big gainers include TVS (up 33%), PhonePe (31%), SBI (26%), CRED and Paytm (both 23%) and Flipkart (19%). Many of the risers sell to price-conscious buyers in smaller towns, or sell everyday digital payments."
+     ]
+    },
+    {
+     "title": "Blinkit's big debut",
+     "paras": [
+      "Nine brands are new to the Top 100 this year. The highest new entry is Blinkit, which comes straight in at No. 27 with a value of $4.3 billion, ahead of some brands that have been around for decades.",
+      "It is a sign of how quickly 10-minute delivery has become a habit in Indian cities. Blinkit, owned by Eternal (formerly Zomato), has spent the year expanding into everything from electronics to ambulances."
+     ]
+    },
+    {
+     "title": "The bigger picture",
+     "paras": [
+      "The combined value of all 100 brands is $460.3 billion, which Kantar puts at about 11% of India's GDP. That total is down 12% from last year, so the big gains of a few brands came while the overall pool shrank.",
+      "BrandZ measures how much of a company's value comes from its brand alone, based on its finances and on surveys of what consumers think and feel about it."
+     ]
+    }
+   ],
+   "facts": [
+    "Airtel No. 1 at $43.2 billion, up 5% in a year",
+    "Blinkit is the top new entrant at No. 27 ($4.3 billion)",
+    "Top 100 worth $460.3 billion, down 12%"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/how-it-works/meesho-royal-enfield-tvs-top-risers-in-list-of-indias-most-valuable-brand-kantar-brandz-india-2026-ws-l-115159.htm"
+    }
+   ],
+   "img": "kantar.jpg",
+   "credit": "Meesho, Royal Enfield, TVS / via Storyboard18",
+   "contain": false
+  },
+  {
+   "slug": "supreme-court-clears-bike-taxis-karnataka-rapido-uber-ola",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Supreme Court clears bike taxis in Karnataka, saying it is 'better to regulate it than ban it' — a big win for Rapido, Uber and Ola",
+   "dek": "The top court dismissed Karnataka's appeal, ending a ban that shut bike taxis in Bengaluru and the rest of the state in June 2025.",
+   "stat": [
+    "4.5 lakh",
+    "bike-taxi passengers in Karnataka, say aggregators"
+   ],
+   "sections": [
+    {
+     "title": "What the court said",
+     "paras": [
+      "A bench of Justices Satish Chandra Sharma and N Kotiswar Singh dismissed the Karnataka government's appeal against a High Court judgment from 23 January. The High Court had said the state can regulate bike taxis but cannot refuse permits just because the vehicle has two wheels.",
+      "\"It is better to regulate it than ban it,\" Justice Sharma said, noting that bike taxis already run in 25 states."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Bike taxis in Karnataka had been stopped since 16 June 2025. The aggregators told the court about 4.5 lakh passengers in the state use them, while driver groups say more than one lakh gig workers lost income during the shutdown.",
+      "For Bengaluru, a city famous for its traffic jams, a bike is often the fastest and cheapest way to get across town. Commuters had been forced back to autos, cabs and crowded buses."
+     ]
+    },
+    {
+     "title": "Who wins",
+     "paras": [
+      "Rapido is the biggest winner. It operates in more than 400 cities, does over 5 million rides a day, and was valued at $3 billion after raising $240 million in May. Uber, whose Uber Bike runs in 100 cities, called the ruling \"much-needed regulatory clarity\". Ola also runs bike taxis.",
+      "The ruling also lands a day after Union minister Nitin Gadkari urged states to allow private bikes to be used as app taxis. Karnataka must now frame rules under which bike taxis can get permits, rather than blocking them outright."
+     ]
+    }
+   ],
+   "facts": [
+    "Ban in Karnataka since 16 June 2025",
+    "Bike taxis already run in 25 states",
+    "Rapido: 5 million+ rides a day, valued at $3 billion"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/supreme-court-upholds-karnataka-hc-order-allowing-bike-taxis/"
+    },
+    {
+     "name": "Indian Startup News",
+     "url": "https://indianstartupnews.com/news/better-to-regulate-it-than-ban-it-supreme-court-clears-ola-uber-and-rapido-bike-taxis-in-karnataka-12826573"
+    }
+   ],
+   "img": "bike_taxi.jpg",
+   "credit": "Bike taxi / via Inc42",
+   "contain": false
+  },
+  {
+   "slug": "google-gemini-chatty-ai-ads-india",
+   "tag": "Marketing",
+   "color": "#0E9F5B",
+   "head": "Google's new Gemini ads in India mock a fictional 'Chatty AI' that keeps asking users to pay — days after ChatGPT's Raghu ad",
+   "dek": "India's AI ad war is heating up. Three new Gemini films show a rival assistant hitting users with paywalls and limits in the middle of their day.",
+   "stat": [
+    "3",
+    "new Gemini films: Date, Yoga and Viva"
+   ],
+   "sections": [
+    {
+     "title": "The ads",
+     "paras": [
+      "Google has released three short films for Gemini in India, called \"Date\", \"Yoga\" and \"Viva\". In each one, a made-up assistant called \"Chatty AI\" lets its user down at the worst moment, asking for payment or running into a feature limit.",
+      "Gemini is then shown doing the same job for free: live video chat and unlimited free image uploads. The films also make the point that users can bring their context with them when they switch."
+     ]
+    },
+    {
+     "title": "Who made it",
+     "paras": [
+      "The campaign was created by the agency Bare Bones Collective and stars six content creators, including Vagmita Singh, Anushka Kaushik and Anuj Gupta. It is running on TV, digital platforms, in cinemas and on social media."
+     ]
+    },
+    {
+     "title": "Spot the target",
+     "paras": [
+      "The ads never name a rival. But the name \"Chatty AI\" and the paywall jokes are hard to miss, and they arrive just days after OpenAI released its own India ad for ChatGPT featuring Roadies judge Raghu.",
+      "India is one of the biggest battlegrounds for AI assistants because of its huge number of young, mobile-first users. Both Google and OpenAI have been giving away paid tiers to Indian users to grab them early, and the marketing is now turning openly competitive."
+     ]
+    },
+    {
+     "title": "Why it works",
+     "paras": [
+      "Comparative advertising with a fictional rival is an old trick: it lets a brand land a punch without legal trouble. Using relatable creators instead of film stars also keeps the films feeling like the short videos young viewers already watch."
+     ]
+    }
+   ],
+   "facts": [
+    "Agency: Bare Bones Collective",
+    "Six creators star in the films",
+    "Running on TV, digital, cinema and social"
+   ],
+   "sources": [
+    {
+     "name": "afaqs!",
+     "url": "https://www.afaqs.com/news/advertising/google-gemini-takes-a-dig-at-fictional-ai-app-chatty-ai-12826885"
+    }
+   ],
+   "img": "gemini.jpg",
+   "credit": "Google / via 9to5Google",
+   "contain": false
+  },
+  {
+   "slug": "nvidia-shares-fall-14-percent-sec-accounting-probe",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "Nvidia shares crash 14% and lose about $491 billion in a day after reports of an SEC accounting probe; the Nasdaq falls 5.3%",
+   "dek": "It was Nvidia's worst day since the DeepSeek scare, and it dragged the whole AI trade down with it.",
+   "stat": [
+    "−14%",
+    "Nvidia's fall on Friday, to $125.53"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Nvidia's stock fell 14.01% on Friday to close at $125.53, wiping out about $491 billion of market value in one session. The company is now worth about $3.03 trillion, down from about $3.52 trillion the day before.",
+      "The trigger was a Reuters report, citing two people briefed on the matter, that enforcement staff at the US Securities and Exchange Commission are examining \"potential accounting issues\" at the chipmaker. The SEC declined to comment. An inquiry is not a finding of wrongdoing."
+     ]
+    },
+    {
+     "title": "What could be in question",
+     "paras": [
+      "Reports have not said exactly which practices are under review. Analysts have pointed to Nvidia's change in how it reports revenue by region, and to the financing it guarantees for some customers, which stood at $118 billion at the end of the last quarter.",
+      "The Wall Street Journal first reported an SEC probe on 17 November, without details."
+     ]
+    },
+    {
+     "title": "A rough few weeks",
+     "paras": [
+      "The stock is now down about 48% from its record close of $239.24 on 6 October. Jensen Huang stepped down as CEO in mid-November, with finance chief Colette Kress serving as interim CEO."
+     ]
+    },
+    {
+     "title": "The market damage",
+     "paras": [
+      "The fall spread across tech. The Nasdaq dropped 5.28% to 22,617.73 and the S&P 500 lost 3.70% to 6,910.39, putting it in a technical correction. Broadcom fell about 12%.",
+      "For India, the AI sell-off has had an unexpected upside: foreign investors have been moving money out of US AI stocks and into Indian shares this month."
+     ]
+    }
+   ],
+   "facts": [
+    "Nvidia closed at $125.53, down 14.01%",
+    "Nasdaq −5.28%, S&P 500 −3.70%",
+    "Down ~48% from its 6 October record"
+   ],
+   "sources": [
+    {
+     "name": "Motley Fool",
+     "url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/"
+    },
+    {
+     "name": "Motley Fool (market close)",
+     "url": "https://fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds"
+    },
+    {
+     "name": "24/7 Wall St",
+     "url": "https://247wallst.com/investing/2026/11/20/nvidia-stock-plunges-12-after-reuters-reports-an-sec-probe-of-its-accounting-its-nvidias-worst-day-since-deepseek-and-it-has-lost-2-7-trillion-since-october/"
+    }
+   ],
+   "img": "nvidia.jpg",
+   "credit": "Nvidia office / via Motley Fool",
+   "contain": false
+  },
+  {
+   "slug": "nike-plans-to-triple-india-business-by-2031",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "head": "Nike plans to triple its India business by 2031, with a full cricket shoe range and a running shoe built for Indian runners",
+   "dek": "India is one of the bright spots in Nike's new turnaround plan, even as the company warns that its global sales will shrink next year.",
+   "stat": [
+    "3x",
+    "Nike's India growth target by 2031"
+   ],
+   "sections": [
+    {
+     "title": "The plan",
+     "paras": [
+      "Nike wants to more than triple the size of its India business by 2031. The goal is part of its \"Full Stride Ahead\" strategy, laid out at its first investor day since 2017 earlier this week.",
+      "It is betting on India's fast-growing sportswear market, which is worth about $9 billion today and is growing more than 10% a year, to about $14 billion by 2031."
+     ]
+    },
+    {
+     "title": "Cricket and running",
+     "paras": [
+      "Nike plans a full range of cricket footwear before the LA 2028 Olympics, where cricket returns to the Games. It is also building on its partnership with Mumbai Indians across the men's and women's leagues.",
+      "For runners, it is launching Vegam Run, a shoe designed using insights from Indian runners — a sign that global brands now see Indian feet, roads and weather as a market worth designing for."
+     ]
+    },
+    {
+     "title": "Why India matters to Nike",
+     "paras": [
+      "Globally, Nike is going through a tough patch. It has guided for revenue to fall by a high single-digit percentage in FY27, and its shares fell sharply after the investor day this week.",
+      "Its long-term targets are about $5 billion of extra revenue by FY31 and an operating margin of 12–14%. Fast-growing markets like India are central to getting there, especially as Indian rivals and global brands like Adidas, Puma and Asics fight for the same young buyers."
+     ]
+    }
+   ],
+   "facts": [
+    "India sportswear market: ~$9B now, ~$14B by 2031",
+    "Cricket shoe range before LA 2028",
+    "Global FY27 revenue to fall high single digits"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/nike-aims-to-triple-its-india-business-by-2031-ws-l-115157.htm"
+    }
+   ],
+   "img": "nike.jpg",
+   "credit": "Nike / via Storyboard18",
+   "contain": true
+  },
+  {
+   "slug": "flipkart-big-billion-days-timing-walmart-international-q3",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "head": "Flipkart's Big Billion Days timing knocks about 5 points off Walmart International's growth; the unit still grows 7% to $35.9 billion",
+   "dek": "Because this year's sale fell in a different quarter, Walmart's Indian business showed up weaker than usual in its latest results.",
+   "stat": [
+    "$35.9B",
+    "Walmart International quarterly sales, up 7%"
+   ],
+   "sections": [
+    {
+     "title": "What Walmart reported",
+     "paras": [
+      "Walmart International's net sales rose 7% to $35.9 billion in the third quarter, or 3.3% if you strip out currency moves. Walmart said the shift in timing of Flipkart's Big Billion Days sale cut the unit's growth by about 500 basis points and the whole company's growth by about 100 basis points.",
+      "Walmart expects to get roughly that 100 basis points back in the fourth quarter, when the festive sales are counted."
+     ]
+    },
+    {
+     "title": "The bigger picture",
+     "paras": [
+      "Walmart's total revenue rose 5.2% to $188.8 billion, and it raised its forecast for the full year. Last year's numbers included a one-off $722 million non-cash charge related to PhonePe, which makes comparisons messier.",
+      "Flipkart is Walmart's biggest bet outside the US and is preparing for a stock market listing in India."
+     ]
+    }
+   ],
+   "facts": [
+    "Big Billion Days shift cut growth ~500 bps",
+    "Walmart total revenue $188.8 billion, +5.2%",
+    "Walmart raised its full-year forecast"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/flipkarts-bbd-timing-weighs-on-walmart-internationals-q3-growth/"
+    }
+   ],
+   "img": "flipkart.jpg",
+   "credit": "Flipkart / via Inc42",
+   "contain": false
+  },
+  {
+   "slug": "shark-tank-india-6-content-creators-special",
+   "tag": "Viral",
+   "color": "#0891B2",
+   "head": "Shark Tank India Season 6 opens a 'Content Creators Special': influencers can now pitch their brands to the Sharks",
+   "dek": "\"Don't just post your ideas. Pitch them!\" says the new call for entries on Sony LIV.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What's new",
+     "paras": [
+      "Shark Tank India has opened registrations for a special segment only for content creators in Season 6, under the line \"Don't just post your ideas. Pitch them!\" Sign-ups are open on the show's website on Sony LIV. A separate Young Founders Special is also taking entries.",
+      "The promo poster shows ChatGPT as a co-presenter of the season."
+     ]
+    },
+    {
+     "title": "Why creators",
+     "paras": [
+      "Creator-led brands have become one of the hottest corners of Indian D2C. Coverage of the new segment points to examples like comedian Kusha Kapila's innerwear label Underneat and Bhuvan Bam's House of Sarkkar.",
+      "Creators bring a ready audience, which cuts marketing costs — the very thing most Shark Tank pitches struggle with. The special lets the show tap that trend, and gives its own social media a boost from creators who will promote their episodes."
+     ]
+    }
+   ],
+   "facts": [
+    "Registrations open on Sony LIV",
+    "Separate Young Founders Special also open",
+    "ChatGPT co-presents Season 6"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/shark-tank-india-6-launches-content-creator-special-segment-ws-l-115185.htm"
+    },
+    {
+     "name": "Buzzincontent",
+     "url": "https://www.buzzincontent.com/news/shark-tank-india-season-6-invites-content-creators-to-pitch-their-ventures-12826602"
+    }
+   ],
+   "img": "shark_tank.jpg",
+   "credit": "Sony LIV / via Storyboard18",
+   "contain": false
+  },
+  {
+   "slug": "eggoz-revenue-180-crore-quick-commerce",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "head": "Eggoz grows revenue from about ₹75 crore to ₹180 crore in three years by selling branded eggs on quick commerce apps",
+   "dek": "Quick commerce now brings in 85–90% of its volume, in a market where most eggs are still sold loose at the kirana.",
+   "stat": [
+    "₹180 Cr",
+    "Eggoz's FY26 revenue"
+   ],
+   "sections": [
+    {
+     "title": "The growth",
+     "paras": [
+      "Eggoz, started in 2020 by Abhishek Negi, Uttam Kumar and Aditya Singh, made about ₹180 crore in revenue in FY26, up from about ₹75 crore roughly three years earlier. It now sells in more than 30 cities.",
+      "Quick commerce apps like Blinkit, Zepto and Swiggy Instamart account for 85–90% of the volume it sells."
+     ]
+    },
+    {
+     "title": "Why branded eggs are hard",
+     "paras": [
+      "Branded eggs make up only about 7% of India's egg market, estimated at $8 billion, and they cost nearly 50% more than unbranded ones. Eggoz pitches freshness, traceability and extra nutrition — its Protein Plus eggs weigh over 60 g with at least 7 g of protein each.",
+      "It is one of a wave of egg brands, including Henfruit, which raised funding this week, trying to turn a loose, everyday item into a trusted brand."
+     ]
+    }
+   ],
+   "facts": [
+    "Founded 2020",
+    "Sold in 30+ cities",
+    "Branded eggs: ~7% of an $8 billion market"
+   ],
+   "sources": [
+    {
+     "name": "afaqs!",
+     "url": "https://www.afaqs.com/news/mktg/in-a-market-ruled-by-kirana-stores-eggoz-is-making-eggs-a-branded-affair-12824439"
+    }
+   ],
+   "img": "eggs.jpg",
+   "credit": "Eggs / via Indian Startup News",
+   "contain": false
+  },
+  {
+   "slug": "fireside-ventures-leadership-change-vinay-singh-exits",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Fireside Ventures, early backer of boAt and Mamaearth, faces a leadership shake-up as co-founder Vinay Singh leaves",
+   "dek": "Founder Kanwaljit Singh has also signalled he will step back from daily work, Inc42 reports, raising the question of who runs the ₹5,300 crore fund next.",
+   "stat": [
+    "₹5,300 Cr",
+    "assets Fireside manages"
+   ],
+   "sections": [
+    {
+     "title": "What's changing",
+     "paras": [
+      "Co-founder Vinay Singh is leaving Fireside Ventures to explore \"agentic commerce\", and a principal, Prayag Mohanty, left about ten days later, Inc42 reports. Kanwaljit Singh, who started the firm in 2017, has signalled he will step back from day-to-day operations.",
+      "Kannan Sitaram and Dipanjan Basu are seen as possible successors. Fireside did not respond to Inc42's questions."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Fireside is one of India's best-known consumer brand investors. Its fourth fund closed at ₹2,265 crore in December 2025, and it has backed more than 65 brands, including The Sleep Company, Pilgrim, Traya and Yoga Bar, which Fireside says together earn over $1.6 billion in revenue.",
+      "Its early bet boAt has filed for a ₹1,500 crore IPO. How smoothly the firm hands over to a new generation will matter to the founders it backs."
+     ]
+    }
+   ],
+   "facts": [
+    "Founded in 2017",
+    "Fund IV: ₹2,265 crore",
+    "65+ brands in its portfolio"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/features/fireside-ventures-changing-guard-exits-power-struggle-and-the-succession-question/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "cyclone-akvan-landfall-gopalpur-no-major-damage",
+   "tag": "India",
+   "color": "#2563EB",
+   "head": "Cyclone Akvan crosses Odisha near Gopalpur with 70–80 kmph winds; no deaths reported after 3.72 lakh people were moved to safety",
+   "dek": "The storm weakened before landfall and brought very heavy rain to Ganjam, but Odisha says it caused no major damage.",
+   "stat": [
+    "3.72 lakh",
+    "people moved to shelters in Odisha"
+   ],
+   "sections": [
+    {
+     "title": "Landfall",
+     "paras": [
+      "Cyclone Akvan crossed the Odisha coast near Gopalpur on Friday morning with winds of 70–80 kmph gusting to 90 kmph, the India Meteorological Department said. It had weakened from a severe cyclonic storm before landfall, and by the afternoon it had become a deep depression, then a depression.",
+      "Disaster Management Minister Suresh Pujari said no major damage or loss of life had been reported."
+     ]
+    },
+    {
+     "title": "Rain and preparation",
+     "paras": [
+      "Patrapur in Ganjam got 209 mm of rain, Hinjili 207 mm and Chikiti 199 mm. Chief Secretary Anu Garg said 3.72 lakh people were moved to nearly 10,000 shelters, including over 1.5 lakh in Ganjam. More than 4,000 pregnant women were among those moved.",
+      "Railways cancelled dozens of trains. Damage was minor: a landslide blocked the road to the Tara Tarini temple and parts of Berhampur were waterlogged. Andhra Pradesh was largely spared."
+     ]
+    }
+   ],
+   "facts": [
+    "Winds 70–80 kmph, gusting to 90",
+    "Patrapur got 209 mm of rain",
+    "14 NDRF teams deployed"
+   ],
+   "sources": [
+    {
+     "name": "Deccan Herald",
+     "url": "https://www.deccanherald.com/india/odisha/cyclone-akvan-weakens-into-depression-after-landfall-in-odisha-no-major-damage-flood-threat-4225921"
+    },
+    {
+     "name": "The Hans India",
+     "url": "https://www.thehansindia.com/odisha/no-major-damage-due-to-cyclone-1144162"
+    },
+    {
+     "name": "ETV Bharat",
+     "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-akvan-live-updates-november-20-landfall-odisha-andhra-pradesh-wind-speed-rainfall-ndrf-evacuation-rescue-enn26112000397"
+    }
+   ],
+   "img": "cyclone.jpg",
+   "credit": "Odisha / via Deccan Herald",
+   "contain": false
+  },
+  {
+   "slug": "india-forex-reserves-fall-14-billion-705-billion",
+   "tag": "Economy",
+   "color": "#D97706",
+   "head": "India's forex reserves fall $14.2 billion in a week to $705.3 billion, a three-month low, even as the rupee hits a seven-month high",
+   "dek": "RBI data shows the drop came mostly from revaluation, as the value of gold and foreign assets changed.",
+   "stat": [
+    "$705.3B",
+    "India's forex reserves, week to 13 Nov"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "India's foreign exchange reserves fell by $14.2 billion to $705.34 billion in the week ended 13 November, RBI data released on Friday shows. That is the lowest in about three months. The record was $785.7 billion on 4 September.",
+      "Foreign currency assets stood at $583.45 billion, and gold reserves fell by about $6.2 billion to around $98.6 billion. Business Standard attributed the drop mainly to revaluation."
+     ]
+    },
+    {
+     "title": "The rupee",
+     "paras": [
+      "The rupee, meanwhile, rose for a fifth day on Friday, gaining 62 paise to close at 92.67 per dollar, its strongest since April, helped by heavy foreign buying of Indian stocks and softer oil prices."
+     ]
+    }
+   ],
+   "facts": [
+    "Reserves: $705.34 billion",
+    "Gold reserves down ~$6.2 billion",
+    "Rupee: 92.67 per dollar"
+   ],
+   "sources": [
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/economy/news/india-s-forex-reserves-fall-14-21-bn-to-705-34-bn-on-revaluation-126112001283_1.html"
+    },
+    {
+     "name": "The Tribune",
+     "url": "https://www.tribuneindia.com/news/business/forex-reserves-fall-usd-14-2-billion-to-3-month-low-of-usd-705-34-billion/"
+    }
+   ],
+   "img": "forex.jpg",
+   "credit": "Currency notes / via Business Standard",
+   "contain": false
+  },
+  {
+   "slug": "nikhil-gupta-sentenced-235-months-us-court",
+   "tag": "India",
+   "color": "#2563EB",
+   "head": "US court sentences Indian national Nikhil Gupta to 235 months in prison over the foiled plot to kill Gurpatwant Singh Pannun",
+   "dek": "Gupta had pleaded guilty earlier this year. He apologised in court.",
+   "stat": [
+    "235 months",
+    "about 19.5 years in prison"
+   ],
+   "sections": [
+    {
+     "title": "The sentence",
+     "paras": [
+      "A New York federal judge, Victor Marrero, sentenced Nikhil Gupta to 235 months, about 19.5 years, after an 80-minute hearing on Friday. Gupta had pleaded guilty to three counts: murder-for-hire, conspiracy to commit murder-for-hire and conspiracy to commit money laundering.",
+      "Pannun is a US-based Khalistani separatist whom India has designated a terrorist."
+     ]
+    },
+    {
+     "title": "The background",
+     "paras": [
+      "US prosecutors allege that a former Indian government official, Vikash Yadav, directed the plot; he has not been arrested. India has previously said such actions are against government policy and set up its own inquiry. No fresh statement from the Ministry of External Affairs had been reported on the sentence."
+     ]
+    }
+   ],
+   "facts": [
+    "Sentenced by Judge Victor Marrero",
+    "Pleaded guilty to 3 counts",
+    "Co-accused Vikash Yadav is at large"
+   ],
+   "sources": [
+    {
+     "name": "ANI",
+     "url": "https://www.aninews.in/news/world/us/indian-national-nikhil-gupta-sentenced-to-235-months-in-us-prison-over-foiled-assassination-plot-against-designated-terrorist-pannun20261120225729/"
+    },
+    {
+     "name": "The Tribune",
+     "url": "https://www.tribuneindia.com/news/usa-news/indian-national-nikhil-gupta-sentenced-to-235-months-in-us-prison-over-foiled-assassination-plot-against-designated-terrorist-pannun/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "bengal-electoral-roll-revision-postponed",
+   "tag": "Politics",
+   "color": "#2563EB",
+   "head": "Election Commission postpones West Bengal's voter-list revision that was due to start on 23 November; new dates to come later",
+   "dek": "The state's Chief Electoral Officer cited \"some unavoidable circumstances\" and gave no other reason.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What was postponed",
+     "paras": [
+      "The Special Summary Revision of the photo electoral roll for 2027, which was due to begin in West Bengal on 23 November, has been put off. The revised schedule will be shared later, the Chief Electoral Officer's office said. The qualifying date for new voters stays 1 January 2027.",
+      "A summary revision is the routine yearly update when people can add their names, correct details or flag entries for removal."
+     ]
+    },
+    {
+     "title": "The context",
+     "paras": [
+      "Bengal's rolls have been in the spotlight all year. After an earlier special intensive revision, about 91 lakh names, around 11.9% of the electorate, had been removed by 6 April."
+     ]
+    }
+   ],
+   "facts": [
+    "Was due to start 23 Nov",
+    "Qualifying date: 1 Jan 2027",
+    "~91 lakh names removed earlier this year"
+   ],
+   "sources": [
+    {
+     "name": "Scroll",
+     "url": "https://scroll.in/latest/1097217/bengal-ec-postpones-special-summary-revision-of-electoral-roll"
+    },
+    {
+     "name": "The Hans India",
+     "url": "https://www.thehansindia.com/kolkata/special-summary-revision-of-photo-electoral-roll-in-bengal-postponed-1144106"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "india-first-indigenous-h5n1-bird-flu-vaccine-chickens",
+   "tag": "India",
+   "color": "#2563EB",
+   "head": "India unveils its first home-grown bird flu vaccine for chickens; one dose protects for about six months",
+   "dek": "The H5N1 vaccine was developed by ICAR's high-security animal disease lab in Bhopal.",
+   "stat": [
+    "500+",
+    "bird flu outbreaks in India since 2006"
+   ],
+   "sections": [
+    {
+     "title": "The vaccine",
+     "paras": [
+      "Agriculture Minister Shivraj Singh Chouhan unveiled the vaccine, developed by ICAR-NIHSAD in Bhopal, on Friday. It targets clade 2.3.2.1a of the H5N1 virus, the strain circulating in India, and a single dose gives about six months of protection, the institute says."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "India has had more than 500 outbreaks of H5N1 and H5N8 bird flu since 2006. Each one usually means culling every bird in a wide area around the farm, which wipes out poultry farmers' income and pushes up egg and chicken prices.",
+      "A local vaccine could protect flocks before outbreaks, rather than relying only on culling after them."
+     ]
+    }
+   ],
+   "facts": [
+    "Developed by ICAR-NIHSAD, Bhopal",
+    "Single dose, ~6 months protection",
+    "Targets clade 2.3.2.1a"
+   ],
+   "sources": [
+    {
+     "name": "Deccan Herald",
+     "url": "https://www.deccanherald.com/india/icar-nihsad-develops-indias-first-indigenous-h5n1-vaccine-to-protect-chickens-from-bird-flu-4225306"
+    },
+    {
+     "name": "India TV",
+     "url": "https://www.indiatvnews.com/madhya-pradesh/india-develops-first-indigenous-h5n1-bird-flu-vaccine-in-bhopal-one-dose-offers-six-month-protection-2026-11-20-1059955"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "estonia-closes-road-border-russia-iron-curtain",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "head": "Estonia will close its road border with Russia from 1 December for at least six months; Moscow calls it a 'new Iron Curtain'",
+   "dek": "Tallinn blames Russia for an attempted arson attack on an Estonian drone maker. The Kremlin denies it.",
+   "stat": [
+    "6 months",
+    "minimum closure, then a review"
+   ],
+   "sections": [
+    {
+     "title": "The decision",
+     "paras": [
+      "Estonia says it will shut its road crossings with Russia from 1 December on security grounds, for at least six months, before reviewing the decision. Rail freight is not affected.",
+      "The government pointed to an attempted arson attack on drone maker Threod Systems, which it blames on Russia."
+     ]
+    },
+    {
+     "title": "Russia's reply",
+     "paras": [
+      "Russian foreign ministry spokeswoman Maria Zakharova called it an attempt \"to erect a new Iron Curtain\" and promised political and diplomatic countermeasures. Neighbouring Finland has kept all its Russian crossings closed since 2023."
+     ]
+    }
+   ],
+   "facts": [
+    "Closure from 1 December",
+    "Rail freight continues",
+    "Finland shut its crossings in 2023"
+   ],
+   "sources": [
+    {
+     "name": "The Moscow Times / Reuters",
+     "url": "https://www.themoscowtimes.com/2026/11/20/russia-accuses-estonia-of-erecting-new-iron-curtain-with-border-closure-says-it-will-respond-a94333"
+    },
+    {
+     "name": "US News / Reuters",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-20/russia-accuses-estonia-of-erecting-new-iron-curtain-with-border-closure-says-it-will-respond"
+    }
+   ],
+   "img": "narva.jpg",
+   "credit": "Narva border, Estonia–Russia / Hannu, Wikimedia, public domain",
+   "contain": false
+  },
+  {
+   "slug": "russian-missiles-land-in-poland-nato-grave-violation",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "head": "Russian missiles and a drone land in Poland during a massive strike on Ukraine; NATO calls it a 'grave violation'",
+   "dek": "No one was hurt in Poland, but PM Donald Tusk said it looked like \"an intentional provocation\".",
+   "stat": [
+    "3",
+    "objects crossed into Poland"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Poland's defence minister Władysław Kosiniak-Kamysz said one of the objects that fell on Polish territory on Friday was a Kh-101 cruise missile, a second was likely a missile, and the third was most likely a jet-powered drone. NATO jets were scrambled. No one was injured.",
+      "Tusk linked the incident to military drills being held in Poland by the \"Coalition of the Willing\" countries backing Ukraine. NATO chief Mark Rutte is due in Warsaw on Saturday."
+     ]
+    },
+    {
+     "title": "In Ukraine",
+     "paras": [
+      "It happened during a huge Russian missile and drone attack on Ukraine. Two people were killed at a railway station in Lviv, near the Polish border, and three were reported killed in Kyiv, with emergency power cuts in several regions."
+     ]
+    }
+   ],
+   "facts": [
+    "One object was a Kh-101 cruise missile",
+    "NATO jets scrambled",
+    "Rutte visits Warsaw on Saturday"
+   ],
+   "sources": [
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/europe/2026/1120/1600008-poland-russia-airspace-violations/"
+    },
+    {
+     "name": "PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "saudi-coalition-strikes-hodeidah-after-pif-tower-attack",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "head": "Saudi-led coalition strikes Yemen's Hodeidah port after the Houthi hit on Riyadh's PIF tower; Houthis threaten Red Sea ports",
+   "dek": "The tit-for-tat raises fears for shipping and for an aid lifeline that millions of Yemenis depend on.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The strikes",
+     "paras": [
+      "The Saudi-led coalition said it destroyed facilities at Hodeidah port used to smuggle weapons and missiles. Yemen's Houthi-run information ministry said the port was still working. The coalition also said it intercepted Houthi missiles on Friday.",
+      "The strikes followed Thursday's Houthi missile hit on the Public Investment Fund's tower, Riyadh's tallest building, which caused damage but no injuries."
+     ]
+    },
+    {
+     "title": "Threats and warnings",
+     "paras": [
+      "The Houthis threatened Jeddah and other Saudi Red Sea ports and the Shuqaiq power station, later claimed attacks on Shuqaiq and a port in Jazan, and warned airlines to avoid Saudi airspace. The UN warned that strikes on Hodeidah put a vital aid route at risk. The war reignited in July."
+     ]
+    }
+   ],
+   "facts": [
+    "PIF tower hit on 19 Nov, no injuries",
+    "Hodeidah: key port for aid",
+    "War reignited in July 2026"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south"
+    },
+    {
+     "name": "Dawn",
+     "url": "https://www.dawn.com/news/2045987/houthis-claim-more-attacks-on-s-arabia-after-hodeidah-hit"
+    },
+    {
+     "name": "Business Recorder / Reuters",
+     "url": "https://www.brecorder.com/news/40450067/saudi-led-forces-strike-port-to-destroy-houthi-capabilities"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "cop31-antalya-overtime-fossil-fuels-dropped-from-draft",
+   "tag": "World",
+   "color": "#0891B2",
+   "head": "COP31 climate talks in Antalya run into overtime after a draft deal drops all mention of moving away from fossil fuels",
+   "dek": "A third draft is due on Saturday morning, as many countries push back against the weaker text.",
+   "stat": [
+    "$120B",
+    "adaptation finance goal dropped from the draft"
+   ],
+   "sections": [
+    {
+     "title": "Where things stand",
+     "paras": [
+      "The UN climate summit in Antalya, Turkey, did not finish on time on Friday. A revised draft removed all references to transitioning away from fossil fuels and dropped a proposed $120 billion target for adaptation finance, after objections from Saudi Arabia and other oil producers, according to Reuters.",
+      "Panama threatened to formally object, and a bloc of countries from Europe, Africa, Latin America and the Pacific demanded stronger language. Delegates approved only technical items late on Friday."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "COP31 President Murat Kurum promised a third draft on Saturday morning. Separately, Turkey says it has signed deals worth more than $26 billion during the summit, including a preliminary $15 billion renewable energy deal with China."
+     ]
+    }
+   ],
+   "facts": [
+    "Talks began 9 November",
+    "Third draft due Saturday",
+    "Turkey: $26 billion in side deals"
+   ],
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168845"
+    },
+    {
+     "name": "PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/world/activists-leaders-criticize-cop31-climate-talks-as-fossil-fuels-go-unmentioned-in-draft-deal"
+    },
+    {
+     "name": "US News / Reuters",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-20/cop31-delivers-deals-for-host-turkey-as-climate-diplomacy-stalls"
+    }
+   ],
+   "img": "cop31.jpg",
+   "credit": "UN Photo / via UN News",
+   "contain": false
+  },
+  {
+   "slug": "trump-tax-us-companies-data-centres-abroad",
+   "tag": "World",
+   "color": "#0891B2",
+   "head": "Trump threatens a 'tremendous tax' on US companies that build data centres abroad, naming Google's plans in Finland",
+   "dek": "He gave no rate, timeline or legal route, and said he had not yet told his own officials.",
+   "stat": [
+    "€13B",
+    "Google's reported investment in Finland"
+   ],
+   "sections": [
+    {
+     "title": "What he said",
+     "paras": [
+      "At a White House press conference on Friday, President Donald Trump said US firms that build data centres in other countries would face a \"tremendous tax\". He singled out a planned project in Finland, which reports link to Google's roughly €13 billion investment there, and said \"China will take all of them\".",
+      "Under the US Constitution, the power to set taxes rests with Congress, and Trump gave no details of how it would work."
+     ]
+    },
+    {
+     "title": "The India angle",
+     "paras": [
+      "Trump also said the Quad countries — the US, India, Japan and Australia — had agreed at their summit this week to jointly develop \"superintelligence\", but that US participation would be limited. Big US tech firms have announced billions of dollars of data-centre spending in India this year."
+     ]
+    }
+   ],
+   "facts": [
+    "No tax rate or timeline given",
+    "Taxing power sits with Congress",
+    "Quad AI plan: limited US role"
+   ],
+   "sources": [
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/business/corporations/trump-data-centers-overseas-penalties-rcna610445"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/amp/2026/11/20/trump-data-centers-ai-companies-tax.html"
+    },
+    {
+     "name": "The Hawk / IANS",
+     "url": "https://www.thehawk.in/news/world/geopolitics/trump-puts-limits-on-quad-ai-plan-will-penalise-us-companies-that-build-data-centres-overseas"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "european-commission-confirms-ai-assisted-cyberattack",
+   "tag": "Tech",
+   "color": "#7C3AED",
+   "head": "European Commission confirms a cyberattack that used AI tools; payroll and medical claims systems were down for over 10 days",
+   "dek": "The first signs of the attack were spotted on 22 October.",
+   "stat": [
+    "10+ days",
+    "staff systems disrupted"
+   ],
+   "sections": [
+    {
+     "title": "What was hit",
+     "paras": [
+      "The European Commission confirmed it was hit by attackers using AI tools. Its payroll system Sysper, its medical reimbursement system MyPMO and translation services were disrupted for more than ten days. It said there is no evidence so far of a breach of all staff data.",
+      "The EU's cyber response team CERT-EU links the attack to ARTEX, a penetration-testing tool turned to criminal use, though the Commission has not confirmed that."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Security experts have warned for months that AI makes attacks faster and cheaper to run. A successful hit on the EU's executive body is one of the clearest public examples yet."
+     ]
+    }
+   ],
+   "facts": [
+    "First signs: 22 October",
+    "Payroll, medical claims, translation hit",
+    "No sign of staff-wide data breach"
+   ],
+   "sources": [
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/european-commission-confirms-cyberattack-using-ai"
+    },
+    {
+     "name": "TechRadar",
+     "url": "https://www.techradar.com/pro/security/european-commission-says-it-was-hacked-by-attackers-using-ai-tools-says-it-is-taking-the-necessary-steps-in-response-to-a-detected-cyber-campaign"
+    }
+   ],
+   "img": "eu_commission.jpg",
+   "credit": "European Commission building / via The Record",
+   "contain": false
+  },
+  {
+   "slug": "crowdstrike-in-talks-to-buy-zscaler",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "CrowdStrike is in talks to buy Zscaler, which would be the biggest cybersecurity deal ever; Zscaler shares jump 18%",
+   "dek": "Zscaler is worth about $32 billion, making this bigger than Google's purchase of Wiz.",
+   "stat": [
+    "$32B",
+    "Zscaler's market value"
+   ],
+   "sections": [
+    {
+     "title": "The talks",
+     "paras": [
+      "CrowdStrike is in talks to acquire Zscaler, Bloomberg reported on Friday, with Reuters and CNBC following. The talks are ongoing and a deal is not certain. CrowdStrike declined to comment.",
+      "Zscaler shares rose 18% in after-hours trading, while CrowdStrike, worth about $235 billion, fell more than 8%."
+     ]
+    },
+    {
+     "title": "Why it's big",
+     "paras": [
+      "At about $32 billion, Zscaler would top the previous biggest security deals: Google's $32 billion Wiz purchase in 2025, Cisco's roughly $28 billion Splunk deal and Palo Alto Networks' $25 billion CyberArk buy. Big security companies are racing to offer one platform that protects everything, as AI-powered attacks grow."
+     ]
+    }
+   ],
+   "facts": [
+    "CrowdStrike worth ~$235 billion",
+    "Zscaler +18% after hours",
+    "Tops Google–Wiz ($32B, 2025)"
+   ],
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "apple-building-ai-agent-that-uses-your-mac",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "Apple is building its own AI agent that can use your Mac — browse, switch apps and write code — Bloomberg spots in a job listing",
+   "dek": "A launch could come as soon as the end of next year, but the work is in early stages.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What we know",
+     "paras": [
+      "Apple posted a job for a senior engineering manager to build an \"AI agent that can use a computer\", Bloomberg reported. The agent would browse the web, work across apps, run commands, and write and debug code.",
+      "Separately, macOS 27.3 will warn users before they give third-party AI agents full access to their Macs."
+     ]
+    },
+    {
+     "title": "Catching up",
+     "paras": [
+      "Rivals already offer agents that can operate a computer, and Google's Gemini gained the ability to operate Macs this week. Apple has been slower in AI, and an in-house agent would let it offer the feature while keeping control over privacy. Apple did not comment."
+     ]
+    }
+   ],
+   "facts": [
+    "Spotted in an Apple job listing",
+    "Could launch by end of 2027",
+    "macOS 27.3 to warn about third-party agents"
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "sensex-nifty-nine-month-high-banks-it-fii-buying",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "head": "Sensex jumps 898 points to 83,920 and Nifty ends at 25,801, a nine-month high, as foreign funds pour a record $12.2 billion into India this month",
+   "dek": "Banks led the rally, with Nifty Bank up 2.49% and IndusInd Bank up 8.6%.",
+   "stat": [
+    "+1.08%",
+    "Sensex on Friday"
+   ],
+   "sections": [
+    {
+     "title": "The day",
+     "paras": [
+      "The Sensex closed at 83,919.71, up 897.96 points or 1.08%, and the Nifty 50 rose 286.30 points (1.12%) to 25,800.60 — both nine-month closing highs. The day started weak, with the Sensex down more than 450 points early, before buying in banks and IT turned it around.",
+      "Apollo Hospitals (+5.3%), Axis Bank (+4.7%), Max Healthcare, Maruti and HDFC Bank led the Nifty. Titan, Tata Steel, NTPC, HUL and Eternal fell. More stocks fell than rose on the BSE, so the rally was narrow."
+     ]
+    },
+    {
+     "title": "Why",
+     "paras": [
+      "Foreign investors have bought a record $12.21 billion of Indian shares so far in November, as global funds move money out of AI stocks. Softer oil prices and a stronger rupee also helped."
+     ]
+    }
+   ],
+   "facts": [
+    "Sensex 83,919.71 (+897.96)",
+    "Nifty 25,800.60 (+286.30)",
+    "Nifty Bank +2.49%, Nifty IT +1.30%"
+   ],
+   "sources": [
+    {
+     "name": "HDFC Sky",
+     "url": "https://hdfcsky.com/news/market-close-report-today-november-20-2026-nifty-sensex-scale-nine-month-highs-as-investors-dump-global-ai-for-india"
+    },
+    {
+     "name": "Kotak Neo",
+     "url": "https://www.kotakneo.com/news/market-news/closing-bell-20-november-2026-sensex-nifty-rally-on-banking-it-stocks-and-fii-buying/"
+    }
+   ],
+   "img": "sensex.jpg",
+   "credit": "BSE building / via HDFC Sky",
+   "contain": false
+  },
+  {
+   "slug": "crystal-crop-ipo-17-times-mahanadi-coalfields-undersubscribed",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "head": "IPO watch: Crystal Crop Protection's ₹455 crore IPO is subscribed about 17 times, while Mahanadi Coalfields is under half-filled after two days",
+   "dek": "Two very different receptions: a small agrochemicals issue is oversubscribed, while Coal India's big sale is still waiting for buyers.",
+   "stat": [
+    "~17x",
+    "Crystal Crop IPO subscription"
+   ],
+   "sections": [
+    {
+     "title": "Crystal Crop Protection",
+     "paras": [
+      "The ₹455 crore IPO closed on Friday subscribed about 17.7 times by 5 pm, according to HDFC Sky. Wealthy individual investors bid 39 times their share, big institutions 15.8 times and retail investors 9.7 times. Allotment is due on 23 November and listing on 26 November."
+     ]
+    },
+    {
+     "title": "Mahanadi Coalfields",
+     "paras": [
+      "Coal India's ₹8,981 crore sale of Mahanadi Coalfields shares was subscribed about 0.48 times at the end of day two. Institutions have bid 1.37 times their portion, but retail demand is just about 0.24 times. The price band is ₹129–136. The issue closes on Monday, 23 November, with listing planned for 27 November."
+     ]
+    }
+   ],
+   "facts": [
+    "Crystal Crop: retail 9.7x",
+    "Mahanadi Coalfields: ~0.48x after day 2",
+    "Mahanadi closes Monday 23 Nov"
+   ],
+   "sources": [
+    {
+     "name": "HDFC Sky (Crystal Crop)",
+     "url": "https://hdfcsky.com/news/crystal-crop-protection-ipo-subscription-status-day-3"
+    },
+    {
+     "name": "HDFC Sky (Mahanadi)",
+     "url": "https://hdfcsky.com/news/mahanadi-coalfields-ipo-subscription-status-day-2"
+    },
+    {
+     "name": "Groww",
+     "url": "https://groww.in/blog/mahanadi-coalfields-ipo-day-2-subscription-status-timeline-and-key-issue-details"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "kl-rahul-century-wellington-test-india-new-zealand",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "KL Rahul hits his first Test century in New Zealand as India close in on the hosts' 368 in Wellington",
+   "dek": "Rahul and Devdutt Padikkal added 167 for the second wicket on day three of the first Test.",
+   "stat": [
+    "368",
+    "New Zealand's first-innings total"
+   ],
+   "sections": [
+    {
+     "title": "How it's going",
+     "paras": [
+      "New Zealand, 317 for 6 overnight on day one, were all out for 368 on day two. Henry Nicholls finished on 175 not out and Glenn Phillips made 118. Jasprit Bumrah took 4 for 92 in his comeback Test.",
+      "India replied strongly. Yashasvi Jaiswal hit 85 off 89 balls in an opening stand of 130, and India closed day two on 159 for 1."
+     ]
+    },
+    {
+     "title": "Day three",
+     "paras": [
+      "KL Rahul reached his century soon after lunch on Saturday, his first Test hundred in New Zealand. Devdutt Padikkal made 80 before Kyle Jamieson bowled him, ending a 167-run stand. At the latest update, India were 295 for 2, about 73 runs behind."
+     ]
+    }
+   ],
+   "facts": [
+    "Nicholls 175*, Phillips 118",
+    "Bumrah 4/92",
+    "Rahul–Padikkal stand: 167"
+   ],
+   "sources": [
+    {
+     "name": "The Hawk / IANS",
+     "url": "https://www.thehawk.in/news/sports/cricket/1st-test-rahul-padikkal-frustrate-new-zealand-as-india-bring-deficit-down-to-129-runs"
+    },
+    {
+     "name": "Outlook India",
+     "url": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-3-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
+    }
+   ],
+   "img": "basin_reserve.jpg",
+   "credit": "Basin Reserve, Wellington / itravelNZ, Wikimedia, CC BY 2.0",
+   "contain": false,
+   "good": true,
+   "emoji": "🏏"
+  },
+  {
+   "slug": "lakshya-sen-hong-kong-open-semifinal-satwik-chirag",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "Lakshya Sen reaches the Hong Kong Open semi-finals with his 13th straight win; Satwik–Chirag are through too",
+   "dek": "Sen beat eighth seed Loh Kean Yew in three games and now faces Anders Antonsen.",
+   "stat": [
+    "13",
+    "Lakshya Sen's winning streak"
+   ],
+   "sections": [
+    {
+     "title": "The win",
+     "paras": [
+      "Lakshya Sen beat Singapore's Loh Kean Yew 21-17, 10-21, 21-13 in 55 minutes at Kai Tak Arena on Friday. It was his 13th win in a row, matching Kidambi Srikanth's run from 2017. He has already qualified for the BWF World Tour Finals in Hangzhou on 9–13 December.",
+      "In Saturday's semi-final he faces Denmark's Anders Antonsen."
+     ]
+    },
+    {
+     "title": "Doubles",
+     "paras": [
+      "Satwik Sairaj Rankireddy and Chirag Shetty also made the semi-finals, where they meet Malaysia's eighth seeds Man Wei Chong and Tee Kai Wun. Kidambi Srikanth and Rakshitha Ramraj lost in the quarter-finals."
+     ]
+    }
+   ],
+   "facts": [
+    "Beat Loh Kean Yew 21-17, 10-21, 21-13",
+    "Semi-final vs Anders Antonsen",
+    "World Tour Finals: 9–13 Dec"
+   ],
+   "sources": [
+    {
+     "name": "Olympics.com",
+     "url": "https://www.olympics.com/en/news/hong-kong-open-2026-badminton-india-quarter-final-results"
+    },
+    {
+     "name": "DD India",
+     "url": "https://ddindia.co.in/2026/11/semifinals-of-hong-kong-open/"
+    }
+   ],
+   "img": "shuttle.jpg",
+   "credit": "Shuttlecock / Kate Ter Haar, Wikimedia, CC BY 2.0",
+   "contain": false,
+   "good": true,
+   "emoji": "🏸"
+  },
+  {
+   "slug": "isl-bengaluru-fc-top-chhetri-200th-game",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "Bengaluru FC go top of the ISL with a 2-0 win over Mumbai City in Sunil Chhetri's 200th ISL match",
+   "dek": "In Kolkata, East Bengal snatched a late 2-2 draw against SC Delhi.",
+   "stat": [
+    "200",
+    "Sunil Chhetri's ISL appearances"
+   ],
+   "sections": [
+    {
+     "title": "Bengaluru",
+     "paras": [
+      "Borja Martínez scored from the penalty spot in the 57th minute and substitute Ryan Williams added a late second as Bengaluru FC beat Mumbai City 2-0 at the Sree Kanteerava Stadium on Friday, moving to the top of the table. It was Sunil Chhetri's 200th game in the league."
+     ]
+    },
+    {
+     "title": "Salt Lake",
+     "paras": [
+      "At the Salt Lake Stadium, SC Delhi led East Bengal through a Fortes penalty and an Ashutosh Mehta goal, but Lalrindika and a late Aké Loba strike earned the home side a point."
+     ]
+    }
+   ],
+   "facts": [
+    "Bengaluru FC 2-0 Mumbai City",
+    "East Bengal 2-2 SC Delhi",
+    "Chhetri: 200 ISL games"
+   ],
+   "sources": [
+    {
+     "name": "The Hawk / IANS",
+     "url": "https://www.thehawk.in/news/sports/football/isl-202627-bengaluru-fc-storm-to-top-of-standings-with-2-0-win-over-mumbai-city"
+    },
+    {
+     "name": "India.com",
+     "url": "https://www.india.com/sports/football/isl-2026-bengaluru-fc-continue-their-impressive-run-with-2-0-win-over-mumbai-city-fc-8546703/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "gta-6-day-one-sales-3-79-billion-record",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "head": "GTA VI makes $3.79 billion on day one, the biggest launch in entertainment history, says Take-Two",
+   "dek": "The game had already sold 32.5 million copies before it even came out.",
+   "stat": [
+    "$3.79B",
+    "GTA VI sales on launch day"
+   ],
+   "sections": [
+    {
+     "title": "The record",
+     "paras": [
+      "Take-Two and Rockstar Games say Grand Theft Auto VI made $3.79 billion in retail sales by the end of its launch day on 19 November, more than any film, album or game has ever made on day one. It sold 32.5 million units before release, which the company calls a record for any game.",
+      "Analytics firm Sensor Tower separately estimated sales of more than $2.36 billion in under 24 hours."
+     ]
+    },
+    {
+     "title": "Why it's huge",
+     "paras": [
+      "GTA VI came 13 years after GTA V, which went on to sell over 200 million copies. Its launch also broke streaming records, with 7.9 million people watching live at once on its first day."
+     ]
+    }
+   ],
+   "facts": [
+    "32.5 million units sold before launch",
+    "Sensor Tower: $2.36B+ in under 24 hours",
+    "Launched 19 November"
+   ],
+   "sources": [
+    {
+     "name": "Variety",
+     "url": "https://variety.com/2026/gaming/news/gta-6-sales-billions-first-day-1236954198/"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/business/business-news/gta-vi-day-one-sales-1236760139/"
+    }
+   ],
+   "img": "gta6.jpg",
+   "credit": "Rockstar Games / via Variety",
+   "contain": false
+  },
+  {
+   "slug": "ramayana-part-1-box-office-day-16",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "head": "Ramayana: Part 1 earns ₹16.3 crore on day 16 and reaches ₹1,574.6 crore worldwide, closing in on Pushpa 2",
+   "dek": "The film has now made ₹880 crore net in India, according to Sacnilk's early estimates.",
+   "stat": [
+    "₹1,574.6 Cr",
+    "worldwide gross after 16 days"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Ramayana: Part 1 collected about ₹16.30 crore net in India on its third Friday, down 15.8% from Thursday's ₹19.35 crore, Sacnilk estimates. Its India net total is now ₹880.05 crore, or ₹1,051.6 crore gross, and it has earned ₹523 crore overseas, for a worldwide total of ₹1,574.6 crore."
+     ]
+    },
+    {
+     "title": "Milestones",
+     "paras": [
+      "It crossed ₹1,000 crore gross in India in 14 days, the sixth Indian film to do so, and is the first Bollywood film to make ₹50 crore in Tamil Nadu. ETV Bharat says it is now nearing Pushpa 2's worldwide total. Day 16 figures are early estimates and may change."
+     ]
+    }
+   ],
+   "facts": [
+    "India net: ₹880.05 crore",
+    "Overseas: ₹523 crore",
+    "6th Indian film past ₹1,000 crore gross in India"
+   ],
+   "sources": [
+    {
+     "name": "Sacnilk",
+     "url": "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_16"
+    },
+    {
+     "name": "ETV Bharat",
+     "url": "https://www.etvbharat.com/en/entertainment/ramayana-box-office-collection-day-16-in-india-and-worldwide-enn26112006930"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "voyager-1-one-light-day-from-earth",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "Voyager 1 becomes the first spacecraft ever to be one light-day from Earth, and the Empire State Building lights up gold for it",
+   "dek": "Launched in 1977, the little probe is still talking to us — its messages now take a full day to arrive.",
+   "stat": [
+    "26 billion km",
+    "one light-day from Earth"
+   ],
+   "sections": [
+    {
+     "title": "A cosmic milestone",
+     "paras": [
+      "NASA's Voyager 1 has become the first human-made object to reach a distance of one light-day from Earth, about 26 billion km (16 billion miles). Radio signals, travelling at the speed of light, now take about 24 hours to get from the spacecraft to NASA's antennas.",
+      "New York's Empire State Building was lit up in gold to celebrate."
+     ]
+    },
+    {
+     "title": "Still going",
+     "paras": [
+      "Voyager 1 was launched in 1977 to study Jupiter and Saturn and became the first spacecraft to enter interstellar space in 2012. Nearly 50 years later, engineers keep it alive by switching off parts one by one to save power, and it still sends back science from beyond the Sun's bubble."
+     ]
+    }
+   ],
+   "facts": [
+    "Launched 1977",
+    "Entered interstellar space in 2012",
+    "Signals take ~24 hours to reach Earth"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/empire-state-building-lit-up-with-gold-to-celebrate-nasa-spacecraft-passing-one-light-day-from-earth/"
+    }
+   ],
+   "img": "voyager.jpg",
+   "credit": "NASA/JPL / Wikimedia, public domain",
+   "contain": false,
+   "good": true,
+   "emoji": "🚀"
+  },
+  {
+   "slug": "aiims-delhi-first-open-foetal-spine-surgery",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "AIIMS Delhi doctors repair an unborn baby's spine inside the womb, India's first open foetal surgery of its kind",
+   "dek": "The six-hour operation at 25 weeks of pregnancy was done for free under a government scheme.",
+   "stat": [
+    "25 weeks",
+    "into pregnancy when surgery was done"
+   ],
+   "sections": [
+    {
+     "title": "The surgery",
+     "paras": [
+      "A team of over 30 doctors and staff at AIIMS Delhi operated on a baby with myelomeningocele, the most severe form of spina bifida, while the baby was still in the womb. The surgery took about six hours on 12 November and was announced on 14 November.",
+      "Repairing the spine before birth can protect the nerves from more damage and give the child a better chance of walking and normal bladder control."
+     ]
+    },
+    {
+     "title": "Months of practice",
+     "paras": [
+      "The team spent more than five weeks on scans, counselling and practice runs before the operation. It was free for the family under the Janani Shishu Suraksha Karyakram. The pregnancy continues under close watch; the long-term result will be known after birth."
+     ]
+    }
+   ],
+   "facts": [
+    "Surgery on 12 November",
+    "About 6 hours in theatre",
+    "Free under JSSK scheme"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/health-care/aiims-delhi-spine-repair-inside-womb-open-foetal-surgery-12814583"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "good": true,
+   "emoji": "🩺"
+  },
+  {
+   "slug": "elrhino-assam-paper-from-rhino-elephant-dung",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "An Assam father and daughter turn rhino and elephant dung into notebooks, giving villagers a reason to protect wildlife",
+   "dek": "Elrhino's paper is made from washed and boiled dung mixed with recycled fibres.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "How it began",
+     "paras": [
+      "Retired mining engineer Mahesh Chandra Bora started Elrhino in 2014, experimenting at home with his wife's kitchen blender and window screens. His daughter Nisha later left a 17-year corporate career to join him.",
+      "The dung is washed, boiled and pulped, then mixed with recycled paper, cotton waste and banana-stem fibre."
+     ]
+    },
+    {
+     "title": "Why it helps",
+     "paras": [
+      "Villagers near wildlife areas earn money by collecting the dung, which turns rhinos and elephants into a source of income rather than a nuisance. Elrhino now makes notebooks, journals, bags, lampshades and even playing cards."
+     ]
+    }
+   ],
+   "facts": [
+    "Founded 2014",
+    "Uses banana-stem fibre and cotton waste",
+    "Villagers paid to collect dung"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/startup/elephant-rhino-dung-paper-assam-wildlife-conservation-elrhino-startup-india-12789296"
+    },
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/father-daughter-business-sells-paper-and-stationery-made-from-rhino-dung/"
+    }
+   ],
+   "img": "elephants.jpg",
+   "credit": "Peter Neumann / Unsplash, via Good News Network",
+   "contain": false,
+   "good": true,
+   "emoji": "🐘"
+  },
+  {
+   "slug": "tamiraparani-river-guardians-iris-prize",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "Young guardians of Tamil Nadu's Tamiraparani river win the $15,000 Iris Prize for protecting it",
+   "dek": "The team monitors a 30-km stretch of a river that feeds nearly 40,000 hectares of farmland.",
+   "stat": [
+    "$15,000",
+    "Iris Prize grant"
+   ],
+   "sections": [
+    {
+     "title": "The winners",
+     "paras": [
+      "A seven-member team led by Sneha Shahi, 29, and Vidhya Vigashini, 24, won the top tier of the Iris Prize 2026, an award for young environmental leaders. The $15,000 grant comes with no strings attached.",
+      "They watch over a 30-km stretch of the river at Aladiyur, Cheranmahadevi and Gopalasamudram, and have trained about 40 students in river monitoring since October 2025."
+     ]
+    },
+    {
+     "title": "A river with rights",
+     "paras": [
+      "In July 2026, the Tamiraparani was given legal personhood, the third Indian river to receive it. The river supports nearly 40,000 hectares of farmland."
+     ]
+    }
+   ],
+   "facts": [
+    "30-km stretch monitored",
+    "River got legal personhood in July 2026",
+    "~40 students trained"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/changemakers/tamiraparani-river-conservation-personhood-two-young-women-12826763"
+    }
+   ],
+   "img": "tamiraparani.jpg",
+   "credit": "Tamiraparani river / via The Better India",
+   "contain": false,
+   "good": true,
+   "emoji": "🏞️"
+  },
+  {
+   "slug": "visionably-ai-tool-pdfs-accessible-blind",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "A 17-year-old in Gurugram builds an AI tool that makes bank statements and textbooks readable for blind people",
+   "dek": "Yash Bhatnagar's Visionably fixes PDFs so screen readers can read them aloud.",
+   "stat": [
+    "95%",
+    "of tested PDFs it can fix"
+   ],
+   "sections": [
+    {
+     "title": "The problem",
+     "paras": [
+      "Many PDFs, from bank statements to school books, are just pictures of text to a screen reader, leaving blind users stuck. Yash Bhatnagar's tool Visionably converts them into accessible files in about 48 hours and works on about 95% of the PDFs he tested in over 1,000 trials.",
+      "He also audited 30 Indian bank websites and found 2,221 accessibility barriers; Kotak and PNB responded to his findings."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "He is making 10 Pratham Books StoryWeaver children's books accessible for free, and six are done. His goal is 5,000 files and 200–300 website audits in two years."
+     ]
+    }
+   ],
+   "facts": [
+    "1,000+ test cases",
+    "2,221 barriers found on 30 bank sites",
+    "~48-hour turnaround"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/innovation/ai-tool-makes-pdfs-accessible-for-the-blind-gurugram-visionably-yash-bhatnagar-12814698"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "good": true,
+   "emoji": "🦯"
+  },
+  {
+   "slug": "earthfokus-chennai-startup-saves-5-billion-litres-water",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "IIT Madras-incubated EarthFokus has helped 130+ buildings save over 5 billion litres of water using sensors and AI",
+   "dek": "The Chennai startup finds hidden leaks and cuts tap flow to a fraction of normal.",
+   "stat": [
+    "5 billion+",
+    "litres of water saved"
+   ],
+   "sections": [
+    {
+     "title": "How it works",
+     "paras": [
+      "EarthFokus, founded in 2019 by Arun Subramanian and Rishi Vandan, puts smart sensors on a building's water lines and uses AI to spot leaks and waste. It also fits low-flow fixtures that cut tap flow from about 10–12 litres a minute to as little as 0.5 litres."
+     ]
+    },
+    {
+     "title": "Results",
+     "paras": [
+      "WeWork India's water use fell from 45 to 29 litres per person per day, and Cognizant's Chennai campus cut daily demand by nearly 80%. EarthFokus was one of 10 winners of the HCL and UpLink Water Resilience Challenge in January."
+     ]
+    }
+   ],
+   "facts": [
+    "Founded 2019",
+    "130+ commercial buildings",
+    "Cognizant Chennai cut demand ~80%"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/startup/smart-water-management-buildings-water-saving-earthfokus-startup-chennai-india-12789754"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "good": true,
+   "emoji": "💧"
+  },
+  {
+   "slug": "who-praises-india-paraquat-ban",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "WHO praises India and Bangladesh for banning paraquat, a deadly weedkiller linked to thousands of suicides",
+   "dek": "The two countries join more than 70 others that have already banned it.",
+   "stat": [
+    "70+",
+    "countries that ban paraquat"
+   ],
+   "sections": [
+    {
+     "title": "The ban",
+     "paras": [
+      "India and Bangladesh announced bans on paraquat in September, and the World Health Organization has now praised them as setting \"an important precedent\". Several Indian states, including Telangana, Andhra Pradesh, Odisha and Kerala, had already banned it."
+     ]
+    },
+    {
+     "title": "Why it saves lives",
+     "paras": [
+      "Paraquat is highly toxic, has no antidote and has been linked to Parkinson's disease. The WHO estimates about 1 in 5 suicides worldwide involve swallowing pesticides, and banning the most dangerous ones has been shown to save many lives."
+     ]
+    }
+   ],
+   "facts": [
+    "Bans announced in September",
+    "~1 in 5 suicides involve pesticides (WHO)",
+    "Several states banned it earlier"
+   ],
+   "sources": [
+    {
+     "name": "Onmanorama",
+     "url": "https://www.onmanorama.com/upsc/current-affairs/2026/11/14/who-lauds-india-s-ban-on-paraquat.html"
+    },
+    {
+     "name": "Positive News",
+     "url": "https://www.positive.news/society/good-news-stories-from-week-47-of-2026/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "good": true,
+   "emoji": "🌾"
+  },
+  {
+   "slug": "eritrea-eliminates-trachoma-blindness",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "Eritrea beats trachoma, the world's leading infectious cause of blindness, the WHO confirms",
+   "dek": "It is the 34th country to do so, and the 11th in Africa.",
+   "stat": [
+    "94%",
+    "fall in people at risk worldwide since 2002"
+   ],
+   "sections": [
+    {
+     "title": "The win",
+     "paras": [
+      "The WHO has confirmed that trachoma is no longer a public health problem in Eritrea after surveys in all 58 districts. The country used the WHO's SAFE strategy — surgery, antibiotics, face washing and a cleaner environment — with the antibiotic azithromycin donated through the International Trachoma Initiative."
+     ]
+    },
+    {
+     "title": "Worldwide progress",
+     "paras": [
+      "The number of people at risk of trachoma globally has fallen 94% since 2002. Elimination does not mean zero cases, so Eritrea will keep watching for new infections."
+     ]
+    }
+   ],
+   "facts": [
+    "34th country, 11th in Africa",
+    "All 58 districts surveyed",
+    "Free antibiotics donated"
+   ],
+   "sources": [
+    {
+     "name": "AllAfrica",
+     "url": "https://allafrica.com/stories/202611160817.html"
+    },
+    {
+     "name": "Nature World News",
+     "url": "https://www.natureworldnews.com/articles/73875/20261116/who-confirms-eritrea-has-beaten-trachoma-worlds-leading-infectious-cause-blindness.htm"
+    }
+   ],
+   "img": "who_flag.jpg",
+   "credit": "WHO flag / via Nature World News",
+   "contain": false,
+   "good": true,
+   "emoji": "👁️"
+  },
+  {
+   "slug": "wild-oysters-born-dornoch-firth-first-in-100-years",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "Native oysters are breeding in Scotland's Dornoch Firth for the first time in over 100 years",
+   "dek": "A restoration project that began with 300 oysters in 2017 now has wild-born babies.",
+   "stat": [
+    "140,000+",
+    "young oysters released"
+   ],
+   "sections": [
+    {
+     "title": "A comeback",
+     "paras": [
+      "Oysters in the Dornoch Firth were fished to extinction in the late 1800s. A project by Glenmorangie, Heriot-Watt University and the Marine Conservation Society began in 2017 with 300 oysters and has since released more than 140,000 young ones. About 3,000 are now reaching maturity on two reefs — and they have started breeding on their own."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Oyster reefs clean water and give shelter to fish and other sea life. The team hopes to reach about 4 million oysters by 2031 if more funding comes."
+     ]
+    }
+   ],
+   "facts": [
+    "Started 2017 with 300 oysters",
+    "~3,000 reaching maturity",
+    "Target: ~4 million by 2031"
+   ],
+   "sources": [
+    {
+     "name": "Heriot-Watt University",
+     "url": "https://www.hw.ac.uk/news/2026/first-oysters-born-in-dornoch-firth-for-over-100-years"
+    },
+    {
+     "name": "The Irish News",
+     "url": "https://www.irishnews.com/news/uk/native-oysters-born-in-firth-for-first-time-in-more-than-100-years-TK73VTXMLZOBTPJST433UCGS5E/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "good": true,
+   "emoji": "🦪"
+  },
+  {
+   "slug": "leukaemia-vaccine-galinpepimut-s-extends-survival",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "A cancer vaccine cuts the risk of death by 41% for leukaemia patients in a late-stage trial",
+   "dek": "Patients on the vaccine lived a median of 24 months, against 14.7 months on standard care.",
+   "stat": [
+    "41%",
+    "lower risk of death"
+   ],
+   "sections": [
+    {
+     "title": "The trial",
+     "paras": [
+      "Sellas Life Sciences says its vaccine galinpepimut-S helped patients with acute myeloid leukaemia (AML) live longer in its Phase 3 REGAL trial of 126 people. Median survival was 24.0 months on the vaccine versus 14.7 months on the best available treatment.",
+      "The patients were in a second or later remission and could not have a stem cell transplant, a group with few options."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "No new safety problems were seen. The results are early and not yet peer-reviewed, and the company plans to seek US approval in the first half of 2027."
+     ]
+    }
+   ],
+   "facts": [
+    "126 patients in Phase 3",
+    "24.0 vs 14.7 months median survival",
+    "US filing planned H1 2027"
+   ],
+   "sources": [
+    {
+     "name": "OncLive",
+     "url": "https://www.onclive.com/view/galinpepimut-s-improves-os-in-aml-in-second-or-later-remission"
+    },
+    {
+     "name": "Memorial Sloan Kettering",
+     "url": "https://www.mskcc.org/news-releases/investigational-peptide-vaccine-demonstrates-survival-benefit-in-people-with-acute-myeloid-leukemia"
+    }
+   ],
+   "img": "aml_cell.jpg",
+   "credit": "Illustration / via OncLive",
+   "contain": false,
+   "good": true,
+   "emoji": "💉"
+  }
+ ],
+ "also": [],
+ "explainers": [
+  {
+   "q": "What is Kantar BrandZ, and what does \"brand value\" mean?",
+   "a": "BrandZ is a yearly ranking by research firm Kantar. It works out how much of a company's worth comes from its brand alone — the extra that people pay, or the loyalty they show, because of the name. It mixes the company's financial results with surveys of thousands of consumers about how they feel about the brand. So a brand can rise even when the company's profits don't, if people start to trust it more.",
+   "slug": "kantar-brandz-india-2026-airtel-blinkit-meesho"
+  },
+  {
+   "q": "What does an SEC probe mean for a company like Nvidia?",
+   "a": "The SEC is America's stock market regulator. Its enforcement staff can ask a company for documents to check whether its accounts or statements to investors were accurate. An inquiry is only an investigation, not a finding of wrongdoing, and many end with no action. But investors hate uncertainty, so even reports of a probe can knock billions off a company's value.",
+   "slug": "nvidia-shares-fall-14-percent-sec-accounting-probe"
+  }
+ ]
+}
