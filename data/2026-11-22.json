@@ -1,0 +1,1770 @@
+{
+ "date": "2026-11-22",
+ "day": "Sunday",
+ "date_label": "22 November 2026",
+ "note": "",
+ "markets": {
+  "asof": "Fri 20 Nov 2026 close (ANI, The Week, PTI); Brent settle Fri; gold 24K India Fri morning (Goodreturns)",
+  "items": [
+   {
+    "n": "Sensex",
+    "v": "83,920",
+    "c": "+1.08%"
+   },
+   {
+    "n": "Nifty 50",
+    "v": "25,801",
+    "c": "+1.12%"
+   },
+   {
+    "n": "USD/INR",
+    "v": "92.67",
+    "c": "₹ +65 paise"
+   },
+   {
+    "n": "Brent",
+    "v": "$92.57",
+    "c": "+0.64%"
+   },
+   {
+    "n": "Gold 24K",
+    "v": "₹1,25,570",
+    "c": "-₹5,120"
+   }
+  ]
+ },
+ "explainers": [
+  {
+   "q": "What is the Riemann Hypothesis?",
+   "a": "Prime numbers — 2, 3, 5, 7, 11 and so on — look scattered at random, but mathematicians have long suspected a hidden order. In 1859 Bernhard Riemann linked their spacing to a special function, the zeta function, and guessed that all its important zeros sit on one straight line. If true, it tells us how evenly primes are spread out. Nobody had proved it for 167 years, which is why a computer-checked proof is such a big claim.",
+   "slug": "anthropic-mathematician-claude-riemann-hypothesis-proof-lean"
+  },
+  {
+   "q": "What is a Systematic Withdrawal Plan (SWP)?",
+   "a": "An SWP lets you take out a fixed amount from your savings at regular intervals — say every month — instead of withdrawing everything at once. The money you leave behind keeps earning returns. Mutual funds have offered SWPs for years; EPFO is now bringing the idea to provident fund savings, so retirees can turn their PF into something like a pension while the rest keeps earning EPF interest.",
+   "slug": "epfo-systematic-withdrawal-plan-minimum-balance-10-percent"
+  }
+ ],
+ "stories": [
+  {
+   "slug": "startup-sues-apple-1500-crore-namedrop-patent",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Indian startup GG Technologies sues Apple for ₹1,500 crore, saying the iPhone's NameDrop copies its patented contact-sharing tech",
+   "dek": "The maker of the StayTouch app has gone to the Bombay High Court and wants NameDrop switched off in India.",
+   "stat": [
+    "₹1,500 Cr",
+    "damages sought from Apple"
+   ],
+   "sections": [
+    {
+     "title": "The case",
+     "paras": [
+      "GG Technologies, the company behind the contact-sharing app StayTouch, has filed a patent suit against Apple in the Bombay High Court. It is asking for ₹1,500 crore in damages, a figure it calls a \"conservative\" estimate.",
+      "The startup was founded in 2018 by IIT Delhi alumnus Gaurav Goel. Its claim is simple: NameDrop, the iPhone feature that lets two people swap contact details by holding their phones close together, works the way its own invention does."
+     ]
+    },
+    {
+     "title": "The patent at the centre",
+     "paras": [
+      "GG holds Indian Patent No. 546169, titled \"Proximity-Based Contact Transfer\", which was granted on 27 July 2024. The company says it started filing for protection in May 2019 — four years before Apple announced NameDrop in June 2023.",
+      "Beyond money, the suit asks the court to make Apple disable NameDrop in India, including through a software update, \"to the extent technically feasible\". GG says it spent about $2.75 million building and marketing its product between 2019 and 2025."
+     ]
+    },
+    {
+     "title": "Not its first fight with Apple",
+     "paras": [
+      "This is not a one-off. GG filed a suit in the US in April 2026, which has been on hold since September while the US International Trade Commission looks into the matter. It filed another US case on 3 November.",
+      "No hearing date has been set in Bombay yet, and Apple had not responded publicly when the case was reported."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Small Indian tech firms rarely take on the world's most valuable brands in court over patents. If the case goes anywhere, it could be a test of how strongly Indian patents protect home-grown software ideas against global giants. For now, it is only a claim — the court has not ruled on anything."
+     ]
+    }
+   ],
+   "facts": [
+    "₹1,500 crore damages sought",
+    "Indian Patent No. 546169, granted July 2024",
+    "NameDrop announced June 2023"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/iit-delhi-alumnus-startup-sues-apple-for-%e2%82%b91500-cr-over-namedrop-patent-infringement/"
+    },
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/startup-seeks-%e2%82%b91500-crore-from-apple-over-namedrop-patent-infringement-claims-115213.htm"
+    }
+   ],
+   "img": "apple.jpg",
+   "credit": "Illustration / via Inc42",
+   "contain": false
+  },
+  {
+   "slug": "old-monk-maker-revenue-falls-64-percent-fssai-rum-label",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "head": "Old Monk maker Mohan Meakin's revenue falls 64% to ₹288 crore after FSSAI says three variants can't be sold as 'rum'",
+   "dek": "India's most nostalgic rum brand is in a labelling fight with the food regulator, and it is showing up hard in the numbers.",
+   "stat": [
+    "-64%",
+    "Mohan Meakin revenue, Apr–Sep"
+   ],
+   "sections": [
+    {
+     "title": "The hit",
+     "paras": [
+      "Mohan Meakin, the company behind Old Monk, saw revenue for April–September fall to ₹288 crore from ₹792 crore a year earlier — a drop of about ₹504 crore, or 64%. Quarterly revenue fell even more sharply, from ₹473 crore to ₹108 crore, Mint reports, citing the Times of India.",
+      "The reason is not that people stopped liking Old Monk. It is a fight over what can legally be called rum."
+     ]
+    },
+    {
+     "title": "What FSSAI objected to",
+     "paras": [
+      "The Food Safety and Standards Authority of India objected to some products made by blending neutral spirit with rum flavouring. In its view, those should be labelled a \"rum-flavoured spirit\", not rum.",
+      "It also questioned age claims on labels such as \"7 Years Old Blended\" and \"Very Old Vatted\". The company has agreed to drop the seven-year ageing claim."
+     ]
+    },
+    {
+     "title": "Plant shut, workers waiting",
+     "paras": [
+      "Its bottling plant at Khopoli in Maharashtra has reportedly been shut since May. The bottler withdrew its petition in the Bombay High Court on 5 November and will submit new labels instead.",
+      "The company's lawyers put its losses at about ₹50 crore. Maharashtra is estimated to have lost about ₹350 crore in excise duty, and about 300 workers are without jobs while the plant stays closed."
+     ]
+    },
+    {
+     "title": "A cult brand under pressure",
+     "paras": [
+      "Old Monk has long been a word-of-mouth legend that famously did little advertising. Its sales had already fallen once before, from 8 million cases in 2002 to 4.1 million in 2013, before a revival. Getting the new labels approved quickly is now the company's biggest task."
+     ]
+    }
+   ],
+   "facts": [
+    "Revenue ₹288 crore vs ₹792 crore",
+    "Khopoli plant shut since May",
+    "~300 workers idle"
+   ],
+   "sources": [
+    {
+     "name": "Mint",
+     "url": "https://www.livemint.com/companies/news/old-monks-500-crore-shock-why-indias-favourite-rum-faces-a-major-crisis-as-fssai-tightens-the-noose-11795245774297.html"
+    }
+   ],
+   "img": "oldmonk.jpg",
+   "credit": "Old Monk / via Mint",
+   "contain": false
+  },
+  {
+   "slug": "anthropic-mathematician-claude-riemann-hypothesis-proof-lean",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "An Anthropic mathematician says he and Claude have proved the Riemann Hypothesis, a 167-year-old maths problem with a $1 million prize; Lean experts back the proof",
+   "dek": "The proof is written entirely in computer-checked code. Experts who build the checking software say they are confident it is correct, but no traditional peer review has happened yet.",
+   "stat": [
+    "175,187",
+    "Lean files in the proof"
+   ],
+   "sections": [
+    {
+     "title": "The claim",
+     "paras": [
+      "Levent Alpöge, a mathematician who works at Anthropic, posted a note on 20 November saying he believes that, working with the AI model Claude, he has found a proof of the Riemann Hypothesis.",
+      "First posed by Bernhard Riemann in 1859, the hypothesis is about how prime numbers are spread out along the number line. It is one of the most famous unsolved problems in mathematics and one of the Clay Mathematics Institute's Millennium Prize Problems, worth $1 million."
+     ]
+    },
+    {
+     "title": "A proof checked by a computer",
+     "paras": [
+      "Unusually, there is no human-readable paper. The proof is an archive of 175,187 files in Lean 4, a programming language in which every logical step is checked by software. Alpöge says a written version would be enormous.",
+      "On 21 November, the Lean FRO and the Mathlib Initiative — the groups behind Lean and its main maths library — said in a joint statement they have \"full confidence\" the proof is correct. MIT mathematician Andrew Sutherland compiled it independently, but said there is \"much work to be done\" to understand the details."
+     ]
+    },
+    {
+     "title": "What to keep in mind",
+     "paras": [
+      "This is still a claim. There has been no conventional peer review, and Anthropic had not commented as a company when the reports came out. Alpöge also says the work covers the Generalized Riemann Hypothesis, a wider version of the problem.",
+      "Even so, if it holds up, it would be a landmark moment both for mathematics and for AI, which until now has mostly helped with smaller steps rather than the field's biggest questions."
+     ]
+    }
+   ],
+   "facts": [
+    "Problem posed in 1859",
+    "$1 million Clay prize attached",
+    "Lean FRO and Mathlib back the proof"
+   ],
+   "sources": [
+    {
+     "name": "Scientific American",
+     "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/"
+    },
+    {
+     "name": "Phys.org",
+     "url": "https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html"
+    },
+    {
+     "name": "The Next Web",
+     "url": "https://thenextweb.com/news/anthropic-alpoge-claude-riemann-hypothesis-proof-lean"
+    }
+   ],
+   "img": "riemann.jpg",
+   "credit": "Illustration / via Scientific American",
+   "contain": false
+  },
+  {
+   "slug": "lahori-zeera-10-rupee-jeera-soda-1112-crore-coke-pepsi",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "head": "₹10 jeera soda Lahori Zeera, started by three cousins in Punjab, expects about ₹1,112 crore in revenue as desi drinks eat into Coke and Pepsi",
+   "dek": "A cheap, spicy, very Indian fizzy drink has become one of the biggest challenger brands in the soft-drinks aisle.",
+   "stat": [
+    "₹1,112 Cr",
+    "expected annual revenue"
+   ],
+   "sections": [
+    {
+     "title": "From family money to a mass brand",
+     "paras": [
+      "Lahori Zeera was started in 2017 by cousins Saurabh Munjal, Nikhil Doda and Saurabh Bhutna in Punjab, using money from their families. Its main product is a cumin-flavoured soda sold for as little as ₹10.",
+      "The company now expects annual revenue of $115–120 million, or about ₹1,112 crore, according to a BBC report carried by Mint."
+     ]
+    },
+    {
+     "title": "Taking share from the giants",
+     "paras": [
+      "Domestic brands held about 15% of India's carbonated drinks market by September 2025, a Kotak Mutual Fund report says. Over the same stretch, the combined share of Coca-Cola and PepsiCo fell from about 93% to 85%.",
+      "The jeera space is now crowded. Rivals include Reliance's Campa Jeera, Jeeru, Fizz Jeera Masala, Parle Agro's Dhishoom and Coca-Cola's own Rimzim, whose production Coca-Cola has reportedly doubled."
+     ]
+    },
+    {
+     "title": "Why it works",
+     "paras": [
+      "Price is a big part of it: a ₹10 bottle fits small-town shops and impulse buys. Flavour is the other — a masala-style drink feels familiar to Indian taste buds in a way cola does not.",
+      "There is plenty of room to grow. India's non-alcoholic drinks market was worth about $32 billion in 2024 and could double by 2033."
+     ]
+    }
+   ],
+   "facts": [
+    "Founded 2017 by three cousins",
+    "Desi brands ~15% of fizzy drinks",
+    "Coke + Pepsi share down from ~93% to 85%"
+   ],
+   "sources": [
+    {
+     "name": "Mint",
+     "url": "https://www.livemint.com/companies/indias-cumin-soda-revolution-costs-10-lahori-zeera-challenges-coca-cola-and-pepsi-targets-1-112-crore-in-revenue-11795240176635.html"
+    }
+   ],
+   "img": "zeera.jpg",
+   "credit": "Lahori Zeera / via Mint",
+   "contain": false
+  },
+  {
+   "slug": "deepinder-goyal-gravity-ageing-hypothesis-paper-temple",
+   "tag": "Founders",
+   "color": "#0E9F5B",
+   "head": "Deepinder Goyal shares a paper suggesting gravity may help cause ageing, calling it 'a hypothesis' as doctors keep questioning his Temple device",
+   "dek": "The Eternal founder says only experiments can prove the idea right or wrong, and has invited researchers to try to disprove it.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What he posted",
+     "paras": [
+      "Deepinder Goyal, founder of Eternal (formerly Zomato), shared a published paper on X on Saturday that argues gravity may play a part in how we age.",
+      "The idea: when we stand or sit, the brain sits above the heart, so a lifetime spent upright could slightly reduce blood flow to deep parts of the brain like the brainstem and hypothalamus — and that might contribute to ageing."
+     ]
+    },
+    {
+     "title": "His own caveats",
+     "paras": [
+      "Goyal was careful to call it \"a hypothesis paper\". He said peer review only checked that the argument was strong enough to publish, and that only experiments can show whether it is true or false.",
+      "He said experiments are already underway and invited researchers to work with him, including on studies designed to disprove the idea."
+     ]
+    },
+    {
+     "title": "The Temple backdrop",
+     "paras": [
+      "The post comes after weeks of debate over Temple, a head-worn device linked to Goyal that is meant to track brain blood flow. Earlier in November, several doctors publicly questioned its health claims. Goyal has described Temple as \"strictly a fitness + AI device\", not a medical one."
+     ]
+    },
+    {
+     "title": "Why people are watching",
+     "paras": [
+      "Founders often pitch big ideas, but it is rare for one of India's best-known startup bosses to publicly back an unproven scientific theory. Supporters see curiosity; critics worry about health claims running ahead of evidence. The experiments he mentions will decide which side is right."
+     ]
+    }
+   ],
+   "facts": [
+    "Paper calls itself a hypothesis",
+    "Experiments 'already underway', Goyal says",
+    "Temple faced doctors' criticism this month"
+   ],
+   "sources": [
+    {
+     "name": "Daijiworld (IANS)",
+     "url": "https://daijiworld.com/news/newsDisplay?newsID=1335943"
+    },
+    {
+     "name": "MediaNama",
+     "url": "https://www.medianama.com/2026/11/223-deepinder-goyal-temple-controversy/"
+    }
+   ],
+   "img": "goyal.jpg",
+   "credit": "Illustration / via Daijiworld",
+   "contain": false
+  },
+  {
+   "slug": "traya-fy26-revenue-585-crore-loss-widens",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Hair-care brand Traya's revenue jumps 73% to ₹585 crore in FY26, but its loss widens 23% to ₹29 crore",
+   "dek": "The D2C brand is growing fast and spending heavily, with Rajkummar Rao fronting its latest campaign.",
+   "stat": [
+    "+73%",
+    "FY26 revenue growth"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Traya's operating revenue rose to ₹585.1 crore in FY26 from ₹338.4 crore a year earlier, Inc42 reports. Its net loss grew 23.4% to ₹29 crore, and its EBITDA margin was minus 4.81%.",
+      "Founded in 2019 by Saloni Anand and Altaf Saiyed, Traya sells hair-fall treatment plans that mix ayurveda, dermatology and nutrition, and now runs more than 20 offline centres."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "Inc42 reported in October that Traya is in talks to raise about ₹300 crore from Verlinvest at a valuation of ₹2,500–3,000 crore. On the marketing side, actor Rajkummar Rao is the face of the next phase of its \"Proof Hai Boss\" campaign."
+     ]
+    }
+   ],
+   "facts": [
+    "Revenue ₹585.1 crore",
+    "Loss ₹29 crore",
+    "20+ offline centres"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/trayas-fy26-revenue-jumps-73-yoy-to-%e2%82%b9585-cr-loss-up-23/"
+    }
+   ],
+   "img": "traya.jpg",
+   "credit": "Traya / via Inc42",
+   "contain": false
+  },
+  {
+   "slug": "dyavol-x-golden-goose-srk-aryan-khan-stores",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "head": "Shah Rukh and Aryan Khan's D'YAVOL X enters physical stores for the first time with a Golden Goose sneaker collab, on sale from 24 November",
+   "dek": "The luxury streetwear label is going from online drops to real shelves, with pieces set to appear in SRK's film King.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The drop",
+     "paras": [
+      "D'YAVOL X, the luxury label co-founded by Shah Rukh Khan, Aryan Khan, Leti Blagoeva and Bunty Singh, is teaming up with Italian brand Golden Goose. The collection goes on sale on 24 November in Golden Goose stores in India — the brand's first time in physical retail.",
+      "It reworks Golden Goose's Super-Star sneakers in three unisex colourways, carrying the lines \"Forever King\" and \"No crown needed\"."
+     ]
+    },
+    {
+     "title": "More than shoes",
+     "paras": [
+      "There is also a charcoal workwear jacket, four T-shirts, three hoodies, a cropped crystal hoodie and a burgundy cap. A second drop is planned for early 2027.",
+      "Pieces from the collection will show up in Shah Rukh Khan's upcoming film King — a neat bit of product placement that turns a movie into a shop window."
+     ]
+    }
+   ],
+   "facts": [
+    "On sale from 24 Nov",
+    "3 unisex sneaker colourways",
+    "Second drop early 2027"
+   ],
+   "sources": [
+    {
+     "name": "Mint",
+     "url": "https://www.livemint.com/companies/news/shah-rukh-khan-aryan-khans-d-yavol-x-enters-physical-retail-with-golden-goose-partnership-11795265933833.html"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "maharashtra-fda-influencers-10-lakh-fine-supplement-claims",
+   "tag": "Marketing",
+   "color": "#0E9F5B",
+   "head": "Maharashtra warns influencers of fines up to ₹10 lakh for misleading protein and supplement claims",
+   "dek": "A new state order bans ads that pitch supplements as cures, and gyms selling them now need a food-safety licence.",
+   "stat": [
+    "₹10 lakh",
+    "maximum fine"
+   ],
+   "sections": [
+    {
+     "title": "The order",
+     "paras": [
+      "Maharashtra's Food and Drug Administration, led by Commissioner Tukaram Mundhe, has issued a compliance order for health supplements and nutraceuticals. Influencers and advertisers making misleading claims could face fines of up to ₹10 lakh.",
+      "Ads may no longer present supplements as treatments for diseases or claim that doctors recommend them. The rule covers social media, TV, print and other media."
+     ]
+    },
+    {
+     "title": "Who else is affected",
+     "paras": [
+      "Gyms, pharmacies and e-commerce platforms that sell supplements now need an FSSAI licence or registration. The FDA also flagged products found with undeclared steroids and medicines in sports-nutrition, weight-loss and sexual-wellness ranges.",
+      "For the booming protein-powder economy on Instagram, it is a clear signal: health claims now come with legal risk."
+     ]
+    }
+   ],
+   "facts": [
+    "Fines up to ₹10 lakh",
+    "Covers social media, TV and print",
+    "Gyms need FSSAI licence to sell"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18 (PTI)",
+     "url": "https://www.storyboard18.com/brand-marketing/maharashtra-fda-warns-influencers-of-%e2%82%b910-lakh-fine-for-misleading-health-supplement-claims-115234.htm"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "bewakoof-cofounder-prabhkiran-singh-launches-save8",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Bewakoof co-founder Prabhkiran Singh launches Save8, an AI tool that finds the cheapest price across Amazon, Flipkart, Blinkit and Zepto",
+   "dek": "Paste a product link and it checks prices, coupons, cashback and bank offers across more than 1,000 online stores.",
+   "stat": [
+    "1,000+",
+    "online stores compared"
+   ],
+   "sections": [
+    {
+     "title": "How it works",
+     "paras": [
+      "Save8 compares prices, coupons, cashback, gift cards and bank offers across over 1,000 online stores, including Amazon, Flipkart, Myntra, Zepto, Blinkit and Instamart, Inc42 reports.",
+      "Users can paste a link, add \"save8.ai/\" in front of a product URL, or share the link to the app. It shows bank offers but does not apply them automatically."
+     ]
+    },
+    {
+     "title": "The founder's next act",
+     "paras": [
+      "Prabhkiran Singh left Bewakoof, the D2C fashion brand he co-founded, after nearly 14 years. Sources say he is in talks to raise funding, including with All In Capital. He did not respond to Inc42's questions.",
+      "Price comparison is a crowded idea, but quick commerce has made prices change faster than ever — which is exactly the gap Save8 is betting on."
+     ]
+    }
+   ],
+   "facts": [
+    "Covers Amazon, Flipkart, Blinkit, Zepto",
+    "Founder spent ~14 years at Bewakoof",
+    "In talks to raise funds"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/bewakoof-cofounder-prabhkiran-singh-launches-ai-shopping-assistant-save8/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "voltas-atomberg-jv-ac-compressors",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "head": "Tata's Voltas and Atomberg sign a joint venture to make AC compressors in India, each committing up to ₹100 crore",
+   "dek": "Voltas takes 50% of the venture and will control its board, making it a Voltas subsidiary.",
+   "stat": [
+    "₹100 Cr",
+    "each side's commitment"
+   ],
+   "sections": [
+    {
+     "title": "The deal",
+     "paras": [
+      "Voltas, Tata's air-conditioner brand, is buying 50% of Atomberg Airtech. Each partner will put in up to ₹100 crore in tranches. Voltas gets to name four of the five directors, so the venture becomes a Voltas subsidiary and will be renamed.",
+      "The term sheet was signed in August; the agreement has now been executed."
+     ]
+    },
+    {
+     "title": "Why compressors",
+     "paras": [
+      "The compressor is the heart of an AC, and much of India's supply is imported. Voltas will be the anchor customer, but the venture can sell to other brands too.",
+      "For Atomberg — founded in 2012 by IIT Bombay alumni, best known for energy-saving fans, and preparing for an IPO — it is a big step into heavier manufacturing."
+     ]
+    }
+   ],
+   "facts": [
+    "Voltas takes 50%",
+    "Voltas names 4 of 5 directors",
+    "Atomberg founded 2012"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/atomberg-voltas-execute-jv-agreement-to-build-ac-compressors/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "epfo-systematic-withdrawal-plan-minimum-balance-10-percent",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "head": "EPFO lets retirees take their PF as a monthly payout and cuts the balance that must stay in the account from 25% to 10%",
+   "dek": "A new Systematic Withdrawal Plan lets the rest of your money keep earning EPF interest.",
+   "stat": [
+    "10%",
+    "new minimum balance (was 25%)"
+   ],
+   "sections": [
+    {
+     "title": "What changed",
+     "paras": [
+      "The EPFO's Central Board of Trustees, chaired by Labour Minister Mansukh Mandaviya, approved a voluntary Systematic Withdrawal Plan (SWP) at its 240th meeting. Retirees can take monthly, quarterly or half-yearly payouts, while the money left behind keeps earning EPF interest. They can stop at any time and take the rest as a lump sum.",
+      "The share of the balance that must stay in an EPF account has been cut from 25% to 10%, and the waiting period for final settlement drops from 12 months to two."
+     ]
+    },
+    {
+     "title": "Who benefits first",
+     "paras": [
+      "About 6.32 lakh members aged over 55 with more than ₹5 lakh in their PF are expected to benefit first. The formal notification is still pending, and the tax treatment of the payouts has not yet been made clear."
+     ]
+    }
+   ],
+   "facts": [
+    "SWP: monthly, quarterly or half-yearly",
+    "Final settlement wait: 12 → 2 months",
+    "~6.32 lakh members to benefit first"
+   ],
+   "sources": [
+    {
+     "name": "Deccan Herald (PTI)",
+     "url": "https://www.deccanherald.com/india/delhi/employees-provident-fund-organisation-approves-systematic-pf-withdrawal-plan-cuts-minimum-balance-requirement-to-10-per-cent-4224216"
+    },
+    {
+     "name": "Onmanorama",
+     "url": "https://www.onmanorama.com/news/business/2026/11/20/epfo-systematic-withdrawal-plan-launched.html"
+    }
+   ],
+   "img": "epfo.jpg",
+   "credit": "Stock image / via Deccan Herald",
+   "contain": false
+  },
+  {
+   "slug": "nepal-pm-balendra-shah-state-visit-india",
+   "tag": "India",
+   "color": "#2563EB",
+   "head": "Nepal PM Balendra Shah begins his first state visit to India; talks with PM Modi on Monday will focus on flood rebuilding, trade and energy",
+   "dek": "The 36-year-old leader's two-day trip is his first bilateral visit since Nepal's March election.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The visit",
+     "paras": [
+      "Nepal's Prime Minister Balendra Shah, 36, arrives in India on Sunday for a two-day state visit. He holds delegation-level talks with Prime Minister Narendra Modi on Monday, meets External Affairs Minister S. Jaishankar and calls on President Droupadi Murmu.",
+      "Finance Minister Swarnim Wagle and Foreign Minister Shisir Khanal are travelling with him, along with business officials."
+     ]
+    },
+    {
+     "title": "On the table",
+     "paras": [
+      "Indian help to rebuild after August's floods in Nepal, which killed 1,500 people and left more than 5,200 missing, according to Reuters, is high on the agenda. Trade, energy and connectivity are also expected to come up.",
+      "Nepal wants a new air route from the west so that flights can reach Bhairahawa, near Lumbini, and Pokhara more easily."
+     ]
+    }
+   ],
+   "facts": [
+    "2-day visit, 22–23 Nov",
+    "First bilateral trip since March election",
+    "August floods: 1,500 dead"
+   ],
+   "sources": [
+    {
+     "name": "Reuters via Yahoo",
+     "url": "https://www.yahoo.com/news/articles/nepal-pm-balendra-shah-visit-085417073.html"
+    },
+    {
+     "name": "Radio Nepal",
+     "url": "https://radionepalonline.com/en/2026/11/22/439077.html"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "core-sector-growth-october-10-9-percent",
+   "tag": "Economy",
+   "color": "#D97706",
+   "head": "India's core sector output grows 10.9% in October, led by iron ore, coal and electricity",
+   "dek": "Eight key industries grew at their fastest pace on the new series, though a weak base last year helped.",
+   "stat": [
+    "10.9%",
+    "core sector growth in October"
+   ],
+   "sections": [
+    {
+     "title": "The data",
+     "paras": [
+      "The index of eight core industries grew 10.9% year on year in October, up from 8.2% in September, data released on 20 November showed.",
+      "Iron ore rose 26.4%, coal 23.1%, electricity 21.6% and cement 15.4%. Steel grew 7.3% and refinery products 3.4%. For April–October, growth was 6.0%, against 2.3% a year earlier."
+     ]
+    },
+    {
+     "title": "Read with care",
+     "paras": [
+      "Ratings agency ICRA points out that a low base from last October flatters the figure. The next big number is India's July–September GDP, due on 30 November; an Economic Times poll of economists has a median forecast of 7.7%."
+     ]
+    }
+   ],
+   "facts": [
+    "Iron ore +26.4%, coal +23.1%",
+    "Apr–Oct growth 6.0%",
+    "Q2 GDP due 30 Nov"
+   ],
+   "sources": [
+    {
+     "name": "DD News",
+     "url": "https://ddnews.gov.in/en/indias-core-industries-output-grows-10-9-in-october-led-by-iron-ore-coal-and-electricity/"
+    },
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/india/story/indias-growth-engine-holds-firm-q2-gdp-seen-at-7-5-567277-2026-11-13"
+    }
+   ],
+   "img": "core.jpg",
+   "credit": "Industry / via Construction Mirror",
+   "contain": false
+  },
+  {
+   "slug": "modi-nitish-setu-bihar-34470-crore-projects",
+   "tag": "Politics",
+   "color": "#2563EB",
+   "head": "PM Modi opens the six-lane Nitish Setu over the Ganga and launches ₹34,470 crore of projects in Bihar",
+   "dek": "The cable-stayed Dargah–Bidupur bridge links the Patna and Vaishali sides of the river.",
+   "stat": [
+    "₹34,470 Cr",
+    "projects launched"
+   ],
+   "sections": [
+    {
+     "title": "What was launched",
+     "paras": [
+      "Prime Minister Narendra Modi inaugurated and laid foundation stones for projects worth about ₹34,470 crore in Vaishali, Bihar, on Saturday, The Tribune reports.",
+      "The centrepiece is the six-lane Dargah–Bidupur cable-stayed bridge over the Ganga, named Nitish Setu after former chief minister Nitish Kumar, who is now a Rajya Sabha MP. The Statesman puts the bridge's cost at about ₹4,280 crore."
+     ]
+    },
+    {
+     "title": "Reactions",
+     "paras": [
+      "Bihar Chief Minister Samrat Choudhary attended. Opposition parties criticised the event as self-promotion, while the government said the projects would speed up travel and development across north Bihar."
+     ]
+    }
+   ],
+   "facts": [
+    "Bridge cost ~₹4,280 crore",
+    "Six lanes over the Ganga",
+    "Projects in Vaishali, Bihar"
+   ],
+   "sources": [
+    {
+     "name": "The Tribune",
+     "url": "https://www.tribuneindia.com/news/india/modi-launches-rs-34470-crore-projects-in-bihar-hails-nitish-for-states-progress/"
+    },
+    {
+     "name": "The Statesman",
+     "url": "https://www.thestatesman.com/bihar/nitish-setu-pm-modi-inaugurates-19-7-km-bridge-connecting-patna-and-vaishali-1503665214.html"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "cop31-antalya-final-deal-close-overtime",
+   "tag": "World",
+   "color": "#0891B2",
+   "head": "COP31 talks run into Sunday as summit president Murat Kurum says a final climate deal is close",
+   "dek": "A new text tries to answer complaints that an earlier draft dropped all mention of moving away from fossil fuels.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "Where things stand",
+     "paras": [
+      "Negotiators in Antalya, Turkey, missed Friday's deadline and worked through Saturday into the early hours of Sunday. COP31 President Murat Kurum said he had produced \"a text which all the parties can agree upon\", and that concerns over fossil fuels and money for adaptation had been addressed.",
+      "Countries had until 0300 GMT to object, with a session to approve the deal set for 0600 GMT (11:30 am IST). Final adoption had not been confirmed at the time of writing."
+     ]
+    },
+    {
+     "title": "The fight",
+     "paras": [
+      "An earlier draft dropped all fossil-fuel language and a $120 billion adaptation figure, upsetting at least 23 countries, Carbon Brief reported. Panama threatened not to sign. Nearly 200 delegations are taking part, with Turkey hosting and Australia leading the negotiations."
+     ]
+    }
+   ],
+   "facts": [
+    "Talks ran past Friday deadline",
+    "Nearly 200 delegations",
+    "Earlier draft upset 23+ countries"
+   ],
+   "sources": [
+    {
+     "name": "ThePrint (Reuters)",
+     "url": "https://theprint.in/india/cop31-climate-talks-close-to-final-deal-says-summit-president/3105467/"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/world/2026/1122/1600166-cop31-turkey/"
+    }
+   ],
+   "img": "cop.jpg",
+   "credit": "COP31 / via RTÉ",
+   "contain": false
+  },
+  {
+   "slug": "iran-strikes-bahrain-industrial-site-us-radars",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "head": "Iran's missile and drone attack hits an industrial site in Bahrain; Tehran says it was aiming at US radars",
+   "dek": "Bahrain says no one was hurt and has asked the UN Security Council to act.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Iran's Revolutionary Guards said on Saturday they fired missiles and drones at US Patriot radar systems at the Al-Riffa and Awali bases in Bahrain. Bahrain said a civilian industrial facility was hit and caught fire, with no injuries, and that its air defences shot down several other attacks.",
+      "A US official told CBS there was no impact on US forces. Bahrain, home to the US Navy's Fifth Fleet, urged the UN Security Council to act."
+     ]
+    },
+    {
+     "title": "Hormuz still shut",
+     "paras": [
+      "On Sunday, Iran's Foreign Minister Abbas Araghchi said reopening the Strait of Hormuz would \"not be difficult\" if the US met \"reasonable conditions\". The key oil route remains effectively closed, which keeps pressure on fuel prices worldwide, including in India."
+     ]
+    }
+   ],
+   "facts": [
+    "Bahrain hosts US Fifth Fleet",
+    "No injuries reported",
+    "Strait of Hormuz still effectively closed"
+   ],
+   "sources": [
+    {
+     "name": "Onmanorama",
+     "url": "https://www.onmanorama.com/news/world/2026/11/22/iran-strikes-bahrain-industrial-facility-air-defences-intercept-further-attacks.html"
+    },
+    {
+     "name": "ANI",
+     "url": "https://aninews.in/news/world/middle-east/reopening-strait-of-hormuz-not-difficult-iran-fm-says-us-must-meet-8216reasonable-conditions821720261122013040/"
+    }
+   ],
+   "img": "iran.jpg",
+   "credit": "Missile launch / via Onmanorama",
+   "contain": false
+  },
+  {
+   "slug": "drones-hit-russian-cargo-ship-sparta-ii-gulf-of-finland",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "head": "Drones set a sanctioned Russian military-linked cargo ship on fire in the Gulf of Finland; it drifts into Finnish waters",
+   "dek": "The Sparta II was sailing from St Petersburg to Kaliningrad when it was hit near Estonia.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "The attack",
+     "paras": [
+      "The Sparta II, run by Oboronlogistika — a logistics company of Russia's Defence Ministry that is under US sanctions — was hit about 11 nautical miles north of Estonia's Vaindloo Island on Saturday. Russia said two drones struck it and its bridge caught fire.",
+      "The crew was evacuated. The ship lost steering and drifted into Finnish waters near Loviisa."
+     ]
+    },
+    {
+     "title": "Reactions",
+     "paras": [
+      "Finnish Prime Minister Petteri Orpo said Ukraine has the \"right to fight back\". Finland twice put temporary sea and air restrictions in place. Russia said it shot down 80 drones over the Leningrad region. The strike brings the war closer to NATO's Baltic shores."
+     ]
+    }
+   ],
+   "facts": [
+    "Hit 11 nautical miles off Estonia",
+    "Crew evacuated",
+    "Russia claims 80 drones downed"
+   ],
+   "sources": [
+    {
+     "name": "ERR News",
+     "url": "https://news.err.ee/1610202715/russian-cargo-ship-on-fire-in-gulf-of-finland-after-reported-drone-strike"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
+    }
+   ],
+   "img": "ship.jpg",
+   "credit": "Sparta II / via ERR News",
+   "contain": false
+  },
+  {
+   "slug": "denmark-expels-russian-attache-plot-ukrainian-rapper",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "head": "Denmark expels Russia's defence attaché over an alleged plot to kill Ukrainian rapper Kyivstoner",
+   "dek": "Copenhagen will also stop issuing non-essential visas to Russians and wants the EU to follow.",
+   "stat": [
+    "7 days",
+    "for the attaché to leave"
+   ],
+   "sections": [
+    {
+     "title": "The plot",
+     "paras": [
+      "Denmark's intelligence service PET says Russian intelligence planned to kill Ukrainian rapper Kyivstoner. Two people are under investigation for attempted murder and for helping a foreign intelligence service.",
+      "Foreign Minister Lars Løkke Rasmussen gave Russia's defence attaché seven days to leave and summoned the ambassador."
+     ]
+    },
+    {
+     "title": "The response",
+     "paras": [
+      "Denmark will stop issuing non-essential visas to Russians and urged other EU countries to do the same. The Russian embassy called the move \"vengeful\" and said no evidence had been shown."
+     ]
+    }
+   ],
+   "facts": [
+    "2 people under investigation",
+    "Attaché given 7 days",
+    "Non-essential visas halted"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/20/two-danes-suspected-of-russian-backed-plot-to-kill-ukrainian-rapper"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "cognition-75-billion-databricks-225-billion-valuation-talks",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "Devin maker Cognition is in talks to raise money at a $75 billion valuation, and Databricks at $225 billion",
+   "dek": "Investors are still betting big on AI companies with fast-growing revenue, even after this week's chip-stock rout.",
+   "stat": [
+    "$75B",
+    "Cognition's possible valuation"
+   ],
+   "sections": [
+    {
+     "title": "Cognition",
+     "paras": [
+      "Cognition, which makes the AI coding agent Devin, is considering raising $2 billion or more at about $75 billion, Bloomberg reports. Its last round in September valued it at $48 billion, so that would be a jump of about 56% in two months.",
+      "Devin's yearly revenue rate rose from $492 million in May to almost $900 million by September."
+     ]
+    },
+    {
+     "title": "Databricks",
+     "paras": [
+      "Data and AI company Databricks is in early talks to raise \"several billion dollars\" at about $225 billion, the Wall Street Journal reports. That would be nearly 20% above the $190 billion it was valued at in August, when it said its yearly revenue rate had crossed $7 billion."
+     ]
+    }
+   ],
+   "facts": [
+    "Cognition was $48B in September",
+    "Devin revenue rate ~$900M",
+    "Databricks was $190B in August"
+   ],
+   "sources": [
+    {
+     "name": "Yahoo Finance (Bloomberg)",
+     "url": "https://finance.yahoo.com/technology/ai/articles/cognition-talks-75-billion-value-204755865.html"
+    },
+    {
+     "name": "Investing.com (WSJ)",
+     "url": "https://www.investing.com/news/company-news/databricks-seeks-225-billion-valuation-in-new-funding-talks-wsj-reports-5042986"
+    }
+   ],
+   "img": "cognition.jpg",
+   "credit": "Cognition / via Yahoo Finance",
+   "contain": false
+  },
+  {
+   "slug": "amazon-nears-7-5-billion-deal-decart-ai",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "Amazon is close to buying AI startup Decart for up to about $7.5 billion, the Financial Times reports",
+   "dek": "Decart makes AI models run more efficiently, and was an early user of Amazon's own Trainium3 chips.",
+   "stat": [
+    "$7.5B",
+    "possible deal value"
+   ],
+   "sections": [
+    {
+     "title": "The deal",
+     "paras": [
+      "Talks are in their final stages and a deal could be signed as early as next week, the FT reports, though they could still fall apart. The price is said to be over $7 billion in cash and stock, plus target-linked payments that could take it to about $7.5 billion.",
+      "Decart was valued at about $4 billion in May, after a $300 million round backed by Sequoia and Nvidia."
+     ]
+    },
+    {
+     "title": "Why Amazon wants it",
+     "paras": [
+      "Decart's software helps AI models run faster and cheaper, and it was an early user of Amazon's Trainium3 chips. Owning it would help Amazon's chips compete with Nvidia's. Its founders have reportedly agreed to stay for five years. Amazon did not comment and Decart declined to comment."
+     ]
+    }
+   ],
+   "facts": [
+    "Valued at ~$4B in May",
+    "Founders to stay 5 years",
+    "Deal could be signed next week"
+   ],
+   "sources": [
+    {
+     "name": "The Information",
+     "url": "https://www.theinformation.com/briefings/amazon-nearing-7-5-billion-purchase-decart"
+    },
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174312-amazon-nears-7-5b-deal-for-israeli-ai-startup-decart/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "chatgpt-openai-api-outage-3-5-hours",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "ChatGPT and OpenAI's API go down for about 3.5 hours on Saturday, with up to 75% of requests failing",
+   "dek": "A database fault during planned maintenance knocked out logins, chats and voice for millions — in India it hit during the evening.",
+   "stat": [
+    "75%",
+    "peak share of failed requests"
+   ],
+   "sections": [
+    {
+     "title": "What broke",
+     "paras": [
+      "The outage ran from 1:48 to 5:21 am Pacific time on 21 November — roughly 3:18 to 6:51 pm in India. OpenAI says scheduled maintenance on a database service went wrong when both of its backup copies failed at once. Because that service handles logins, everything that depended on it failed too.",
+      "Failures peaked at 75% for both free and paid ChatGPT users, hitting chats, login, search, file uploads and voice mode, plus API services used by developers."
+     ]
+    },
+    {
+     "title": "The fix",
+     "paras": [
+      "OpenAI says it has paused similar maintenance and added a way to move traffic off the backup copies, so a repeat should do less damage."
+     ]
+    }
+   ],
+   "facts": [
+    "~3.5 hours down",
+    "Hit chats, login, voice and API",
+    "Similar maintenance paused"
+   ],
+   "sources": [
+    {
+     "name": "OpenAI status",
+     "url": "https://status.openai.com/history"
+    },
+    {
+     "name": "AI Weekly",
+     "url": "https://aiweekly.co/alerts/openai-postgres-replica-failure-peaked-api-chatgpt-errors-at-75"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "ipo-week-ahead-foodlink-integris-mahanadi-coalfields",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "head": "IPO week ahead: Foodlink F&B and Integris Medtech open, while Mahanadi Coalfields' ₹8,981 crore IPO closes on Monday",
+   "dek": "Coal India's subsidiary still needs strong bids on its last day after a slow start.",
+   "stat": [
+    "0.48x",
+    "Mahanadi Coalfields subscription after day 2"
+   ],
+   "sections": [
+    {
+     "title": "Closing Monday",
+     "paras": [
+      "Mahanadi Coalfields' ₹8,981 crore IPO, priced at ₹129–136 a share, closes on 23 November. After two days it was subscribed 0.48 times: big institutions bid 1.37 times their share, retail just 0.24 times. Listing is expected around 27 November."
+     ]
+    },
+    {
+     "title": "Opening this week",
+     "paras": [
+      "Foodlink F&B Holdings opens 26–30 November with a ₹192 crore fresh issue plus an offer for sale of 88.35 lakh shares. Integris Medtech opens 27 November–1 December with a ₹600 crore fresh issue, cut from ₹925 crore, plus an offer for sale. Price bands are yet to be announced. Crystal Crop Protection lists on 26 November."
+     ]
+    }
+   ],
+   "facts": [
+    "MCL price band ₹129–136",
+    "Integris fresh issue cut to ₹600 crore",
+    "Crystal Crop lists 26 Nov"
+   ],
+   "sources": [
+    {
+     "name": "ETV Bharat",
+     "url": "https://www.etvbharat.com/en/business/upcoming-ipos-integris-medtech-ipo-and-foodlink-f-get-all-details-enn26112104805"
+    }
+   ],
+   "img": "ipo.jpg",
+   "credit": "Illustration / via ETV Bharat",
+   "contain": false
+  },
+  {
+   "slug": "sensex-nifty-fourth-weekly-gain-nine-month-high",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "head": "Sensex gains 2,327 points this week and Nifty rises 2.6% for a fourth straight weekly gain, as bank stocks lead",
+   "dek": "India held up while Asia and the Nasdaq slumped on AI worries, helped by record foreign buying.",
+   "stat": [
+    "+2.85%",
+    "Sensex this week"
+   ],
+   "sections": [
+    {
+     "title": "The week",
+     "paras": [
+      "The Sensex rose 2,327.26 points, or 2.85%, over the week to close at 83,919.71 on Friday. The Nifty 50 gained 656.30 points, or 2.61%, to 25,800.60 — both at nine-month highs.",
+      "Banks led: Nifty Bank rose 5.9% and PSU banks 6.72%. Metals fell 3%, while midcaps were flat."
+     ]
+    },
+    {
+     "title": "Foreign money",
+     "paras": [
+      "Foreign investors were net buyers on all five days, putting in about ₹32,647 crore (provisional). November has drawn a record $12.21 billion so far. That kept India steady even as the MSCI Asia-Pacific index lost 3.3% on Friday and the Nasdaq fell 5.28%."
+     ]
+    }
+   ],
+   "facts": [
+    "Nifty 25,800.60, +2.61% week",
+    "Nifty Bank +5.9%",
+    "FPIs bought ~₹32,647 crore"
+   ],
+   "sources": [
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/biz-tech/2026/11/20/indian-equities-close-at-nine-month-highs.html"
+    },
+    {
+     "name": "ANI",
+     "url": "https://aninews.in/news/business/sensex-nifty-end-week-at-nine-month-highs-as-bank-stocks-lead-rally20261121144445/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "gold-worst-week-since-march-india-price-falls",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "head": "Gold has its worst week since March, sliding about 9% globally; 24-carat in India falls to about ₹1.26 lakh per 10 grams",
+   "dek": "A firm dollar and bets on a US rate hike knocked precious metals, and silver fell even harder.",
+   "stat": [
+    "-9%",
+    "spot gold this week"
+   ],
+   "sections": [
+    {
+     "title": "The slide",
+     "paras": [
+      "Spot gold closed at about $3,537.90 an ounce on Friday, down about 9% for the week, Kitco reports, after touching about $3,502.93 — roughly a 14-month low. A firm dollar, bets that the US Federal Reserve could raise rates in December and the AI-led stock rout were all blamed.",
+      "In India, 24-carat gold was ₹1,25,570 per 10 grams on Friday morning, down ₹5,120 on the day; 22-carat was ₹1,15,100 (Goodreturns)."
+     ]
+    },
+    {
+     "title": "Silver",
+     "paras": [
+      "Silver on MCX fell about 6% on Friday to around ₹1.48 lakh per kg and was heading for a weekly fall of more than 13%. For buyers waiting for the wedding season, prices are now well below this year's highs."
+     ]
+    }
+   ],
+   "facts": [
+    "Spot gold ~$3,537.90",
+    "24K ₹1,25,570/10g (Fri)",
+    "MCX silver ~₹1.48 lakh/kg"
+   ],
+   "sources": [
+    {
+     "name": "Kitco",
+     "url": "https://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism"
+    },
+    {
+     "name": "Goodreturns",
+     "url": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-20-11-2026-live-mcx-gold-price-silver-price-24k-22k-18k-gold-prices-1548431.html"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "india-declare-720-for-9-wellington-pant-128",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "India declare at 720 for 9 in Wellington, the highest total ever at the Basin Reserve, as Rishabh Pant hits 128",
+   "dek": "Six Indian batters passed 50, giving India a lead of 352 over New Zealand on day four of the first Test.",
+   "stat": [
+    "720/9",
+    "India's first-innings total"
+   ],
+   "sections": [
+    {
+     "title": "Run-fest",
+     "paras": [
+      "After KL Rahul (136) and Shubman Gill (98) set it up on day three, Rishabh Pant smashed 128 off 153 balls with 10 fours and 6 sixes — his ninth Test hundred. Dhruv Jurel added 78 off 79 before India declared at 720 for 9, a lead of 352. Yashasvi Jaiswal (85) and Devdutt Padikkal (80) also passed 50.",
+      "Pant is the first Indian wicketkeeper-batter with Test hundreds in all four SENA countries — South Africa, England, New Zealand and Australia."
+     ]
+    },
+    {
+     "title": "Records",
+     "paras": [
+      "It is the highest Test total at the Basin Reserve, beating West Indies' 660 for 5 in 1995, the highest by a visiting team in a Test in New Zealand, and India's third-highest Test total. New Zealand, bowled out for 368 in their first innings, now need to bat out the rest of the match to save it."
+     ]
+    }
+   ],
+   "facts": [
+    "Lead of 352",
+    "Pant 128 off 153",
+    "India's 3rd-highest Test total"
+   ],
+   "sources": [
+    {
+     "name": "CricTracker",
+     "url": "https://www.crictracker.com/cricket-news/india-post-third-highest-test-total-in-history-with-mammothscore-against-new-zealand/"
+    },
+    {
+     "name": "Outlook India",
+     "url": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-4-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
+    }
+   ],
+   "img": "basin_reserve.jpg",
+   "credit": "Basin Reserve, Wellington / itravelNZ, Wikimedia, CC BY 2.0",
+   "contain": false
+  },
+  {
+   "slug": "lakshya-sen-satwik-chirag-lose-hong-kong-open-semis",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "Lakshya Sen and Satwik–Chirag both lose in the Hong Kong Open semi-finals, ending India's run",
+   "dek": "Lakshya's 13-match winning streak ends against Denmark's Anders Antonsen.",
+   "stat": [
+    "13",
+    "Lakshya's winning streak that ended"
+   ],
+   "sections": [
+    {
+     "title": "The results",
+     "paras": [
+      "Lakshya Sen lost 13-21, 13-21 to third seed Anders Antonsen, ending a 13-match run that included titles at the Hylo Open and the Kumamoto Masters. Antonsen now leads their head-to-head 6-3.",
+      "World No. 6 pair Satwik Rankireddy and Chirag Shetty lost 18-21, 19-21 to Malaysia's Man Wei Chong and Tee Kai Wun, despite leading that rivalry 4-1."
+     ]
+    },
+    {
+     "title": "Next up",
+     "paras": [
+      "India have no finalist in Hong Kong. Lakshya has already qualified for the BWF World Tour Finals in Hangzhou, from 9 to 13 December."
+     ]
+    }
+   ],
+   "facts": [
+    "Lakshya lost 13-21, 13-21",
+    "Satwik–Chirag lost 18-21, 19-21",
+    "World Tour Finals 9–13 Dec"
+   ],
+   "sources": [
+    {
+     "name": "ThePrint (PTI)",
+     "url": "https://theprint.in/sport/satwik-chirag-pair-exits-hong-kong-open-lakshya-also-bows-out/3105211/"
+    },
+    {
+     "name": "Olympics.com",
+     "url": "https://www.olympics.com/en/news/hong-kong-open-2026-badminton-india-semi-final-results"
+    }
+   ],
+   "img": "shuttle.jpg",
+   "credit": "Shuttlecock / Kate Ter Haar, Wikimedia, CC BY 2.0",
+   "contain": false
+  },
+  {
+   "slug": "india-women-beat-south-korea-asian-champions-trophy-bhopal",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "India's women beat South Korea 2-1 at the Asian Champions Trophy in Bhopal for their second straight win",
+   "dek": "Mumtaz Khan and Sunelita Toppo scored as the defending champions stayed unbeaten at home.",
+   "stat": [
+    "2-1",
+    "India vs South Korea"
+   ],
+   "sections": [
+    {
+     "title": "The match",
+     "paras": [
+      "Mumtaz Khan and Sunelita Toppo scored for India at the International Sports Complex in Bhopal on Saturday. Korea pulled one back in the 56th minute, but India held on.",
+      "The defending champions had opened with a 4-1 win over Malaysia on 19 November."
+     ]
+    },
+    {
+     "title": "Next",
+     "paras": [
+      "India play Thailand on Sunday. In the day's other game, Malaysia and China drew 2-2."
+     ]
+    }
+   ],
+   "facts": [
+    "Second straight win",
+    "Opened with 4-1 over Malaysia",
+    "Thailand next, on Sunday"
+   ],
+   "sources": [
+    {
+     "name": "Deccan Herald",
+     "url": "https://www.deccanherald.com/sports/hockey/india-beat-south-korea-2-1-to-register-second-consecutive-win-in-act-womens-hockey-4226826"
+    },
+    {
+     "name": "UNI",
+     "url": "https://www.uniindia.com/sports/sports-hockey-india-women-asian-champions-trophy-21spd35/253373"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "good": true,
+   "emoji": "🏑"
+  },
+  {
+   "slug": "leeds-thrash-chelsea-4-1-stamford-bridge-arsenal-draw-newcastle",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "Leeds thrash Chelsea 4-1 for their first win at Stamford Bridge since 1999; leaders Arsenal draw 2-2 at Newcastle",
+   "dek": "Noah Okafor scored twice as Leeds jumped above Chelsea into sixth in the Premier League.",
+   "stat": [
+    "4-1",
+    "Leeds win at Chelsea"
+   ],
+   "sections": [
+    {
+     "title": "Shock in London",
+     "paras": [
+      "Chelsea went ahead through Emegha's first Premier League goal, but Leeds hit back hard. Noah Okafor scored twice, Dominic Calvert-Lewin converted a 53rd-minute penalty and Brenden Aaronson added a fourth in stoppage time.",
+      "Leeds go sixth on 17 points, one ahead of Chelsea. Chelsea boss Xabi Alonso admitted his side are in \"a fragile moment\"."
+     ]
+    },
+    {
+     "title": "Arsenal held",
+     "paras": [
+      "At Newcastle, Eze, Barnes, Thiaw and Madueke scored in a 2-2 draw. Arsenal goalkeeper David Raya went off with a shoulder injury, but the Gunners stay top, six points clear of Brighton. Elsewhere, Manchester City drew 1-1 with Fulham and Tottenham beat Ipswich 2-0."
+     ]
+    }
+   ],
+   "facts": [
+    "First Leeds win at Chelsea since 1999",
+    "Leeds 6th on 17 points",
+    "Arsenal 6 points clear"
+   ],
+   "sources": [
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/report/_/gameId/401879232"
+    },
+    {
+     "name": "NBC Sports",
+     "url": "https://www.nbcsports.com/soccer/live/chelsea-vs-leeds-live-updates-score-goals-highlights-stats-2026-november-21"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/newcastle-united-vs-arsenal/report/559552"
+    }
+   ],
+   "img": "stamford.jpg",
+   "credit": "Stamford Bridge / Arne Müseler, Wikimedia, CC BY-SA 3.0 DE",
+   "contain": false
+  },
+  {
+   "slug": "ramayana-part-1-crosses-900-crore-net-day-17",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "head": "Ramayana: Part 1 crosses ₹900 crore net in India on day 17, joining only Pushpa 2 and Dhurandhar 2",
+   "dek": "Saturday's collection jumped 74% from Friday, taking the worldwide gross past ₹1,616 crore.",
+   "stat": [
+    "₹906.9 Cr",
+    "India net after 17 days"
+   ],
+   "sections": [
+    {
+     "title": "Saturday surge",
+     "paras": [
+      "The film earned ₹27.40 crore net on its third Saturday, up 74% from Friday's ₹15.75 crore, according to Sacnilk. Its India net total is now ₹906.90 crore, or ₹1,083.70 crore gross.",
+      "Overseas added about ₹10 crore on the day, taking the overseas gross to ₹533 crore and the worldwide total to ₹1,616.70 crore."
+     ]
+    },
+    {
+     "title": "In rare company",
+     "paras": [
+      "Sacnilk says it is the third-fastest Indian film to cross ₹900 crore net, after Pushpa 2 and Dhurandhar 2. With Sunday still to come, the gap to Pushpa 2's all-time numbers keeps shrinking."
+     ]
+    }
+   ],
+   "facts": [
+    "Day 17: ₹27.40 crore net",
+    "Worldwide ₹1,616.70 crore",
+    "Overseas ₹533 crore"
+   ],
+   "sources": [
+    {
+     "name": "Sacnilk",
+     "url": "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_17"
+    }
+   ],
+   "img": "theatre.jpg",
+   "credit": "Cinema auditorium (illustrative) / Carol M. Highsmith, Wikimedia, public domain",
+   "contain": false
+  },
+  {
+   "slug": "om-operation-mole-dhanush-biggest-opening",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "head": "Dhanush and Mammootty's O.M: Operation Mole gives Dhanush his biggest opening, about ₹31.5 crore worldwide on day one",
+   "dek": "The spy drama opened strongly in Tamil Nadu and the Telugu states, though reviews are mixed.",
+   "stat": [
+    "₹31.55 Cr",
+    "worldwide day-one gross"
+   ],
+   "sections": [
+    {
+     "title": "The opening",
+     "paras": [
+      "The Hollywood Reporter India puts the film's day-one India net at ₹17.70 crore and the worldwide total at about ₹31.55 crore, with roughly ₹11 crore from overseas. Sacnilk's estimate is a little lower, at ₹16.42 crore net from 6,581 shows.",
+      "Tamil brought in the bulk, about ₹12.19 crore, with ₹3.83 crore from Telugu. It is also Dhanush's best opening in the Telugu states."
+     ]
+    },
+    {
+     "title": "The verdict",
+     "paras": [
+      "Sai Pallavi co-stars. Critics have praised the lead performances but complained about the pacing, so the weekend will show whether word of mouth holds up."
+     ]
+    }
+   ],
+   "facts": [
+    "India net ~₹16.4–17.7 crore",
+    "Tamil ₹12.19 crore",
+    "Overseas ~₹11 crore"
+   ],
+   "sources": [
+    {
+     "name": "The Hollywood Reporter India",
+     "url": "https://www.hollywoodreporterindia.com/features/insight/om-operation-mole-box-office-dhanush-scores-career-best-opening-as-mammootty-co-starrer-clocks-over-31-crore-globally"
+    },
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/entertainment/2026/11/20/operation-mole-box-office-day-1.html"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "india-solar-capacity-crosses-174-5-gw",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "India's solar power capacity crosses 174.5 GW, up 34% in a year",
+   "dek": "The country added about 38.7 GW of solar between January and October alone.",
+   "stat": [
+    "174.5 GW",
+    "solar capacity"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "India had about 174.5 GW of solar installed by the end of October 2026, up 34.35% from a year earlier, according to Ministry of New and Renewable Energy data reported by SolarQuarter. October alone added about 3.5 GW, and January–October added about 38.7 GW.",
+      "Big ground-mounted plants make up 127.33 GW, and rooftops 34.97 GW."
+     ]
+    },
+    {
+     "title": "The bigger picture",
+     "paras": [
+      "Total renewable capacity, not counting large hydro, is now 303.46 GW. India can also make about 230 GW of solar modules a year, so more of the panels going up are made at home."
+     ]
+    }
+   ],
+   "facts": [
+    "Up 34.35% in a year",
+    "Rooftop solar 34.97 GW",
+    "Renewables (ex-large hydro) 303.46 GW"
+   ],
+   "sources": [
+    {
+     "name": "SolarQuarter",
+     "url": "https://solarquarter.com/2026/11/12/indias-solar-capacity-crosses-174-5-gw-as-october-additions-reach-3-5-gw-in-2026/"
+    }
+   ],
+   "img": "solar.jpg",
+   "credit": "Solar and wind farm / via SolarQuarter",
+   "contain": false,
+   "good": true,
+   "emoji": "☀️"
+  },
+  {
+   "slug": "india-cheetahs-62-botswana-cheetah-four-cubs-kuno",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "India's cheetah count reaches 62 after a Botswana-born cheetah gives birth to four cubs in the wild at Kuno",
+   "dek": "It is the first time a cheetah brought from Botswana has given birth in India.",
+   "stat": [
+    "62",
+    "cheetahs in India now"
+   ],
+   "sections": [
+    {
+     "title": "The birth",
+     "paras": [
+      "A female cheetah from Botswana, known as KOMG 3, has given birth to four cubs in the wild at Kuno National Park in Madhya Pradesh. It is the first natural birth by a Botswana-origin female in India.",
+      "With the new cubs, India's cheetah count reaches 62, and 43 of them were born in India."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Cheetahs were declared extinct in India in 1952. Cubs born in the wild, rather than in enclosures, are the clearest sign that the reintroduction project is starting to take root."
+     ]
+    }
+   ],
+   "facts": [
+    "4 cubs born in the wild",
+    "43 of 62 born in India",
+    "First birth by a Botswana-origin female"
+   ],
+   "sources": [
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/india/2026/11/20/boost-for-indias-cheetah-population-as-botswana-female-gives-birth-to-four-cubs.html"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "good": true,
+   "emoji": "🐆"
+  },
+  {
+   "slug": "india-tb-deaths-fall-38-percent-who-report",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "India's TB deaths have fallen 38% since 2015, faster than the world average, WHO says",
+   "dek": "There is still a long way to go, but the trend is moving the right way.",
+   "stat": [
+    "-38%",
+    "India TB deaths, 2015–2025"
+   ],
+   "sections": [
+    {
+     "title": "The report",
+     "paras": [
+      "The World Health Organization's Global TB Report 2026 says tuberculosis deaths in India fell 38% between 2015 and 2025, compared with 35% worldwide. India recorded about 2.63 lakh TB deaths in 2025, The Week reports."
+     ]
+    },
+    {
+     "title": "Work left",
+     "paras": [
+      "India still carries about a quarter of the world's TB cases, and the global goal was a 75% cut in deaths by 2025. WHO is reviewing India's district-level data before publishing new case estimates in early 2027."
+     ]
+    }
+   ],
+   "facts": [
+    "World: down 35%",
+    "~2.63 lakh deaths in 2025",
+    "Report released 12 Nov"
+   ],
+   "sources": [
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/health/2026/11/13/india-tuberculosis-deaths-decline-who-report.html"
+    },
+    {
+     "name": "Siasat",
+     "url": "https://www.siasat.com/indias-tb-deaths-drop-38-per-cent-since-2015-says-who-3575950/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "good": true,
+   "emoji": "🫁"
+  },
+  {
+   "slug": "crispr-one-shot-halves-bad-cholesterol-for-a-year",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "A single CRISPR infusion cut 'bad' cholesterol by about half for a year in a first human trial",
+   "dek": "The one-time gene-editing treatment switches off a liver gene linked to high cholesterol.",
+   "stat": [
+    "52.5%",
+    "drop in LDL at the top dose"
+   ],
+   "sections": [
+    {
+     "title": "The trial",
+     "paras": [
+      "In a Cleveland Clinic-led phase 1 trial of 15 patients, the one-time CRISPR treatment CTX310 switched off a liver gene called ANGPTL3. At the highest dose, LDL (\"bad\") cholesterol fell 52.5% and triglycerides 47.8% after 12 months. No serious side effects linked to the therapy were seen in that year."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "A separate study at the American Heart Association meeting found one shot cut triglycerides by 63–85% within 30 days in 10 adults. Patients will be followed for another 15 years. If it works long-term, one infusion could replace years of daily pills."
+     ]
+    }
+   ],
+   "facts": [
+    "15 patients in phase 1",
+    "Triglycerides down 47.8%",
+    "15-year follow-up planned"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/first-human-trial-to-slash-bad-cholesterol-by-50pt-with-one-crispr-injection/"
+    }
+   ],
+   "img": "crispr.jpg",
+   "credit": "Illustration / Sangharsh Lohakare, Unsplash, via Good News Network",
+   "contain": false,
+   "good": true,
+   "emoji": "🧬"
+  },
+  {
+   "slug": "drone-whale-breath-humpback-genome",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "Scientists read a humpback whale's whole genome from its breath, caught by a drone",
+   "dek": "No darts, no biopsies — just a drone carrying petri dishes through a whale's spout.",
+   "stat": [
+    "84%",
+    "of the DNA in the spray was whale DNA"
+   ],
+   "sections": [
+    {
+     "title": "How it worked",
+     "paras": [
+      "A team including the University of St Andrews flew a drone with sterile dishes through humpback whale blows in British Columbia's Kitimat Fjord System. They collected 58 samples from 26 whales — more than a third of them from land, without a boat.",
+      "About 84% of the DNA was whale DNA, enough to sequence whole genomes. The method sexed every whale correctly and found three new mitochondrial DNA variants."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Until now, only one North Pacific humpback whole genome was public. A gentle, cheap method like this could help track the health of whale populations without hurting them."
+     ]
+    }
+   ],
+   "facts": [
+    "58 samples from 26 whales",
+    "3 new DNA variants found",
+    "Published in Molecular Ecology Resources"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/breath-of-whale-captured-via-drone-to-complete-genome-sequence/"
+    }
+   ],
+   "img": "whale.jpg",
+   "credit": "North Coast Cetacean Society / via Good News Network",
+   "contain": false,
+   "good": true,
+   "emoji": "🐋"
+  },
+  {
+   "slug": "ethiopian-water-mouse-rediscovered-1927",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "An Ethiopian water mouse last seen in 1927 is found alive, almost a century later",
+   "dek": "A researcher caught one with peanut butter as bait, and his team has since found two more.",
+   "stat": [
+    "99 years",
+    "since the last sighting"
+   ],
+   "sections": [
+    {
+     "title": "The find",
+     "paras": [
+      "The Ethiopian amphibious rat, Nilopegamys plumbeus, was known from a single specimen collected in 1927 and was listed as critically endangered, possibly extinct. Ecologist Mengistu Wale of the Ethiopian Biodiversity Institute trapped one during a survey, using peanut butter as bait, and the team later caught two more.",
+      "They were found in a stream in the Yayu Coffee Forest Biosphere Reserve in south-western Ethiopia, several hundred km from the original site."
+     ]
+    },
+    {
+     "title": "What it looks like",
+     "paras": [
+      "The animal is about 15 cm long, with broad hind feet for swimming and a water-repellent coat. Genetic tests are under way, backed by the German conservation group NABU."
+     ]
+    }
+   ],
+   "facts": [
+    "Only known from a 1927 specimen",
+    "3 animals caught",
+    "About 15 cm long"
+   ],
+   "sources": [
+    {
+     "name": "National Geographic",
+     "url": "https://www.nationalgeographic.com/animals/article/ethiopia-water-mouse-extinct-rediscovery"
+    }
+   ],
+   "img": "mouse.jpg",
+   "credit": "Ethiopian water mouse / via National Geographic",
+   "contain": false,
+   "good": true,
+   "emoji": "🐭"
+  },
+  {
+   "slug": "lake-baikal-refilling-sharpest-rebound-343-years",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "Lake Baikal, which holds a fifth of the world's surface fresh water, is refilling at its fastest rate in 343 years",
+   "dek": "Tree rings show river inflows into the Siberian lake have bounced back sharply since 2017.",
+   "stat": [
+    "145%",
+    "of long-term average inflow since 2017"
+   ],
+   "sections": [
+    {
+     "title": "The study",
+     "paras": [
+      "Researchers led by Shijie Wang of Yunnan University used tree rings covering 343 years to rebuild the record of rivers feeding Lake Baikal. In the worst dry periods, inflows fell by up to 90%. Since 2017 they have run at 145% of the long-term average — the sharpest rebound in the whole record — and lake levels and plant growth are rising.",
+      "The paper was published in Geophysical Research Letters."
+     ]
+    },
+    {
+     "title": "A note of caution",
+     "paras": [
+      "The authors link it to extra moisture from northern seas and slower Arctic warming in the region. They stress it is natural variation, not a sign that global warming is easing."
+     ]
+    }
+   ],
+   "facts": [
+    "Baikal holds ~20% of surface fresh water",
+    "343-year tree-ring record",
+    "Inflows once fell up to 90%"
+   ],
+   "sources": [
+    {
+     "name": "Phys.org",
+     "url": "https://phys.org/news/2026-11-world-largest-freshwater-lake-recovering.html"
+    },
+    {
+     "name": "Interesting Engineering",
+     "url": "https://interestingengineering.com/science/worlds-largest-fresh-water-lake-sees-sharpest-flow-rebound-in-343-years"
+    }
+   ],
+   "img": "baikal.jpg",
+   "credit": "Lake Baikal / via Interesting Engineering",
+   "contain": false,
+   "good": true,
+   "emoji": "💧"
+  },
+  {
+   "slug": "comac-ce-25a-electric-plane-first-crewed-flight",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "China's 19-seat electric plane, the COMAC CE-25A, makes its first flight with a crew on board",
+   "dek": "Powered by 10 electric fans, it is designed for short 400 km hops with zero fuel burnt.",
+   "stat": [
+    "400 km",
+    "planned range"
+   ],
+   "sections": [
+    {
+     "title": "The flight",
+     "paras": [
+      "The battery-powered COMAC CE-25A flew with two pilots and a flight test engineer in Binzhou, Shandong, after 19 uncrewed flights since 2 February, Electrek reports. It has 10 electric ducted fans, five on each wing."
+     ]
+    },
+    {
+     "title": "What it could do",
+     "paras": [
+      "The commuter plane is designed to carry 19 people up to 400 km at about 300 km/h. China's aviation regulator is reviewing its application for a type certificate. Electric planes for short routes could cut emissions and noise on regional flights."
+     ]
+    }
+   ],
+   "facts": [
+    "10 electric ducted fans",
+    "Cruise ~300 km/h",
+    "19 uncrewed test flights first"
+   ],
+   "sources": [
+    {
+     "name": "Electrek",
+     "url": "https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/"
+    }
+   ],
+   "img": "plane.jpg",
+   "credit": "COMAC CE-25A / via Electrek",
+   "contain": false,
+   "good": true,
+   "emoji": "✈️"
+  },
+  {
+   "slug": "jordan-mosque-ablution-water-garden",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "A mosque in Jordan turns the water used for prayer-washing into a green garden",
+   "dek": "In one of the world's driest countries, 35+ mosques now reuse their ablution water.",
+   "stat": [
+    "35+",
+    "Jordan mosques reusing ablution water"
+   ],
+   "sections": [
+    {
+     "title": "How it works",
+     "paras": [
+      "The Abu Obeida mosque in Deir Alla, in the Jordan Valley, catches the water worshippers use to wash before prayers. It is filtered through five layers of gravel and sand and used to drip-irrigate trees. No soap is used, so no chemicals need treating, The Guardian reports."
+     ]
+    },
+    {
+     "title": "Spreading",
+     "paras": [
+      "Jordan has just 61 cubic metres of renewable fresh water per person a year, far below the UN's 500 m³ scarcity line. More than 35 of its 7,600+ mosques now reuse ablution water, and over 50 harvest rainwater, with 1,200 muezzins, 750 women preachers and 110 imams trained in water saving."
+     ]
+    }
+   ],
+   "facts": [
+    "5-layer gravel and sand filter",
+    "61 m³ water per person a year",
+    "7,600+ mosques in Jordan"
+   ],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/global-development/2026/nov/10/mosque-jordan-valley-ablution-water-irrigation"
+    }
+   ],
+   "img": "mosque.jpg",
+   "credit": "Abu Obeida mosque / via The Guardian",
+   "contain": false,
+   "good": true,
+   "emoji": "🕌"
+  }
+ ],
+ "also": []
+}
