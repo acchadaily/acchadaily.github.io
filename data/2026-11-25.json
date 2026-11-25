@@ -1,0 +1,1890 @@
+{
+ "date": "2026-11-25",
+ "day": "Wednesday",
+ "date_label": "25 November 2026",
+ "note": "",
+ "markets": {
+  "asof": "Sensex, Nifty, USD/INR: Mon 23 Nov 2026 close (PTI; markets were shut on 24 Nov for Guru Nanak Jayanti). Gold 24K: 25 Nov 2026, per 10g (Groww)",
+  "items": [
+   {
+    "n": "Sensex",
+    "v": "82,435.99",
+    "c": "−1.77%"
+   },
+   {
+    "n": "Nifty 50",
+    "v": "25,349.65",
+    "c": "−1.75%"
+   },
+   {
+    "n": "USD/INR",
+    "v": "92.92",
+    "c": "−30 paise (rupee weaker)"
+   },
+   {
+    "n": "Gold 24K",
+    "v": "₹1,27,810/10g",
+    "c": "+0.01%"
+   }
+  ]
+ },
+ "explainers": [
+  {
+   "q": "What is a grey market premium (GMP)?",
+   "a": "Before a company lists on the stock exchange, some people informally trade its IPO shares in an unofficial 'grey market'. The extra price they pay over the IPO price is called the grey market premium. Many investors watch it to guess how much a stock might gain on listing day. But these deals have no rules, no guarantee and no protection if something goes wrong, which is why SEBI now says GMP should not be treated as a guide to returns.",
+   "slug": "mahanadi-coalfields-ipo-subscribed-1-52-times-sebi-gmp-warning"
+  },
+  {
+   "q": "How does the World Chess Championship match work?",
+   "a": "It is a one-on-one match between the reigning champion and a challenger who earns the spot by winning the Candidates Tournament. This year's match in Geneva has 14 classical games, with two hours each for the first 40 moves. A win is worth one point and a draw half a point, so the first player to reach 7.5 points takes the title. If it ends 7–7, four faster rapid games decide the champion.",
+   "slug": "gukesh-sindarov-world-chess-championship-game-1"
+  }
+ ],
+ "stories": [
+  {
+   "slug": "bisleri-fssai-goa-batch-unsafe-pah-prosecution",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "head": "FSSAI declares a Bisleri water batch from Goa unsafe and clears prosecution; Bisleri says the ban covers just one batch",
+   "dek": "A retest found traces of chemicals called PAHs in one batch of Bisleri bottled water. Bisleri says the batch was made in September 2025 and is no longer on shelves.",
+   "stat": [
+    "1 batch",
+    "GO 270, made 27 Sep 2025"
+   ],
+   "sections": [
+    {
+     "title": "What the regulator found",
+     "paras": [
+      "Goa's food regulator first flagged a Bisleri water sample for bromate, a chemical that can form when water is disinfected. The first lab test showed 0.012 mg per litre, just above the 0.01 mg limit.",
+      "Bisleri appealed, and the sample went to the National Food Laboratory in Navi Mumbai. That lab found bromate was within limits, but it detected small amounts of polycyclic aromatic hydrocarbons (PAHs), a group of chemicals linked to burning and fuel."
+     ]
+    },
+    {
+     "title": "FSSAI's action",
+     "paras": [
+      "On 23 November, FSSAI said that because of the PAH result, the batch was unsafe. It banned the sale of batch GO 270, asked Bisleri to find the root cause, and approved prosecution of Bisleri International under the food safety law.",
+      "Reports say FSSAI has also taken samples from other big packaged water brands and may act against any that fail."
+     ]
+    },
+    {
+     "title": "Bisleri's side",
+     "paras": [
+      "In a fresh statement on 24 November, Bisleri said the ban applies only to that one batch, made at its Goa plant on 27 September 2025. It said other samples from the same source had passed tests, and that it had pointed out problems with the results and asked for a PAH retest back in February 2026.",
+      "The company said it will keep working with FSSAI but will defend itself in the legal process."
+     ]
+    },
+    {
+     "title": "Should you worry?",
+     "paras": [
+      "Goa's FDA says the batch in question was tested in October 2025 and is no longer being sold. It has tested more than 80 packaged water samples since April 2025 as the row widened into a check on bottled water across the state."
+     ]
+    }
+   ],
+   "facts": [
+    "First test showed bromate at 0.012 mg/L vs a 0.01 mg/L limit",
+    "Retest found PAHs; batch GO 270 banned from sale",
+    "Goa FDA has tested 80+ packaged water samples since April 2025"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/bisleri-responds-to-fssai-over-goa-water-sample-safety-findings-ws-l-115394.htm"
+    },
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-marketing/goa-fda-intensifies-water-brand-surveillance-after-bisleri-dispute-ws-l-115362.htm"
+    }
+   ],
+   "img": "bisleri.jpg",
+   "credit": "Bisleri and FSSAI logos / via Storyboard18",
+   "contain": false
+  },
+  {
+   "slug": "nvidia-reinstates-jensen-huang-ceo",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "Nvidia brings back Jensen Huang as CEO 11 days after he quit; shares jump 31% in a day, then slip about 6%",
+   "dek": "Nvidia's board voted unanimously to reinstate its founder after President Trump publicly pushed for his return. Its investigation into the reasons he resigned is still going on.",
+   "stat": [
+    "31%",
+    "Nvidia's one-day jump on Monday"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "On Monday, 23 November, Nvidia's board said Jensen Huang was back as president, CEO and board member with immediate effect. The vote was unanimous. The board said it had held a series of meetings with him and was satisfied with his 'candor and ability to lead'.",
+      "Huang co-founded the world's most important AI chip company and had run it for more than three decades. He stepped down on 12 November, and chief financial officer Colette Kress took over as interim CEO. She now goes back to her CFO job, and Harvey Jones stays on as board chair."
+     ]
+    },
+    {
+     "title": "Why he left in the first place",
+     "paras": [
+      "Huang resigned after reports about extramarital relationships, including one with a woman whom US intelligence reportedly believed was a Chinese spy, NBC News reported. In a memo to staff earlier in November he admitted he had been unfaithful to his wife.",
+      "Nvidia's own statement says the board consulted senior US government officials and concluded that bringing him back poses no national security risk. A committee of independent directors is still investigating, and the board says that probe will run to the end."
+     ]
+    },
+    {
+     "title": "Trump's role and the market rollercoaster",
+     "paras": [
+      "Trump said he spoke to the board 'directly and indirectly' and that Huang 'did nothing wrong'. Critics were unhappy: Senator Elizabeth Warren called it a 'reckless decision', and governance experts told Reuters the board hurt its claim to independence by acting before its probe was finished.",
+      "Investors cheered at first. Nvidia shares rose about 31% on Monday, their biggest one-day gain since 2003, according to Bloomberg. The rally cooled on Tuesday, with the stock falling about 5.9% as attention turned to political risks and scrutiny of Nvidia's chip sales to China."
+     ]
+    },
+    {
+     "title": "What changes now",
+     "paras": [
+      "Nvidia is setting up a new board committee on national security and export controls, made up only of independent directors, and is hiring a new chief compliance officer. Huang said he takes the job back 'with the greatest humility and renewed commitment'. For the AI industry, which runs largely on Nvidia chips, the bigger question is whether this ends the uncertainty or just pauses it until the investigation reports."
+     ]
+    }
+   ],
+   "facts": [
+    "Huang resigned on 12 November and was reinstated on 23 November",
+    "Shares rose about 31% on Monday, the biggest gain since 2003",
+    "Stock fell about 5.9% on Tuesday as the rally faded"
+   ],
+   "sources": [
+    {
+     "name": "Nvidia Newsroom",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+    }
+   ],
+   "img": "nvidia.jpg",
+   "credit": "Nvidia logo / via Nvidia Newsroom",
+   "contain": false
+  },
+  {
+   "slug": "jiostar-layoffs-150-jobs-cost-cutting",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "head": "JioStar, the company behind JioHotstar, plans to cut about 150 jobs to control costs, with six months' pay as severance",
+   "dek": "The Reliance–Disney media giant calls it 'portfolio rebalancing'. It is the second big round of job cuts since Viacom18 and Star India merged in 2024.",
+   "stat": [
+    "~150",
+    "jobs to be cut"
+   ],
+   "sections": [
+    {
+     "title": "What's happening",
+     "paras": [
+      "JioStar is planning to let go of around 150 employees across marketing, production, studios and some operations teams, according to a report first carried by exchange4media and a company statement. Industry sources say the final number could end up higher.",
+      "Those affected will get at least six months' salary plus a pro-rata bonus for this financial year."
+     ]
+    },
+    {
+     "title": "What the company says",
+     "paras": [
+      "A JioStar spokesperson said the company is shifting its money towards the businesses where it sees the strongest long-term growth, and admitted the decision will affect some employees. It promised support through the transition."
+     ]
+    },
+    {
+     "title": "Why now",
+     "paras": [
+      "Analysts link the cuts to a push to save money as competition for advertisers gets tougher and a pause in TV audience ratings hurts ad sales.",
+      "In the September quarter, JioStar's operating revenue grew 10% to ₹6,806 crore, but operating profit (EBITDA) fell 11% to ₹1,372 crore, and its margin shrank from 28.1% to 22.1%."
+     ]
+    },
+    {
+     "title": "The bigger picture",
+     "paras": [
+      "JioStar was formed in November 2024 when Reliance's Viacom18 merged with Disney's Star India, in a deal that valued the combined company at $8.5 billion. More than 1,000 people left in a restructuring in March 2025. Meanwhile, JioHotstar has launched in Singapore, the UK and Canada, and digital watch time is up 15% from a year ago."
+     ]
+    }
+   ],
+   "facts": [
+    "About 150 roles cut across marketing, production and studios",
+    "Q2 revenue up 10% to ₹6,806 crore; EBITDA down 11%",
+    "Second major layoff round since the 2024 merger"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/jiostar-to-cut-150-jobs-to-control-costs/"
+    }
+   ],
+   "img": "jiohotstar.jpg",
+   "credit": "JioHotstar app / via Inc42",
+   "contain": false
+  },
+  {
+   "slug": "dark-patterns-survey-94-percent-apps-localcircles",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "head": "94% of India's popular apps and websites still use 'dark patterns' to trick users, says a LocalCircles study of 354 platforms",
+   "dek": "Even many platforms that told the government they were 'dark-pattern-free' were found using tricks like hidden charges and forced sign-ups.",
+   "stat": [
+    "94%",
+    "platforms with at least one dark pattern"
+   ],
+   "sections": [
+    {
+     "title": "What the study found",
+     "paras": [
+      "A study commissioned by LocalCircles checked 354 widely used apps and websites across 45 sectors. Only 20 were clean; the other 334 used at least one 'dark pattern', a design trick that pushes users into choices they didn't really want.",
+      "Among 108 consumer platforms run by listed companies, 102 had such tricks."
+     ]
+    },
+    {
+     "title": "The most common tricks",
+     "paras": [
+      "The most common was 'forced action', where you must do something extra, like sign up or share data, to get what you came for. It showed up on 237 platforms (67%).",
+      "Next came 'drip pricing' (extra charges that appear only at checkout) on 63%, 'bait and switch' on 50%, and confusing interface design on 48%."
+     ]
+    },
+    {
+     "title": "Self-declared, but not clean",
+     "paras": [
+      "By November, 31 companies had told the consumer regulator CCPA that their platforms had no dark patterns. But the study found 23 of them, about 74%, still did.",
+      "In 37 of the 45 sectors, including food delivery, online grocery, cab apps, OTT and edtech, not a single platform was fully compliant. Only 14% of quick commerce apps and 17% of e-commerce sites passed."
+     ]
+    },
+    {
+     "title": "New rules from January",
+     "paras": [
+      "Stricter e-commerce rules kick in on 1 January. Platforms will need yearly self-audits, must show a compliance certificate, must reveal the lowest price of the past 30 days when they advertise a discount, and must clearly label sponsored listings. The CCPA has already penalised companies such as Zepto, Rapido, IndiGo and BookMyShow over dark patterns."
+     ]
+    }
+   ],
+   "facts": [
+    "334 of 354 platforms used at least one dark pattern",
+    "23 of 31 'self-declared clean' companies still had them",
+    "New e-commerce rules start 1 January"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/most-consumer-platforms-rife-with-dark-patterns-despite-regulatory-action-survey/"
+    }
+   ],
+   "img": "darkpatterns.jpg",
+   "credit": "Illustration / via Inc42",
+   "contain": false
+  },
+  {
+   "slug": "bengal-bhorsha-allowance-paschim-banga",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "head": "Bengal will pay jobless graduates ₹2,000 a month from January under the new Bhorsha scheme; cabinet also clears renaming the state 'Paschim Banga'",
+   "dek": "Chief Minister Suvendu Adhikari's cabinet replaced the old Yuvasathi scheme and will check about 54 lakh existing beneficiaries by 31 December. The name-change resolution goes to the Assembly on 9 December.",
+   "stat": [
+    "₹2,000",
+    "a month for unemployed graduates aged 21–45"
+   ],
+   "sections": [
+    {
+     "title": "Who gets how much",
+     "paras": [
+      "West Bengal's new 'Bhorsha Karmasuchi' will put money straight into the bank accounts of unemployed young people every month, starting in January. Graduates, and diploma holders from government vocational institutes and ITIs, will get ₹2,000 a month. Unemployed young people who are not graduates will get ₹1,500.",
+      "To qualify, you must be between 21 and 45 years old. A family can have at most two people on the scheme, and those already getting ₹3,000 under the state's Annapurna Yojana are left out. Payments will land in the second week of each month, and the scheme will be formally launched at an event in February."
+     ]
+    },
+    {
+     "title": "Replacing Yuvasathi",
+     "paras": [
+      "The scheme takes the place of the previous Trinamool Congress government's Yuvasathi scheme. The state will verify the roughly 54 lakh people already registered under the old scheme by 31 December. People who have not applied yet can do so through the 'Apnar Sarkar Apnar Pashe' programme, with forms going to the Youth Welfare Department.",
+      "The BJP's manifesto had promised more. The government says the amounts will rise to ₹3,000 and ₹2,000 from the 2028-29 financial year. Adhikari asked young people to 'be patient for some time', adding: 'We will keep our commitment.'"
+     ]
+    },
+    {
+     "title": "'Paschim Banga' in English too",
+     "paras": [
+      "At the same 23 November announcement, Adhikari said the cabinet had approved renaming the state 'Paschim Banga' — the same name in English as in Bengali. A resolution will be placed in the Assembly on 9 December, during a winter session that runs from 4 to 14 December.",
+      "If the Assembly passes it, the proposal must still be approved by the Centre and Parliament before the new name becomes official. Earlier attempts by the Left Front in 1999 and the Trinamool government in 2011 and 2016 did not get the Centre's approval."
+     ]
+    }
+   ],
+   "facts": [
+    "₹2,000/month for jobless graduates, ₹1,500 for non-graduates",
+    "About 54 lakh old Yuvasathi beneficiaries to be verified by 31 Dec",
+    "Paschim Banga resolution in the Assembly on 9 Dec"
+   ],
+   "sources": [
+    {
+     "name": "The Tribune (PTI)",
+     "url": "https://www.tribuneindia.com/news/india/bengal-announces-rs-2000-monthly-allowance-for-unemployed-graduates-from-january/"
+    },
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/india/2026/11/24/whats-in-a-name-change-will-renaming-west-bengal-to-paschim-banga-benefit-the-state.html"
+    },
+    {
+     "name": "Outlook",
+     "url": "https://www.outlookindia.com/national/west-bengal-name-change-2026-suvendu-adhikari-paschim-banga-renaming-proposal-history"
+    }
+   ],
+   "img": "bengal.jpg",
+   "credit": "Map graphic / via Outlook India",
+   "contain": false
+  },
+  {
+   "slug": "chennai-cerelac-gelato-feeding-bottle-viral-backlash",
+   "tag": "Viral",
+   "color": "#0891B2",
+   "head": "A Chennai gelato shop's 'Grown-Up Cerelac' served in baby feeding bottles goes viral and draws a backlash from doctors",
+   "dek": "Crowds lined up at Gelateria Ciacco after influencer posts, but critics called the feeding-bottle gimmick tasteless.",
+   "stat": [
+    "2 weeks",
+    "extra run after the rush"
+   ],
+   "sections": [
+    {
+     "title": "The viral treat",
+     "paras": [
+      "For Children's Day on 14 November, Chennai's Gelateria Ciacco launched a 'Grown-Up Cerelac Gelato' and a cold Cerelac milk, both served in baby feeding bottles. Influencer videos pulled in such big crowds that there were reports of traffic jams on Anna Salai, and the shop extended the offer by two weeks.",
+      "The cafe says the idea came from a sick regular who couldn't eat cold ice cream and was given warm Cerelac milk instead."
+     ]
+    },
+    {
+     "title": "The backlash",
+     "paras": [
+      "Doctors and creators questioned turning a feeding bottle into a party prop. One physician pointed out that the same public is often uncomfortable with breastfeeding, while others said brands should not use childhood symbols just for attention.",
+      "The cafe said it only wanted to serve nostalgia, that customers can pick a normal cup, and that bottles are sterilised and never reused. It plans to end the item soon and move to its Christmas menu."
+     ]
+    }
+   ],
+   "facts": [
+    "Launched 14 November for Children's Day",
+    "Offer extended by two weeks after the crowds",
+    "Cafe says bottles are sterilised and not reused"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/trending/chennai-cafes-cerelac-gelato-goes-viral-but-brand-faces-backlash-over-feeding-bottle-concept-ws-l-115391.htm"
+    }
+   ],
+   "img": "gelato.jpg",
+   "credit": "Gelato in feeding bottles / via Storyboard18",
+   "contain": false
+  },
+  {
+   "slug": "tata-motors-car-price-hike-december-2026",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "head": "Tata Motors will raise car and SUV prices by an average 0.5% from 1 December, including EVs",
+   "dek": "The carmaker says it can no longer absorb rising input costs. Hyundai and Audi have also announced price hikes.",
+   "stat": [
+    "0.5%",
+    "average price hike"
+   ],
+   "sections": [
+    {
+     "title": "The hike",
+     "paras": [
+      "Tata Motors Passenger Vehicles will raise prices across its range of petrol, diesel and electric cars from 1 December 2026. The average increase is 0.5%, and the exact amount will depend on the model and variant.",
+      "If you were planning to buy a Tata car, booking before the end of November could save a little."
+     ]
+    },
+    {
+     "title": "Why prices are going up",
+     "paras": [
+      "The company says it has absorbed most of the rise in raw material costs so far and now needs to pass some of it on. Costlier commodities and currency swings squeezed its margins in the September quarter, even though domestic revenue grew about 51%."
+     ]
+    },
+    {
+     "title": "Others are doing it too",
+     "paras": [
+      "Hyundai India has also said it will raise prices from December, and Audi India will raise prices by up to 2% from 1 January."
+     ]
+    }
+   ],
+   "facts": [
+    "Average hike of 0.5%, effective 1 December 2026",
+    "Applies to both petrol/diesel and EV models",
+    "Audi India plans up to 2% hike from 1 January"
+   ],
+   "sources": [
+    {
+     "name": "Storyboard18",
+     "url": "https://www.storyboard18.com/brand-makers/tata-motors-to-raise-vehicle-prices-by-zero-point-five-percent-from-december-ws-l-115381.htm"
+    }
+   ],
+   "img": "tata.jpg",
+   "credit": "Tata Motors logo / via Storyboard18",
+   "contain": false
+  },
+  {
+   "slug": "sarvam-ai-pratyush-kumar-responds-token-factory-criticism",
+   "tag": "Founders",
+   "color": "#0E9F5B",
+   "head": "Sarvam AI co-founder Pratyush Kumar hits back at critics, saying its Token Factory 'runs on privately-procured GPUs'",
+   "dek": "Critics online accused the government-backed AI startup of using public money to host Chinese models like DeepSeek. Sarvam says that is wrong.",
+   "stat": [
+    "4,096",
+    "subsidised H100 GPUs Sarvam got earlier"
+   ],
+   "sections": [
+    {
+     "title": "The criticism",
+     "paras": [
+      "Sarvam recently launched Token Factory, a service that runs AI models for businesses from India. Along with Sarvam's own models, it hosts Google's Gemma and China's DeepSeek and Kimi. That sparked online criticism that Sarvam was using taxpayer-funded computers to serve foreign models instead of building Indian ones."
+     ]
+    },
+    {
+     "title": "The founder's reply",
+     "paras": [
+      "In a post on X, co-founder Pratyush Kumar said Token Factory uses GPUs Sarvam bought privately. He said the IndiaAI Mission subsidy went to cloud providers, not to Sarvam directly, and that its government-backed GPU access ended in March 2026.",
+      "He argued that running models locally helps Indian companies keep data in India and get faster responses, and that most of the few trillion AI tokens India uses daily are served from abroad."
+     ]
+    },
+    {
+     "title": "Still building its own",
+     "paras": [
+      "Under the mission, Sarvam had received 4,096 Nvidia H100 GPUs for six months, worth about ₹247 crore including a ₹98.68 crore subsidy. It has now released an upgraded open model, Sarvam-105B-1711, and says new vision, speech and edge models will come in the next two weeks."
+     ]
+    }
+   ],
+   "facts": [
+    "Sarvam got 4,096 H100 GPUs worth about ₹247 crore under IndiaAI",
+    "Government-backed GPU access ended in March 2026",
+    "New Sarvam-105B-1711 model released"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/sarvam-ai-defends-token-factory-says-homegrown-models-remain-core-focus/"
+    },
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/sarvam-vs-critics-jensen-huang-returns-more/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "shadowfax-acquires-wefast-borzo-23-crore",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Shadowfax buys WeFast's India business and Borzo's tech for about ₹23.3 crore to enter on-demand city deliveries",
+   "dek": "The listed logistics company gets WeFast's network of over 32,000 delivery partners as it goes after small shops and person-to-person deliveries.",
+   "stat": [
+    "₹23.3 Cr",
+    "deal value ($2.5 million)"
+   ],
+   "sections": [
+    {
+     "title": "The deal",
+     "paras": [
+      "Shadowfax Technologies will pay $2.5 million (about ₹23.3 crore) in two parts: $2 million for Borzo's technology and software rights in India plus $50,000 for a licence to the Borzo name, and $450,000 for WeFast India's business assets such as contracts, equipment, data and some employees. The deal should close by 31 March 2027."
+     ]
+    },
+    {
+     "title": "Who is WeFast?",
+     "paras": [
+      "Started in Mumbai in 2016, WeFast lets people and small businesses book a rider to move goods within a city. It works in more than five cities, has over 32,000 delivery partners, makes over 1.2 crore deliveries a year and earned about ₹200 crore in adjusted revenue in 2025."
+     ]
+    },
+    {
+     "title": "Why Shadowfax wants it",
+     "paras": [
+      "Shadowfax, which has 3.8 lakh delivery partners, wants to serve shop owners, distributors and regular users, not just big e-commerce firms. CEO Abhishek Bansal said the deal widens its platform across parcels, hyperlocal delivery and on-demand transport. Its hyperlocal revenue grew 87.7% to ₹341 crore in the September quarter."
+     ]
+    }
+   ],
+   "facts": [
+    "$2.5 million (≈₹23.3 crore) total deal value",
+    "WeFast: 32,000+ partners, 1.2 crore deliveries a year",
+    "Expected to close by 31 March 2027"
+   ],
+   "sources": [
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/news/shadowfax-to-acquire-wefast-india-assets-borzo-ip-for-rs-233-cr-12838574"
+    },
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/shadowfax-to-acquire-wefast-to-expand-into-intra-city-deliveries/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "bloom-hotels-raises-75-million-kedaara-aidenai-32-million",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Hotel brand Bloom raises $75 million led by Kedaara Capital; AI startup AidenAI raises $32 million",
+   "dek": "Two of the week's biggest rounds: Bloom wants to grow to 12,000 rooms, while AidenAI plans to train 1,000+ AI engineers in Hyderabad.",
+   "stat": [
+    "$75 Mn",
+    "Bloom's funding round"
+   ],
+   "sections": [
+    {
+     "title": "Bloom checks in big money",
+     "paras": [
+      "Bloom, a tech-led hotel brand, raised $75 million in a round led by private equity firm Kedaara Capital. It says it has grown about 30% a year for five years while staying profitable.",
+      "It expects to run more than 4,700 rooms by the end of this financial year and aims for 12,000 rooms in the next few years. Part of the money will go into AI and dynamic pricing for its in-house platform."
+     ]
+    },
+    {
+     "title": "AidenAI's Series A",
+     "paras": [
+      "AidenAI, founded in 2023 by former Infosys executive Srinivas Kamadi, raised $32 million (about ₹297 crore) in a Series A round led by A91 Partners. Based in New Jersey with most of its team in Hyderabad, it helps companies build AI agents and update old software. It serves 30+ enterprise clients in six countries."
+     ]
+    },
+    {
+     "title": "Also funded",
+     "paras": [
+      "Robotics startup Cosine Robots raised ₹22.36 crore led by Avaana Capital, and silver jewellery brand Zavya raised ₹22.6 crore."
+     ]
+    }
+   ],
+   "facts": [
+    "Bloom: $75 million, aims for 12,000 rooms",
+    "AidenAI: $32 million Series A led by A91 Partners",
+    "Cosine Robots: ₹22.36 crore"
+   ],
+   "sources": [
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/snippets/hospitality-brand-bloom-raises-75-mn-in-funding-round-led-by-kedaara-capital-12838049"
+    },
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/"
+    },
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/snippets/cosine-robots-raises-rs-2236-cr-led-by-avaana-capital-12836692"
+    }
+   ],
+   "img": "bloom.jpg",
+   "credit": "Bloom hotel / via Entrackr",
+   "contain": false
+  },
+  {
+   "slug": "mokobara-goose-emergency-handbags-fashion-brand",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "head": "Luggage brand Mokobara launches Goose Emergency, a handbag label that started as a joke Instagram page",
+   "dek": "It is Mokobara's first move into fashion, with a loud, 'maximalist' look that is the opposite of its plain suitcases.",
+   "stat": [
+    "8",
+    "styles in the first collection"
+   ],
+   "sections": [
+    {
+     "title": "From meme to brand",
+     "paras": [
+      "Goose Emergency grew out of 'Mokobaruu', an Instagram page Mokobara ran as a joke. People kept messaging founder Navin Parwal to ask if the account was fake. Its goose mascot became the face of the new brand, which ran online for over a year before selling a single product."
+     ]
+    },
+    {
+     "title": "What's on offer",
+     "paras": [
+      "The first drop is handbags: eight versions of one shape, aimed at women and designed to be bold and girly. Parwal sums it up as 'fashion with bite'. It is Mokobara's second brand and marks a shift from travel gear to fashion."
+     ]
+    }
+   ],
+   "facts": [
+    "Mokobara's second brand and first fashion label",
+    "Debut collection: 8 variations of one handbag silhouette",
+    "Built an online following for over a year before launch"
+   ],
+   "sources": [
+    {
+     "name": "afaqs!",
+     "url": "https://www.afaqs.com/news/mktg/mokobara-enters-fashion-with-new-brand-goose-emergency-12833307"
+    }
+   ],
+   "img": "goose.jpg",
+   "credit": "Goose Emergency bag / via afaqs!",
+   "contain": false
+  },
+  {
+   "slug": "december-1-rule-changes-sbi-card-lpg",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "head": "From 1 December: SBI credit cards charge 1% on big fuel and travel spends, while LPG and fuel prices face their monthly review",
+   "dek": "Fuel spends above ₹50,000 in a billing cycle will attract a 1% fee on the whole amount. Here is what changes, and what might, as December begins.",
+   "stat": [
+    "1%",
+    "SBI Card fee on fuel spends over ₹50,000 a cycle"
+   ],
+   "sections": [
+    {
+     "title": "SBI Card's new fees",
+     "paras": [
+      "From 1 December, SBI Card will charge 1% (plus taxes) on any single transport payment above ₹30,000 — so a ₹35,000 payment costs ₹350 extra. Payments of ₹30,000 or less are not affected.",
+      "For fuel, the rule works on the whole billing cycle. If your fuel spending in a cycle crosses ₹50,000, the 1% fee applies to the entire amount, not just the part above the limit. Spend ₹55,000 and you pay ₹550."
+     ]
+    },
+    {
+     "title": "Prices to watch",
+     "paras": [
+      "Oil companies review LPG prices on the first of every month. The 14.2 kg home cylinder has not changed since 7 June, while commercial cylinders move more often. Petrol and diesel prices have also been held since June, even though crude oil has fallen in the past month.",
+      "CNG has been getting costlier: Mumbai's Mahanagar Gas raised its price by ₹1.50 to ₹91.50 a kg in November, its eighth hike in 11 months."
+     ]
+    },
+    {
+     "title": "Other dates",
+     "paras": [
+      "The ₹75 fee for adding an email to Aadhaar is waived until 31 December, but only if you do it through the Aadhaar app. From 3 December, SEBI lets NRIs, OCI cardholders and some foreign nationals finish KYC remotely. The RBI's policy meeting in early December could also move loan EMIs and FD rates."
+     ]
+    }
+   ],
+   "facts": [
+    "1% on single transport payments above ₹30,000",
+    "Home LPG unchanged since 7 June 2026",
+    "Aadhaar email update free via app till 31 Dec"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/personal-finance/story/sbi-card-to-levy-1-fee-on-transport-payments-above-rs30000-fuel-spends-over-rs50000-from-december-1-564529-2026-10-30"
+    },
+    {
+     "name": "Goodreturns",
+     "url": "https://www.goodreturns.in/news/new-rules-from-december-1-aadhaar-fd-rates-home-loan-emis-fuel-cng-card-transactions-costly-cheaper-1549267.html"
+    }
+   ],
+   "img": "sbicard.jpg",
+   "credit": "SBI Card / via Business Today",
+   "contain": false
+  },
+  {
+   "slug": "india-nepal-balendra-shah-modi-package",
+   "tag": "India",
+   "color": "#2563EB",
+   "head": "India announces a ₹15,000 crore package for Nepal and opens Kandla and Paradip ports to it as Modi and Balendra Shah sign 8 agreements",
+   "dek": "Nepal PM Balendra Shah's first state visit ended on 23 November with a new Ayodhya–Janakpur train, a border bridge and deals on space, health and training.",
+   "stat": [
+    "₹15,000 cr",
+    "development package for Nepal"
+   ],
+   "sections": [
+    {
+     "title": "Money and ports",
+     "paras": [
+      "India announced a development package of 24,000 crore Nepali rupees — about ₹15,000 crore — after talks between PM Narendra Modi and Nepal's PM Balendra Shah in New Delhi. Much of it is meant for families hit by floods and for making Nepal better prepared for disasters.",
+      "India will also let landlocked Nepal use the Kandla and Paradip ports for its transit trade, giving it more routes to the sea."
+     ]
+    },
+    {
+     "title": "Train, bridge and eight agreements",
+     "paras": [
+      "The two leaders virtually flagged off the Saryu-Kamala Express, a new weekly train between Ayodhya Cantt and Janakpur Dham. They opened a road bridge at Dharchula on the Uttarakhand border and laid foundation stones for an integrated check post at Banbasa and the Lower Arun hydropower project.",
+      "At least eight agreements were signed, covering satellite communication with ISRO, health, Ayurveda, urban development, civil-service training, police training and livestock. India also plans an IIT offshore campus in Nepal and more scholarships. Shah called India a 'dependable' neighbour that is often the first to help in disasters."
+     ]
+    }
+   ],
+   "facts": [
+    "24,000 crore Nepali rupees ≈ ₹15,000 crore",
+    "At least 8 MoUs signed",
+    "New weekly Ayodhya–Janakpur train"
+   ],
+   "sources": [
+    {
+     "name": "Outlook",
+     "url": "https://www.outlookindia.com/national/breaking-news-india-world-live-updates-nepal-pm-balendra-shah-visit-pm-modi-delhi-pollution-23-november-2026"
+    },
+    {
+     "name": "The Statesman",
+     "url": "https://www.thestatesman.com/india/pm-modi-balen-shah-strengthen-india-nepal-ties-with-8-mous-heres-what-the-agreements-cover-1503665868.html"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "sp-india-growth-rbi-rate-hike-december",
+   "tag": "Economy",
+   "color": "#D97706",
+   "head": "S&P trims India's FY28 growth forecast to 7% and expects the RBI to raise rates again in December",
+   "dek": "With retail inflation at 6.1% in October, above the RBI's comfort band, S&P sees the repo rate climbing to 6% by March 2027 — which would mean costlier loans.",
+   "stat": [
+    "6.1%",
+    "retail inflation in October"
+   ],
+   "sections": [
+    {
+     "title": "What S&P said",
+     "paras": [
+      "S&P Global Ratings kept its growth forecast for this year (FY27) at 7% but cut next year's (FY28) by 0.2 points to 7%. India grew 7.8% in FY26 and, with Vietnam, is still expected to be the fastest-growing economy in Asia-Pacific.",
+      "S&P expects inflation to average 5.3% this year, up from just 2% last year, mainly because of costlier inputs, a weak monsoon linked to El Niño and high energy prices from the West Asia conflict."
+     ]
+    },
+    {
+     "title": "What it means for loans",
+     "paras": [
+      "The RBI raised its repo rate to 5.50% in October. S&P expects another 0.25-point hike at the December meeting and one more early in 2027, taking the rate to 6%. Higher rates usually mean higher EMIs on floating-rate home and car loans, but better returns on fixed deposits. S&P also sees the rupee weakening to about 94.5 per dollar by March 2027."
+     ]
+    }
+   ],
+   "facts": [
+    "FY28 growth forecast cut from 7.2% to 7%",
+    "Repo rate seen at 6% by end-FY27",
+    "Rupee seen at 94.5/$ by March 2027"
+   ],
+   "sources": [
+    {
+     "name": "Forbes India",
+     "url": "https://www.forbesindia.com/business/economy/sp-keeps-indias-fy27-growth-forecast-at-7-percent-article/3000910"
+    },
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/economy/news/s-p-cuts-india-s-fy28-growth-forecast-to-7-sees-rbi-rate-hike-in-dec-126112301317_1.html"
+    }
+   ],
+   "img": "growth.jpg",
+   "credit": "Illustration / via Forbes India",
+   "contain": false
+  },
+  {
+   "slug": "bjp-akali-dal-alliance-punjab-2027",
+   "tag": "Politics",
+   "color": "#2563EB",
+   "head": "BJP and Akali Dal reunite for the 2027 Punjab election, six years after splitting over the farm laws",
+   "dek": "Amit Shah, BJP president Nitin Nabin and Sukhbir Badal announced the tie-up in Delhi on 24 November; seat-sharing is still being worked out.",
+   "stat": [
+    "117",
+    "Punjab Assembly seats at stake in 2027"
+   ],
+   "sections": [
+    {
+     "title": "The announcement",
+     "paras": [
+      "The BJP and the Shiromani Akali Dal (SAD) will fight the 2027 Punjab Assembly election together. The decision was announced at a joint press conference in New Delhi on Tuesday, Guru Nanak Jayanti, by Union Home Minister Amit Shah, BJP president Nitin Nabin and SAD chief Sukhbir Singh Badal. Shah said the Akali Dal would stay the senior partner in Punjab.",
+      "How the 117 seats will be split has not been decided. In their old arrangement, the SAD contested 94 seats and the BJP 23."
+     ]
+    },
+    {
+     "title": "Why they split, and the reactions",
+     "paras": [
+      "The Akali Dal walked out of the NDA in September 2020 over the three farm laws, which were later repealed, ending a partnership of about 24 years. Fighting separately in 2022, the SAD won three seats and the BJP two, as AAP swept the state.",
+      "Punjab's ruling AAP called the tie-up a 'thug pact', while Congress called it opportunism. Punjab Congress chief Pargat Singh said the two parties 'have no development agenda' for the state."
+     ]
+    }
+   ],
+   "facts": [
+    "Alliance broke in Sept 2020 after about 24 years",
+    "Old split: SAD 94 seats, BJP 23",
+    "2022 result: SAD 3, BJP 2"
+   ],
+   "sources": [
+    {
+     "name": "The Quint",
+     "url": "https://www.thequint.com/news/breaking-news/bjp-sad-revive-alliance-for-punjab-elections"
+    },
+    {
+     "name": "Deccan Herald",
+     "url": "https://www.deccanherald.com/india/punjab/punjab-assembly-polls-2027-six-years-after-split-bjp-sad-announce-alliance-4229316"
+    },
+    {
+     "name": "ANI",
+     "url": "https://aninews.in/news/national/politics/bjp-sad-revive-alliance-for-2027-punjab-polls-aap-slams-tie-up-as-thug-pact-congress-says-opportunism20261124220144/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "ukraine-sinks-russian-warship-libya-benghazi",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "head": "Ukraine says 7 sea drones sank Russian warship Merkury at Libya's Benghazi naval base, taking the war to North Africa",
+   "dek": "Satellite images show the corvette capsized; a Russian cargo ship was also hit. Moscow warns of 'painful' consequences.",
+   "stat": [
+    "7",
+    "Ukrainian naval drones used, says Zelensky"
+   ],
+   "sections": [
+    {
+     "title": "The attack",
+     "paras": [
+      "On Sunday, 22 November, the Russian navy corvette Merkury was struck at the naval base in Benghazi, eastern Libya. Satellite images later showed it had capsized and sunk, with only its bow above water. President Volodymyr Zelensky said Ukraine used seven home-made sea drones, and that a Russian Ka-27 helicopter on board was destroyed.",
+      "A Russian cargo ship, the MV Angara, was also hit. Zelensky said Russia used it to move weapons. Libyan naval forces rescued the crews of both ships."
+     ]
+    },
+    {
+     "title": "Reactions",
+     "paras": [
+      "Kremlin spokesman Dmitry Peskov called it a 'very dangerous trend' and warned of 'painful' consequences. Libya's eastern authorities condemned the attack as a breach of their sovereignty and asked for a UN investigation, and the UN mission in Libya also called for an independent probe. One analyst said the ships were probably carrying supplies for Russia's forces in Africa."
+     ]
+    }
+   ],
+   "facts": [
+    "Struck on 22 Nov 2026 at Benghazi",
+    "Ka-27 helicopter also destroyed, says Kyiv",
+    "Cargo ship MV Angara hit too"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2026/11/22/africa/russian-vessel-libya-suspected-drone-attack-intl"
+    },
+    {
+     "name": "RFE/RL",
+     "url": "https://www.rferl.org/a/benghazi-libya-russian-ship-sunk-drone-ukraine/33903623.html"
+    }
+   ],
+   "img": "benghazi.jpg",
+   "credit": "Satellite image of Benghazi port / via RFE/RL",
+   "contain": false
+  },
+  {
+   "slug": "cop31-antalya-collapses-no-deal",
+   "tag": "World",
+   "color": "#0891B2",
+   "head": "COP31 in Antalya ends with no climate deal after record overtime, as countries split over moving away from fossil fuels",
+   "dek": "The longest UN climate summit ever broke up on 22 November without its main text — the first such collapse since Copenhagen in 2009.",
+   "stat": [
+    "2009",
+    "last time a COP collapsed like this (Copenhagen)"
+   ],
+   "sections": [
+    {
+     "title": "How it fell apart",
+     "paras": [
+      "The COP31 climate talks in Antalya, Turkey, ended on Sunday, 22 November, without agreement on their main political text. The meeting ran deep into overtime, becoming the longest COP in history, but because decisions need every country's consent, the draft could not be adopted.",
+      "The fight was over fossil fuels. An early draft called for faster action to phase them out, but that wording was dropped. The European Union refused to accept a text with no mention of fossil fuels, and a group led by France and Panama — with members from Europe, Africa, Latin America and the Pacific — rejected the later draft as too weak. Oil producers such as Saudi Arabia pushed back hard."
+     ]
+    },
+    {
+     "title": "What was on the table",
+     "paras": [
+      "Later drafts had tried softer goals: capturing billions of tonnes of carbon dioxide from the air every year by 2035, getting more than a third of the world's energy from electricity by 2035, and targets for renewables and energy efficiency. None of it was adopted as a package.",
+      "The United States sent no team for the second year in a row after quitting the Paris Agreement."
+     ]
+    },
+    {
+     "title": "What leaders said",
+     "paras": [
+      "UN chief António Guterres said there might be no consensus in the room, but 'there is no ambiguity in the science.' Summit president Murat Kurum said, 'We did everything we could.' Panama's environment minister Juan Carlos Navarro said the world could not keep being 'held hostage by petroleum producers.'",
+      "Even if every country's current climate plan is carried out, the world is heading for just over 2.5°C of warming — well above the Paris goal of 1.5°C."
+     ]
+    }
+   ],
+   "facts": [
+    "Longest COP ever; ended 22 Nov 2026",
+    "First summit collapse since Copenhagen 2009",
+    "Current plans point to just over 2.5°C of warming"
+   ],
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/23/from-cop31-antalya-to-copenhagen-un-climate-summits-where-no-agreement-was-reached"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "houthis-hit-riyadh-pif-tower-again",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "head": "Houthis hit Riyadh's tallest tower, the PIF headquarters, for the second time in a week; 11 people injured",
+   "dek": "Saudi civil defence reported the injuries on 24 November. The Saudi-led coalition says a drone was used and vows a 'decisive' response.",
+   "stat": [
+    "11",
+    "people injured in the second strike"
+   ],
+   "sections": [
+    {
+     "title": "Second hit in days",
+     "paras": [
+      "The tower that houses Saudi Arabia's Public Investment Fund — the tallest building in Riyadh — was struck again on Tuesday, 24 November, injuring at least 11 people. Damage appeared about halfway up its face. The first strike, on 19 November, damaged the tower but hurt no one.",
+      "The Saudi-led coalition said the attack was carried out with a drone and promised to respond 'decisively' to what it called deliberate targeting of civilians."
+     ]
+    },
+    {
+     "title": "A widening war",
+     "paras": [
+      "Since Yemen's civil war flared again in July, the Houthis have fired at Saudi airports, oil sites and office buildings. The attacks have led to most international flights to Riyadh being cancelled and big events, including the AFC Asian Cup, being put off. Hundreds of thousands of people have been forced from their homes in Yemen."
+     ]
+    }
+   ],
+   "facts": [
+    "First strike on the tower: 19 Nov, no injuries",
+    "Second strike: 24 Nov, 11 hurt",
+    "Most international flights to Riyadh cancelled"
+   ],
+   "sources": [
+    {
+     "name": "Jerusalem Post (Reuters)",
+     "url": "https://www.jpost.com/middle-east/article-916001"
+    },
+    {
+     "name": "New Straits Times",
+     "url": "https://www.nst.com.my/world/world/2026/11/1585091/saudi-arabias-tallest-skyscraper-hit-again-suspected-houthi-attack-11"
+    }
+   ],
+   "img": "riyadh.jpg",
+   "credit": "B.alotaby / Wikimedia, CC BY-SA 4.0",
+   "contain": false
+  },
+  {
+   "slug": "openai-gpt-6-2-sol-chatgpt-chat",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "OpenAI brings GPT-6.2 Sol to ChatGPT's main chat for paying users; it passes hard safety tests 91–94% of the time, up from about 78%",
+   "dek": "The chat-tuned model is better at reading small details in photos and searching the web, says OpenAI. Free and Go users don't get it.",
+   "stat": [
+    "91–94%",
+    "safety-test pass rate, vs 77–80% for GPT-6"
+   ],
+   "sections": [
+    {
+     "title": "Who gets it",
+     "paras": [
+      "From Monday, 23 November, a version of GPT-6.2 Sol tuned for everyday conversation is rolling out in ChatGPT's Chat tab for Plus, Pro, Business and Enterprise subscribers. It comes about a week after GPT-6.2 launched in ChatGPT Work, Codex and the API. Free and Go plans are left out for now."
+     ]
+    },
+    {
+     "title": "What's better",
+     "paras": [
+      "OpenAI says the model handles long, multi-step requests and web searches better, and is better at spotting small details in photos, like text on a label or a symbol on a sign. It is also meant to know when a follow-up helps, such as offering to watch for a price drop on something you are shopping for.",
+      "On safety, OpenAI says it follows its rules in difficult conversations 91 to 94% of the time, compared with 77 to 80% for GPT-6, and does better on teen-safety checks. These are OpenAI's own tests."
+     ]
+    }
+   ],
+   "facts": [
+    "Rolling out from 23 November to Plus, Pro, Business and Enterprise",
+    "Not available on Free or Go plans",
+    "Safety pass rate 91–94%, up from 77–80% for GPT-6"
+   ],
+   "sources": [
+    {
+     "name": "MacRumors",
+     "url": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/"
+    },
+    {
+     "name": "Digital Trends",
+     "url": "https://www.digitaltrends.com/computing/chatgpt-is-getting-a-chat-tuned-gpt-6-2-sol-and-it-can-offer-to-watch-for-a-price-drop/"
+    }
+   ],
+   "img": "gpt62.jpg",
+   "credit": "OpenAI graphic / via MacRumors",
+   "contain": false
+  },
+  {
+   "slug": "anthropic-shares-below-ipo-price",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "Anthropic shares close below their $83 IPO price, falling 6.5% to about $81.91, just days after a record debut",
+   "dek": "The Claude maker opened at $111.50 on its first day of trading last Thursday, but has fallen steadily since as tech shares cooled.",
+   "stat": [
+    "$81.91",
+    "Anthropic's Tuesday close"
+   ],
+   "sections": [
+    {
+     "title": "From record debut to below the issue price",
+     "paras": [
+      "Anthropic raised $81.3 billion in the biggest IPO ever and began trading on Nasdaq last Thursday, opening at $111.50. By Tuesday, 24 November, the shares had fallen another 6.5% to close at about $81.91, below the $83 price at which they were sold to investors, Axios and CNBC reported. At one point during the day the stock fell as much as 9.4%."
+     ]
+    },
+    {
+     "title": "Why it is falling",
+     "paras": [
+      "Part of the drop is the wider market: chip stocks fell on Tuesday and the Nasdaq lost 1.5% as Nvidia's big rally faded. CNBC also noted that about half of the big investors who asked for shares in the IPO got none, and they do not seem keen to buy now.",
+      "Analysts are still mostly positive. Canaccord Genuity started coverage with a 'buy' rating and a $135 target, Wedbush has a $120 target and Oppenheimer a $150 target."
+     ]
+    }
+   ],
+   "facts": [
+    "IPO price was $83; first trade was at $111.50",
+    "Shares fell 6.5% on Tuesday, closing near $81.91",
+    "Analyst targets range from $120 to $150"
+   ],
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+    },
+    {
+     "name": "Axios",
+     "url": "https://www.axios.com/2026/11/24/anthropic-stock-ipo-banks"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "oregon-virginia-sue-spacex-grok-deepfakes",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "Oregon and Virginia become the first 2 US states to sue SpaceX over Grok's sexual deepfakes",
+   "dek": "The states say Elon Musk's company, which now owns xAI and X, failed to stop its AI from making harmful fake images, including of children, while marketing it as safe.",
+   "stat": [
+    "2",
+    "US states suing over Grok"
+   ],
+   "sections": [
+    {
+     "title": "The lawsuits",
+     "paras": [
+      "Oregon filed its case on Sunday and Virginia on Monday, 23 November. Both say SpaceX did not put enough safeguards in place to stop Grok and X users creating and sharing non-consensual sexual deepfakes, including alleged AI-made child abuse images. They also accuse the company of falsely selling Grok and X as generally safe, even though X allows users as young as 13.",
+      "The states want court orders to force changes, civil penalties and legal costs; Virginia also wants money returned to consumers."
+     ]
+    },
+    {
+     "title": "SpaceX's answer",
+     "paras": [
+      "A SpaceX spokesperson told CNBC the company takes 'appropriate measures' when people try to get around its safeguards, including acting against accounts and alerting police. Grok is already under investigation in the UK, Spain, Ireland, France and California, and the city of Baltimore has sued xAI."
+     ]
+    }
+   ],
+   "facts": [
+    "Oregon filed on 22 Nov, Virginia on 23 Nov",
+    "Claims made under each state's consumer protection laws",
+    "Regulators in 4 European countries and California are also investigating"
+   ],
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "sensex-crashes-1484-points-nifty-25349-profit-booking-guru-nanak-jayanti",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "head": "Sensex crashes 1,484 points to 82,436 and Nifty falls to 25,350, its biggest one-day drop in about five months",
+   "dek": "Investors cashed in after a four-week rally, with bank and metal shares hit hardest. Markets were shut on Tuesday for Guru Nanak Jayanti and reopen today.",
+   "stat": [
+    "−1.77%",
+    "Sensex fall on Monday"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Indian shares had their worst day in months on Monday, 23 November. The Sensex lost 1,483.72 points, or 1.77%, to end at 82,435.99. The Nifty 50 dropped 450.95 points, or 1.75%, to 25,349.65.",
+      "Only last week the Nifty had touched a nine-month high, and the Sensex had gained more than 2,300 points over the week. Monday wiped out a big chunk of those gains."
+     ]
+    },
+    {
+     "title": "Why markets fell",
+     "paras": [
+      "The main reason was profit-booking: after four straight weeks of gains, many investors chose to sell and lock in profits. A sell-off in US tech stocks, fears of an AI bubble and doubts over US interest rates added to the gloom.",
+      "The monthly derivatives expiry was also moved to Monday because of Tuesday's holiday, which made the swings sharper during the day."
+     ]
+    },
+    {
+     "title": "Who got hit",
+     "paras": [
+      "Private and public sector banks, financial companies and metal stocks led the fall. Tata Steel, Axis Bank and HDFC Bank were among the biggest drags on the Nifty. IT shares held up better than the rest of the market.",
+      "Smaller companies fell less: the Nifty Midcap 100 slipped about 1% and the Smallcap 100 about 0.7%. The rupee also weakened by 30 paise to about 92.92 to the dollar, ending a five-day winning run."
+     ]
+    },
+    {
+     "title": "What next",
+     "paras": [
+      "Exchanges were closed on Tuesday, 24 November, for Guru Nanak Jayanti. Wednesday's session will show whether Monday was a one-day shake-out or the start of a longer pause after the rally."
+     ]
+    }
+   ],
+   "facts": [
+    "Sensex closed at 82,435.99, down 1,483.72 points",
+    "Nifty 50 closed at 25,349.65, down 450.95 points",
+    "Rupee fell 30 paise to about 92.92 per dollar"
+   ],
+   "sources": [
+    {
+     "name": "Telangana Today (PTI)",
+     "url": "https://telanganatoday.com/indian-rupee-reverses-gains-settles-at-92-92-against-us-dollar"
+    },
+    {
+     "name": "Multibagg",
+     "url": "https://www.multibagg.ai/market-pulse/articles/sensex-nifty-selloff-market-wrap-cmwul2nla001h2dmzt1e8clff"
+    },
+    {
+     "name": "Goodreturns",
+     "url": "https://www.goodreturns.in/news/stock-market-holiday-tomorrow-november-24-2026-bse-nse-mcx-shut-on-tuesday-settlement-holiday-impact-1549033.html"
+    }
+   ],
+   "img": "bse.jpg",
+   "credit": "Niyantha Shekhar / Wikimedia, CC BY 2.0",
+   "contain": false
+  },
+  {
+   "slug": "mahanadi-coalfields-ipo-subscribed-1-52-times-sebi-gmp-warning",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "head": "IPO watch: Mahanadi Coalfields' ₹8,981 crore IPO scrapes through at 1.52 times; SEBI tells market players to stop sharing 'GMP'",
+   "dek": "Big institutions saved Coal India's subsidiary's IPO as retail buyers stayed away, while SEBI warned that grey market premiums are no guide to listing gains.",
+   "stat": [
+    "1.52x",
+    "Mahanadi Coalfields subscription"
+   ],
+   "sections": [
+    {
+     "title": "Mahanadi just about makes it",
+     "paras": [
+      "The ₹8,981 crore IPO of Mahanadi Coalfields, a Coal India subsidiary, closed on Monday with bids for 1.52 times the shares on offer. Institutional investors bid 4.95 times their quota, but the retail portion was only 46% filled and wealthy individuals 66%.",
+      "The whole issue was a sale by Coal India, so Mahanadi gets no money. Shares are priced at ₹129–136, allotment is due today (25 November) and listing is set for 27 November."
+     ]
+    },
+    {
+     "title": "SEBI on GMP",
+     "paras": [
+      "SEBI has asked registered market players to stop publishing or circulating grey market premium (GMP) figures for upcoming IPOs. It says these unofficial numbers are speculative, happen outside regulated markets, and should not be used to guess listing prices."
+     ]
+    },
+    {
+     "title": "Coming up",
+     "paras": [
+      "Foodlink F&B Holdings opens on 26 November with a ₹192 crore fresh issue, and Integris Medtech opens on 27 November with a ₹600 crore fresh issue plus an offer for sale."
+     ]
+    }
+   ],
+   "facts": [
+    "Mahanadi IPO: 1.52x overall, QIBs 4.95x, retail 46%",
+    "Listing expected 27 November",
+    "SEBI asks intermediaries to stop circulating GMP"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/markets/stocks/story/mahanadi-coalfields-ipo-subscribed-1-52-times-on-final-day-qibs-lead-demand-569138-2026-11-23"
+    },
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/gmp-not-indicator-of-expected-returns-sebi-seeks-to-curb-ipo-gmp-circulation/"
+    },
+    {
+     "name": "Angel One",
+     "url": "https://www.angelone.in/news/ipos/upcoming-ipos-this-week-november-23-november-27-2026-foodlink-f-b-holdings-integris-medtech-and-others"
+    }
+   ],
+   "img": "coal.jpg",
+   "credit": "Coal mine / via Business Today",
+   "contain": false
+  },
+  {
+   "slug": "india-new-zealand-wellington-test-draw",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "India's record 720 isn't enough: Mitchell and Phillips bat out the last day as New Zealand draw the Wellington Test",
+   "dek": "India needed eight wickets on the last day but took only three on a flat Basin Reserve pitch. The series is level 0-0 going into Christchurch on Friday.",
+   "stat": [
+    "720/9d",
+    "India's total, the biggest by any team in a Test in NZ"
+   ],
+   "sections": [
+    {
+     "title": "How the last day went",
+     "paras": [
+      "New Zealand began Monday, 23 November, at 119 for 2, still 233 runs behind India's 720 for 9 declared. They made no attempt to chase and simply tried to survive. India removed Devon Conway and Rachin Ravindra in the first hour, and Anshul Kamboj had Tom Blundell out soon after lunch, leaving the hosts 176 for 5.",
+      "That was India's last breakthrough. Daryl Mitchell (49 not out off 186 balls) and Glenn Phillips (26 not out off 126 balls) blocked out the rest, and the players shook hands with about an hour left. New Zealand finished on 239 for 5 from 120 overs."
+     ]
+    },
+    {
+     "title": "A match of big numbers",
+     "paras": [
+      "India's 720 was the highest total ever made by any team in a Test in New Zealand. KL Rahul scored 136, and Rishabh Pant hit 128 off 153 balls. Jasprit Bumrah, back after a year out, got Kiwi captain Tom Latham in the first over of both innings.",
+      "New Zealand's first-innings fightback was just as important. From 70 for 5, Henry Nicholls made 175 not out and added 216 with Phillips to reach 368. Nicholls was named Player of the Match."
+     ]
+    },
+    {
+     "title": "The pitch and the points",
+     "paras": [
+      "The surface flattened out over five days. Captain Shubman Gill admitted it was always 'going to be a challenge to get 10 wickets on that pitch'. Nicholls called the draw 'a pleasing result'.",
+      "Both teams get four World Test Championship points. New Zealand stay third behind South Africa and Australia, and India are fourth, so they will want a win in the second and final Test at Hagley Oval, Christchurch, from 27 November."
+     ]
+    }
+   ],
+   "facts": [
+    "Scores: India 720/9d; New Zealand 368 and 239/5",
+    "India took only 3 wickets on the final day",
+    "Henry Nicholls 175* was Player of the Match"
+   ],
+   "sources": [
+    {
+     "name": "ESPNcricinfo",
+     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-test-1539442/live-cricket-score"
+    },
+    {
+     "name": "AP via Yahoo Sports",
+     "url": "https://sports.yahoo.com/articles/india-strikes-twice-lunch-closes-002252450.html"
+    },
+    {
+     "name": "Stuff",
+     "url": "https://www.stuff.co.nz/sport/361062471/daryl-mitchell-glenn-phillips-lead-successful-rearguard-black-caps-and-india-draw-first-test"
+    }
+   ],
+   "img": "basin.jpg",
+   "credit": "Gruyere / Wikimedia, CC BY-SA 3.0",
+   "contain": false
+  },
+  {
+   "slug": "gukesh-sindarov-world-chess-championship-game-1",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "Gukesh starts his World Chess Championship defence with a 38-move draw against Sindarov in Geneva",
+   "dek": "The 14-game, $2.5 million match is level at 0.5–0.5. Game 2 is today at 7:30 pm IST, with Gukesh playing White.",
+   "stat": [
+    "0.5–0.5",
+    "score after Game 1 of 14"
+   ],
+   "sections": [
+    {
+     "title": "Game 1",
+     "paras": [
+      "India's D Gukesh, the defending world champion, had the black pieces on Tuesday, 24 November, against Uzbekistan's Javokhir Sindarov. Both players are 20. Gukesh chose the solid Berlin Defence, and Sindarov steered into the Berlin endgame, a line he had never played before.",
+      "Sindarov tried rare moves to unsettle him, and Gukesh spent a long time thinking, but it was the challenger who ended up short of time. The game ended in a draw by repetition after 38 moves. Sindarov claimed the draw the wrong way, making his move first, and the arbiter took two minutes off his clock, though that did not change the result."
+     ]
+    },
+    {
+     "title": "The match",
+     "paras": [
+      "The match is in Geneva, Switzerland, over 14 games; the first to 7.5 points wins. Sindarov is rated 2782 and Gukesh 2710, so the champion goes in as the lower-rated player. If it is 7–7, rapid games decide it. The prize fund is $2.5 million, with $200,000 for every game won."
+     ]
+    }
+   ],
+   "facts": [
+    "14-game match; first to 7.5 points wins",
+    "Prize fund $2.5 million, $200,000 per win",
+    "Game 2: today, 7:30 pm IST, Gukesh has White"
+   ],
+   "sources": [
+    {
+     "name": "Chess.com",
+     "url": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-1"
+    },
+    {
+     "name": "ANI",
+     "url": "https://www.aninews.in/news/sports/others/world-chess-championship-gukesh-holds-sindarov-to-draw-in-game-1-despite-time-pressure20261125003022/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "india-women-hockey-beat-china-6-2",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "Deepika's 14-minute hat-trick powers India's women to a record 6-2 win over China at the Asian Champions Trophy",
+   "dek": "It is India's biggest win over China in the tournament's history and their fourth win in four games in Bhopal. They face Japan tonight.",
+   "stat": [
+    "6-2",
+    "India's biggest ACT win over China"
+   ],
+   "sections": [
+    {
+     "title": "The match",
+     "paras": [
+      "Defending champions India blew Olympic silver medallists China away on Tuesday, 24 November. Deepika scored in the 1st, 6th and 14th minutes, two of them from penalty corners, to complete a hat-trick inside the first quarter. Lalremsiami, Neha and Sakshi Rana added the rest. Feng Qingmiao and Chen Tong scored for China."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "India have now won all four league matches and top the table with 12 points, with their semi-final place already sealed. IANS reports the win lifts India to No. 5 in the FIH world rankings, the women's team's highest since the rankings began in 2003. India play Japan in their last league game tonight at 7 pm; the semi-finals are on 27 November."
+     ]
+    }
+   ],
+   "facts": [
+    "Deepika's hat-trick came in the 1st, 6th and 14th minutes",
+    "India: 4 wins from 4, 12 points, into the semis",
+    "Next: India vs Japan, tonight at 7 pm"
+   ],
+   "sources": [
+    {
+     "name": "Free Press Journal",
+     "url": "https://www.freepressjournal.in/bhopal/womens-asian-champions-trophy-2026-deepikas-stunning-hat-trick-powers-india-to-6-2-victory-over-china-in-bhopal-extends-unbeaten-run"
+    },
+    {
+     "name": "IANS",
+     "url": "https://ianslive.in/womens-act-2026-deepikas-hat-trick-leads-india-to-big-6-2-win-over-china-in-bhopal--20261124231349"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "good": true,
+   "emoji": "🏑"
+  },
+  {
+   "slug": "champions-league-real-madrid-5-1-psv-arsenal-draw",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "Mbappé scores twice as Real Madrid hit PSV for 5 to stay perfect on 15 points; Arsenal held 1-1 by Dortmund",
+   "dek": "On Champions League matchday 5, Manchester City also drew 2-2 with Napoli and Aston Villa lost 1-0 at Galatasaray.",
+   "stat": [
+    "15",
+    "Real Madrid's points from 5 games"
+   ],
+   "sections": [
+    {
+     "title": "Madrid come from behind",
+     "paras": [
+      "PSV led at half-time at the Bernabéu on Tuesday, 24 November, through an Ivan Perišić penalty. Real Madrid then scored five in the second half: Federico Valverde equalised, Jude Bellingham hit one from long range, Kylian Mbappé scored twice and Vinícius Jr added the last. Madrid have won all five league-phase games."
+     ]
+    },
+    {
+     "title": "English sides stumble",
+     "paras": [
+      "Viktor Gyökeres gave Arsenal an early lead with a stunning strike in London, but Maximilian Beier equalised for Dortmund. Manchester City twice came back to draw 2-2 with Napoli, with Rayan Cherki levelling in the 86th minute, and Aston Villa lost 1-0 in Istanbul."
+     ]
+    }
+   ],
+   "facts": [
+    "Real Madrid 5-1 PSV, with 2 goals from Mbappé",
+    "Arsenal 1-1 Dortmund; Man City 2-2 Napoli",
+    "Galatasaray 1-0 Aston Villa"
+   ],
+   "sources": [
+    {
+     "name": "UEFA",
+     "url": "https://www.uefa.com/uefachampionsleague/news/02ab-222684fc8e44-2b1a32c90a7a-1000--champions-league-highlights-and-round-up-real-madrid-sta/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "ramayana-part-1-1735-crore-worldwide",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "head": "Ramayana: Part 1 crosses ₹1,700 crore worldwide and nears ₹1,000 crore net in India after a Guru Nanak Jayanti boost",
+   "dek": "The film earned ₹17.5 crore on its third Tuesday, up about 38% on Monday thanks to the holiday, per Sacnilk. It is now within touching distance of Pushpa 2's lifetime total.",
+   "stat": [
+    "₹1,735 cr",
+    "worldwide gross in 20 days"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "After a dip to ₹12.7 crore on Monday, Ramayana: Part 1 bounced back to ₹17.5 crore net on Tuesday, 24 November, a public holiday in many states. That takes its India net total to about ₹973 crore in 20 days, according to Sacnilk. Worldwide, it has grossed about ₹1,735 crore, including ₹573 crore from overseas."
+     ]
+    },
+    {
+     "title": "Next targets",
+     "paras": [
+      "Two milestones are close. In India, it needs about ₹27 crore more to cross ₹1,000 crore net. Worldwide, trackers using Sacnilk's figure of about ₹1,742 crore for Pushpa 2's lifetime gross say Ramayana is just a few crore short of it. Trackers differ on these totals, and some outlets using lower Pushpa 2 figures say it has already been passed."
+     ]
+    }
+   ],
+   "facts": [
+    "Day 20 (Tuesday): ₹17.5 crore net, up about 38%",
+    "India net total: about ₹973 crore",
+    "Worldwide: about ₹1,735 crore, ₹573 crore of it overseas"
+   ],
+   "sources": [
+    {
+     "name": "Sacnilk",
+     "url": "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_20"
+    },
+    {
+     "name": "Filmibeat",
+     "url": "https://www.filmibeat.com/bollywood/box-office/2026/ramayana-worldwide-box-office-day-18-did-ranbir-s-film-beat-pushpa-2-lifetime-collection-in-3rd-wee-538953.html"
+    }
+   ],
+   "img": "cinema.jpg",
+   "credit": "DesiBoy101 / Wikimedia, CC BY 4.0",
+   "contain": false
+  },
+  {
+   "slug": "panchayat-season-5-trailer-december-3",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "head": "Panchayat Season 5 trailer is out: Banrakas's wife is Phulera's new Pradhan, and the show returns on Prime Video on 3 December",
+   "dek": "Kranti Devi has beaten Manju Devi in the village election, and her husband Banrakas is ready to run things his way.",
+   "stat": [
+    "3 Dec",
+    "Season 5 premiere on Prime Video"
+   ],
+   "sections": [
+    {
+     "title": "What the trailer shows",
+     "paras": [
+      "Prime Video released the trailer on Monday, 23 November. The big twist: Kranti Devi (Sunita Rajwar) has defeated Manju Devi (Neena Gupta) to become Pradhan. Her husband Bhushan, better known as Banrakas (Durgesh Kumar), now has power and his own 'development' plans, which look set to divide the village.",
+      "Fans also get hints that Abhishek (Jitendra Kumar) and Rinki (Sanvikaa) may take their relationship further, while he weighs his MBA plans. The mystery of the attack on Pradhan Ji carries on."
+     ]
+    },
+    {
+     "title": "When to watch",
+     "paras": [
+      "The new season streams from 3 December on Prime Video in India and more than 240 countries and territories. Raghubir Yadav, Faisal Malik, Chandan Roy and Ashok Pathak return too."
+     ]
+    }
+   ],
+   "facts": [
+    "Trailer released on 23 November",
+    "Premieres on 3 December on Prime Video",
+    "Available in India and 240+ countries and territories"
+   ],
+   "sources": [
+    {
+     "name": "ETV Bharat",
+     "url": "https://www.etvbharat.com/en/entertainment/panchayat-season-5-trailer-release-date-cast-plot-and-what-to-expect-from-the-new-season-enn26112303319"
+    },
+    {
+     "name": "India TV",
+     "url": "https://www.indiatvnews.com/entertainment/ott/panchayat-5-trailer-to-release-today-fans-can-t-wait-to-return-to-phulera-2026-11-23-1060165"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "ott-this-week-drishyam-3-netflix",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "head": "OTT this week: Drishyam 3 on Netflix on 27 November, plus Blade Runner 2099 and Spider-Man: Brand New Day",
+   "dek": "Ajay Devgn's hit thriller lands on streaming on Friday, after its theatrical run began on 2 October.",
+   "stat": [
+    "27 Nov",
+    "Drishyam 3 on Netflix"
+   ],
+   "sections": [
+    {
+     "title": "The big ones",
+     "paras": [
+      "Drishyam: The Conclusion, the third Hindi film in Ajay Devgn's crime series with Tabu and Jaideep Ahlawat, streams on Netflix from Friday, 27 November. Reports say the Madras High Court declined to stop its OTT release.",
+      "Sci-fi series Blade Runner 2099, with Michelle Yeoh and Hunter Schafer, arrives on Prime Video on 25 November, and Tom Holland's Spider-Man: Brand New Day is listed for Netflix on 26 November."
+     ]
+    },
+    {
+     "title": "Also streaming",
+     "paras": [
+      "Supergirl on JioHotstar (26 Nov), the campus politics drama Dhai Chaal on JioHotstar and Hanuman Ansh on SonyLIV (both 27 Nov), and Richa Chadha's Delhi 2021 on ZEE5 (25 Nov). Dates come from streaming roundups, so check the apps."
+     ]
+    }
+   ],
+   "facts": [
+    "Drishyam 3: Netflix, 27 November",
+    "Blade Runner 2099: Prime Video, 25 November",
+    "Spider-Man: Brand New Day: Netflix, 26 November"
+   ],
+   "sources": [
+    {
+     "name": "Daily Jagran",
+     "url": "https://www.thedailyjagran.com/entertainment/ott/ott-releases-this-week-november-23-to-29-watch-drishyam-3-hanuman-ansh-spider-man-and-others-on-netflix-prime-video-jiohotstar-10337440"
+    },
+    {
+     "name": "Deccan Herald",
+     "url": "https://www.deccanherald.com/amp/story/entertainment/drishyam-3-on-ott-when-and-where-to-watch-ajay-devgn-tabu-jaideep-ahlawats-thriller-4228190"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "iit-roorkee-new-spring-unchaun-village-water",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "💧",
+   "head": "IIT Roorkee scientists create a brand-new spring that doubles summer drinking water for a Tehri village, to 1,000 litres a day",
+   "dek": "By mapping the rocks under a Himalayan hillside, researchers found where groundwater was trapped and opened a path for it to reach Unchaun village.",
+   "stat": [
+    "2x",
+    "lean-season drinking water"
+   ],
+   "sections": [
+    {
+     "title": "Reading the mountain",
+     "paras": [
+      "Hill villages in Uttarakhand depend on rain-fed springs that shrink as summer arrives. A team from IIT Roorkee's Earth Sciences department, led by Prof. Abhayanand Singh Maurya and backed by the Namami Gange mission, studied the rock layers of the Takoli Gad watershed to find those that store and carry water.",
+      "They also tracked how rain recharges the ground, finding most of it comes from the monsoon."
+     ]
+    },
+    {
+     "title": "A spring where there was none",
+     "paras": [
+      "Trenches dug along the upper slope now slow down runoff so more rain soaks in. At a suitable water-bearing layer, the team made a controlled opening that lets groundwater surface as a new spring. Unchaun's lean-season supply has risen from about 500 litres a day to 1,000 litres or more. Researchers will keep checking its flow and quality across seasons."
+     ]
+    }
+   ],
+   "facts": [
+    "Village: Unchaun, Kirtinagar block, Tehri Garhwal",
+    "Supply rose from ~500 to 1,000+ litres a day in the dry season",
+    "About 82% of the area's recharge comes from monsoon rain"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/conservation/nature/iit-roorkee-new-spring-doubles-drinking-water-uttarakhand-village-12827613"
+    }
+   ],
+   "img": "spring.jpg",
+   "credit": "Illustration / via The Better India",
+   "contain": false
+  },
+  {
+   "slug": "uttarakhand-manar-women-revive-forest-no-fires",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "🌳",
+   "head": "Women of an Uttarakhand village bring 28 acres of bare forest back to life, with no forest fire there in over 20 years",
+   "dek": "Led by 75-year-old Bhagirathi Devi, known as 'Van Amma', the women of Manar in Champawat turned an overgrazed hillside into a healthy oak forest that the forest department now holds up as a fire-prevention model.",
+   "stat": [
+    "11.6 ha",
+    "forest restored since 2000"
+   ],
+   "sections": [
+    {
+     "title": "From barren slope to living forest",
+     "paras": [
+      "In 2000 the woods around Manar village had been stripped by grazing and tree cutting, and women walked 7–8 km each day for fodder and firewood. Bhagirathi Devi gathered them into a van panchayat, a community forest council, and became its first sarpanch.",
+      "They fenced the land with stones and thorny bushes, pulled out invasive lantana and planted native trees such as banj oak, with help from the BAIF Development Research Foundation. Grazing was stopped for two years while the saplings took hold."
+     ]
+    },
+    {
+     "title": "Guardians against fire",
+     "paras": [
+      "Every year before the dry season, villagers clear fallen leaves and pine needles, and Bhagirathi Devi still patrols daily. Residents say the restored patch has not burned once since the effort began, even as fires sweep other parts of the state. A 2022 study found the forest under their care was in better health than the woods outside it."
+     ]
+    }
+   ],
+   "facts": [
+    "About 28 acres (11.6 hectares) revived in Champawat district",
+    "No fire reported in the restored area for more than 20 years",
+    "Champawat Forest Department calls it a fire-prevention model"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/conservation/nature/uttarakhand-women-community-forest-restoration-fire-prevention-12838354"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "hyderabad-doctor-tiratricol-rare-disease-cost-cut",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "💊",
+   "head": "A Hyderabad paediatrician helps cut a rare-disease drug's cost from up to ₹9 crore a year to about ₹2.5 lakh; seven children get a free year of treatment",
+   "dek": "Dr Sivaranjani Santosh refused to give up after drug makers ignored her, and with patient advocates found an affordable source of tiratricol.",
+   "stat": [
+    "7",
+    "children to get a free year of medicine"
+   ],
+   "sections": [
+    {
+     "title": "A medicine out of reach",
+     "paras": [
+      "Tiratricol treats Allan-Herndon-Dudley syndrome, a rare genetic condition in which thyroid hormone cannot reach the brain, affecting movement and development. The drug was reported to cost as much as ₹9 crore a year, and the mother of Dr Sivaranjani's young patient Arav had to find ₹12–13 lakh for a single month imported from Germany."
+     ]
+    },
+    {
+     "title": "Advocates step in",
+     "paras": [
+      "After her appeals to companies went unanswered, the doctor posted Arav's case online in September. Access to Medicines India and the Netherlands-based Pharmaceutical Accountability Foundation then helped locate a far cheaper option, about ₹2.5 lakh per child a year.",
+      "Funds are being raised in India and the Netherlands so that seven children, including five at CMC Vellore, get a year's supply free. The first handover is set for 30 November."
+     ]
+    }
+   ],
+   "facts": [
+    "Drug: tiratricol, for Allan-Herndon-Dudley syndrome",
+    "Cost down from up to ₹9 crore to ~₹2.5 lakh a year per child",
+    "First free doses to be handed over on 30 November"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/web-stories/health-care/hyderabad-doctor-sivaranjani-santosh-rare-disease-medicine-children-india-12835512"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "bhavani-jamakkalam-weavers-paid-more",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "🧶",
+   "head": "A 26-year-old pays Bhavani weavers up to 35% extra to keep Tamil Nadu's 300-year-old Jamakkalam craft alive",
+   "dek": "Varsha Sivakumar's House of Jamakkalam works with 30–35 weavers and is finding new buyers, from Instagram to Sri Lankan Tamil weddings.",
+   "stat": [
+    "30–35%",
+    "premium on complex orders"
+   ],
+   "sections": [
+    {
+     "title": "A craft in decline",
+     "paras": [
+      "Jamakkalam, a thick striped cotton weave from Bhavani and Kumarapalayam, has been made for about three centuries and carries a GI tag. But orders have dried up, and the number of active weavers in Bhavani is reported to have fallen from about 20,000 to roughly 3,000 in two decades."
+     ]
+    },
+    {
+     "title": "Fair pay, fresh designs",
+     "paras": [
+      "Varsha grew up around the looms and began studying the craft in 2017 after a lecture at NIFT. Her label pays weavers upfront, covers the cost of finer yarn, adds a 30–35% premium for complex work and does not penalise flawed pieces.",
+      "Products such as a 'Smiling Pouch', named after a stripe pattern called Pallu Mutham, are reaching buyers abroad. Her aim is steady monthly orders for every loom."
+     ]
+    }
+   ],
+   "facts": [
+    "Jamakkalam is about 300 years old and GI-tagged",
+    "House of Jamakkalam works with 30–35 weavers",
+    "Weavers are paid upfront plus a 30–35% premium on complex orders"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/culture/bhavani-jamakkalam-tamil-nadu-weaving-varsha-sivakumar-12838063"
+    }
+   ],
+   "img": "jamakkalam.jpg",
+   "credit": "Booradleyp1 / Wikimedia, CC BY-SA 4.0",
+   "contain": false
+  },
+  {
+   "slug": "surat-student-jalaakar-groundwater-ai-vivo-ignite",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "🌊",
+   "head": "Surat schoolboy's AI tool to forecast groundwater wins a national contest of over 6,100 projects",
+   "dek": "Dheyay Shah's JALAAKAR uses borewell records, rainfall and soil data to estimate how much water lies under each taluka.",
+   "stat": [
+    "6,100+",
+    "projects in the contest"
+   ],
+   "sections": [
+    {
+     "title": "Mapping water we can't see",
+     "paras": [
+      "Much of India relies on groundwater that is being drawn faster than rain refills it. Dheyay Shah, a student from Surat, built a machine-learning tool that studies past borewell levels, rainfall patterns and soil types to project groundwater conditions taluka by taluka.",
+      "The idea is to help farmers, communities and water managers decide where to pump less and where to save."
+     ]
+    },
+    {
+     "title": "Top of the class",
+     "paras": [
+      "JALAAKAR won the national title at vivo Ignite 2026, a science challenge for school students that drew more than 6,100 entries judged on creativity, feasibility, cost and social impact. Experts note the tool still needs field testing before wider use, and that forecasts cannot replace real measurements."
+     ]
+    }
+   ],
+   "facts": [
+    "Tool name: JALAAKAR",
+    "Uses borewell, rainfall and soil data",
+    "Won vivo Ignite 2026 from 6,100+ entries"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/innovation/surat-student-ai-groundwater-prediction-dheyay-shah-winner-vivo-ignite-2026-winner-12826809"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "wolbachia-mosquitoes-cut-dengue-brazil-belo-horizonte",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "🦟",
+   "head": "Releasing Wolbachia mosquitoes cut dengue by 68.5% in a Brazilian city during the country's worst outbreak on record",
+   "dek": "A randomised trial in Belo Horizonte found that mosquitoes carrying a harmless bacterium also reduced chikungunya by 73%.",
+   "stat": [
+    "68.5%",
+    "fewer dengue infections"
+   ],
+   "sections": [
+    {
+     "title": "Mosquitoes that block viruses",
+     "paras": [
+      "Wolbachia is a natural bacterium that, once inside Aedes aegypti mosquitoes, makes it hard for them to spread viruses, and the mosquitoes pass it to their young. Researchers split Belo Horizonte into 58 school-based zones: half got Wolbachia mosquito releases plus normal pest control, half only the usual spraying.",
+      "Releases ran from January 2021 to May 2022, and 5,757 children aged 6 to 11 were followed."
+     ]
+    },
+    {
+     "title": "Strong results",
+     "paras": [
+      "Dengue infections fell by 68.5% and chikungunya by 73.3% in the release zones, even though the trial overlapped with Brazil's biggest dengue outbreak ever recorded. The findings, from a team including Fiocruz, UFMG, the World Mosquito Program and Johns Hopkins, were presented at a US tropical medicine meeting on 21 November."
+     ]
+    }
+   ],
+   "facts": [
+    "58 zones, 5,757 schoolchildren in the trial",
+    "Dengue down 68.5%, chikungunya down 73.3%",
+    "Funded mostly by the US NIH and Brazil's health ministry"
+   ],
+   "sources": [
+    {
+     "name": "EurekAlert! (ASTMH)",
+     "url": "https://www.eurekalert.org/news-releases/1152851"
+    },
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/major-success-sees-viral-infections-fall-68-in-brazil-after-releasing-wolbachia-infected-mosquitoes/"
+    }
+   ],
+   "img": "mosquito.jpg",
+   "credit": "Public domain / via Good News Network",
+   "contain": false
+  },
+  {
+   "slug": "point-lay-walrus-haulout-protected-alaska",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "🦭",
+   "head": "47,473 acres of Alaskan islands where Pacific walrus rest are now protected for good",
+   "dek": "After a decade of work, a conservation easement near Point Lay shields North America's largest walrus haul-out from disturbance and development.",
+   "stat": [
+    "47,473",
+    "acres protected"
+   ],
+   "sections": [
+    {
+     "title": "A beach for walrus",
+     "paras": [
+      "Pacific walrus once rested on Arctic sea ice, but as the ice became unreliable they began crowding onto barrier islands off Point Lay in northwest Alaska. In 2007 more than 200,000 females and young hauled out there, and they have come back every year since.",
+      "Crowded beaches are fragile: disturbances from people or planes can trigger stampedes that kill calves."
+     ]
+    },
+    {
+     "title": "Protected forever",
+     "paras": [
+      "The Conservation Fund bought a conservation easement from an Alaska Native corporation, and the Interior Alaska Land Trust will hold it and step up monitoring. The deal covers the whole island haul-out, nearby mainland and part of Kasegaluk Lagoon, which also shelters polar bears, spotted seals and belugas, while keeping traditional subsistence use open to local people."
+     ]
+    }
+   ],
+   "facts": [
+    "About 47,473 acres near Point Lay protected",
+    "200,000+ walrus hauled out there in 2007",
+    "Local subsistence and cultural use continues"
+   ],
+   "sources": [
+    {
+     "name": "The Conservation Fund",
+     "url": "https://www.conservationfund.org/our-impact/news-insights/pacific-walrus-alaska-arctic-conservation/"
+    },
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/one-of-a-kind-refuge-to-200000-walrus-protected-forever-in-alaska/"
+    }
+   ],
+   "img": "walrus.jpg",
+   "credit": "Florian Schulz / via Good News Network",
+   "contain": false
+  },
+  {
+   "slug": "yap-school-accepts-coconuts-as-tuition",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "🥥",
+   "head": "A school on Micronesia's Yap island lets families pay fees in coconuts, so no child is priced out",
+   "dek": "The coconuts are pressed into virgin coconut oil, reviving an island industry that died out two decades ago, with profits going to local charity.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "Fees paid from the palm",
+     "paras": [
+      "On Yap, in the Federated States of Micronesia, only about a third of people have paid jobs, and parents at Faith Christian Academy sometimes took risky night fishing trips or double shifts to cover fees. The school's founder, Paul Zimmer, now accepts coconuts in place of part of the tuition, something almost every family can gather."
+     ]
+    },
+    {
+     "title": "Reviving an old industry",
+     "paras": [
+      "The coconuts go to Island VCO, which cold-presses them into high-grade virgin coconut oil. Yap's coconut oil exports faded through the 1990s and stopped by the mid-2000s; the company is now preparing its first shipments and seeking US organic certification. Leftover profit goes to the nonprofit Pacific Helps, and Zimmer hopes to extend the scheme to other schools and islands."
+     ]
+    }
+   ],
+   "facts": [
+    "School: Faith Christian Academy, Yap",
+    "Coconuts accepted in place of some tuition",
+    "Oil profits fund local charity Pacific Helps"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/charity-swaps-tuition-fees-for-coconuts-so-every-islander-can-afford-school/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false
+  },
+  {
+   "slug": "volunteer-finds-missing-toddler-arizona-desert",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "good": true,
+   "emoji": "🌵",
+   "head": "After a 7-hour night search, a volunteer finds a missing 2-year-old safe under a desert bush 2 miles from home",
+   "dek": "Jay Stewart heard a small voice answering his calls near Eloy, Arizona, and kept the shivering girl warm until help came.",
+   "stat": [
+    "7 hrs",
+    "search before she was found"
+   ],
+   "sections": [
+    {
+     "title": "Lost at sunset",
+     "paras": [
+      "Little Vella wandered out of her family's front yard near Eloy at about 5 pm on Tuesday 17 November, wearing only a nappy. Around 75 police officers, neighbours and search volunteers fanned out through the desert as the temperature dropped, helped by drones and helicopters."
+     ]
+    },
+    {
+     "title": "A voice in the dark",
+     "paras": [
+      "Just after midnight, volunteer Jay Stewart was walking along a ditch and calling her name when he heard a reply. He found her curled up in a bush about 2 miles from home, cold but unhurt, and wrapped her in his jacket.",
+      "She was checked at hospital and was home by Wednesday. The Pinal County Sheriff's Office thanked Stewart with a certificate and made him an honorary member of its search and rescue posse."
+     ]
+    }
+   ],
+   "facts": [
+    "Search involved about 75 people",
+    "Girl found around 12:15 am, about 2 miles away",
+    "Rescuer made honorary search-and-rescue posse member"
+   ],
+   "sources": [
+    {
+     "name": "KOLD News 13",
+     "url": "https://www.kold.com/2026/11/19/man-honored-after-finding-missing-eloy-toddler-2-miles-home/"
+    },
+    {
+     "name": "Sunny Skyz",
+     "url": "https://www.sunnyskyz.com/good-news/6360/Volunteer-Hailed-as-Hero-After-Finding-Missing-2-Year-Old-Girl-in-Arizona-Desert"
+    }
+   ],
+   "img": "desert.jpg",
+   "credit": "Nicholas Hartmann / Wikimedia, CC BY-SA 4.0",
+   "contain": false
+  }
+ ],
+ "also": []
+}
