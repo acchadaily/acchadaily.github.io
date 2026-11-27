@@ -1,0 +1,1852 @@
+{
+ "date": "2026-11-27",
+ "day": "Friday",
+ "date_label": "27 November 2026",
+ "note": "",
+ "markets": {
+  "asof": "Sensex and Nifty: closes on Thu 26 Nov 2026 (PTI/HDFC Sky). USD/INR: provisional close 26 Nov (PTI). Gold: Goodreturns 24K Delhi retail rate, 27 Nov. Brent: settlement 26 Nov (Nation Thailand).",
+  "items": [
+   {
+    "n": "Sensex",
+    "v": "84,328.59",
+    "c": "+0.46%"
+   },
+   {
+    "n": "Nifty 50",
+    "v": "25,884.50",
+    "c": "+0.25%"
+   },
+   {
+    "n": "USD/INR",
+    "v": "92.44",
+    "c": "₹ −24 paise"
+   },
+   {
+    "n": "Gold 24K /10g",
+    "v": "₹1,24,960",
+    "c": ""
+   },
+   {
+    "n": "Brent",
+    "v": "$96.57",
+    "c": "+2.07%"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slug": "apple-hyderabad-store-kukatpally-pearl-logo",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "head": "Apple will open its 7th India store in Hyderabad on 10 December, with a pearl-themed logo for the 'City of Pearls'",
+   "dek": "The new store is at Lake Shore Mall in Kukatpally. It comes as Apple India's profit jumped 66% to ₹5,311 crore last year.",
+   "stat": [
+    "7th",
+    "Apple store in India"
+   ],
+   "sections": [
+    {
+     "title": "What's coming",
+     "paras": [
+      "Apple is opening its seventh official store in India at Lake Shore Mall in Kukatpally, Hyderabad, on 10 December, Inc42 reported on 27 November.",
+      "The barricade outside the store already shows a special Apple logo inspired by pearls, in shiny iridescent colours, according to Deccan Herald. It is a nod to Hyderabad's old nickname, the 'City of Pearls'. Apple often gives new stores local artwork like this before they open."
+     ]
+    },
+    {
+     "title": "What it will sell",
+     "paras": [
+      "The store will carry Apple's full range, from the iPhone 18 Pro and MacBook Pro to the Apple Watch, AirPods and HomePod.",
+      "Apple's six existing stores in India are at BKC and Borivali in Mumbai, Saket in Delhi, Noida, Hebbal in Bengaluru and Koregaon Park in Pune."
+     ]
+    },
+    {
+     "title": "Why India matters to Apple",
+     "paras": [
+      "India has become one of Apple's fastest-growing markets. Apple India's net profit for FY26 rose 66% to ₹5,311 crore, and its revenue from operations grew 31.4% to about ₹1.04 lakh crore.",
+      "India is also a big base for making iPhones. iPhone exports from India crossed ₹2 lakh crore in FY26."
+     ]
+    },
+    {
+     "title": "The Hyderabad link",
+     "paras": [
+      "Hyderabad is not new for Apple. Its Maps research and development team works from the city. In January 2026, Apple leased another 57,000 sq ft of office space at WaveRock for ₹71.6 lakh a month.",
+      "A store in Kukatpally, a busy residential and shopping area, puts Apple closer to the city's large base of tech workers."
+     ]
+    }
+   ],
+   "facts": [
+    "Opening date: 10 December 2026, Lake Shore Mall, Kukatpally",
+    "Apple India FY26 net profit: ₹5,311 crore (+66%)",
+    "Apple India FY26 revenue: about ₹1.04 lakh crore (+31.4%)"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/apple-to-open-seventh-india-store-in-hyderabads-kukatpally/"
+    }
+   ],
+   "img": "apple_hyd.jpg",
+   "credit": "An Apple store / via Inc42",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "zepto-dark-store-licence-suspended-blinkit-fined-11-lakh",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Maharashtra FDA suspends a Zepto dark store's licence after finding live cockroaches, and fines Blinkit ₹11 lakh",
+   "dek": "Food safety officials also suspended the licence of a BigBasket warehouse in Navi Mumbai, as quick-commerce hygiene comes under the spotlight.",
+   "stat": [
+    "₹11 lakh",
+    "fine on a Blinkit outlet in Amravati"
+   ],
+   "sections": [
+    {
+     "title": "What the inspectors found",
+     "paras": [
+      "Maharashtra's Food and Drug Administration (FDA) suspended the food licence of a Zepto dark store on Saki Vihar Road in Sakinaka, Andheri East, from 25 November, IANS reported. Inspectors had visited on 23 November after a complaint.",
+      "They said they found live cockroaches on racks and near food. Expired and damaged items were mixed with goods ready for sale, food was kept on the floor, cold storage was not kept at the right temperature all the time, and veg and non-veg products were not kept apart. While the suspension lasts, the store cannot store or sell food."
+     ]
+    },
+    {
+     "title": "Blinkit and BigBasket too",
+     "paras": [
+      "The FDA fined a Blinkit outlet in Rathi Nagar, Amravati, ₹11 lakh. That is ₹10 lakh for running without a food licence and ₹1 lakh for not following a food safety officer's orders. The penalty is on the store manager and four directors.",
+      "A BigBasket warehouse in Navi Mumbai also had its food licence suspended."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Quick-commerce apps promise groceries in about 10 minutes, and they do it from small 'dark stores' that customers never see. That speed has made them hugely popular in big cities, but these stores are packed tightly and run around the clock.",
+      "Actions like this show food regulators are starting to look closely at what happens inside them. For shoppers, it is a reminder to check expiry dates and report bad products. For the companies, hygiene is now a brand risk, not just a compliance box."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "The companies had not given a detailed public response in the reports. The Zepto store can apply to restart once it fixes the problems and passes another check."
+     ]
+    }
+   ],
+   "facts": [
+    "Zepto store licence suspended from 25 Nov after a 23 Nov inspection",
+    "Blinkit Amravati fine: ₹10 lakh (no licence) + ₹1 lakh (ignoring orders)",
+    "BigBasket Navi Mumbai warehouse licence also suspended"
+   ],
+   "sources": [
+    {
+     "name": "IANS via Ten News",
+     "url": "https://tennews.in/maharashtra-fda-penalises-blinkit-suspends-licences-of-zepto-big-basket-facilities"
+    }
+   ],
+   "img": "blinkit_store.jpg",
+   "credit": "A quick-commerce store in Hyderabad / Syced / Wikimedia, CC0",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "whatsapp-international-esim-reliance-jio",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "head": "WhatsApp will sell international data eSIMs inside the app, working with Reliance Jio and Verizon",
+   "dek": "Travellers will be able to buy and install a data plan for another country in a few taps, without leaving WhatsApp. Prices are not out yet.",
+   "stat": [
+    "500 million+",
+    "WhatsApp users in India"
+   ],
+   "sections": [
+    {
+     "title": "What's new",
+     "paras": [
+      "WhatsApp is adding a feature that lets people buy international data eSIMs from inside the app, Inc42 reported on 27 November. An eSIM is a digital SIM card, so there is no plastic card to swap when you land in another country.",
+      "WhatsApp says it is working with Reliance Jio, Verizon, Smart Axiata and Smart Communications. It will launch first in a few countries, which it has not named."
+     ]
+    },
+    {
+     "title": "How it will work",
+     "paras": [
+      "You type in where you are travelling, and WhatsApp shows eSIMs that work with your phone. Once installed, the app shows how much data is left and warns you when a plan is running low or about to expire.",
+      "Android Authority spotted the feature in a test version of the app, 2.26.47.10. A day earlier, WhatsApp launched message scheduling, which lets users set a message to go out anywhere from 10 minutes to 14 days later."
+     ]
+    },
+    {
+     "title": "The Kunal Shah angle",
+     "paras": [
+      "Kunal Shah, the CRED founder who became WhatsApp's global head earlier this year, teased the idea on X: \"What if WhatsApp could work anywhere you go in the world without any struggle.\"",
+      "It is another sign that WhatsApp wants to be more than a chat app, adding payments, shopping and now travel data."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "India is WhatsApp's biggest market, with more than 500 million users. Many Indian travellers today buy costly roaming packs or local SIMs at airports. A cheap, simple eSIM inside an app they already use could change that, and give Jio a new way to reach them. Pricing has not been announced."
+     ]
+    }
+   ],
+   "facts": [
+    "Partners: Reliance Jio, Verizon, Smart Axiata, Smart Communications",
+    "Launching first in select countries, not yet named",
+    "Message scheduling (10 minutes to 14 days) launched a day earlier"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/whatsapp-to-partner-jio-to-launch-intl-data-esim-feature-in-india/"
+    }
+   ],
+   "img": "whatsapp.jpg",
+   "credit": "WhatsApp logo / via Inc42",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "supreme-court-high-fat-sugar-salt-warning-labels",
+   "tag": "Brands",
+   "color": "#0E9F5B",
+   "head": "Supreme Court orders separate 'HIGH FAT', 'HIGH SUGAR' and 'HIGH SALT' warnings on the front of packaged foods",
+   "dek": "The court went further than food regulator FSSAI's plan, asking for a separate warning for each nutrient. It is a big change for chips, biscuit and drink brands.",
+   "stat": [
+    "3",
+    "separate warnings: fat, sugar and salt"
+   ],
+   "sections": [
+    {
+     "title": "What the court said",
+     "paras": [
+      "A Supreme Court bench of Justices JB Pardiwala and K Vinod Chandran told the Centre and the Food Safety and Standards Authority of India (FSSAI) to require a separate picture warning on packs for each nutrient: \"HIGH FAT\", \"HIGH SUGAR\" and \"HIGH SALT\", Inc42 reported on 26 November, citing LiveLaw.",
+      "If a product is high in more than one, it must carry a separate hexagon for each. That is stricter than FSSAI's own plan, which would have put them all in one hexagon."
+     ]
+    },
+    {
+     "title": "FSSAI's plan",
+     "paras": [
+      "FSSAI's revised plan uses limits from the ICMR-NIN Dietary Guidelines 2024 to decide what counts as 'high'. It also proposes a label saying a product contains non-caloric sweeteners.",
+      "FSSAI had asked for about four months to finish the draft rules, and suggested a 365-day period after that when following them would be voluntary."
+     ]
+    },
+    {
+     "title": "What it means for brands",
+     "paras": [
+      "Front-of-pack warnings are among the toughest rules a food brand can face, because the warning sits right next to the logo. Countries like Chile and Mexico use black warning labels, and studies there linked them to shoppers buying fewer sugary products.",
+      "Indian brands are already under pressure. Inc42 says at least 20 D2C food brands have received FSSAI notices since May over claims like \"no added sugar\" and \"natural\". Ramen brand MasterChow dropped \"100% Natural\" from its packs."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "The court also wants nutrition to be taught in schools. The final rules and dates will come from FSSAI, so expect packaging redesigns and recipe changes as brands try to stay below the limits."
+     ]
+    }
+   ],
+   "facts": [
+    "Bench: Justices JB Pardiwala and K Vinod Chandran",
+    "FSSAI sought ~4 months to finalise rules, then a 365-day voluntary period",
+    "20+ D2C food brands got FSSAI notices since May"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/sc-orders-separate-warning-labels-for-high-fat-sugar-and-salt-in-packaged-foods/"
+    }
+   ],
+   "img": "supreme_court.jpg",
+   "credit": "Supreme Court of India / via Inc42",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "uber-india-president-rakesh-ranjan-ex-zomato",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Uber names former Zomato food delivery CEO Rakesh Ranjan as its India and South Asia president",
+   "dek": "He joins on 4 January 2027 from Allen Online, filling the job left when Prabhjet Singh moved to OpenAI.",
+   "stat": [
+    "3rd",
+    "India's rank among Uber markets by trips"
+   ],
+   "sections": [
+    {
+     "title": "The appointment",
+     "paras": [
+      "Uber has named Rakesh Ranjan as president of its India and South Asia business, it said on 26 November. He starts on 4 January 2027 and will report to Dom Taylor, Uber's regional head for Asia Pacific, who called him a \"suitable fit\".",
+      "Ranjan is now CEO of Allen Online, the online arm of the coaching institute. Before that he spent about eight years at Zomato, which he joined in 2017. He ran its supplies business Hyperpure and then its food delivery business."
+     ]
+    },
+    {
+     "title": "Why the job was open",
+     "paras": [
+      "The post had been empty since July, when Prabhjet Singh left after 11 years leading Uber in India to become OpenAI's managing director for India. The search took more than three months."
+     ]
+    },
+    {
+     "title": "What he is taking on",
+     "paras": [
+      "India is Uber's third-largest market by number of trips. It operates in more than 225 Indian cities and has over 2 million drivers active every month.",
+      "But the market is tough. Uber cut about 200–250 jobs in India in September, and its biggest rival, Rapido, has grown fast with a low-fee model for drivers. Ranjan brings experience of running one of India's largest delivery networks at Zomato."
+     ]
+    }
+   ],
+   "facts": [
+    "Starts: 4 January 2027",
+    "Previously: CEO, Allen Online; ~8 years at Zomato",
+    "Uber India: 225+ cities, 2 million+ monthly active drivers"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/uber-appoints-former-zomato-food-delivery-ceo-rakesh-ranjan-as-india-president/"
+    }
+   ],
+   "img": "uber.jpg",
+   "credit": "Illustration / via Inc42",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "parliament-special-sitting-30-november-womens-quota-delimitation",
+   "tag": "Politics",
+   "color": "#2563EB",
+   "head": "Parliament called back for a special sitting from 30 November, with the bill for 850 Lok Sabha seats and women's quota expected",
+   "dek": "The Lok Sabha meets on Monday and the Rajya Sabha on 2 December. A similar constitutional amendment failed in April, short of a two-thirds majority.",
+   "stat": [
+    "850",
+    "proposed maximum Lok Sabha seats, up from 543"
+   ],
+   "sections": [
+    {
+     "title": "What's happening",
+     "paras": [
+      "Parliamentary Affairs Minister Kiren Rijiju said on 26 November that the government had asked for both Houses to meet again. The Lok Sabha will sit from Monday 30 November and the Rajya Sabha from Wednesday 2 December, and the sitting may end on 3 December. He said it was for \"essential government business\".",
+      "The Constitution (131st Amendment) Bill, 2026 is expected to come up. It would raise the number of Lok Sabha seats from 543 to as many as 850, redraw constituencies across the country, and bring in 33% reservation for women in Parliament and state assemblies before the 2029 election."
+     ]
+    },
+    {
+     "title": "The numbers",
+     "paras": [
+      "An earlier version was defeated on 17 April 2026: 298 MPs voted for it and 230 against, short of the two-thirds needed. In a full House of 543, two-thirds is about 361 votes. Reports say the government may bring changes to the bill."
+     ]
+    },
+    {
+     "title": "What both sides say",
+     "paras": [
+      "Congress's Jairam Ramesh called the move an \"assault on the Constitution\". Home Minister Amit Shah said Congress could not block reservation for women."
+     ]
+    }
+   ],
+   "facts": [
+    "Lok Sabha: 30 Nov; Rajya Sabha: 2 Dec; may end 3 Dec",
+    "April vote: 298 for, 230 against (two-thirds needed)",
+    "Two-thirds of a full 543-member House: about 361"
+   ],
+   "sources": [
+    {
+     "name": "AIR News",
+     "url": "https://www.airnews.in/articles/ddd8c7b5d1-centre-reconvenes-parliament-on-november-30-as-congress-slams-850-seat-delimitation-move?feed=india"
+    },
+    {
+     "name": "The Shillong Times (PTI)",
+     "url": "https://theshillongtimes.com/2026/11/27/govt-calls-spl-parliament-sitting-from-nov-30-womens-quota-delimitation-bill-back-in-play/"
+    }
+   ],
+   "img": "parliament.jpg",
+   "credit": "New Parliament Building / Ministry of Parliamentary Affairs / Wikimedia, GODL-India",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "india-q2-gdp-data-30-november-forecast-7-6-percent",
+   "tag": "Economy",
+   "color": "#D97706",
+   "head": "India's July–September GDP data comes out on Monday, and economists expect growth of about 7.6%",
+   "dek": "Forecasts range from 7.2% to 7.8%. Growth was 7.8% in April–June, but a weak monsoon has hit farming.",
+   "stat": [
+    "7.6%",
+    "median forecast in a Reuters poll of 43 economists"
+   ],
+   "sections": [
+    {
+     "title": "What to expect",
+     "paras": [
+      "The statistics ministry will release GDP figures for the July–September quarter (Q2 of FY27) on Monday 30 November. A Reuters poll of 43 economists expects growth of 7.6%, Business Today reported.",
+      "SBI Research expects about 7.8%, ICRA 7.5% and CareEdge 7.6%. The RBI's own estimate is 7.2%, and the finance ministry's monthly review puts it at 7.35%."
+     ]
+    },
+    {
+     "title": "What's holding it back",
+     "paras": [
+      "The economy grew 7.8% in April–June. A year ago, in July–September 2025, it grew 8.2%, which makes this year's comparison harder.",
+      "CareEdge expects farm output to grow just 0.8%, against 3.6% a year earlier, because of the weak monsoon. ICRA sees manufacturing growth slowing to 8.2% from 9.2%."
+     ]
+    }
+   ],
+   "facts": [
+    "Release date: Monday 30 November",
+    "Q1 FY27 growth: 7.8%; Q2 FY26: 8.2%",
+    "Forecasts: SBI 7.8%, Reuters poll 7.6%, ICRA 7.5%, RBI 7.2%"
+   ],
+   "sources": [
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/economy/story/indias-gdp-growth-likely-to-stay-above-7-in-q2fy27-despite-headwinds-569788-2026-11-27"
+    },
+    {
+     "name": "Deccan Herald",
+     "url": "https://www.deccanherald.com/business/economy/indias-gdp-growth-seen-at-76-in-july-september-quarter-economist-4232797"
+    }
+   ],
+   "img": "gdp.jpg",
+   "credit": "GDP illustration / via Business Today",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "rbi-rate-hike-4-december-emi-poll",
+   "tag": "Your Wallet",
+   "color": "#D97706",
+   "head": "Loan EMIs may rise again: over 90% of economists expect the RBI to raise the repo rate to 5.75% on 4 December",
+   "dek": "Retail inflation hit a two-year high of 6.09% in October, above the RBI's comfort zone. Markets see a small chance of an even bigger hike.",
+   "stat": [
+    "5.75%",
+    "expected repo rate after a 25 bps hike"
+   ],
+   "sections": [
+    {
+     "title": "What's expected",
+     "paras": [
+      "The RBI's Monetary Policy Committee meets from 2 to 4 December. More than 90% of economists in a Reuters poll expect a 25 basis-point hike, taking the repo rate from 5.50% to 5.75%. Market prices show an outside chance of a 50 basis-point move.",
+      "The RBI raised rates by 25 basis points in October, its first hike in about four years. October's retail inflation of 6.09% was above the RBI's upper limit of 6%."
+     ]
+    },
+    {
+     "title": "What it means for you",
+     "paras": [
+      "When the repo rate goes up, banks usually raise interest on floating-rate home, car and personal loans, so EMIs rise or loan terms get longer. Fixed-deposit rates often go up too, which is good news for savers.",
+      "SBI Research supports a 25 basis-point hike, but warns that a bigger one could hurt growth and the rupee."
+     ]
+    }
+   ],
+   "facts": [
+    "MPC decision: 4 December",
+    "October CPI inflation: 6.09% (September: 5.54%)",
+    "Current repo rate: 5.50%"
+   ],
+   "sources": [
+    {
+     "name": "Indian Opinion (citing Reuters)",
+     "url": "https://indianopinion.org/rbi-faces-50-basis-point-hike-calls-as-financial-conditions-tighten/"
+    },
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/economy/story/retail-inflation-hits-two-year-high-of-6-09-in-october-breaches-rbis-6-limit-december-rate-hike-likely-567161-2026-11-12"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "india-rejects-us-excess-capacity-claim-tariff",
+   "tag": "Economy",
+   "color": "#D97706",
+   "head": "India says it has no 'excess capacity' in any sector and wants the US tariff threat settled in trade-deal talks",
+   "dek": "The commerce ministry said the US notice, which proposes tariffs of up to 25%, is 'under examination'.",
+   "stat": [
+    "25%",
+    "proposed US tariff, or 17% with a trade deal"
+   ],
+   "sections": [
+    {
+     "title": "India's reply",
+     "paras": [
+      "A day after the US named India among 14 economies it accuses of 'excess capacity', the Commerce and Industry Ministry said on 26 November that India \"does not have structural excess capacity in any sector\". It said the US notice was \"under examination\".",
+      "India wants the issue handled inside the India–US Bilateral Trade Agreement talks, which began in February 2026."
+     ]
+    },
+    {
+     "title": "What the US proposed",
+     "paras": [
+      "The US Trade Representative proposed tariffs of up to 25% on Indian goods, or 17% if India signs a trade deal that deals with its findings. China, the EU, Japan, South Korea and Vietnam are also on the list.",
+      "US Trade Representative Jamieson Greer has said the new rates will likely not take effect for months, possibly January 2027, after public comments and a hearing. Exporters' bodies such as CITI say frequent tariff changes make planning hard."
+     ]
+    }
+   ],
+   "facts": [
+    "India is one of 14 economies named",
+    "US rates face public comments and a hearing first",
+    "India–US trade talks announced 2 February 2026"
+   ],
+   "sources": [
+    {
+     "name": "ANI",
+     "url": "https://aninews.in/news/business/us-trade-concerns-should-be-addressed-through-bta-ustr-notice-under-examination-commerce-ministry20261126084412/"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+    }
+   ],
+   "img": "india_us_flags.jpg",
+   "credit": "India and US flags / via The NewsMill",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "tamil-nadu-15-days-paternity-leave-government-staff",
+   "tag": "India",
+   "color": "#2563EB",
+   "head": "Tamil Nadu gives male government employees 15 days of paternity leave",
+   "dek": "Chief Minister Vijay announced the change on 26 November, and an order has been issued. Women staff already get a year of maternity leave.",
+   "stat": [
+    "15 days",
+    "paternity leave for male state staff"
+   ],
+   "sections": [
+    {
+     "title": "The new rule",
+     "paras": [
+      "Male employees of the Tamil Nadu government can now take 15 days of paternity leave, Chief Minister C. Joseph Vijay announced on 26 November. The leave can be taken in the 15 days before the baby is due or within six months of the birth.",
+      "The government said a father's presence is important to support the mother and care for the newborn, and that the leave will help couples share family duties."
+     ]
+    },
+    {
+     "title": "Context",
+     "paras": [
+      "Women in Tamil Nadu government jobs already get 365 days of maternity leave, and male staff had asked for leave for fathers too. Central government employees have had 15 days of paternity leave since 1997. Employee groups welcomed the decision."
+     ]
+    }
+   ],
+   "facts": [
+    "Leave window: 15 days before due date or within 6 months of birth",
+    "Women staff in TN: 365 days of maternity leave",
+    "Central staff have had 15 days since 1997"
+   ],
+   "sources": [
+    {
+     "name": "The Tribune (ANI)",
+     "url": "https://tribuneindia.com/news/india/tamil-nadu-government-staff-to-get-15-day-paternity-leave-cm-vijay"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": [],
+   "good": true,
+   "emoji": "👶"
+  },
+  {
+   "slug": "kuwait-drone-attack-two-italians-killed-iran",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "head": "Two Italian technicians killed in Kuwait by debris from intercepted drones; Italy and Kuwait point at Iran, which denies it",
+   "dek": "The EU's Ursula von der Leyen said Europe must 'step up pressure on Iran'. It is the second reported attack on Kuwait this month.",
+   "stat": [
+    "2",
+    "Italian workers killed"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Kuwait's defence ministry said on 26 November that falling debris from drones shot down over a military site hit four people. Two Italian technicians working for Rheinmetall Italia on Kuwait's air-defence radars were killed. A Kuwaiti army officer and a Pakistani national were hurt.",
+      "Italy's Foreign Minister Antonio Tajani said \"several Iranian-made drones\" targeted Kuwaiti military sites, and Rome will complain to Iran's embassy."
+     ]
+    },
+    {
+     "title": "Reactions",
+     "paras": [
+      "Iran's Foreign Minister Abbas Araghchi denied any role and offered a joint investigation. Saudi Arabia and Bahrain condemned the attack. The Financial Times reported that Washington is weighing new strikes on Iran, which keeps oil prices and Gulf shipping on edge."
+     ]
+    }
+   ],
+   "facts": [
+    "Victims worked on radars for Kuwait's Skyguard air defence",
+    "Iran denies involvement, offers joint probe",
+    "Second reported attack on Kuwait this month"
+   ],
+   "sources": [
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/middle-east/two-italian-workers-killed-in-iranian-drone-attack-on-kuwait-3014135"
+    },
+    {
+     "name": "Business Recorder",
+     "url": "https://www.brecorder.com/news/40450964/two-italian-workers-killed-in-iranian-drone-strike-in-kuwait"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "ukraine-peace-talks-impasse-kushner-zelensky-four-way",
+   "tag": "Geopolitics",
+   "color": "#0F1115",
+   "head": "Ukraine peace talks are 'at a certain impasse' over territory, says US envoy Jared Kushner; Zelensky asks for four-way talks",
+   "dek": "Trump's team wants a new round before 25 December, while Kyiv wants Europe at the table with Russia and the US.",
+   "stat": [
+    "$621.9 million",
+    "US-approved F-16 support sale to Ukraine"
+   ],
+   "sections": [
+    {
+     "title": "Where talks stand",
+     "paras": [
+      "In a podcast interview published on 25–26 November, US envoy Jared Kushner said \"the territorial issue is currently at a certain impasse\" after long talks with Vladimir Putin. He said the US wants to agree on a post-war framework first and leave land questions for later.",
+      "Ukraine's President Volodymyr Zelensky has called for four-way talks between Ukraine, Russia, the US and Europe \"as soon as possible\". The last round, in Abu Dhabi on 10–11 November, ended with a big prisoner swap but no breakthrough."
+     ]
+    },
+    {
+     "title": "Meanwhile",
+     "paras": [
+      "Donald Trump met NATO chief Mark Rutte at Mar-a-Lago on 25 November to discuss Ukraine, Iran and defence spending. The US also approved a possible $621.9 million sale of F-16 support equipment to Ukraine."
+     ]
+    }
+   ],
+   "facts": [
+    "Last talks: Abu Dhabi, 10–11 November",
+    "US wants another round before 25 December",
+    "Trump–Rutte meeting: 25 November, Mar-a-Lago"
+   ],
+   "sources": [
+    {
+     "name": "Ukrainska Pravda",
+     "url": "https://www.pravda.com.ua/eng/news/2026/11/26/8064710/"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "iraq-baghdad-kurdistan-oil-borders-takeover",
+   "tag": "World",
+   "color": "#0891B2",
+   "head": "Iraq moves to take control of Kurdish oil fields and borders, saying 200,000+ barrels a day are smuggled; big protests in Erbil",
+   "dek": "Iraq's top court backed Baghdad. Kurdish leaders call it a 'red line', and national talks are set for 1 December.",
+   "stat": [
+    "$200 million",
+    "estimated monthly value of smuggled oil"
+   ],
+   "sections": [
+    {
+     "title": "What Baghdad did",
+     "paras": [
+      "On 24 November, Prime Minister Ali al-Zaidi ordered federal control of all border crossings into the Kurdistan Region and told the Oil Ministry to take over oil fields in Kirkuk, Nineveh, Salahuddin and Diyala. A day later, Iraq's Federal Supreme Court backed Baghdad's authority over borders and oil and gas revenues.",
+      "The government says 200,000–230,000 barrels of oil a day are smuggled, worth about $200 million a month."
+     ]
+    },
+    {
+     "title": "The pushback",
+     "paras": [
+      "The Kurdistan Regional Government called the moves unconstitutional, and Kurdish parties called them a \"red line\". Tens of thousands protested in Erbil. Baghdad denied reports that troops were heading to the region, and Iraq's top leaders agreed to a national dialogue on 1 December."
+     ]
+    }
+   ],
+   "facts": [
+    "Smuggling estimate: 200,000–230,000 barrels a day",
+    "Court ruling: 25 November",
+    "National dialogue: 1 December"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/26/iraq-denies-sending-troops-to-kurdistan-as-crisis-talks-to-begin/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "congo-ebola-outbreak-passes-12000-cases",
+   "tag": "World",
+   "color": "#0891B2",
+   "head": "Congo's Ebola outbreak passes 12,000 confirmed cases, the fastest-growing on record, as fighting slows the response",
+   "dek": "The rare Bundibugyo strain has no approved vaccine. Only 15% of new cases come from people already being tracked.",
+   "stat": [
+    "12,021",
+    "confirmed Ebola cases"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Government data released on 26 November showed 12,021 confirmed cases and 5,904 deaths in the Democratic Republic of Congo. Euronews called it the fastest-growing Ebola outbreak in history, and it is the deadliest of Congo's 17 outbreaks.",
+      "It is caused by the Bundibugyo strain, which has no approved vaccine or treatment. The outbreak began in Ituri province in May and has spread to 8 of Congo's 26 provinces."
+     ]
+    },
+    {
+     "title": "Why it's hard to stop",
+     "paras": [
+      "Reuters reported that only 15% of new cases are people health workers already knew had been exposed, a sign the virus is spreading unseen. Fighting between the army and a rebel group near Bunia has cut off some areas, and about a dozen people, including two WHO staff, had to be evacuated."
+     ]
+    }
+   ],
+   "facts": [
+    "Deaths: 5,904",
+    "Spread to 8 of 26 provinces since May",
+    "Strain: Bundibugyo, no approved vaccine"
+   ],
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/26/ebola-cases-in-congo-surpass-12000-in-fastest-growing-outbreak"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "indiamart-settles-openai-chatgpt-case",
+   "tag": "Business",
+   "color": "#0E9F5B",
+   "head": "IndiaMART settles its court fight with OpenAI over being left out of ChatGPT's answers",
+   "dek": "The B2B marketplace had accused ChatGPT of skipping its listings while showing rivals. Terms of the deal were not disclosed.",
+   "stat": null,
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The Calcutta High Court recorded in an order dated 17 November that IndiaMART and OpenAI had settled, Inc42 reported on 26 November. IndiaMART said it no longer wanted to pursue its appeal, so it was dismissed.",
+      "IndiaMART had alleged that ChatGPT left out its links and seller listings while showing other B2B marketplaces. It said OpenAI was relying on a US government list of 'notorious markets' that named IndiaMART."
+     ]
+    },
+    {
+     "title": "Background",
+     "paras": [
+      "The company first went to court in December 2025. In May 2026, the court refused to give it interim relief, saying a private platform cannot be forced to show another company's links. It is not known whether ChatGPT will now show IndiaMART. The case is an early test of how brands fight for space in AI answers."
+     ]
+    }
+   ],
+   "facts": [
+    "Settlement recorded on 17 November",
+    "Case first filed December 2025",
+    "IndiaMART shares closed 0.75% higher at ₹1,531.05"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/indiamart-settles-legal-dispute-with-openai/"
+    }
+   ],
+   "img": "indiamart.jpg",
+   "credit": "IndiaMART app / via Inc42",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "urban-company-native-ac-launch-55499",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Urban Company starts selling its own air conditioners, with pre-bookings from ₹55,499 and a 5-year warranty that covers gas refills",
+   "dek": "The home-services company says it designed the AC around problems seen in 1.8 crore AC service jobs. Its shares rose 3.8%.",
+   "stat": [
+    "₹55,499",
+    "starting pre-booking price"
+   ],
+   "sections": [
+    {
+     "title": "The launch",
+     "paras": [
+      "Urban Company has opened pre-bookings for two air conditioners, the Native AC Ultra and Ultra Air, sold only on its app, Inc42 reported on 26 November. Prices start at ₹55,499.",
+      "It claims the ACs cool a room to 24°C in 21 minutes and keep cooling fully at 47°C outside. Some models have a HEPA H13 air purifier. The warranty is 5 years unconditional, including gas refills, and 10 years on the compressor."
+     ]
+    },
+    {
+     "title": "The pitch",
+     "paras": [
+      "Co-founder Varun Khaitan said the company wants to fix common AC problems \"at the source\": gas leaks, poor after-sales service and weak cooling on very hot days. It has already sold water purifiers under its Native brand.",
+      "The shares closed 3.77% higher at ₹170.80 on the BSE. In July–September, its net loss more than tripled to ₹182.5 crore, while revenue rose 41.4% to ₹537.3 crore."
+     ]
+    }
+   ],
+   "facts": [
+    "Based on 1.8 crore AC service jobs",
+    "Warranty: 5 years incl. gas refills; 10 years on compressor",
+    "Q2 FY27 net loss: ₹182.5 crore; revenue ₹537.3 crore"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/urban-company-forays-into-ac-market-opens-pre-bookings-for-native-acs-at-%e2%82%b955499/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "kiwi-fintech-spends-105-crore-ads-16-crore-revenue",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Fintech Kiwi spent ₹105 crore on ads in FY26 to earn ₹16 crore in revenue",
+   "dek": "The UPI credit card startup spent ₹9.66 for every ₹1 it earned, and its loss doubled to ₹129.5 crore.",
+   "stat": [
+    "₹9.66",
+    "spent for every ₹1 of revenue"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Kiwi, which offers RuPay credit cards linked to UPI, grew its revenue about four times in FY26, from ₹3.8 crore to ₹16 crore, Entrackr reported from company filings.",
+      "But spending grew faster. Advertising and promotion rose from ₹38.5 crore to ₹105 crore, which is 68% of all its costs. Total expenses doubled to ₹154.5 crore, and the net loss doubled from ₹64.2 crore to ₹129.5 crore."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Credit on UPI is one of the hottest areas in Indian fintech, and companies are spending heavily to sign up users. Kiwi has raised about $43 million in total, including a $24 million Series B led by Vertex Ventures. Its numbers show how costly that race is."
+     ]
+    }
+   ],
+   "facts": [
+    "Revenue: ₹3.8 crore → ₹16 crore",
+    "Ad spend: ₹38.5 crore → ₹105 crore",
+    "Net loss: ₹64.2 crore → ₹129.5 crore"
+   ],
+   "sources": [
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/fintrackr/kiwi-spends-rs-105-cr-on-ads-earns-rs-16-cr-revenue-in-fy26-12842213"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "funding-finnable-405-crore-green-aero-14-million-giva",
+   "tag": "Startups",
+   "color": "#0E9F5B",
+   "head": "Funding round-up: Finnable raises ₹405 crore, jet-engine startup Green Aero gets $14 million, and GIVA ₹90 crore",
+   "dek": "Lender Finnable is profitable, Green Aero builds engines for fast drones, and jewellery brand GIVA is opening more stores.",
+   "stat": [
+    "₹405 crore",
+    "Finnable's Series C"
+   ],
+   "sections": [
+    {
+     "title": "The deals",
+     "paras": [
+      "Finnable, a Bengaluru lender to salaried people, raised ₹405 crore (about $43.8 million) in a Series C led by Bharat Value Fund with ₹150 crore. Its loan book is above ₹4,600 crore, and it made ₹51 crore profit in April–September, more than the ₹46 crore it made in all of FY26.",
+      "Green Aero, a Bengaluru startup founded in 2023, raised a $14 million Series A led by Crane Ventures, with 3one4 Capital, pi Ventures and Antler. It builds jet engines for high-speed drones and combat aircraft and has done more than 100 ground tests."
+     ]
+    },
+    {
+     "title": "Also",
+     "paras": [
+      "Jewellery brand GIVA raised ₹90 crore in debt from BlackSoil to open more stores, and customer-experience platform XEBO.ai raised $10.5 million. Separately, Norwest sold a 2.15% stake in recently listed Amagi for ₹262.44 crore."
+     ]
+    }
+   ],
+   "facts": [
+    "Finnable: ₹405 crore Series C, AUM over ₹4,600 crore",
+    "Green Aero: $14 million Series A, led by Crane Ventures",
+    "GIVA: ₹90 crore debt from BlackSoil"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/finnable-nets-%e2%82%b9405-cr-to-scale-digital-lending-business/"
+    },
+    {
+     "name": "Entrackr",
+     "url": "https://entrackr.com/snippets/green-aero-raises-14-mn-led-by-crane-ventures-12842280"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "fcc-approves-spacex-starmind-million-satellites",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "US regulator lets SpaceX launch up to 1 million satellites for 'Starmind', its plan for AI data centres in space",
+   "dek": "Each solar-powered satellite would be about 70 m across. The first must be working by November 2033.",
+   "stat": [
+    "1 million",
+    "satellites allowed under the approval"
+   ],
+   "sections": [
+    {
+     "title": "What was approved",
+     "paras": [
+      "The US Federal Communications Commission (FCC) gave SpaceX conditional approval to launch \"up to one million satellites\" for Starmind, a network of AI data centres in orbit, New Atlas reported on 25 November. The satellites would send results to Earth through the Starlink network using lasers.",
+      "They would fly 500–1,002 km up. Each would be 70–75 m across when unfolded, with a computer rack, a large radiator to shed heat and solar panels making up to 250 kW."
+     ]
+    },
+    {
+     "title": "The catch",
+     "paras": [
+      "SpaceX must launch and run its first Starmind satellite by 25 November 2033 or lose the licence. Scientists question the cost and the cooling, and worry about space debris and the effect on astronomy. Big tech firms are hunting for power for AI, and space data centres are one bold idea."
+     ]
+    }
+   ],
+   "facts": [
+    "Altitude: 500–1,002 km",
+    "Up to 250 kW of solar power per satellite",
+    "Deadline for first satellite: 25 Nov 2033"
+   ],
+   "sources": [
+    {
+     "name": "New Atlas",
+     "url": "https://newatlas.com/space-systems/fcc-greenlight-spacex-million-orbital-data-center-constellation/"
+    },
+    {
+     "name": "Tech Times",
+     "url": "https://www.techtimes.com/articles/331558/20261126/spacexs-1-million-satellite-plan-gets-fcc-approval-what-will-they-used.htm"
+    }
+   ],
+   "img": "starmind.jpg",
+   "credit": "Starmind satellite rendering / via New Atlas",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "nvidia-halts-ai-server-shipments-southeast-asia",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "Nvidia stops AI server shipments to Malaysia, Singapore, Thailand and Indonesia under new US export rules",
+   "dek": "The rules aim to stop Chinese firms renting AI computing power in the region. One executive called it 'sheer chaos'.",
+   "stat": [
+    "4",
+    "Southeast Asian countries affected"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "Nvidia told its manufacturing partners to stop shipping servers with its AI chips to Malaysia, Singapore, Thailand and Indonesia, the Financial Times reported on 26 November. Dell and Supermicro reportedly told customers there that their orders would not go through.",
+      "It follows US rules from last week that need licences for advanced AI chips sent to data centres in these countries. The goal is to stop Chinese companies getting around export limits by renting computing power."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "Southeast Asia has become a hub for new AI data centres. A cloud executive told the FT: \"No one knows how to apply for this licence while the 90-day clock is ticking.\" It is not clear if the halt is temporary."
+     ]
+    }
+   ],
+   "facts": [
+    "Dell and Supermicro orders affected",
+    "Licences now needed for AI chips going to data centres in these countries",
+    "Nvidia booked $104 billion through its Singapore unit in 2025"
+   ],
+   "sources": [
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "sap-weighs-10000-job-cuts-ai",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "SAP weighs cutting at least 10,000 jobs, about 9% of staff, as it reshapes itself around AI",
+   "dek": "The plan is not final. Engineering and sales are the main focus, Bloomberg reported.",
+   "stat": [
+    "10,000+",
+    "jobs that could go"
+   ],
+   "sections": [
+    {
+     "title": "The plan",
+     "paras": [
+      "German software giant SAP is preparing to cut at least 10,000 positions, or at least 9% of its global staff, Bloomberg reported on 26 November. Every department was asked to find possible cuts, with product, engineering and sales in focus.",
+      "SAP did not confirm the number. It said it \"continuously reviews its organization\" to stay in line with its strategy. A deal with German workers protects jobs there until 2028, so most cuts may fall elsewhere."
+     ]
+    },
+    {
+     "title": "Context",
+     "paras": [
+      "SAP had 111,397 employees at the end of 2025. Its last big restructuring, in 2024, covered 9,000–10,000 roles. SAP Labs India is one of its largest hubs, but no India numbers have been reported."
+     ]
+    }
+   ],
+   "facts": [
+    "Staff at end-2025: 111,397",
+    "2024 restructuring cost about €3.1 billion",
+    "SAP usually announces restructuring with results in late January"
+   ],
+   "sources": [
+    {
+     "name": "CTech",
+     "url": "https://www.calcalistech.com/ctechnews/article/al8iwkfjx"
+    },
+    {
+     "name": "SiliconANGLE",
+     "url": "https://siliconangle.com/2026/11/26/sap-reportedly-plans-to-lay-off-10000-employees-amid-ai-push"
+    }
+   ],
+   "img": "sap.jpg",
+   "credit": "SAP office / via CTech",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "chariot-1-india-ai-models-indian-languages-launch",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "India launches Chariot-1, AI models built from scratch for Indian languages under the IndiaAI Mission",
+   "dek": "The release includes a language model and a text-to-speech model covering English and 10 Indian languages.",
+   "stat": [
+    "10",
+    "Indian languages in the voice model"
+   ],
+   "sections": [
+    {
+     "title": "What launched",
+     "paras": [
+      "IT Secretary S. Krishnan launched the Chariot-1 models in New Delhi on 26 November. They were built by Chariot Artificial Intelligence, one of the first four teams picked under the IndiaAI Mission to build Indian foundation models.",
+      "There is a language model, reported at 11 billion parameters, and a text-to-speech model for English plus Hindi, Bengali, Marathi, Tamil, Telugu, Kannada, Malayalam, Gujarati, Punjabi and Odia. Both were trained from scratch in India."
+     ]
+    },
+    {
+     "title": "The claims",
+     "paras": [
+      "Its open-source tokeniser, IndicShift, maps 1,012 characters across 12 Indian scripts to 350 letters. The developers say it uses up to 2.5 times fewer tokens than OpenAI's on Indian text, which makes it cheaper to run. All performance figures come from the developers and still need independent tests."
+     ]
+    }
+   ],
+   "facts": [
+    "Launched: 26 November, New Delhi",
+    "LLM: reported 11 billion parameters",
+    "Tokeniser: up to 2.5x fewer tokens on Indian text (developer claim)"
+   ],
+   "sources": [
+    {
+     "name": "Nation Press",
+     "url": "https://www.nationpress.com/business/chariot-1-indias-home-grown-ai-models-launched"
+    },
+    {
+     "name": "India.com",
+     "url": "https://www.india.com/technology/indias-ai-leap-centre-unveils-homegrown-chariot-1-ai-foundation-models-built-for-indian-languages-and-governance-8548200/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "x-parental-controls-new-york-ai-toy-ban",
+   "tag": "AI & Tech",
+   "color": "#7C3AED",
+   "head": "X adds its first parental controls for teens, and New York bans AI chatbot toys for 5 years",
+   "dek": "Parents can now set screen-time limits on X for 13–17-year-olds. New York is the second US state to ban AI-powered toys.",
+   "stat": [
+    "5",
+    "teen accounts one parent can manage on X"
+   ],
+   "sections": [
+    {
+     "title": "X's new controls",
+     "paras": [
+      "X launched parental controls for teens aged 13–17 on 26 November, Engadget reported. Teen accounts are set to a protected mode that limits sensitive media and blocks targeted ads.",
+      "Parents can set daily time limits, approve new followers, filter words and choose who can message their teen. They cannot read messages or see search history, and both parent and teen must agree to link accounts."
+     ]
+    },
+    {
+     "title": "New York's toy ban",
+     "paras": [
+      "New York Governor Kathy Hochul signed a law on 24 November banning the making and sale of toys powered by AI chatbots for five years, NBC News reported. It takes effect in February. New York is the second state after California to pass such a ban."
+     ]
+    }
+   ],
+   "facts": [
+    "X controls: for ages 13–17",
+    "NY ban signed 24 November, for 5 years",
+    "California was first to ban AI chatbot toys"
+   ],
+   "sources": [
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962"
+    }
+   ],
+   "img": "x_parental.jpg",
+   "credit": "X parental controls / via Engadget",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "sensex-390-points-it-stocks-hcl-tech-rupee-92-44",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "head": "Sensex adds 390 points to 84,328 as IT stocks jump; HCL Tech gains 6.4% while the rupee slips to 92.44",
+   "dek": "Nifty IT rose 3.66% on Thursday. Brent oil climbed 2% to $96.57 on Gulf supply worries.",
+   "stat": [
+    "+0.46%",
+    "Sensex on Thursday"
+   ],
+   "sections": [
+    {
+     "title": "How markets closed",
+     "paras": [
+      "The Sensex rose 390.31 points, or 0.46%, to 84,328.59 on Thursday 26 November, and the Nifty gained 65.25 points, or 0.25%, to 25,884.50, recovering from losses in the afternoon.",
+      "IT stocks led: HCL Tech rose 6.42%, TCS 4.89% and Infosys 4.69%, and the Nifty IT index gained 3.66%. Realty rose 3.27%. Asian Paints and Bajaj Finance fell about 3% each."
+     ]
+    },
+    {
+     "title": "Rupee and oil",
+     "paras": [
+      "The rupee fell 24 paise to 92.44 against the dollar, hurt by higher crude prices and the proposed US tariffs. Brent crude settled 2.07% higher at $96.57 a barrel, its third straight rise, on fears over Gulf supply, ahead of an OPEC+ meeting on Sunday."
+     ]
+    }
+   ],
+   "facts": [
+    "Nifty: 25,884.50 (+65.25)",
+    "Top gainer: HCL Tech +6.42%",
+    "Brent: $96.57 (+$1.96) on 26 Nov"
+   ],
+   "sources": [
+    {
+     "name": "PTI via Telangana Today",
+     "url": "https://telanganatoday.com/rupee-retreats-after-65-paise-rally-settles-at-92-44-against-dollar"
+    },
+    {
+     "name": "HDFC Sky",
+     "url": "https://hdfcsky.com/news/sensex-nifty-recover-afternoon-losses-to-end-higher-as-asia-oil-support-tariff-inflation-worries-keep-investors-cautious"
+    },
+    {
+     "name": "Nation Thailand",
+     "url": "https://www.nationthailand.com/news/world/40073981"
+    }
+   ],
+   "img": "bse.jpg",
+   "credit": "BSE building, Mumbai / Niyantha Shekhar / Wikimedia, CC BY 2.0",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "ipo-watch-crystal-crop-listing-foodlink-mahanadi-coalfields",
+   "tag": "Markets",
+   "color": "#E0262F",
+   "head": "IPO watch: Crystal Crop lists 3% above issue price, Foodlink F&B is fully booked on day 1, and Mahanadi Coalfields debuts today",
+   "dek": "Coal India's Mahanadi unit lists on Friday, with the grey market pointing to a flat start.",
+   "stat": [
+    "₹280",
+    "Crystal Crop's BSE listing price"
+   ],
+   "sections": [
+    {
+     "title": "Listings",
+     "paras": [
+      "Crystal Crop Protection listed on 26 November at ₹280 on the BSE, 2.94% above its issue price of ₹272, and at ₹278 on the NSE. The IPO had been subscribed about 17 times. The stock slipped to ₹274.10 during the day.",
+      "Mahanadi Coalfields, whose ₹8,981 crore offer was priced at ₹129–136 and subscribed 1.52 times, lists on Friday 27 November. Its grey-market premium was near zero."
+     ]
+    },
+    {
+     "title": "Open now",
+     "paras": [
+      "Foodlink F&B Holdings' ₹360.76 crore IPO, priced at ₹181–191, was subscribed 1.08 times on day one, with retail investors bidding 2.33 times. It closes on 30 November and is set to list on 3 December."
+     ]
+    }
+   ],
+   "facts": [
+    "Crystal Crop issue price: ₹272",
+    "Mahanadi Coalfields price band: ₹129–136",
+    "Foodlink closes 30 Nov, lists 3 Dec"
+   ],
+   "sources": [
+    {
+     "name": "India TV",
+     "url": "https://www.indiatvnews.com/business/markets/crystal-crop-protection-shares-price-nse-bse-make-muted-debut-on-bourses-list-at-2-pc-premium-over-ipo-price-check-details-2026-11-26-1060408"
+    },
+    {
+     "name": "Upstox",
+     "url": "https://upstox.com/news/market-news/ipo/foodlink-f-and-b-holdings-ipo-day-2-check-subscription-status-and-10-things-to-know-from-rhp/article-204047/"
+    }
+   ],
+   "img": "ipo.jpg",
+   "credit": "IPO illustration / via Free Press Journal",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "india-vs-new-zealand-christchurch-test-day-1-akash-deep",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "Christchurch Test: India strike 3 times without a run as New Zealand slip from 110/1 to 110/4 on Day 1",
+   "dek": "Debutant Gurnoor Brar took a wicket on the last ball before lunch, and Akash Deep removed Latham and Ravindra.",
+   "stat": [
+    "0 runs",
+    "for 3 New Zealand wickets after lunch"
+   ],
+   "sections": [
+    {
+     "title": "The morning",
+     "paras": [
+      "India captain Shubman Gill won the toss and chose to bowl on a green pitch at Hagley Oval in the second and final Test, which began at 3:30 am IST on Friday. Fast bowler Gurnoor Brar made his Test debut in place of Prasidh Krishna.",
+      "New Zealand reached 77/1 at lunch. Brar trapped Devon Conway lbw for 31 on the last ball of the session for his first Test wicket. Earlier, KL Rahul dropped Tom Latham at slip."
+     ]
+    },
+    {
+     "title": "The collapse",
+     "paras": [
+      "After lunch, Akash Deep had Latham caught behind by Rishabh Pant for 59. Anshul Kamboj then removed Henry Nicholls for 16, and Akash Deep got Rachin Ravindra for a duck. New Zealand went from 110/1 to 110/4 in the second session, which was still going on at the time of writing. The first Test in Wellington was drawn, so this match decides the series."
+     ]
+    }
+   ],
+   "facts": [
+    "Venue: Hagley Oval, Christchurch",
+    "Lunch: NZ 77/1 in 26 overs",
+    "Latham 59 off 128 balls"
+   ],
+   "sources": [
+    {
+     "name": "The Hans India (IANS)",
+     "url": "https://www.thehansindia.com/sports/2nd-test-brar-strikes-on-the-stroke-of-lunch-as-nz-reach-771-1146238"
+    },
+    {
+     "name": "Outlook India",
+     "url": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-2nd-test-day-1-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": [],
+   "good": true,
+   "emoji": "🏏"
+  },
+  {
+   "slug": "gukesh-sindarov-game-3-draw-world-chess-championship",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "Gukesh and Sindarov draw a 60-move Game 3; the World Chess Championship is level at 1.5–1.5",
+   "dek": "Gukesh surprised his opponent in the opening, then had to hold on in a tense endgame. Game 4 is on Saturday with Gukesh playing white.",
+   "stat": [
+    "1.5–1.5",
+    "score after 3 games"
+   ],
+   "sections": [
+    {
+     "title": "The game",
+     "paras": [
+      "Game 3 in Geneva on 26 November ended in a draw after 60 moves, the third draw in a row. Javokhir Sindarov had the white pieces. Gukesh played a rare line in the Berlin Defence and made his first 15 moves in about 2 minutes, while Sindarov had used 58 minutes.",
+      "Sindarov took control in the middle of the game, and Gukesh later admitted he missed a key attacking idea. Sindarov found a precise move with 8 seconds left on his clock, and the game ended in a drawn endgame."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "27 November is a rest day. Game 4 is on Saturday 28 November at 7:30 pm IST, with Gukesh on white."
+     ]
+    }
+   ],
+   "facts": [
+    "Venue: Fondation Martin Bodmer, Geneva",
+    "Three games, three draws",
+    "Game 4: Sat 28 Nov, 7:30 pm IST"
+   ],
+   "sources": [
+    {
+     "name": "ChessBase India",
+     "url": "https://chessbase.in/news/world-championship-2026-game-3-report"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/chess/story/_/id/50603195/gukesh-sindarov-live-fide-world-chess-championship-2026-game-3-latest-updates"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "india-women-hockey-asian-champions-trophy-semifinal-malaysia",
+   "tag": "Sports",
+   "color": "#F59E0B",
+   "head": "Unbeaten India women face Malaysia in the Asian Champions Trophy semi-final tonight; four Indian women reach Syed Modi quarter-finals",
+   "dek": "India have scored 23 goals and let in just 4 in Bhopal. In Lucknow, Tasnim Mir knocked out the sixth seed.",
+   "stat": [
+    "23",
+    "goals scored by India in 5 league games"
+   ],
+   "sections": [
+    {
+     "title": "Hockey",
+     "paras": [
+      "India's women won all five league games at the Asian Champions Trophy in Bhopal, scoring 23 goals and conceding 4. They play Malaysia in the semi-final on Friday 27 November at 7 pm IST, after beating them 4-1 in the group stage.",
+      "Deepika leads the scoring with 8 goals. India are chasing a record fourth title, after 2016, 2023 and 2024. Japan play China in the other semi-final."
+     ]
+    },
+    {
+     "title": "Badminton",
+     "paras": [
+      "At the Syed Modi India International in Lucknow, four Indian women reached the singles quarter-finals: Tanvi Sharma, Unnati Hooda, Tasnim Mir and Anmol Kharb. Tasnim Mir beat sixth seed Kirsty Gilmour 21-19, 21-15. Top seeds Dhruv Kapila and Tanisha Crasto lost in mixed doubles."
+     ]
+    }
+   ],
+   "facts": [
+    "Semi-final: India vs Malaysia, 7 pm IST",
+    "Deepika: 8 goals",
+    "4 Indian women in Syed Modi singles quarters"
+   ],
+   "sources": [
+    {
+     "name": "myKhel",
+     "url": "https://www.mykhel.com/hockey/womens-asian-champions-trophy-2026-unbeaten-india-take-on-malaysia-one-win-away-from-historic-fourth-460131.html"
+    },
+    {
+     "name": "The Tribune (ANI)",
+     "url": "https://tribuneindia.com/news/badminton/badminton-kapila-crasto-suffer-shock-exit-at-syed-modi-india-international-2026"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": [],
+   "good": true,
+   "emoji": "🏑"
+  },
+  {
+   "slug": "netflix-pakistani-series-jo-bachay-hain-government-advisory",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "head": "Government reminds Netflix not to show Pakistani content in India, days before its first Pakistani original series",
+   "dek": "Film workers' groups have asked the PM to stop 'Jo Bachay Hain Sang Samait Lo', which premieres globally on 4 December.",
+   "stat": [
+    "4 Dec",
+    "global premiere of the series"
+   ],
+   "sections": [
+    {
+     "title": "What happened",
+     "paras": [
+      "The I&B Ministry reportedly told Netflix on 26 November to make sure Pakistan-made content is not available in India, repeating an advisory from 8 May 2025. The trigger is Netflix's first Pakistani original, 'Jo Bachay Hain Sang Samait Lo', which premieres on 4 December.",
+      "The All Indian Cine Workers Association wrote to PM Modi on 24 November seeking a permanent law, and the Federation of Western India Cine Employees (FWICE) also wrote, saying national interest should come before business. Netflix had not commented."
+     ]
+    },
+    {
+     "title": "Also on Netflix",
+     "paras": [
+      "Netflix separately announced a documentary on conman Sukesh Chandrashekhar, premiering on 18 December."
+     ]
+    }
+   ],
+   "facts": [
+    "Advisory first issued: 8 May 2025",
+    "Cine workers' letter to PM: 24 November",
+    "Sukesh Chandrashekhar documentary: 18 December"
+   ],
+   "sources": [
+    {
+     "name": "Inc42",
+     "url": "https://inc42.com/buzz/film-body-seeks-ban-on-pakistani-shows-netflix-release-in-india/"
+    },
+    {
+     "name": "Bollywood Hungama",
+     "url": "https://www.bollywoodhungama.com/news/bollywood/fwice-writes-to-pm-narendra-modi-seeks-intervention-to-stop-pakistani-netflix-series-jo-bachay-hain-sang-samait-lo-from-streaming-in-india/"
+    }
+   ],
+   "img": "netflix.jpg",
+   "credit": "Netflix logo / via Inc42",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "ramayana-box-office-day-22-1777-crore-hindi-750-crore",
+   "tag": "Entertainment",
+   "color": "#F59E0B",
+   "head": "Ramayana: Part 1 is ₹8 crore short of ₹1,000 crore net in India, and reaches ₹1,777 crore worldwide",
+   "dek": "Its Hindi version has crossed ₹750 crore net, only the third film to do so.",
+   "stat": [
+    "₹1,777 crore",
+    "worldwide gross after 22 days"
+   ],
+   "sections": [
+    {
+     "title": "The numbers",
+     "paras": [
+      "Ramayana: Part 1 earned ₹9.65 crore net on its 22nd day, Thursday 26 November, taking its India net total to ₹992.10 crore, according to Sacnilk. Its worldwide gross is ₹1,777 crore, including ₹592 crore from overseas.",
+      "The Hindi version alone has crossed ₹750 crore net, The Week reported. Only Dhurandhar and Dhurandhar 2 had done that before."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "At this pace, the film should cross ₹1,000 crore net in India this weekend, even as two new Hindi films, Yeh Prem Mol Liya and Gunmaaster G9, open on Friday. It is directed by Nitesh Tiwari and produced by Namit Malhotra."
+     ]
+    }
+   ],
+   "facts": [
+    "Day 22: ₹9.65 crore net",
+    "India net: ₹992.10 crore",
+    "Overseas gross: ₹592 crore"
+   ],
+   "sources": [
+    {
+     "name": "Sacnilk",
+     "url": "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_22"
+    },
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/entertainment/2026/11/26/ramayana-day-22-box-office-collection-hindi-version-750-crore-club-record-dhurandhar.html"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": []
+  },
+  {
+   "slug": "deccan-mahseer-ujani-reservoir-10-lakh-released",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "10 lakh Deccan Mahseer, the 'tiger of the river', are released back into Maharashtra's Ujani reservoir",
+   "dek": "The fish had become rare in the Bhima river by the 1990s. A BNHS project is also clearing invasive fish and weeds.",
+   "stat": [
+    "45 lakh",
+    "native fish released"
+   ],
+   "sections": [
+    {
+     "title": "The project",
+     "paras": [
+      "The Bombay Natural History Society (BNHS) released 45 lakh native fish into the Ujani reservoir on the Bhima river in October, including 10 lakh Deccan Mahseer, The Better India reported. The project is backed by Cipla Foundation and Tata Power.",
+      "Workers also planted over 21,000 water plants, removed more than 178 tonnes of invasive fish over the past year, and cleared about 6,500 tonnes of invasive weeds."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "The mahseer was once common in the Bhima basin, but pollution, invasive fish and harmful fishing made it rare. Tata Power has promised 10 lakh mahseer young over 10 years. Scientists will keep watching to see if the fish start breeding on their own."
+     ]
+    }
+   ],
+   "facts": [
+    "10 lakh Deccan Mahseer released",
+    "178+ tonnes of invasive fish removed",
+    "6,500 tonnes of weeds cleared from ~2,000 hectares"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/wildlife/deccan-mahseer-conservation-ujani-reservoir-fish-restoration-12833875"
+    }
+   ],
+   "img": "gn_mahseer.jpg",
+   "credit": "Deccan Mahseer / via The Better India",
+   "contain": false,
+   "also": [],
+   "good": true,
+   "emoji": "🐟"
+  },
+  {
+   "slug": "coast-guard-paradip-port-rescue-27-crew-vishva-uday",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "Coast Guard and Paradip Port save all 27 crew of a flooding cargo ship off Odisha",
+   "dek": "Water poured into the MV Vishva Uday's engine room about 50 nautical miles out at sea.",
+   "stat": [
+    "27",
+    "crew members safe"
+   ],
+   "sections": [
+    {
+     "title": "The rescue",
+     "paras": [
+      "The cargo ship MV Vishva Uday, sailing from Haldia to Mozambique, began taking in water about 50 nautical miles off Paradip after damage near its propeller, PTI reported. The Indian Coast Guard sent two ships, ICGS Amulya and ICGS Vijaya, overnight on 15–16 November.",
+      "A Coast Guard team boarded in rough seas and set up pumps to control the flooding. Paradip Port then sent two tugs, which towed the ship to safety and anchored it near the port on 17 November. All 27 crew members are safe."
+     ]
+    }
+   ],
+   "facts": [
+    "Route: Haldia to Mozambique",
+    "Two Coast Guard ships and two port tugs helped",
+    "Ship anchored safely on 17 November"
+   ],
+   "sources": [
+    {
+     "name": "Deccan Herald",
+     "url": "https://www.deccanherald.com/india/27-crew-members-rescued-as-vessel-suffers-water-ingress-off-odisha-coast-4221099"
+    },
+    {
+     "name": "Maritime Gateway",
+     "url": "https://www.maritimegateway.com/paradip-port-tows-distressed-vishva-uday-to-safety-after-engine-room-flooding/"
+    }
+   ],
+   "img": "gn_ship.jpg",
+   "credit": "MV Vishva Uday / via Maritime Gateway",
+   "contain": false,
+   "also": [],
+   "good": true,
+   "emoji": "🚢"
+  },
+  {
+   "slug": "mumbai-twin-textile-waste-17-tonnes-bhandiwalas",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "Mumbai startup TWIN has collected 17.5 tonnes of old clothes, giving rag collectors steady work",
+   "dek": "Free doorstep pickups from 650+ homes now supply 15–20 informal recyclers with sorted fabric.",
+   "stat": [
+    "17,500 kg",
+    "old clothes collected"
+   ],
+   "sections": [
+    {
+     "title": "How it works",
+     "paras": [
+      "TWIN (Textile Waste Innovation Network), started by 29-year-old Vikram Shahi, collects unwanted clothes from homes across Mumbai for free, booked online or on WhatsApp, The Better India reported. It has collected about 17,500 kg from more than 650 households.",
+      "Wearable clothes go to second-hand markets and NGOs. Torn fabric becomes bags, mats and cleaning cloths."
+     ]
+    },
+    {
+     "title": "Who it helps",
+     "paras": [
+      "TWIN works with 15–20 'bhandiwala' recyclers, mostly from the Waghari community. One of them, Anil Datanini, now earns ₹25,000–30,000 a month. \"Now the material comes to us regularly,\" he said."
+     ]
+    }
+   ],
+   "facts": [
+    "650+ households",
+    "15–20 informal recyclers supported",
+    "WhatsApp bot got 300+ sign-ups in its first month"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/sustainability/mumbai-bhandiwalas-waghari-workers-textile-waste-management-twin-vikram-shahi-social-entrepreneur-12834828"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": [],
+   "good": true,
+   "emoji": "👕"
+  },
+  {
+   "slug": "matter-party-bengaluru-reusable-party-decorations-fabric-waste",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "A Bengaluru startup turns waste fabric into reusable birthday decorations, used at 64 parties so far",
+   "dek": "Matter Party rents out bunting and banners stitched from scrap cloth, then takes them back to use again.",
+   "stat": [
+    "100+ kg",
+    "textile waste upcycled"
+   ],
+   "sections": [
+    {
+     "title": "The idea",
+     "paras": [
+      "Matter Party, started by Bhavna Kanoria in Bengaluru in March 2025, buys sorted waste fabric from the recycling group Hasiru Dala. Local tailors stitch it into bunting, fringes, wreaths and 'Happy Birthday' banners, The Better India reported.",
+      "Families rent a kit, and it comes back after the party to be cleaned and reused. A mini kit costs ₹1,750 and a party kit ₹3,500. Leftover scraps go back to the recycler."
+     ]
+    },
+    {
+     "title": "So far",
+     "paras": [
+      "It has upcycled more than 100 kg of fabric and decorated 64 parties across about 35 themes, replacing single-use plastic decorations."
+     ]
+    }
+   ],
+   "facts": [
+    "Started March 2025",
+    "64 parties, ~35 themes",
+    "Kits: ₹1,750 and ₹3,500"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/startup/reusable-birthday-party-decorations-textile-waste-bengaluru-startup-matter-party-12843776"
+    }
+   ],
+   "img": "gn_matter.jpg",
+   "credit": "Fabric party bunting / via The Better India",
+   "contain": false,
+   "also": [],
+   "good": true,
+   "emoji": "🎉"
+  },
+  {
+   "slug": "dharavi-new-life-school-student-raises-22-lakh",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "A 19-year-old student raises ₹22 lakh for a 40-year-old Dharavi school that teaches 560 children",
+   "dek": "Daniel Gupta beat his ₹20 lakh target and now hopes to help the school buy its land.",
+   "stat": [
+    "₹22 lakh",
+    "raised for the school"
+   ],
+   "sections": [
+    {
+     "title": "The campaign",
+     "paras": [
+      "New Life School in Dharavi, Mumbai, has taught children for 40 years but has never owned its land. Daniel Gupta, a 19-year-old media student with no fundraising experience, started a campaign called 'Dharavi Rising' to help, The Better India reported.",
+      "He aimed for ₹20 lakh for the school's expansion and raised ₹22 lakh."
+     ]
+    },
+    {
+     "title": "What's next",
+     "paras": [
+      "With Dharavi being redeveloped, owning its land is key to the school's future. A new phase now aims to raise ₹1.5 crore so the school can secure it."
+     ]
+    }
+   ],
+   "facts": [
+    "560 children",
+    "School running for 40 years",
+    "Next goal: ₹1.5 crore"
+   ],
+   "sources": [
+    {
+     "name": "The Better India",
+     "url": "https://thebetterindia.com/young-achievers/daniel-gupta-dharavi-rising-new-life-school-fundraising-12807039"
+    }
+   ],
+   "img": "gn_dharavi.jpg",
+   "credit": "New Life School, Dharavi / via The Better India",
+   "contain": false,
+   "also": [],
+   "good": true,
+   "emoji": "🏫"
+  },
+  {
+   "slug": "wild-kiwi-return-wellington-hills-150-years",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "Wild kiwi are living in the hills around New Zealand's capital for the first time in over 150 years",
+   "dek": "More than 250 birds have been moved there, and over 90% of chicks now survive thanks to 5,300 stoat traps.",
+   "stat": [
+    "300+",
+    "kiwi now around Wellington"
+   ],
+   "sections": [
+    {
+     "title": "The comeback",
+     "paras": [
+      "Since late 2022, more than 250 kiwi have been released into the hills around Wellington, Mongabay reported. Counting chicks hatched in the wild, there are now thought to be over 300.",
+      "The project, Capital Kiwi, is led by Māori iwi, local communities and landowners. Over 5,300 traps for stoats, which kill young kiwi, cover 24,000 hectares of farms, forests and suburbs."
+     ]
+    },
+    {
+     "title": "Why it works",
+     "paras": [
+      "Without predator control, almost all kiwi chicks die. With the traps, more than 90% survive. Each release follows Māori custom, with a formal request and a welcome ceremony."
+     ]
+    }
+   ],
+   "facts": [
+    "250+ kiwi released since 2022",
+    "5,300+ traps over 24,000 hectares",
+    "Chick survival: over 90%"
+   ],
+   "sources": [
+    {
+     "name": "Mongabay",
+     "url": "https://news.mongabay.com/short-article/2026/11/kiwi-return-to-wellington-hills-after-150-years-in-maori-led-conservation-milestone/"
+    }
+   ],
+   "img": "gn_kiwi.jpg",
+   "credit": "A kiwi / via Mongabay",
+   "contain": false,
+   "also": [],
+   "good": true,
+   "emoji": "🥝"
+  },
+  {
+   "slug": "bolivia-andes-indigenous-women-plant-500000-trees",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "Indigenous women in Bolivia's Andes plant nearly 500,000 native trees to bring back water",
+   "dek": "The Kewiña tree catches mountain fog and sends it into the soil, feeding springs that supply a big city.",
+   "stat": [
+    "~500,000",
+    "native seedlings planted"
+   ],
+   "sections": [
+    {
+     "title": "The work",
+     "paras": [
+      "In the Tunari mountains near Cochabamba, communities working with the nonprofit Faunagua have planted nearly 500,000 native Kewiña seedlings since 2022, 110,000 of them grown this year, Mongabay reported. Only about 10% of the original Kewiña forest is left.",
+      "A group of about 25 women in Chiaraje, 3,780 m up, formed 'Warmi Kewiñas' in 2023 to grow the trees. \"Now, us women are stronger,\" said leader Andrea Vicente."
+     ]
+    },
+    {
+     "title": "Why it matters",
+     "paras": [
+      "About 80% of the water used in the Cochabamba metro area comes from catchments in Tunari park. The long-term effect still has to be measured."
+     ]
+    }
+   ],
+   "facts": [
+    "Started in 2022 with six communities",
+    "110,000 seedlings grown this year",
+    "~80% of Cochabamba's water comes from Tunari"
+   ],
+   "sources": [
+    {
+     "name": "Good Good Good (Mongabay)",
+     "url": "https://www.goodgoodgood.co/articles/bolivian-andes-indigenous-women"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": [],
+   "good": true,
+   "emoji": "🌳"
+  },
+  {
+   "slug": "texas-volunteers-farm-school-land-3-million-scholarships",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "Nearly 1,000 volunteers farm a school's land for free in Texas, raising $3 million for college scholarships",
+   "dek": "Each harvest from the 640-acre farm in Gruver brings in about $400,000 for local students.",
+   "stat": [
+    "$3 million",
+    "in scholarships so far"
+   ],
+   "sections": [
+    {
+     "title": "The farm",
+     "paras": [
+      "In 1984, a landowner left a 640-acre farm to the school district in Gruver, in the Texas Panhandle. For about 15 years, nearly 1,000 local volunteers have grown corn and wheat on it for free, Good News Network reported, citing The Washington Post.",
+      "Each harvest earns about $400,000, and $3 million in scholarships has gone to hundreds of students. In the first decade alone, 48 were the first in their families to go to university. \"We just treat it like it's ours,\" said farmer Derik Grotegut."
+     ]
+    }
+   ],
+   "facts": [
+    "640-acre farm left to the school in 1984",
+    "~$400,000 per harvest",
+    "48 first-generation college students in the first decade"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/texans-work-for-free-on-farms-that-arent-theirs-to-send-others-kids-to-college/"
+    }
+   ],
+   "img": "",
+   "credit": "",
+   "contain": false,
+   "also": [],
+   "good": true,
+   "emoji": "🌾"
+  },
+  {
+   "slug": "cape-cod-first-encounter-beach-land-returned-native-trust",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "126 acres near Cape Cod's First Encounter Beach are handed back to a Native American land trust",
+   "dek": "The salt marsh is near where Pilgrims and Nauset people clashed in 1620. It will never be built on.",
+   "stat": [
+    "126 acres",
+    "returned to Indigenous care"
+   ],
+   "sections": [
+    {
+     "title": "The handover",
+     "paras": [
+      "On 30 October, The Nature Conservancy transferred about 126 acres of salt marsh and habitat in Eastham, Massachusetts, to the Native Land Conservancy, Good News Network reported. Next to it is a 20.4-acre plot bought in June for $3 million with help from neighbours.",
+      "The land will be protected, invasive plants removed and native ones restored. Diamondback terrapins nest on its bluffs. \"This place holds so many stories,\" said founder Ramona Peters."
+     ]
+    }
+   ],
+   "facts": [
+    "Transfer date: 30 October 2026",
+    "Neighbouring 20.4-acre plot bought for $3 million",
+    "Native Land Conservancy founded 2012"
+   ],
+   "sources": [
+    {
+     "name": "Good News Network",
+     "url": "https://www.goodnewsnetwork.org/land-returned-indigenous-care-first-encounter-beach/"
+    }
+   ],
+   "img": "gn_cape.jpg",
+   "credit": "Salt marsh beach at sunset / via Good News Network",
+   "contain": false,
+   "also": [],
+   "good": true,
+   "emoji": "🏞️"
+  },
+  {
+   "slug": "chester-zoo-rubber-glove-saves-peacock-pheasant-chick",
+   "tag": "Good News",
+   "color": "#16A34A",
+   "head": "A rubber glove filled with warm water saves an endangered peacock-pheasant chick at Chester Zoo",
+   "dek": "Only 15 Malay peacock-pheasants live in European zoos. The chick's mother took it back the next morning.",
+   "stat": [
+    "15",
+    "Malay peacock-pheasants in European zoos"
+   ],
+   "sections": [
+    {
+     "title": "The rescue",
+     "paras": [
+      "Chester Zoo in England hatched two chicks of the endangered Malay peacock-pheasant, Good Good Good reported. The mother left the second chick soon after it hatched, and it got cold.",
+      "Lead keeper Leanne Lowton filled a rubber glove with warm water to keep it warm overnight. The next morning, the mother took the chick back and has raised it well since. \"We didn't want this chick to grow up not knowing how to be a pheasant,\" Lowton said."
+     ]
+    }
+   ],
+   "facts": [
+    "Two chicks hatched",
+    "First egg raised by a related pheasant species",
+    "Wild home: Malaysia's lowland rainforests"
+   ],
+   "sources": [
+    {
+     "name": "Good Good Good",
+     "url": "https://www.goodgoodgood.co/articles/endangered-species-peacock-pheasant-chicks"
+    }
+   ],
+   "img": "gn_pheasant.jpg",
+   "credit": "Malay peacock-pheasant chick / via Good Good Good",
+   "contain": false,
+   "also": [],
+   "good": true,
+   "emoji": "🐣"
+  }
+ ],
+ "also": [],
+ "explainers": [
+  {
+   "q": "What is a front-of-pack warning label?",
+   "a": "It is a simple symbol printed on the front of a food packet, next to the brand name, that tells you at a glance if the food has a lot of fat, sugar or salt. Nutrition tables on the back are small and hard to read, so many countries now use bold front labels instead. India's Supreme Court wants a separate hexagon for each problem nutrient, so a snack high in both salt and fat would carry two warnings.",
+   "slug": "supreme-court-high-fat-sugar-salt-warning-labels"
+  },
+  {
+   "q": "What is the repo rate, and what is a basis point?",
+   "a": "The repo rate is the interest rate at which the Reserve Bank of India lends money to banks for short periods. When it goes up, borrowing becomes costlier for banks, and they usually pass that on by raising loan rates, which pushes up EMIs. A basis point is one-hundredth of a percentage point, so a 25 basis-point hike means a rise of 0.25%, for example from 5.50% to 5.75%.",
+   "slug": "rbi-rate-hike-4-december-emi-poll"
+  }
+ ]
+}
